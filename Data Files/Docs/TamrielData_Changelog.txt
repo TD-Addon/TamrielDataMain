@@ -90,6 +90,9 @@ Lost and Found in the Reach
 - Fixed Markarth interior shell doorframe height
 - Fixed Nord head scale and ears
 - Fixed Colovian Highlands shrub collision
+- Fixed Militia Armor names
+- Fixed type in T_BkGen_BusinessLedger_02
+- Fixed Aeli damage intelligence
 
 - Updated cavern roots
 - Updated reeds to be smaller and longer
@@ -105,6 +108,11 @@ Lost and Found in the Reach
 - Updated Colovian Highlands rock models
 - Updated frying pan mesh
 - Updated Reach, Karthwasten and Dragonstar maps
+
+- Deprecated misnamed Reachmen race and body parts
+- Deprecated misnamed Doomstones
+- Deprecated ImperialWatch and CensusAndExcise factions
+- Deprecated misnamed Vurt Trees
 
 ===
 
@@ -326,6 +334,9 @@ The Tale of King Vrage's Sons
 - Updated dreugh armor set
 - Updated Katariah's Death-Mask
 - Updated Akavit Invasion maps
+- Updated Nordic Mutton to Mutton
+
+- Deprecated misnamed OW RockMoss objects
 
 JANUARY 2020 HOTFIX
 
