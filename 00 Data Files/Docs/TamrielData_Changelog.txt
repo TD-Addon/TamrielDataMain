@@ -335,6 +335,7 @@ The Tale of King Vrage's Sons
 - Updated Katariah's Death-Mask
 - Updated Akavit Invasion maps
 - Updated Nordic Mutton to Mutton
+- Updated Mephala statue with new model
 
 - Deprecated misnamed OW RockMoss objects
 
