@@ -451,6 +451,11 @@ permission granted by Larrian
 added Dec 2020, from: Enderal https://www.nexusmods.com/skyrim/mods/77868/
 IDs: T_Glb_Flora_Mangrove_01 to 04
 
+author:    ashtaar
+---------------------------------
+added Dec 2020, from https://www.nexusmods.com/morrowind/mods/44398
+IDs:    T_Dae_DngRuin_StatueMephala_01
+
 		
 --PT_Data.bsa--
 Ald-Ma' Cyrod
