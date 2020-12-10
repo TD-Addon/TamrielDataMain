@@ -113,6 +113,9 @@ Lost and Found in the Reach
 - Deprecated misnamed Doomstones
 - Deprecated ImperialWatch and CensusAndExcise factions
 - Deprecated misnamed Vurt Trees
+- Deprecated Roast boar meat
+- Deprecated Roast chicken leg
+- Deprecated Roast venison
 
 ===
 
