@@ -16699,3 +16699,5 @@ T_Mw_Cr_Dreugh4:T_Mw_Cr_Dreugh1
 T_IngFood_MeatNixhoundRoast_01:ingred_hound_meat_01
 T_IngFood_MeatRat_01:ingred_rat_meat_01
 T_IngFood_MeatDurzog_01:ingred_durzog_meat_01
+T_Com_Map_Akavir_01:T_Imp_UNI_Map_Akavir
+T_Com_Map_Akavir_02:T_Imp_Map_Akavir_damaged
