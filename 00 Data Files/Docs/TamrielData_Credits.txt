@@ -19,6 +19,7 @@ Gez
 Haplo
 Jelle
 Kothloth
+Kynesifnar
 Lady Nerevar
 Lestat DeLioncourt
 London Rook
@@ -37,6 +38,7 @@ Prometheus
 Pug
 Ragox
 Rats
+Sandaron
 Silaria (Argonian faces)
 sirrah
 Slartibartfast
@@ -456,7 +458,34 @@ author:    ashtaar
 added Dec 2020, from https://www.nexusmods.com/morrowind/mods/44398
 IDs:    T_Dae_DngRuin_StatueMephala_01
 
-		
+authour: TeamCutiKagouti
+---------------------------------
+added Jan 2021, from https://www.nexusmods.com/morrowind/mods/44650
+IDs: T_Com_Iron_Rapier_01, T_Com_Steel_Rapier_01, T_Imp_Legion_Dagger_02, T_Com_Iron_Dagger_03, T_Com_Steel_Dagger_02
+
+authour:  Zobator
+added Feb 2021, from https://www.nexusmods.com/morrowind/mods/45489/
+Key replacement models
+
+authour: Ruffin Vangarr
+--------------------------------
+added May 2021, from https://www.nexusmods.com/morrowind/mods/49534
+Daedric helmets
+
+https://www.freesoundeffects.com
+---------------------------------
+Vermai Sound effects (stock sound Jaguar)
+
+https://sketchfab.com/3d-models/spyglass-b27ebbf423ae431f9dac6ab2c8790515
+
+"Spyglass" (https://skfb.ly/onnWu) by Miguel Salgueiro is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
+
+author:    Reizeron
+---------------------------------
+added Sept 2021, from:     Brevur of Balmora - Finally Some Good Statue Mod https://www.nexusmods.com/morrowind/mods/47557
+IDs:    T_De_SetHla_F_Plaque
+	T_De_Set_StatueBevur
+	
 --PT_Data.bsa--
 Ald-Ma' Cyrod
 Commodore256
@@ -469,6 +498,7 @@ Lestat DeLioncourt
 Lord Berandas
 Moritius
 Mwgek
+Rats
 R-Zero
 Revenant
 Saint_Jiub
@@ -516,3 +546,30 @@ Vurt (trees)
 Westly (head, hair and clothing)
 
 Freesounds.org (sound effects) 
+
+author:    Argor, UnknownExplorer13, RoastGorilla439
+---------------------------------
+added Feb 2012, from:     Beyond Skyrim Assets
+IDs:	T_Ayl_DngRuin_I_PitBridge_01
+	T_Ayl_DngRuin_F_Brazier
+	T_Ayl_DngRuin_I_Hall4Way_02
+	T_Ayl_DngRuin_I_Pedestal_03
+	T_Ayl_DngRuin_I_PitBridge_Crn_0
+	T_Ayl_DngRuin_I_PirBridge3W_01
+	T_Ayl_DngRuin_I_PitBridgeArc_01
+	T_Ayl_DngRuin_I_PitBridge4W_01
+	T_Ayl_DngRuin_I_PitBridgeArc_02
+	T_Ayl_DngRuin_I_PitBridgeCap_01
+	T_Ayl_DngRuin_I_PitBridgeEnd_01
+	T_Ayl_DngRuin_I_PitBridgeS_01
+	T_Ayl_DngRuin_I_PitColumn_01
+	T_Ayl_DngRuin_I_PitColumnCrn_01
+	T_Ayl_DngRuin_I_PitColumnW_01
+	T_Ayl_DngRuin_I_PitFloor_02
+	T_Ayl_DngRuin_I_PitWallBr_01
+	T_Ayl_DngRuin_I_PitWallE_01
+	T_Ayl_DngRuin_I_RoomCol_04
+	T_Ayl_DngRuin_I_WideHBr_01
+	T_Ayl_DngRuin_I_HallRamp_01
+	T_Ayl_DngRuin_I_WideHEnd_01
+	T_Cyr_CaveGC_I_TunnelAylTrns_01
