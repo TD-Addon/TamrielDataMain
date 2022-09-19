@@ -8,8 +8,7 @@ If you wish to do this, don't reupload our data files to your own modpage, but a
 
 
 The following resources should only be used in mods with a dependency on Tamriel_data (please do not distribute the resources):
-- New Khajiit race addons (because they suck)
-- Direnni_haunted.wav sound file
+- New Khajiit race addons (textures need to be reworked, in which case they will no longer be on 'do not redistribute list')
 
 All other resources can be used and redistributed alongside a dependency on Tamriel_Data.
 Feel free to make mods of any description dependant upon the Project Tamriel mods. We welcome any such work that you may desire to work on.
