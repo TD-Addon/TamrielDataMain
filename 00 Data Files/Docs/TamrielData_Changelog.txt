@@ -62,6 +62,35 @@ Project Tamriel
 - Added Orcish lanterns
 - Added town guard armours
 - Added rich wall addons for windows
+- Added rich closet
+- Added Redguard Ships (TES3A)
+- Added Auroran
+- Added Bosmer Bone Arrows
+- Added Gold Anvil (misc)
+- Added new connectors for Ayleid Round interior tiles
+- Added Cyrodiilic Pigs
+- Added Dragon Cult Clutter
+- Added Ironwood Logs
+- Added Direnni load doors
+- Added more redguard lamp variants
+- Added Bosmer deerhide
+- Added Redguard shirts
+- Added some new imp tables
+- Added braziers for Imp_DngRuinSky
+- Added Packaged painting
+- Added alternate Anvil chimneys and canopies for performance heavy areas
+- Added more Goldenrod variants
+- Added grey goat pelt
+- Added GCPoor interior ramp
+- Added new global kelp variants
+- Added another GC wall cover
+- Added Sky and PC placeholder guides
+- Added Dartboard
+- Added modular block-and-tackle rigging set
+- Added Telescope
+- Added more and Updated Colovian Banners
+- Added 2 Colovian Robes
+- Added Cow Tools
 
 - Added Books:
  - Artificial Diseases
@@ -71,6 +100,12 @@ Project Tamriel
  - Weir Gate Memorandum
  - The Grand Alliance
  - Horskva Kongerike 1 & 2
+ - Riddles, Good with Mead
+ - The Friend of Giants
+ - The Hsaarik Elegy
+ - Old Fjori the Cove
+ - Radr, Stag-King
+ - Legends of Athalwyrm the Clever-Man
  
 - Fixed Sky farmhouse interior gap
 - Fixed some incorrect bookart paths
@@ -83,6 +118,9 @@ Project Tamriel
 - Fixed turnip CTD
 - Fixed HR market stands
 - Fixed Ice Wraith hostility
+- Fixed some Colovian Barrow collisions
+- Fixed wereboar head glitch
+- Fixed Silver palm sprigs
 
 - Updated "some" artifacts
 - Updated Gold Coast rock texture
@@ -107,6 +145,14 @@ Project Tamriel
 - Updated Anvil walls and platforms
 - Updated Imperial faces
 - Updated various PC plants
+- Updated Chokeberry poly count
+- Updated wasabi bowl potion to be a squeezable tube thing
+- Updated the existing weapons from the Imperial set
+- Updated Playing Card textures
+- Updated orc tapestries
+- Updated GC tunnel set floors
+- Updated Reman Ruin interior floor texture
+- Updated and expanded SetGC interior windows
 
 - Deprecated old Colovian Iron and Steel Sets
 
@@ -167,7 +213,7 @@ Tamriel Rebuilt
 - Added Asset reques: required interior shells for TV Redoran settlements
 - Added Unique Bel Betu Crystal
 - Added Market Stands, Tents & Flags on Ropes
-- Added Breton Mithril Blades
+- Added Breton Mithril Weapons
 - Added Round Dwemer Platform
 - Added LegionMW pieces for round towers
 - Added Asset request Hlaalu forge/fireplace
@@ -295,7 +341,7 @@ Tamriel Rebuilt
 - Added a Dunmer potters wheel
 - Added Dreugh Wax Candles based off of OAAB scamp candles
 - Added select OAAB Hackle-Lo, blue kanet and goldreed
-- Added new Velothi interior tiles (part 1)
+- Added many new Velothi interior tiles
 - Added Blue Flamed Daedric Lamp
 - Added Magickeater and Magickmirror Robes
 - Added House Affiliation Pillar
@@ -333,6 +379,71 @@ Tamriel Rebuilt
 - Added more Nordic weapons
 - Added Adamantium throwing weapons
 - Added Dagon Urul and Molag Ruhn Regions
+- Added Blueware plate
+- Added Dwarven Repair Hammer
+- Added Stalhrim Weapons
+- Added Missing Nordic Ringmail armour pieces
+- Added Wood and Corkbulb staves
+- Added Sanguine Statue
+- Added the missing weapons from the Imperial weapon set
+- Added Crystal Ball
+- Added various OAAB furniture items
+- Added Redoran Hunting Hounds
+- Added Dwarven Junk Throwing Stars
+- Added dummy spells for MWSE override
+- Added new cave shell
+- Added new Hlaalu Tall int tiles
+- Added Placeholder City/District Guides
+- Added Sturgeon (OAAB)
+- Added dunmer market shelf/display
+- Added a few more ebony weapons
+- Added Chimeri-Quey urns
+- Added Horsen Fungus
+- Added Sundered Scar Rocks
+- Added Ground Drumpear Seeds
+- Added Sulphur Containers
+- Added more glass lanterns
+- Added Gold Candlesticks
+- Added Mournhold Entrance Corner
+- Added Hlaalu Company Scrip Scripts
+- Added Sulphur Rock pools
+- Added Sweetbarrel variants
+- Added Ynesai Urns
+- Added half sized Hlaalu floor tile
+- Added Shipal-Sharai buildings
+- Added Spiny Llomar variants
+- Added Othmura manor
+- Added long de_r tables
+- Added Gold Rapier
+- Added Hlaalu Canyon Watch Bonemold
+- Added Legion of Shadows artifacts
+- Added Vanilla bread variants
+- Added Extra Narsis Waterfront tile
+- Added Orlukh's Cleaver
+- Added Shalk rug
+- Added Palm Leaf Scrolls (PI)
+- Added open top Hlaalu stairs
+- Added Malakh Orcs
+- Added Ventshrooms and Boreal Hydnum
+- Added Cathnoquey Cave set
+- Added CM Red mushroom tree
+- Added Shellmold armor
+- Added Sweetbread Polypore
+- Added Imperial Navy uniform
+- Added Combined Hlaalu interior tiles
+- Added Ynes Clutter
+- Added Exterior Friendly Velothi Set
+- Added Nibenese Katanas
+- Added Iron Warhammer variant
+- Added 6th House Weapons
+- Added Shipal-Shin Crossbow
+- Added Chitin Weapons
+- Added Dark Elf Crying Voice
+- Added Andothren FG Map
+- Added Namiras Shroud
+- Added Nordic Claw
+- Added Velothi Entrance variant
+- Added White Bloatroot
 
 - Added Books:
   - Geometry for Barbarians 
@@ -350,8 +461,10 @@ Tamriel Rebuilt
   - Lichdom: A Trap, an Escape
   - Various Generic Books
   - Ash and Blood: The Imperial Simulacrum in Morrowind
- - Welcome to the Arena
- - The Lantern Thief
+  - Welcome to the Arena
+  - The Lantern Thief
+  - The Malahk: Scourge of the East
+  - Bonewalker Rituals
   
 - Fixed tr_in_c_plain set
 - Fixed General Texture Compression
@@ -376,6 +489,7 @@ Tamriel Rebuilt
 - Fixed skeleton rise scripts
 - Fixed tr_ex_dwrv_plat_02 not having collision
 - Fixed Dreugh Hunter Helm using Dres Hunter Helm body part
+- Fixed bad planter 01 collision
 
 - Updated Bellman book art and texture
 - Updated some DE tapestry textures
@@ -439,6 +553,16 @@ Tamriel Rebuilt
 - Updated all broken bottles and weapons into misc items
 - Updated Orc Skull
 - Updated cork into a misc (again)
+- Updated Cooking Knives
+- Updated Orc Heads
+- Updated De_M furniture set
+- Updated Hamum Roots
+- Updated High Elf tapestry
+- Updated Ice Crystal
+- Updated Sundered Scar palms
+- Updated bamboo (optimised)
+- Updated Darvon banner to Darvonis
+- Updated Daedric wards with scripts
 
 - Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
 - Deprecated Daedric Lord set
@@ -447,6 +571,7 @@ Tamriel Rebuilt
 - Deprecated Warm Meat
 - Deprecated the broken bottle static that is made up of all 3 misc items
 - Deprecated old Othreleth Woods flora
+- Deprecated useless vanilla daedra copies
 
 - Removed "The Dragon Break Reexamined" from two levelled lists
 - Removed OrdinatorUniform script from all Ordinator in Mournhold pieces that are not helmets or cuirasses
