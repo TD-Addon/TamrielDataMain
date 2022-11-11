@@ -14,6 +14,16 @@ if (mwse.buildDate == nil) or (mwse.buildDate < 2021501) then
     return
 end
 
+-- Util functions
+function table.contains(table, element)
+	for _, value in pairs(table) do
+	  if value == element then
+		return true
+	  end
+	end
+	return false
+end  
+
 local config = require("tamrielRebuilt.config")
 mwse.log("[Tamriel Rebuilt MWSE-Lua] Initialized Version 1.0")
 
@@ -21,6 +31,36 @@ mwse.log("[Tamriel Rebuilt MWSE-Lua] Initialized Version 1.0")
 event.register("modConfigReady", function()
     require("tamrielRebuilt.mcm")
 end)
+
+
+-- Check for registered BSAs
+if config.skipBSAChecks == false then
+	local PC_Data = false
+	local TR_Data = false
+	local Sky_Data = false
+
+	if tes3.getFileExists("textures\\t_cyr_flora_alkanet01.dds") then
+		PC_Data = true
+	end
+	if tes3.getFileExists("icons\\tr\\m\\tr_misc_toyguar_vr.dds") then
+		TR_Data = true
+	end
+	if tes3.getFileExists("textures\tx\\skyrim_rock_01.dds") then
+		Sky_Data = true
+	end
+
+
+	if (PT_Data == false) or (TR_Data == false) or (Sky_Data == false ) then
+		tes3.messageBox({
+			message = "Tamriel Data BSAs gave not been registered.",
+			buttons = {"Open BSA registration tutorial."},
+			callback = function()
+				os.execute("start https://www.tamriel-rebuilt.org/content/how-install-tamriel-rebuilt#bsas")
+				os.exit()
+			end
+		})
+	end
+end
 
 if config.summoningSpells == true then
 tes3.claimSpellEffectId("T_summon_Devourer", 2090)

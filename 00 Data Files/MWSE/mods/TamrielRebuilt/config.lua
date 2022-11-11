@@ -1,3 +1,6 @@
 return mwse.loadConfig("tamrielRebuilt") or {
-	summoningSpells = true
+	summoningSpells = true,
+	boundSpells = true,
+	miscSpells = true,
+	skipBSAChecks = false
 }

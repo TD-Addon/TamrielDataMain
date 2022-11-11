@@ -63,3 +63,12 @@ toggles:createOnOffButton{
         table = config,
     },
 }
+
+toggles:createOnOffButton{
+    label = "Disable BSA Checks",
+    description = "Skip checking of BSAs. Does not fix BSA errors, simply disables the warning message.\n\nDefault: Off\n\n",
+    variable = EasyMCM:createTableVariable{
+        id = "skipBSAChecks",
+        table = config,
+    },
+}
