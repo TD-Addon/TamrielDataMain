@@ -170,7 +170,5 @@ if config.summoningSpells == true then
 		
 	end
 
-	tes3.addSpell({reference=tes3.player, spell="T_Com_Cnj_SummonDevourer"})
-	tes3.addSpell({reference=tes3.player, spell="T_Com_Cnj_SummonDremoraArcher"})
 end
 end)
