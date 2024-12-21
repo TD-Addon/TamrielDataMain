@@ -1,87 +1,165 @@
-local EasyMCM = include("easyMCM.EasyMCM")
-
--- Create a placeholder page if EasyMCM is not installed.
-if (EasyMCM == nil) or (EasyMCM.version < 1.4) then
-    local function placeholderMCM(element)
-        element:createLabel{text="This mod config menu requires EasyMCM v1.4 or later."}
-        local link = element:createTextSelect{text="Go to EasyMCM Nexus Page"}
-        link.color = tes3ui.getPalette("link_color")
-        link.widget.idle = tes3ui.getPalette("link_color")
-        link.widget.over = tes3ui.getPalette("link_over_color")
-        link.widget.pressed = tes3ui.getPalette("link_pressed_color")
-        link:register("mouseClick", function()
-            os.execute("start https://www.nexusmods.com/morrowind/mods/46427?tab=files")
-        end)
-    end
-    mwse.registerModConfig("Tamriel Data", {onCreate=placeholderMCM})
-    return
-end
-
+local common = require("tamrielData.common")
 local config = require("tamrielData.config")
 
 ----------------------
--- EasyMCM Template --
+-- MCM Template --
 ----------------------
-local template = EasyMCM.createTemplate{name="Tamriel Data"}
-template:saveOnClose("tamrielData", config)
-template:register()
 
--- Preferences Page
-local preferences = template:createSideBarPage{label="Preferences"}
-preferences.sidebar:createInfo{text="Tamriel Data MWSE-Lua v1.1"}
+local function registerModConfig()
 
--- Sidebar Credits
-local credits = preferences.sidebar:createCategory{label="Credits:"}
-credits:createHyperlink{
-    text = "mort - Scripting",
-    exec = "start https://www.nexusmods.com/morrowind/users/4138441/?tab=user+files",
-}
-credits:createHyperlink{
-    text = "Kynesifnar - Scripting",
-    exec = "start https://www.nexusmods.com/users/56893332?tab=user+files",
-}
-credits:createHyperlink{			
-    text = "chef - TD_addon Management",
-    exec = "start https://github.com/cheflul/Chefmod",
-}
-credits:createHyperlink{
-    text = "Cicero - Icons",
-    exec = "start https://www.nexusmods.com/morrowind/users/64610026?tab=user+files",
-}
-credits:createHyperlink{
-    text = "Greatness7 - MCM Template",
-    exec = "start https://www.nexusmods.com/morrowind/users/64030?tab=user+files",
-}
-credits:createHyperlink{
-    text = "NullCascade - MWSE Support",
-    exec = "start https://www.nexusmods.com/morrowind/users/26153919?tab=user+files",
-}
+    local template = mwse.mcm.createTemplate{name=common.i18n("mcm.name")}
+    template:saveOnClose("tamrielData", config)
 
--- Feature Toggles
-local toggles = preferences:createCategory{label="Feature Toggles"}
-toggles:createOnOffButton{
-    label = "Add New Summoning Spells",
-    description = "Add new summoning spells using creatures from Tamriel Rebuilt, Project Cyrodiil, and Skyrim: Home of the Nords.\nRequires reload.\n\nDefault: On\n\n",
-    variable = EasyMCM:createTableVariable{
-        id = "summoningSpells",
-        table = config,
-    },
-}
+    -- Preferences Page
+    local preferences = template:createSideBarPage{label=common.i18n("mcm.preferences")}
+    preferences.sidebar:createInfo{text=common.i18n("mcm.preferencesInfo")}
 
-toggles:createOnOffButton{
-    label = "Disable BSA Checks",
-    description = "Skip checking of BSAs. Does not fix BSA errors, simply disables the warning message.\n\nDefault: Off\n\n",
-    variable = EasyMCM:createTableVariable{
-        id = "skipBSAChecks",
-        table = config,
-    },
-}
+    -- Sidebar Credits
+    local credits = preferences.sidebar:createCategory{label=common.i18n("mcm.credits")}
+    credits:createHyperlink{
+        text = common.i18n("mcm.Kynesifnar"),
+        url = "https://www.nexusmods.com/users/56893332?tab=user+files",
+    }
+    credits:createHyperlink{
+        text = common.i18n("mcm.mort"),
+        url = "https://www.nexusmods.com/morrowind/users/4138441/?tab=user+files",
+    }
+    credits:createInfo{
+        text = common.i18n("mcm.Rakanishu")
+    }
+    credits:createHyperlink{
+        text = common.i18n("mcm.chef"),
+        url = "https://github.com/cheflul/Chefmod",
+    }
+    credits:createHyperlink{
+        text = common.i18n("mcm.Cicero"),
+        url = "https://www.nexusmods.com/morrowind/users/64610026?tab=user+files",
+    }
+    credits:createHyperlink{
+        text = common.i18n("mcm.NullCascade"),
+        url = "https://www.nexusmods.com/morrowind/users/26153919?tab=user+files",
+    }
+    credits:createHyperlink{
+        text = common.i18n("mcm.Hrnchamd"),
+        url = "https://www.nexusmods.com/morrowind/users/843673?tab=user+files",
+    }
 
-toggles:createOnOffButton{
-    label = "Fix Player Animations for Tamriel_Data Races",
-    description = "Fixes animations when playing as Ohmes-raht or Suthay Khajiit via 3rd party mods.\nRequires reload. Tail may vanish until reload when animations from other MWSE addons are applied to the player character.\nIf using an animation replacer that adds tail bones to base_anim.nif, then this feature is likely not necessary.\n\nDefault: On\n\n",
-    variable = EasyMCM:createTableVariable{
-        id = "fixPlayerRaceAnimations",
-        table = config,
-    },
-}
+    -- Feature Toggles
+    local toggles = preferences:createCategory{label = common.i18n("mcm.settings")}
+    toggles:createOnOffButton{
+        label = common.i18n("mcm.summonSpellsLabel"),
+        description = common.i18n("mcm.summonSpellsDescription"),
+        variable = mwse.mcm.createTableVariable{
+            id = "summoningSpells",
+            table = config,
+        },
+    }
+    toggles:createOnOffButton{
+        label = common.i18n("mcm.boundSpellsLabel"),
+        description = common.i18n("mcm.boundSpellsDescription"),
+        variable = mwse.mcm.createTableVariable{
+            id = "boundSpells",
+            table = config,
+        },
+    }
+    toggles:createOnOffButton{
+        label = common.i18n("mcm.interventionSpellsLabel"),
+        description = common.i18n("mcm.interventionSpellsDescription"),
+        variable = mwse.mcm.createTableVariable{
+            id = "interventionSpells",
+            table = config,
+        },
+    }
+    toggles:createOnOffButton{
+        label = common.i18n("mcm.miscSpellsLabel"),
+        description = common.i18n("mcm.miscSpellsDescription"),
+        variable = mwse.mcm.createTableVariable{
+            id = "miscSpells",
+            table = config,
+        },
+    }
+    toggles:createOnOffButton{
+        label = common.i18n("mcm.magickaExpandedLabel"),
+        description = common.i18n("mcm.magickaExpandedDescription"),
+        variable = mwse.mcm.createTableVariable{
+            id = "overwriteMagickaExpanded",
+            table = config,
+        },
+    }
+    toggles:createOnOffButton{
+        label = common.i18n("mcm.provincialReputationLabel"),
+        description = common.i18n("mcm.provincialReputationDescription"),
+        variable = mwse.mcm.createTableVariable{
+            id = "provincialReputation",
+            table = config,
+        },
+    }
+    toggles:createOnOffButton{
+        label = common.i18n("mcm.weatherChangesLabel"),
+        description = common.i18n("mcm.weatherChangesDescription"),
+        variable = mwse.mcm.createTableVariable{
+            id = "weatherChanges",
+            table = config,
+        },
+    }
+    toggles:createOnOffButton{
+        label = common.i18n("mcm.creatureBehaviorsLabel"),
+        description = common.i18n("mcm.creatureBehaviorsDescription"),
+        variable = mwse.mcm.createTableVariable{
+            id = "creatureBehaviors",
+            table = config,
+        },
+    }
+    toggles:createOnOffButton{
+        label = common.i18n("mcm.animationFixLabel"),
+        description = common.i18n("mcm.animationFixDescription"),
+        variable = mwse.mcm.createTableVariable{
+            id = "fixPlayerRaceAnimations",
+            table = config,
+        },
+    }
+    toggles:createOnOffButton{
+        label = common.i18n("mcm.restrictEquipmentLabel"),
+        description = common.i18n("mcm.restrictEquipmentDescription"),
+        variable = mwse.mcm.createTableVariable{
+            id = "restrictEquipment",
+            table = config,
+        },
+    }
+    toggles:createOnOffButton{
+        label = common.i18n("mcm.fixVampireLabel"),
+        description = common.i18n("mcm.fixVampireDescription"),
+        variable = mwse.mcm.createTableVariable{
+            id = "fixVampireHeads",
+            table = config,
+        },
+    }
+    toggles:createOnOffButton{
+        label = common.i18n("mcm.itemSoundsLabel"),
+        description = common.i18n("mcm.itemSoundsDescription"),
+        variable = mwse.mcm.createTableVariable{
+            id = "improveItemSounds",
+            table = config,
+        },
+    }
+    toggles:createOnOffButton{
+        label = common.i18n("mcm.travelPricesLabel"),
+        description = common.i18n("mcm.travelPricesDescription"),
+        variable = mwse.mcm.createTableVariable{
+            id = "adjustTravelPrices",
+            table = config,
+        },
+    }
+    toggles:createOnOffButton{
+        label = common.i18n("mcm.interventionRangeLabel"),
+        description = common.i18n("mcm.interventionRangeDescription"),
+        variable = mwse.mcm.createTableVariable{
+            id = "limitIntervention",
+            table = config,
+        },
+    }
+
+    template:register()
+end
+
+event.register(tes3.event.modConfigReady, registerModConfig)

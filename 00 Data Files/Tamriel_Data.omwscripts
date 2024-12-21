@@ -1,0 +1,2 @@
+GLOBAL: scripts/TamrielData/global.lua
+PLAYER: scripts/TamrielData/player.lua
