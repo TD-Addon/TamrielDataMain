@@ -224,10 +224,10 @@ local snowParticles = { "Snowflake", "BM_Snow_01", "tr_weather_ow_spore" }
 local region_weather_chances = {
 	{ "Othreleth Woods Region", 0, 0, 0, 25, 25, 6, 10, 15, 14, 5 },	-- Ash chance is set to 0 to prevent interference with sandstorms in SH
 	{ "Shipal-Shin Region", 8, 0, 0, 54, 18, 10, 5, 3, 0, 2 },
-	{ "Abecean Sea Region", 3, 0, 0, 50, 20, 4, 3, 10, 0, 10 },
-	{ "Stirk Isle Region", 3, 0, 0, 50, 20, 4, 3, 10, 0, 10 },
+	{ "Abecean Sea Region", 3, 0, 0, 72, 10, 5, 0, 0, 0, 10 },
+	{ "Stirk Isle Region", 3, 0, 0, 72, 10, 5, 0, 0, 0, 10 },
 	{ "Gilded Hills Region", 3, 0, 0, 55, 20, 0, 4, 10, 0, 8 },
-	{ "Gold Coast Region", 3, 0, 0, 50, 25, 0, 4, 10, 0, 8 },
+	{ "Gold Coast Region", 3, 0, 0, 67, 15, 0, 0, 5, 0, 10 },
 }
 
 -- region id, origin x-coordinate, origin y-coordinate, y-cell top bound, y-cell bottom bound
