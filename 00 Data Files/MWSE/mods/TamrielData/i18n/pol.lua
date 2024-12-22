@@ -74,6 +74,8 @@ return {
 	["magic.boundWarhammerDesc"] = "Przywołuje pomniejszą Daedrę zaklętą w postaci magicznego, niezwykle lekkiego, daedrycznego młota bojowego. Broń pojawia się automatycznie w dłoni rzucającego. Po upłynięciu czasu trwania efektu, młot znika, a postać ponownie dzierży swoją zwykłą broń.",
 	["magic.boundPauldrons"] = "Zaklęte Naramienniki",
 	["magic.boundPauldronsDesc"] = "Przywołuje pomniejszą Daedrę zaklętą w postaci magicznych, niezwykle lekkich, daedrycznych naramienników. Pancerz pojawia się automatycznie na ciele rzucającego. Po upłynięciu czasu trwania efektu, naramienniki znikają, a postać ponownie nosi swój zwykły pancerz.",
+	["magic.boundThrowingKnives"] = "Zaklęte Noże do Rzucania",
+	["magic.boundThrowingKnivesDesc"] = "Przywołuje pomniejszą Daedrę zaklętą w postaci magicznych, niezwykle lekkich, daedrycznego noży do rzucania. Broń pojawia się automatycznie w dłoni rzucającego. Po upłynięciu czasu trwania efektu, noże znikają, a postać ponownie dzierży swoją zwykłą broń.",
 
 	["magic.interventionKyne"] = "Interwencja Kyne",
 	["magic.interventionKyneDesc"] = "Natychmiastowo przenosi rzucającego zaklęcie do najbliższej świątynii lub miejsca poświęconego norskiej bogini Kyne.",
@@ -81,7 +83,7 @@ return {
 	["magic.miscPasswall"] = "Przeniknięcie Ściany", -- Aly: alternative could be "Przejście Ściany", (more direct) discuss with poles which one sounds better to them
 	["magic.miscPasswallDesc"] = "Pozwala przeniknąć przez stałe bariery w obszarach wewnętrznych do wolnej przestrzeni poza nimi. Efekt zawiedzie, jeśli miejsce docelowe jest wypełnione wodą, położone jest poza polem siłowym, zapieczętowaną bramą, lub znajduje się powyżej lub poniżej poziomu, na któym znajduje się rzucający zaklęcie.",
 	["magic.miscBanish"] = "Wypędzenie Daedry",
-	["magic.miscBanishDesc"] = "Wypędza daedrę będącą celem zaklęcia, jeśli jej poziom jest wystarczająco niski w porównaniu ze stopniem zaklęcia. Odniesione przez daedrę obrażenia powodują większą podatność na wypędzenie. W przypadku sukcesu ważniejszy dobytek daedry zostanie przeniesiony do rzucającego czar.",
+	["magic.miscBanishDesc"] = "Wypędza daedrę będącą celem zaklęcia, jeśli jej poziom jest wystarczająco niski w porównaniu ze stopniem efektu. Odniesione przez daedrę obrażenia powodują większą podatność na wypędzenie. W przypadku sukcesu ważniejszy dobytek daedry znajdzie się w pozostawionej pieczęci.",
 	["magic.miscReflectDamage"] = "Odbicie Obrażeń",
 	["magic.miscReflectDamageDesc"] = "Odbija fizyczne obrażenia w stronę atakującego. Stopień efektu określa procentową ilość odbitych obrażeń dla każdego ataku. Nieodbite obrażenia odniosą normalny skutek.",
 	["magic.miscDetectHumanoid"] = "Wykrycie Humanoida",

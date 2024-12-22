@@ -281,7 +281,7 @@ local td_enchanted_items = {
 	{ "T_EnSc_Nor_KynesIntervention", common.i18n("magic.itemScKynesIntervention"), nil }
 }
 
-local function replaceSpells(table)
+function this.replaceSpells(table)
 	for _,v in pairs(table) do
 		local overridden_spell = tes3.getObject(v[1])
 		if overridden_spell then
@@ -304,7 +304,7 @@ local function replaceSpells(table)
 	end
 end
 
-local function replaceEnchantments(table)
+function this.replaceEnchantments(table)
 	for _,v in pairs(table) do
 		local overridden_enchantment = tes3.getObject(v[1])
 		if overridden_enchantment then
@@ -324,7 +324,7 @@ local function replaceEnchantments(table)
 	end
 end
 
-local function replaceIngredientEffects(table)
+function this.replaceIngredientEffects(table)
 	for _,v in pairs(table) do
 		local ingredient = tes3.getObject(v[1])
 		if ingredient then
@@ -340,7 +340,7 @@ local function replaceIngredientEffects(table)
 	end
 end
 
-local function replacePotions(table)
+function this.replacePotions(table)
 	for _,v in pairs(table) do
 		local potion = tes3.getObject(v[1])
 		if potion then
@@ -350,7 +350,7 @@ local function replacePotions(table)
 	end
 end
 
-local function editItems(table)
+function this.editItems(table)
 	for _,v in pairs(table) do
 		local overridden_item = tes3.getObject(v[1])
 		if overridden_item then
@@ -1287,16 +1287,14 @@ event.register(tes3.event.magicEffectsResolved, function()
 				size = boundCuirassEffect.size,
 				sizeCap = boundCuirassEffect.sizeCap,
 				onTick = function(eventData)
-					if itemID ~= "" then
-						if tes3.getObject(itemID).objectType == tes3.objectType.armor then
-							if itemID_02 == "" then
-								eventData:triggerBoundArmor(itemID)
-							else
-								eventData:triggerBoundArmor(itemID, itemID_02)
-							end
-						elseif tes3.getObject(itemID).objectType == tes3.objectType.weapon then
-							eventData:triggerBoundWeapon(itemID)
+					if tes3.getObject(itemID).objectType == tes3.objectType.armor then
+						if itemID_02 == "" then
+							eventData:triggerBoundArmor(itemID)
+						else
+							eventData:triggerBoundArmor(itemID, itemID_02)
 						end
+					elseif tes3.getObject(itemID).objectType == tes3.objectType.weapon then
+						eventData:triggerBoundWeapon(itemID)
 					end
 				end,
 				onCollision = nil
@@ -1699,29 +1697,29 @@ end)
 -- Replaces spell names, effects, etc. using the spell tables above
 event.register(tes3.event.load, function()
 	if config.summoningSpells == true then
-		replaceSpells(td_summon_spells)
+		this.replaceSpells(td_summon_spells)
 	end
 
 	if config.boundSpells == true then
-		replaceSpells(td_bound_spells)
+		this.replaceSpells(td_bound_spells)
 	end
 	
 	if config.interventionSpells == true then
-		replaceSpells(td_intervention_spells)
+		this.replaceSpells(td_intervention_spells)
 	end
 
 	if config.miscSpells == true then
 		--event.register(tes3.event.uiActivated, detectHumanoidActivate, { filter = "MenuMap" })	-- These event registrations are done here because doing so for the loaded event in the main function is too late
 		--event.register(tes3.event.uiActivated, detectHumanoidActivate, { filter = "MenuMulti" })
 
-		replaceSpells(td_misc_spells)
+		this.replaceSpells(td_misc_spells)
 	end
 
 	if config.summoningSpells == true and config.boundSpells == true and config.interventionSpells == true and config.miscSpells == true then
-		replaceEnchantments(td_enchantments)
-		replaceIngredientEffects(td_ingredients)
-		replacePotions(td_potions)
-		editItems(td_enchanted_items)
+		this.replaceEnchantments(td_enchantments)
+		this.replaceIngredientEffects(td_ingredients)
+		this.replacePotions(td_potions)
+		this.editItems(td_enchanted_items)
 
 		--tes3.getObject("T_Dae_UNI_Wabbajack").enchantment = tes3.getObject("T_Use_WabbajackUni")	-- Crashes game when registered to the loaded event with the wabbajack enchantment equipped
 	end
