@@ -7,7 +7,7 @@ local fishingNets = {
 event.register("initialized", function()
 	if ultimateFishing then
 		for _,item in ipairs(fishingNets) do
-			interop.registerFishingNet(item)
+			ultimateFishing.registerFishingNet(item)
 		end
 	end
 end)
