@@ -12,18 +12,27 @@ function table.contains(table, element)
 	return false
 end
 
----@param cell tes3cell
+--- @param cell tes3cell
+--- @param cellVisitTable table<tes3cell, boolean>|nil
+--- @return tes3cell?
 function this.getExteriorCell(cell, cellVisitTable)
 	if cell.isOrBehavesAsExterior then
 		return cell
 	end
 
-	cellVisitTable = cellVisitTable or { tes3.player.cell }
-	
+	-- A hashset of cells that have already been checked, to prevent infinite loops and redundant checks.
+	cellVisitTable = cellVisitTable or {}
+	if (cellVisitTable[cell]) then
+		return
+	end
+	cellVisitTable[cell] = true
+
 	for ref in cell:iterateReferences(tes3.objectType.door) do
-		if ref.destination and not table.contains(cellVisitTable, ref.destination.cell) then
-			table.insert(cellVisitTable, ref.destination.cell)
-			return this.getExteriorCell(ref.destination.cell, cellVisitTable)
+		if ref.destination and ref.destination.cell then
+			local linkedExterior = this.getExteriorCell(ref.destination.cell, cellVisitTable)
+			if (linkedExterior) then
+				return linkedExterior
+			end
 		end
 	end
 end
