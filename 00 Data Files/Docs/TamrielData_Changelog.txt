@@ -1,3 +1,280 @@
+April 27th 2025 Update
+
+- Added Spider Daedra (female variant)                  (Cameron2023, revenorror, Cicero)
+- Added Yokudan NPC race                                (Kynesifnar, UXO)
+- Added Nordic Fine Wood tableware                      (BarbedWireKisses)
+- Added Khajiiti Copper/Bronze weapon set               (Alexander_7070, shtou)    
+- Added whale skeleton fins                             (Alexander_7070, GrumblingVomit)
+- Added 11 new cave shells                              (revenorror)
+- Added Guide to Hlerynhul                              (pralec, trav)
+- Added Lua spells to leveled lists                     (Cicero)
+- Added Canyon Echo Newspapers                          (trav)
+- Updated Cine Tree and Sundered Palms                  (Cicero)
+- Updated Dragonfields land texture                     (LilianaUnfolded, Fremennik, Hemaris)
+- Updated Andothren to Bal Foyen banner                 (trav)
+
+April 26th 2025 Update
+
+- Added Altmer Glass Plates                             (revenorror, LilianaUnfolded)
+- Added HF Basketweave clutter                          (spexd)
+- Added HR Silver Tableware                             (revenorror)
+- Added Cyr Ebony Tableware                             (revenorror)
+- Added HF Prickle-spice                                (revenorror)
+- Added PI/Sky Wasabi                                   (Asylum, Vohki)
+- Added more TR road signs                              (Phenoix12)
+- Added Nibenese jewelry                                (revenorror, UXO)
+- Added Kvatch Exterior set                             (spineinside, Chef, joanasc)
+- Updated Dragonfields trees                            (revenorror, LilianaUnfolded)
+- Updated Unending                                      (Cicero)
+- Updated Imperial Gold Helm                            (Cicero)
+- Updated Blindstalker Amulet                           (Cicero)
+- Updated pig sounds                                    (Kynesifnar)    
+
+April 22nd 2025 Update
+
+- Added Olive Containers and Leveled Lists				(SuddenlyMute)
+- Added Summerset Leveled Lists							(Taniquetil)
+- Added More Redguard Tapestries						(MammaHyena, LilianaUnfolded)
+- Added Merged Narsis Catacombs Entrance				(Snailsting)
+- Added Hlaalu Brewery Fermentation Chamber 			(ComradeCheekiBreeki)
+- Added Imperial Gold Tableware Expansion				(revenorror)
+- Added Prince Juliek's Seal							(Gr8 A2n)
+
+- Updated Pasoroth Armor enchantment					(Cicero)
+- Updated Khajiit variant greetings						(Ronik)
+- Updated Skyrim Bears spells							(Stele)
+
+- Fixed various typos									(Cicero, Terrifying Daedric Foe, Kynesifnar, Blueshift)
+- Fixed Dreugh Helmet enchantments						(Stele)
+
+April 15th 2025 Update
+
+- Added T_SndObj_BlinkHit								(Kynesifnar)
+- Added TR_Ex_V_Tower_05 interior						(vohki)
+- Added T_VFX_Wabbajack									(Kynesifnar)
+- Added Trefoil and Gloomtear plants					(Hemaris, revenorror, Kynesifnar)
+- Added Feivelyn's Ostheldir Landscape painting			(trav, Feivelyn)
+- Added Hlaalu Theater's Poster							(trav, be-a-stranger)
+- Added Hlaalu Theatre Backdrop							(Feivelyn, trav)
+- Added Beacon Company Sign								(Mammahyena)
+- Added Perthan											(Cameron2023, Alexander_7070, Cicero, Stele, Kynesifnar)
+
+- Updated Guide to Narsis and Narsis District			(trav)
+- Updated Abecean Shores bookart maps					(trav)
+- Updated Skyrim bookart map							(trav)
+
+April 12th 2025 Update
+
+- Added Direnni Bookart									(MammaHyena)
+- Added More Merged Anvil Buildings						(trav)
+- Added Padomaic Velothi Tileset						(Vohki)
+- Added Velothi Mountainss Quarry Rocks					(Phenoix12)
+- Added Can of Worms									(hemaris)
+- Added Nord Tradeship Interior Wall Variants + Doors	(neonfrost84)
+- Added Pomegrenate Trees								(tepidWater)
+- Added More MWSE Scrolls and Effects					(Kynesifnar)
+- Added Altmer Lights									(LilianaUnfolded)
+- Added Altmer Shack									(LilianaUnfolded)
+- Added Bone Fetishes									(joanasc)
+- Added Dragon Cult Artifact Helm						(Gr8 A2n)
+- Added Imperial Consular Robe							(Stele)
+- Added Adamantium Crypt Urns							(Cicero)
+- Added TD Global Variable for Vanilla Dialogue			(FlinSunset)
+
+- Updated Canyon Echo scripting							(trav)
+- Updated Dunmer leveled lists							(Aveno,)
+- Updated Varla Stone VFX								(KnobelKnight)
+- Updated Lamia stats									(minifly)
+- Updated PC alchemy ingredients						(minifly)
+- Updated PC Imperial Cult dialogue						(minifly)
+- Updated Shinathi leveled lists						(Warped)
+- Updated Muatra model									(DuX, Gr8 A2n, Why)
+
+March 28th 2025 Update
+
+- Added Indoril Interior Set							(shivatheo, athcliath97)
+- Added Red Dome Templar Armor							(GrumblingVomit, Cicero)
+- Added Wild Elf race									(GrumblingVomit, Rats)
+- Added MWSE_BUILD variable								(pralec)
+- Added Blink spell										(Kynesifnar)
+- Added Veloth's Face									(Rats, Concept: Gnomey)
+- Added Wabbajack effects								(Kynesifnar)
+- Added Gaze of Veloth effect							(Kynesifnar)
+- Added Staff of St. Veloth								(AnrohaNexus, Cicero, Concept: Pickles)
+- Added Detect Potions effect							(Kynesifnar)
+- Added Skyrender pupae slumgum							(Gr8 A2n)
+- Added Skyrender Queen									(Cameron2023, GrumblingVomit, Stele, Concept: be-a-stranger)
+- Added Nord Stoneware									(Tenosit, Concept: BarbedWireKisses)
+- Added Xarxen Mora terrain assets						(worsas)
+- Added Altmer Clayware									(LilianaUnfolded)
+- Added Ogre race										(GrumblingVomit)
+- Added Shiratar Sound									(Leyawynn)
+- Added Veloth's Pauldrons								(Alexander_7070, Feighten)
+- Added Detect Invisibility effect						(Kynesifnar)
+- Added Fortify Casting items							(Kynesifnar, Cicero)
+- Added Books
+ - Dead Magic							 				(Taniquetil)
+
+- Updated Cyr and Sky wolves stats						(Ricketybob)
+- Updated Goblin speed stats							(Ricketybob)
+- Updated smuggler leveled lists						(Ricketybob)
+- Updated Fig Bush meshes and textures					(joanasc)
+- Updated Stock Exchange Framework						(trav)
+
+- Fixed Abecean Monitor wrong locations					(Ricketybob)
+- Fixed missing Advancement topic in IP dialogue		(Ricketybob)
+- Fixed Diseased Bat name								(Ricketybob)
+- Fixed typos in The True Folk							(Terrifying Daedric Foe)
+
+March 15th 2025 Update
+
+- Added Rogue Nix-Hound									(Cicero, GrumblingVomit)
+- Added JS Snow Road Texture							(chef)
+- Added Empty Meat Honey								(Aveno, neonfrost94)
+- Added Summon Guardian Enchantment						(Kynesifnar)
+- Added Glass Triolith									(Leyawynn, Concept: Gnomey?)
+- Added Canah Feather									(Alexander, ComradeCheekiBreeki)
+- Added or Updated lots of DE LVL List stuff			(Aveno)
+- Added Flora_Bush_02									(chef, Stele)
+- Added More Grey Meadow Region Sounds					(Cicero)
+- Added Placeholder Minotaur Soundgen					(Kynesifnar)
+- Added Short Velothi Large Ends						(Snailsting)
+- Added Kresh Fiber Containers							(RoxDoc2)
+- Added Sload Mold Fungus								(Stele)
+- Added Redoran Basement Expansion						(Snailsting)
+- Added Lover's Raflesia								(Stele, Concept: Be-A-Stranger)
+- Added Assets for Headless Quest						(Marhaus, FlinSunset)
+
+- Updated Kragen Moor Region to Kartur Dale Region
+- Updated Guide to Firewatch Map						(trav)
+
+
+March 3rd 2025 Update
+
+- Added Netch Leather Containers						(roxdoc2)
+- Added Adamantium Shield								(Alexander_7070, Concept: Ateiggaer)
+- Added Skyrender Meat Honey							(neonfrost84, Concept: Calvin)
+- Added Skyrender Larva									(Cameron2023, Concept: Be-A-Stranger)
+- Added Mephalan Vales Morel Mushrooms					(VenuSprout)
+- Added Kvatch Urban Set Interiors						(Joanasc, Concept: Ateiggaer)
+- Added Altmer Poor Furniture							(LilianaUnfolded, Concept: Tammilisake)
+- Added Breque Na'Brac									(ThomasRuz)
+- Added Sconce_10 No Flames								(Ficmon)
+- Added Poison + Velothi and MH District Levelled Lists	(chef)
+- Added Yuin Plant										(Revenorror)
+- Added Ostheldir and Creag Coast Regions				(Fremennik)
+- Added Goldmoor and Riddle Lands Regions				(Joanasc)
+- Added Othreleth Woods Levelled Creatures				(Wanax)
+
+- Updated Colovian Levelled Lists With New Armor		(chef)
+- Updated T_Imp_Grinder_01 to an Apparatus				(chef)
+- Updated Imperial DngRuin Barrels to Containers		(chef)
+- Updated T_Com_Var_Nails_01 to a Misc					(chef)
+- Updated Colovian Barrow Mummies to Containers			(chef)
+
+
+February 16th Update
+
+- Added various spells for MWSE override				(Kynesifnar)
+- Added Goldmoor Cacti									(Joanasc)
+- Added Dwemer Silo Door								(Cicero)
+- Added Durzog Hide Ingredient							(Fremennik)
+- Added Orethan Waterflowers							(LilianaUnfolded, Stele, Concept: Be-A-Stranger)
+- Added Altmer Tea and Xuansis							(LilianaUnfolded)
+- Added Goat and Elk Meat								(Lucevar)
+- Added Lazarum Lazandrum								(Gr8 A2n, Concept: aylinerik)
+- Added Altmer Containers								(LilianaUnfolded, Concept: Tammilisake)
+- Added Altmer Nacreware								(LilianaUnfolded, Revenorror)
+- Added Shinathi Clan Banners							(MammaHyena, Ronik)
+- Added Nord Corded Ware								(BarbedWireKisses)
+- Added Hlaalu Pasoroth Statue							(Stele, Thomasasia)
+
+- Updated Narsis Maps									(trav)
+- Updated Com Shirt 03/04 with breast reduction surgery	(Evil Eye)
+- Updated Skull of Corruption to an Amulet				(Cicero)
+- Updated Various HR levelled lists						(Fremennik)
+- Updated Daedric Steps Collision						(Cicero)
+
+- Fixed Defense of Morrowind being in wrong lists		(Terrifying Daedric Foe)
+
+
+January 26th Update
+
+- Added Shipal-Shin Rock Texture C						(Leyawynn)
+- Added Canyon Echo Base Asset and Scripting			(trav)
+- Added Hammerfell Asset Batch							(Joanasc)
+- Added 10 Kingdoms Ruins								(Joanasc)
+- Added Snow Blossom									(Revenorror)
+- Added Extra Nord Tapestries							(BarbedWireKisses)
+- Added Nordic Horned Helmets							(Alexander_7070, Feivelyn)
+- Added Scrib Cabbage Containers						(Feighten)
+- Added Altmer Pillows and Cushions						(LilianaUnfolded)
+- Added Narsis MG Dungeon Assets						(Cicero)
+- Added Grasping Fortune Propylons						(Maars, Ronik)
+- Added Runners League Signs and Containers				(xeno, Taniquetil)
+- Added Book Showcases in Test Cells					(Revane)
+- Added Tsaesci											(Lamb Shark, Kynesifnar)
+- Added T_Glob_Rep_Mw									(Kynesifnar)
+- Added Colovian Barrow Dirt Piles						(Snailsting)
+- Added more De_P Shelves								(Snailsting)
+- Added Breton M Furniture								(Joanasc, Concept: MammaHyena)
+- Added Sutch Acini Manor Thing							(Joanasc)
+- Added Breton Mini Pot Leveled Lists					(Taniquetil)
+- Added Hlaalu Pasoroth's War Armor						(Alexander_7070, Concept: Mannimarcos)
+- Added Book: Archei, He Who Whispered Mortality		(ThomasRuz)
+- Added Book: The Exile of Meredie						(ThomasRuz)
+- Added Book: A Blacksmith's Last Writ					(ThomasRuz)
+
+- Updated Morphoid to Morphoid Daedra					(Kynesifnar)
+- Updated Nordic Ceramic Bowls							(BarbedWireKisses, Feivelyn)
+- Updated Oghma Infinium Bookart						(trav)
+- Updated Siyat Cigar as a Consumable					(Kynesifnar)
+- Updated Skull of Corruption to look more like DF		(Cicero)
+- Updated Daedric Face of Abberation Tint				(Cicero)
+- Updated TR Skeleton list to remove Nord Skeletons		(Cicero)
+- Updated Nerevar Soul Value to 0						(Cicero)
+- Updated Gemstone Value								(Cicero)
+- Updated Imperial Heraldry to Remove ESO				(Cicero)
+- Updated Seducers with chameleon spell					(Cicero)
+- Updated Requiem Shield stats							(Cicero)
+- Updated Marukhati Doctrine in PC Books				(Revane)
+- Updated Barrow Interior Tileset						(Hemaris)
+
+- Fixed an issue in adamantium weapon lists				(Cicero)
+- Fixed UVs on some Ragada Ruin Towers					(Joanasc)
+- Fixed Redguard R Sidetable 02 Collision				(Joanasc)
+- Fixed a batch of PC meshes							(Snailsting)
+
+
+January 10th Update
+
+- Added Grey Meadows Rocks and Land Textures			(Iterator, GrumblingVomit, Shivatheo)
+- Added Grey Meadows Placeholder Grass					(ch)
+
+
+1/1/2025
+
+- Added Khajiit Baskets									(Asylum, Feighten)
+- Added Exterior Editor Markers							(hemaris)
+- Added Skyrender Pupae									(Stele)
+- Added Metal and Bamboo Cages							(DimNussens)
+- Added High Rock Small Labeled Pots					(MwGek)
+- Added Breton Herb Posters								(MwGek)
+- Added Balconies for Colovian Fort set					(joanasc)
+- Added Ostheldir Land Textures							(Fremennik)
+- Added Altmer Keys										(LilianaUnfolded)
+- Added West Reach Cave Entrances and Cairns			(Fremennik)
+- Added Morrowind Com platform expansion				(Snailsting)
+- Added Altmer Tapestries and Cloths					(LilianaUnfolded)
+- Added Riddle Lands Nomads assets						(joanasc)
+- Added Redguard Lamps									(joanasc)
+
+- Fixed (and deprecated) missing Guide to Kogotel book	(Ronik)
+
+- Updated Cyr Slaughterfish lists (again)				(Revane)
+- Updated Bloodmoon Pine Trees							(chef)
+
+
 v11 UPDATE - December 22nd 2024
 
 - Added Khajiit Chessboard								(EndoranWest)

@@ -1,2 +1,7 @@
-GLOBAL: scripts/TamrielData/global.lua
-PLAYER: scripts/TamrielData/player.lua
+MENU: scripts/TamrielData/menu_settings.lua
+GLOBAL: scripts/TamrielData/global_restrict_equipment.lua
+GLOBAL: scripts/TamrielData/global_magic_passwall.lua
+GLOBAL: scripts/TamrielData/global_mwscript_variable.lua
+PLAYER: scripts/TamrielData/player_magic.lua
+PLAYER: scripts/TamrielData/player_restrict_equipment.lua
+MENU: scripts/TamrielData/menu_version_warning.lua

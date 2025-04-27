@@ -1,14 +1,13 @@
 return {
 	-- Main Text
-	["main.mwseDate"] = "[Tamriel Data] MWSE jest nieaktualny! Potrzebujesz nowszej aktualizacji, aby móc używać tego modu.",
-
 	["main.imgaShoes"] = "Imga nie mogą nosić butów.",
 	["main.imgaHelm"] = "Samce Imga nie mogą nosić hełmów.", -- Aly: "samiec" is ok, I guess, it's a word used towards male animals which probably fit in case of beast(-ish?) race
+	["main.imgaHat"] = "Samce Imga nie mogą nosić nakryć głowy.",
 	["main.tsaesciShoes"] = "Tsaesci nie mogą nosić butów.",
 	["main.tsaesciPants"] = "Tsaesci nie mogą nosić spodni.",
 
-	["main.rangeAlmsivi"] = "Moc Almsivi nie rozciąga się na tych ziemiach.",
-	["main.rangeKyne"] = "Moc Kyne nie rozciąga się na tych ziemiach.",
+	["main.rangeAlmsivi"] = "Moc Almsivi nie obejmuje tych ziem.",
+	["main.rangeKyne"] = "Moc Kyne nie obejmuje tych ziem.",
 
 	-- Magic Text
 	["magic.summonDevourer"] = "Przywołanie Pożeracza",
@@ -33,11 +32,11 @@ return {
 	["magic.summonStormMonarchDesc"] = "Przywołuje z Otchłani monarchę burz. Stworzenie pojawi się sześć stóp przed magiem i będzie atakowało każdą zagrażającą mu istotę, póki nie minie czas trwania efektu lub póki samo nie zostanie zabite. W obydwu przypadkach przywołana istota znika, powracając do Otchłani. Pamiętaj, że jeśli przywołasz istotę z innego wymiaru wewnątrz miasta, miejska straż rzuci się na ciebie bez ostrzeżenia!",
 	["magic.summonIceWraith"] = "Przywołanie Lodowego Upiora",
 	["magic.summonIceWraithDesc"] = "Przywołuje lodowego upiora. Stworzenie pojawi się sześć stóp przed magiem i będzie atakowało każdą zagrażającą mu istotę, póki nie minie czas trwania efektu lub póki samo nie zostanie zabite. W obydwu przypadkach przywołana istota znika, powracając do swojego wymiaru. Pamiętaj, że jeśli przywołasz istotę z innego wymiaru wewnątrz miasta, miejska straż rzuci się na ciebie bez ostrzeżenia!",
-	["magic.summonDweSpectre"] = "Przywołanie Dwemerowego Widma",
-	["magic.summonDweSpectreDesc"] = "Przywołuje dwemerowe widmo. Stworzenie pojawi się sześć stóp przed magiem i będzie atakowało każdą zagrażającą mu istotę, póki nie minie czas trwania efektu lub póki samo nie zostanie zabite. W obydwu przypadkach przywołana istota znika, powracając do swojego wymiaru. Pamiętaj, że jeśli przywołasz istotę z innego wymiaru wewnątrz miasta, miejska straż rzuci się na ciebie bez ostrzeżenia!",
-	["magic.summonSteamCent"] = "Przywołanie Dwemerowego Parowego Centuriona",
+	["magic.summonDweSpectre"] = "Przywołanie Krasnoludzkiego Widma",
+	["magic.summonDweSpectreDesc"] = "Przywołuje krasnoludzkie widmo. Stworzenie pojawi się sześć stóp przed magiem i będzie atakowało każdą zagrażającą mu istotę, póki nie minie czas trwania efektu lub póki samo nie zostanie zabite. W obydwu przypadkach przywołana istota znika, powracając do swojego wymiaru. Pamiętaj, że jeśli przywołasz istotę z innego wymiaru wewnątrz miasta, miejska straż rzuci się na ciebie bez ostrzeżenia!",
+	["magic.summonSteamCent"] = "Przywołanie Parowego Centuriona",
 	["magic.summonSteamCentDesc"] = "Przywołuje parowego centuriona. Stworzenie pojawi się sześć stóp przed magiem i będzie atakowało każdą zagrażającą mu istotę, póki nie minie czas trwania efektu lub póki samo nie zostanie zabite. W obydwu przypadkach przywołana istota znika, powracając do swojego wymiaru. Pamiętaj, że jeśli przywołasz istotę z innego wymiaru wewnątrz miasta, miejska straż rzuci się na ciebie bez ostrzeżenia!",
-	["magic.summonSpiderCent"] = "Przywołanie Dwemerowego Pajęczego Centuriona",
+	["magic.summonSpiderCent"] = "Przywołanie Pajęczego Centuriona",
 	["magic.summonSpiderCentDesc"] = "Przywołuje pajęczego centuriona. Stworzenie pojawi się sześć stóp przed magiem i będzie atakowało każdą zagrażającą mu istotę, póki nie minie czas trwania efektu lub póki samo nie zostanie zabite. W obydwu przypadkach przywołana istota znika, powracając do swojego wymiaru. Pamiętaj, że jeśli przywołasz istotę z innego wymiaru wewnątrz miasta, miejska straż rzuci się na ciebie bez ostrzeżenia!",
 	["magic.summonWelkyndSpirit"] = "Przywołanie Zjawy Welkynd",
 	["magic.summonWelkyndSpiritDesc"] = "Przywołuje zjawę welkynd. Stworzenie pojawi się sześć stóp przed magiem i będzie atakowało każdą zagrażającą mu istotę, póki nie minie czas trwania efektu lub póki samo nie zostanie zabite. W obydwu przypadkach przywołana istota znika, powracając do swojego wymiaru. Pamiętaj, że jeśli przywołasz istotę z innego wymiaru wewnątrz miasta, miejska straż rzuci się na ciebie bez ostrzeżenia!",
@@ -65,7 +64,9 @@ return {
 	["magic.summonSkeletonChampionDesc"] = "Przywołuje szkielet-bohatera. Stworzenie pojawi się sześć stóp przed magiem i będzie atakowało każdą zagrażającą mu istotę, póki nie minie czas trwania efektu lub póki samo nie zostanie zabite. W obydwu przypadkach przywołana istota znika, powracając do swojego wymiaru. Pamiętaj, że jeśli przywołasz istotę z innego wymiaru wewnątrz miasta, miejska straż rzuci się na ciebie bez ostrzeżenia!",
 	["magic.summonFrostMonarch"] = "Przywołanie Monarchy Mrozu",
 	["magic.summonFrostMonarchDesc"] = "Przywołuje z Otchłani monarchę mrozu. Stworzenie pojawi się sześć stóp przed magiem i będzie atakowało każdą zagrażającą mu istotę, póki nie minie czas trwania efektu lub póki samo nie zostanie zabite. W obydwu przypadkach przywołana istota znika, powracając do Otchłani. Pamiętaj, że jeśli przywołasz istotę z innego wymiaru wewnątrz miasta, miejska straż rzuci się na ciebie bez ostrzeżenia!",
-
+	["magic.summonSpiderDaedra"] = "Przywołanie Pajęczej Daedry",
+	["magic.summonSpiderDaedraDesc"] = "Przywołuje z Otchłani pajęczą daedrę. Stworzenie pojawi się sześć stóp przed magiem i będzie atakowało każdą zagrażającą mu istotę, póki nie minie czas trwania efektu lub póki samo nie zostanie zabite. W obydwu przypadkach przywołana istota znika, powracając do Otchłani. Pamiętaj, że jeśli przywołasz istotę z innego wymiaru wewnątrz miasta, miejska straż rzuci się na ciebie bez ostrzeżenia!",
+	
 	["magic.boundGreaves"] = "Zaklęte Nagolenniki",
 	["magic.boundGreavesDesc"] = "Przywołuje pomniejszą Daedrę zaklętą w postaci magicznych, niezwykle lekkich, daedrycznych nagolenników. Pancerz pojawia się automatycznie na ciele rzucającego. Po upłynięciu czasu trwania efektu, nagolenniki znikają, a postać ponownie nosi swój zwykły pancerz.",
 	["magic.boundWarAxe"] = "Zaklęty Topór Wojenny",
@@ -74,6 +75,8 @@ return {
 	["magic.boundWarhammerDesc"] = "Przywołuje pomniejszą Daedrę zaklętą w postaci magicznego, niezwykle lekkiego, daedrycznego młota bojowego. Broń pojawia się automatycznie w dłoni rzucającego. Po upłynięciu czasu trwania efektu, młot znika, a postać ponownie dzierży swoją zwykłą broń.",
 	["magic.boundPauldrons"] = "Zaklęte Naramienniki",
 	["magic.boundPauldronsDesc"] = "Przywołuje pomniejszą Daedrę zaklętą w postaci magicznych, niezwykle lekkich, daedrycznych naramienników. Pancerz pojawia się automatycznie na ciele rzucającego. Po upłynięciu czasu trwania efektu, naramienniki znikają, a postać ponownie nosi swój zwykły pancerz.",
+	["magic.boundGreatsword"] = "Zaklęty Miecz Dwuręczny",
+	["magic.boundGreatswordDesc"] = "Przywołuje pomniejszą Daedrę zaklętą w postaci magicznego, niezwykle lekkiego, daedrycznego miecza dwuręcznego. Broń pojawia się automatycznie w dłoni rzucającego. Po upłynięciu czasu trwania efektu, młot znika, a postać ponownie dzierży swoją zwykłą broń.",
 	["magic.boundThrowingKnives"] = "Zaklęte Noże do Rzucania",
 	["magic.boundThrowingKnivesDesc"] = "Przywołuje pomniejszą Daedrę zaklętą w postaci magicznych, niezwykle lekkich, daedrycznego noży do rzucania. Broń pojawia się automatycznie w dłoni rzucającego. Po upłynięciu czasu trwania efektu, noże znikają, a postać ponownie dzierży swoją zwykłą broń.",
 
@@ -87,7 +90,7 @@ return {
 	["magic.miscReflectDamage"] = "Odbicie Obrażeń",
 	["magic.miscReflectDamageDesc"] = "Odbija fizyczne obrażenia w stronę atakującego. Stopień efektu określa procentową ilość odbitych obrażeń dla każdego ataku. Nieodbite obrażenia odniosą normalny skutek.",
 	["magic.miscDetectHumanoid"] = "Wykrycie Humanoida",
-	["magic.miscDetectHumanoidDesc"] = "Rzucający zaklęcie może wykrywać na odległość obecność istot niemechanicznych. Zostaną one oznaczone na mapie specjalnym symbolem. Efekt obejmuje wszystkie postacie, a jego poziom to promień (w stopach) obszaru, który zostanie magicznie przeszukany.",
+	["magic.miscDetectHumanoidDesc"] = "Rzucający zaklęcie może wykrywać na odległość obecność istot humanoidalnych. Zostaną one oznaczone na mapie specjalnym symbolem. Efekt obejmuje wszystkie postacie, a jego poziom to promień (w stopach) obszaru, który zostanie magicznie przeszukany.",
 	["magic.miscRadiantShield"] = "Tarcza Blasku",
 	["magic.miscRadiantShieldDesc"] = "Tworzy świetlistą osłonę dookoła celu. Stopień efektu dodawany jest do klasy pancerza. Odporność celu na szkodliwe efekty magiczne wzrasta. Dodatkowo, krótkotrwale oślepia przeciwników w zwarciu.",
 	["magic.miscWabbajack"] = "Łabadżak", -- Aly: yes, it's just directly transcribed to polish alphabet (that's what polish TESIV and TESV did), it's said exactly the same as english
@@ -98,8 +101,33 @@ return {
 	["magic.miscArmorResartusDesc"] = "Odnawia wyposażony zaklęty pancerz. Stopień efektu odpowiada ilości ładunku oraz stanu, która zostanie przywrócona, rozdzielając punkty pomiędzy wszyskie wyposażone zaklęte elementy pancerza.",
 	["magic.miscWeaponResartus"] = "Odnowienie Broni",
 	["magic.miscWeaponResartusDesc"] = "Odnawia wyposażony zaklęty oręż. Stopień efektu odpowiada ilości ładunku oraz stanu, która zostanie przywrócona.",
-
+	["magic.miscCorruption"] = "Wypaczenie", -- Aly: direct translation would be "Korupcja" but that word has direct connotations with bribery here
+	["magic.miscCorruptionDesc"] = "Tworzy cienisty odpowiednik celu, który wspomoże rzucającego zaklęcie w walce.",
+	["magic.miscDistractCreature"] = "Rozproszenie Istoty",
+	["magic.miscDistractCreatureDesc"] = "Zmusza istotę do oddalenia się z obecnej pozycji, jednocześnie próbując zachować dystans od rzucającego zaklęcie. Stopień efektu określa maksymalną odległość (w stopach), jaką cel może przebyć. Jeśli cel jest już pod wpływem efektu, nie może być rzucony ponownie. Efekt zawiedzie, jeśli cel jest świadomy obecności rzucającego zaklęcie. Po zakończeniu trwania efektu, cel nie może zostać rozproszony, dopóki nie powróci do oryginalnej pozycji.",
+	["magic.miscDistractHumanoid"] = "Rozproszenie Humanoida", -- Aly: I'm not really sure about those two because "Dispel" was translated to polish as "Rozproszenie"; but at the same time translating this as "Rozproszenie Uwagi ..." is mouthful and looks bad; also, descriptions feel kinda wonky in polish for now tbh
+	["magic.miscDistractHumanoidDesc"] = "Zmusza osobę do oddalenia się z obecnej pozycji, jednocześnie próbując zachować dystans od rzucającego zaklęcie. Stopień efektu określa maksymalną odległość (w stopach), jaką cel może przebyć. Jeśli cel jest już pod wpływem efektu, nie może być rzucony ponownie. Efekt zawiedzie, jeśli cel jest świadomy obecności rzucającego zaklęcie. Po zakończeniu trwania efektu, cel nie może zostać rozproszony, dopóki nie powróci do oryginalnej pozycji.",
+	["magic.miscGazeOfVeloth"] = "Wejrzenie Velotha",
+	["magic.miscGazeOfVelothDesc"] = "Doświadcz Oblicza Velotha!", -- Aly: ...
+	["magic.miscDetectEnemy"] = "Wykrycie Przeciwnika",
+	["magic.miscDetectEnemyDesc"] = "Rzucający zaklęcie może wykrywać na odległość obecność istot niemechanicznych. Zostaną one oznaczone na mapie specjalnym symbolem. Efekt obejmuje wszystkich przeciwników, a jego poziom to promień (w stopach) obszaru, który zostanie magicznie przeszukany.",
+	["magic.miscDetectInvisibility"] = "Wykrycie Niewidzialności",
+	["magic.miscDetectInvisibilityDesc"] = "Rzucający zaklęcie może wykrywać na odległość obecność istot niemechanicznych. Zostaną one oznaczone na mapie specjalnym symbolem. Efekt obejmuje wszystkie istoty pod wpływem efektu kameleona lub niewidzialności, a jego poziom to promień (w stopach) obszaru, który zostanie magicznie przeszukany. Wykryte efekty kameleona oraz niewidzialności zostaną również osłabione.",
+	["magic.miscBlink"] = "Migotanie", -- Aly: we WoW now? :P; polish name borrowed from polish version of 3.5E SRD btw
+	["magic.miscBlinkDesc"] = "Teleportuje rzucającego zaklęcie w kierunku, w który patrzy. Stopień efektu określa maksymalną odległość (w stopach), jaki cel może przebyć.",
+	["magic.miscFortifyCasting"] = "Premia do Magii", -- Aly: ...well...
+	["magic.miscFortifyCastingDesc"] = "Tymczasowo zwiększa szanse postaci na skuteczne rzucenie zaklęcia.",
+	["magic.miscPrismaticLight"] = "Pryzmatyczne Światło",
+	["magic.miscPrismaticLightDesc"] = "Tworzy magiczny pocisk, który po uderzeniu w cel rozświetla na pewien czas okolicę. Nie zadaje obrażeń.", -- Aly: polish description of "Light" is so cut, trying to get consistent basically makes prismatic light's description a duplicate
+	
 	["magic.wabbajackFailure"] = "Cel: %s jest zbyt potężny, nie może być poddany efektowi Łabadżaka!", -- Aly: ok this was harder to figure out due to adjectives inheriting gender of subject so: "Alex is strong" -> "Alex jest silny" but "Anna is strong" -> "Anna jest silna"; in this case "cel (target)" not %s is the subject so no matter what gender %s is, string will remain the same
+	["magic.wabbajackAlready"] = "Cel: %s jest już pod wpływem efektu Łabadżaka!",
+	["magic.gazeOfVelothImmune"] = "%s przewyższa Oblicze Velotha!",
+	["magic.gazeOfVelothDagoth"] = "Dagoth Ur śmieje się z Oblicza Velotha!",
+	["magic.gazeOfVelothAsh"] = "%s nie posiada więzi z Obliczem Velotha!",
+	["magic.gazeOfVelothDaedra"] = "%s nie przejmuje się Obliczem Velotha!",
+	["magic.gazeOfVelothCreature"] = "%s nie jest w stanie pojąć Oblicza Velotha!",
+	["magic.gazeOfVelothOther"] = "%s jest niewzruszony wobec Oblicza Velotha!",
 	["magic.banishFailure"] = "Cel: %s nie może zostać wypędzony, zaklęcie jest zbyt słabe!",
 	["magic.passWallWard"] = "Nie możesz tam przeniknąć.",
 	["magic.passWallAlpha"] = "Nie możesz przez to przeniknąć.",
@@ -117,6 +145,9 @@ return {
 	["magic.itemPotionInsightS"] = "Klasyczna mikstura intuicji",
 	["magic.itemPotionInsightQ"] = "Duża mikstura intuicji",
 	["magic.itemPotionInsightE"] = "Dosk. mikstura intuicji",
+	["magic.itemPotionDetectHumanoid"] = "Mikstura wykrycia humanoidów",
+	["magic.itemPotionDetectEnemy"] = "Mikstura wykrycia przeciwników",	-- Vanilla's Detect potions have inconsistent names, so this feels OK?
+	["magic.itemPotionDetectInvisibility"] = "Miks. wykrycia niewidzialności",
 
 	["magic.itemScSummonDremoraArcher"] = "Zwój Pastwy Mehrunesa",
 	["magic.itemScSummonDremoraCaster"] = "Zwój Paktu Brzytwy",
@@ -132,13 +163,16 @@ return {
 	["reputation.HighRock"] = "Wysokiej Skały",
 	["reputation.Hammerfell"] = "Hammerfell",
 
+	-- Faction Text
+	["faction.title"] = "Frakcje",		-- Yes, it is just "Faction" in vanilla, but that really does not make sense
+
 	-- MCM Text
 	["mcm.name"] = "Tamriel Data",
 	["mcm.preferences"] = "Preferencje",
-	["mcm.preferencesInfo"] = "Tamriel Data MWSE-Lua v2.0",
+	["mcm.preferencesInfo"] = "Tamriel Data MWSE-Lua v2.1",
 	["mcm.credits"] = "Autorzy:",
-	["mcm.mort"] = "mort - Oskryptowanie",
 	["mcm.Kynesifnar"] = "Kynesifnar - Oskryptowanie",
+	["mcm.mort"] = "mort - Oskryptowanie",
 	["mcm.Rakanishu"] = "Rakanishu - Oskryptowanie",
 	["mcm.chef"] = "chef - Zarządzanie TD_Addon-em",
 	["mcm.Cicero"] = "Cicero - Ikony",
@@ -156,11 +190,7 @@ return {
 	["mcm.interventionSpellsDescription"] = "Dodaje nowe zaklęcia interwencji dla różnych panteonów i bóstw Tamriel, takich jak norska bogini Kyne.\nWymaga ponownego wczytania gry.\n\nDomyślnie: Wł.\n\n",
 
 	["mcm.miscSpellsLabel"] = "Nowe Różnorodne Zaklęcia",
-	["mcm.miscSpellsDescription"] = "Dodaje nowe zaklęcia nie pasujące do żadnej z powyższych kategorii.\nWymaga ponownego wczytania gry.\n\nDomyślnie: Wł.\n\n",
-
-	["mcm.vanillaEnchantmentsLabel"] = "Zmiana Efektów Zaklinania z Podstawowej Gry",
-	["mcm.vanillaEnchantmentsDescription"] = "Pozwala efektom zaklinania z podstawowej gry używać nowych efektów magicznych dodanych w Tamriel Data, gdy ma to sens, jak w przypadku Zwoju Zemsty Lorda Mhasa przywołującego dodatkowo zaklęte nagolenniki i naramienniki" ..
-												"\nWymaga aktywacji wszystkich powyższych ustawień zaklęć.\nWymaga ponownego wczytania gry.\n\nDomyślnie: Wł\n\n",
+	["mcm.miscSpellsDescription"] = "Dodaje nowe zaklęcia nie pasujące do żadnej z powyższych kategorii, jak Wypędzenie Daedry, Odbicie Obrażeń, Rozproszenie Humanoida czy Łabadżak.\nWymaga ponownego wczytania gry.\n\nDomyślnie: Wł.\n\n",
 
 	["mcm.magickaExpandedLabel"] = "Nadpisanie Efektów Magicka Expanded",
 	["mcm.magickaExpandedDescription"] = "Podmienia, dla spójności, niektóre efekty dodane w Magicka Expanded na takie same zaimplementowane również w Tamriel Data, jak np. Wypędzenie Daedry czy Przywołanie Vermai" ..
@@ -170,9 +200,16 @@ return {
 	["mcm.provincialReputationDescription"] = "Modyfikuje interfejs użytkownika, wyświetlając reputację gracza w poszczególnych częściach Tamriel zamiast pojedynczej ogólnej wartości. Wartości te wpływają również na szansę powodzenia w przypadku pochlebstwa, groźby czy znieważenia." ..
 											"\nWymaga ponownego wczytania gry.\n\nDomyślnie: Wł\n\n",
 
-	["mcm.weatherChangesLabel"] = "Zmiana Efektów Pogodowych",
+	["mcm.provincialFactionsUI"] = "Prowincjonalne Frakcje",
+	["mcm.provincialFactionsUIDescription"] = "Modyfikuje interfejs użytkownika, segregując frakcje dołączone przez gracza według prowincji. Ponadto usuwa nazwy prowincji z nazw frakcji w interfejsie.\nWymaga ponownego wczytania gry.\n\nDomyślnie: Wł\n\n",
+
+	["mcm.weatherChangesLabel"] = "Nowe Efekty Pogodowych",
 	["mcm.weatherChangesDescription"] = "Dodaje nowe efekty pogodowe w niektórych regionach, jak np. opad zarodników w Lasach Othreleth, burze piaskowe w Shipal-Shin czy tropikalne burze w okolicach Morza Abeceańskiego. Wprowadza także poprawki pogodowe w pozostałych regionach, jak np. popielne burze w częściach kontynentalnych Morrowind nie mające źródła na Czerwonej Górze."..
 										"\nMoże kolidować z innymi modami MWSE wpływającymi na efekty pogodowe, jak np. Watch the Skies.\nWymage ponownego uruchomienia gry.\n\nDomyślnie: Wł\n\n",
+
+	["mcm.hatsLabel"] = "Nakrycia głów jako ubrania",
+	["mcm.hatsDescription"] = "Powoduje, że nakrycia głów z Tamriel Data funkcjonują jako ubrania, a nie pancerz."..
+											"\nMoże kolidować z innymi modam MWSE dodającymi nowe typy ubrań.\nWymage ponownego uruchomienia gry.\n\nDomyślnie: Wł\n\n",
 
 	["mcm.creatureBehaviorsLabel"] = "Rozszerzenie Zachowania Stworzeń",
 	["mcm.creatureBehaviorsDescription"] = "Sprawia, że istoty zachowują się w bardziej interesujący lub mniej ograniczony przez możliwości silnika Morrowind, jak np. [Strident Runner] nie będą już niezdarnie wstawać na końcu każdej pętli animacji.".. --Aly: kinda half-assed without example part - for now
@@ -194,6 +231,12 @@ return {
 
 	["mcm.travelPricesLabel"] = "Regulacja Kosztów Podróży",
 	["mcm.travelPricesDescription"] = "Zmienia koszty podróży do miejsc docelowych dodanych przez Tamriel Rebuilt i Project Tamriel w przypadku, gdy ceny obliczone przez grę są nierozsądne, jak np w przypadku sieci teleportacyjnej Gildii Magów.\nWymaga ponownego wczytania gry.\n\nDomyślnie: Wł\n\n",
+	
+	["mcm.khajiitFormCharacterCreationLabel"] = "Określ Formy Khajiitów Podczas Tworzenia Postaci",
+	["mcm.khajiitFormCharacterCreationDescription"] = "Nazywa formy Khajiitów w stosownych menu tworzenia postaci, zamiast kolektywnej nazwy \"Khajiit\". Dodatkowy mod, taki jak All Races and Classes Unlocked jest wymagany, aby odblokować wspomniane rasy podczas tworzenia postaci.\nWymaga ponownego wczytania gry.\n\nDomyślnie: Wł\n\n",
+
+	["mcm.butterflyMothTooltipLabel"] = "Podpowiedzi Składników Alchemicznych dla Motyli i Ciem",
+	["mcm.butterflyMothTooltipDescription"] = "Pokazuje efekty, wagę oraz koszt składników alchemicznych, które mogą zostać zebrane z motyli i ciem, podobnie jak funkcja modu Graphic Herbalism dla organicznych pojemników.\nWymaga ponownego wczytania gry.\n\nDomyślnie: Wł, jeśli mod Graphic Herbalism jest zainstalowany oraz jego funkcja wyświetlania podpowiedzi składników alchemicznych jest aktywna\n\n",
 
 	["mcm.interventionRangeLabel"] = "Ograniczenia Zasięgu Zaklęć Interwencji",
 	["mcm.interventionRangeDescription"] = "Ogranicza zasięg działania niektórych zaklęć interwencji, uniemożliwiając ich użycie aby teleportować się na terenach całego Tamriel." ..

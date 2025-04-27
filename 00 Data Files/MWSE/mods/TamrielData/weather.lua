@@ -234,8 +234,8 @@ local region_weather_chances = {
 local region_storm_origins = {
 	-- Armun ashstorms
 	{ "Armun Ashlands Region", -132386.328, -200454.234 },	-- Should eventually be set to the large volcano west of Armun once it is made
-	{ "Velothi Mountains Region", -132386.328, -200454.234 },	-- These extra regions are necessary for the same reason as the weather transition condition; leaving AA during an ashstorm without them would immediately set the origin to be Red Mountain
-	{ "Othreleth Woods Region", -132386.328, -200454.234, -29, -38 },
+	{ "Velothi Mountains Region", -132386.328, -200454.234 },	-- Should be changed to Kartur Dale's ID in WBM
+	{ "Othreleth Woods Region", -132386.328, -200454.234, -29, -38 },	-- These extra regions are necessary for the same reason as the weather transition condition; leaving AA during an ashstorm without them would immediately set the origin to be Red Mountain
 	{ "Aanthirin Region", -132386.328, -200454.234 },
 	{ "Roth Roryn Region", -132386.328, -200454.234 },
 
@@ -255,6 +255,8 @@ local region_storm_origins = {
 }
 
 ---@param weather tes3weather
+---@param vanillaFog table
+---@param mgeFog table
 local function changeWeatherFog(weather, vanillaFog, mgeFog)
 	weather.landFogDayDepth = vanillaFog.landFogDayDepth
 	weather.landFogNightDepth = vanillaFog.landFogNightDepth
@@ -265,6 +267,8 @@ local function changeWeatherFog(weather, vanillaFog, mgeFog)
 end
 
 ---@param weather tes3weather
+---@param windVanilla number
+---@param windMGE number
 local function changeWeatherWind(weather, windVanilla, windMGE)
 	weather.windSpeed = windVanilla
 
@@ -274,6 +278,7 @@ local function changeWeatherWind(weather, windVanilla, windMGE)
 end
 
 ---@param weather tes3weather
+---@param colorTable table
 local function changeWeatherColors(weather, colorTable)
 	weather.ambientSunriseColor.r = colorTable.ambientSunriseColor.r
 	weather.ambientSunriseColor.g = colorTable.ambientSunriseColor.g
@@ -333,6 +338,7 @@ local function changeWeatherColors(weather, colorTable)
 end
 
 ---@param weather tes3weather
+---@param cloudSettings table
 local function changeWeatherSky(weather, cloudSettings)
 	weather.cloudsMaxPercent = cloudSettings.cloudsMaxPercent
 	weather.cloudsSpeed = cloudSettings.cloudsSpeed
@@ -401,6 +407,7 @@ local function loadParticle(meshPath)
 end
 
 ---@param weather tes3weatherRain
+---@param particleSettings table
 local function changeWeatherPrecipitation(weather, particleSettings)
 	weather.maxParticles = particleSettings.maxParticles
 	weather.particleEntranceSpeed = particleSettings.particleEntranceSpeed
@@ -429,6 +436,7 @@ local function changeWeatherPrecipitation(weather, particleSettings)
 end
 
 ---@param weather tes3weather
+---@param stormClouds table
 local function changeWeatherStormClouds(weather, stormClouds)
 	local clouds = tes3.loadMesh(stormClouds.mesh, false)	-- If useCache is true, then running this function twice with the same stormClouds will result in sceneStormRoot having nil children attached to it
 
@@ -443,6 +451,7 @@ end
 
 -- Checks whether the player is loading into a cell with a suitable custom weather active so that particle settings are actually applied; this change is visible to the player, but is necessary and unavoidable until MWSE has proper support for custom weathers
 ---@param customWeather tes3weather
+---@param isNext boolean
 local function fixParticlesOnLoad(customWeather, isNext)
 	local controller = customWeather.controller
 
@@ -461,6 +470,7 @@ local function fixParticlesOnLoad(customWeather, isNext)
 end
 
 ---@param weather tes3weatherRain
+---@param replacement table
 local function changeWeather(weather, replacement)
 	changeWeatherFog(weather, replacement.fog, replacement.fogMGE)
 	changeWeatherWind(weather, replacement.wind, replacement.windMGE)
@@ -573,12 +583,12 @@ function this.changeStormOrigin(e)
 		weather = e.to
 	end
 
-	if weather.index == tes3.weather.ash or weather.index == tes3.weather.blight then
+	if weather and weather.index == tes3.weather.ash or weather.index == tes3.weather.blight then
 		for _,v in pairs(region_storm_origins) do
 			local regionID, xCoord, yCoord, yUpperLimit, yLowerLimit = unpack(v, 1, 5)
 
 			local extCell = common.getExteriorCell(tes3.player.cell)
-			if extCell.region and extCell.region.id == regionID and (not yUpperLimit or (extCell.gridY <= yUpperLimit and extCell.gridY >= yLowerLimit)) then	-- I would like to just use getRegion, but *noooooo*, I have to account for regions between ones with different ashstorm origins like OW
+			if extCell and extCell.region and extCell.region.id == regionID and (not yUpperLimit or (extCell.gridY <= yUpperLimit and extCell.gridY >= yLowerLimit)) then	-- I would like to just use getRegion, but *noooooo*, I have to account for regions between ones with different ashstorm origins like OW
 				weather.stormOrigin = tes3vector2.new(xCoord, yCoord)
 				return
 			end

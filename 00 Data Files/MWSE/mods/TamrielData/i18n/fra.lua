@@ -1,9 +1,8 @@
 return {
 	-- Main Text
-	["main.mwseDate"] = "[Ressources communes de Tamriel] MWSE n'est pas à jour ! Veuillez faire tourner MWSE-Update.exe pour pouvoir faire fonctionner ce mod.",
-
 	["main.imgaShoes"] = "Les Imgas ne peuvent porter de chaussures.",
 	["main.imgaHelm"] = "Les Imgas mâles ne peuvent porter de casque.",
+	["main.imgaHat"] = "Les Imgas mâles ne peuvent porter de chapeau.",
 	["main.tsaesciShoes"] = "Les Tsaescis ne peuvent porter de chaussures.",
     ["main.tsaesciPants"] = "Les Tsaescis ne peuvent porter de pantalon.", 
 
@@ -65,6 +64,8 @@ return {
 	["magic.summonSkeletonChampionDesc"] = "Cet effet permet d'invoquer un squelette champion des Royaumes extérieurs. Il apparaît à 2 mètres du lanceur et attaque toute entité hostile à son maître jusqu'à ce que le sort prenne fin ou qu'il soit tué. Quand il meurt ou que le sort prend fin, il disparaît et retourne dans les Royaumes extérieurs. En cas d'invocation en ville, les gardes vous attaqueront, vous et votre invocation.",
 	["magic.summonFrostMonarch"] = "Appel de monarque de givre",
 	["magic.summonFrostMonarchDesc"] = "Cet effet permet d'invoquer un monarque de givre des Royaumes extérieurs. Il apparaît à 2 mètres du lanceur et attaque toute entité hostile à son maître jusqu'à ce que le sort prenne fin ou qu'il soit tué. Quand il meurt ou que le sort prend fin, il disparaît et retourne dans les Royaumes extérieurs. En cas d'invocation en ville, les gardes vous attaqueront, vous et votre invocation.",
+	["magic.summonSpiderDaedra"] = "Appel d'araignée daedra",
+	["magic.summonSpiderDaedraDesc"] = "Cet effet permet d'invoquer un monarque de givre des Royaumes extérieurs. Il apparaît à 2 mètres du lanceur et attaque toute entité hostile à son maître jusqu'à ce que le sort prenne fin ou qu'il soit tué. Quand il meurt ou que le sort prend fin, il disparaît et retourne dans les Royaumes extérieurs. En cas d'invocation en ville, les gardes vous attaqueront, vous et votre invocation.",
 
 	["magic.boundGreaves"] = "Jambières liées",
 	["magic.boundGreavesDesc"] = "Ce sort permet d'invoquer un Daedra inférieur lié sous la forme d'une paire de jambières daedriques, magiques et d'une exceptionnelle légèreté. Elles apparaissent directement sur les jambes du lanceur, remplaçant automatiquement les jambières dont ce dernier était équipé. Quand l'effet prend fin, les jambières sont remplacées par celles dont le personnage était précédemment équipé.",
@@ -74,6 +75,8 @@ return {
 	["magic.boundWarhammerDesc"] = "Ce sort permet d'invoquer un Daedra inférieur lié sous la forme d'un marteau de guerre daedrique, magique et d'une exceptionnelle légèreté. Il apparaît dans la main du lanceur, remplaçant automatiquement celui dont ce dernier était équipé. Quand l'effet prend fin, l'arme disparaît, remplacée par celle dont le personnage était précédemment équipé.",
 	["magic.boundPauldrons"] = "Epaulières liées",
 	["magic.boundPauldronsDesc"] = "Ce sort permet d'invoquer un Daedra inférieur lié sous la forme d'une paire d'épaulières daedriques, magiques et d'une exceptionnelle légèreté. Elles apparaissent directement sur les épaules du lanceur, remplaçant automatiquement les épaulières dont ce dernier était équipé. Quand l'effet prend fin, les épaulières sont remplacées par celles dont le personnage était précédemment équipé.",
+	["magic.boundGreatsword"] = "Espadon lié",
+	["magic.boundGreatswordDesc"] = "Ce sort permet d'invoquer un Daedra inférieur lié sous la forme d'un espadon daedrique, magique et d'une exceptionnelle légèreté. Il apparaît dans la main du lanceur, remplaçant automatiquement celui dont ce dernier était équipé. Quand l'effet prend fin, l'arme disparaît, remplacée par celle dont le personnage était précédemment équipé.",
 	["magic.boundThrowingKnives"] = "Couteaux de lancer liés",
 	["magic.boundThrowingKnivesDesc"] = "Ce sort permet d'invoquer un Daedra inférieur lié sous la forme de couteaux de lancer daedriques, magiques et d'une exceptionnelle légèreté. Ils apparaissent directement dans la main du lanceur, remplaçant automatiquement ceux dont ce dernier était équipé. Quand l'effet prend fin, les armes disparaissent, remplacées par celle dont le personnage était précédemment équipé.",
 
@@ -95,16 +98,41 @@ return {
 	["magic.miscInsight"] = "Perspicacité",
 	["magic.miscInsightDesc"] = "Cet effet influe légèrement sur le destin en augmentant les chances de découvrir des objets de valeur.",
 	["magic.miscArmorResartus"] = "Armure raccommodée",
-    ["magic.miscArmorResartusDesc"] = "Cet effet répare et recharge l'armure enchantée équipée par le lanceur. La puissant de l'effet correspond au nombre d'unités de condition et de charge restaurées, qui sont distribuées entre chacun des pièces d'armure enchantées du lanceur.",
+    ["magic.miscArmorResartusDesc"] = "Cet effet répare et recharge l'armure enchantée équipée par le lanceur. La puissance de l'effet correspond au nombre d'unités de condition et de charge restaurées, qui sont distribuées entre chacun des pièces d'armure enchantées du lanceur.",
     ["magic.miscWeaponResartus"] = "Arme raccommodée",
-    ["magic.miscWeaponResartusDesc"] = "Cet effet répare et recharge l'arme enchantée équipée par le lanceur. La puissant de l'effet correspond au nombre d'unités de condition et de charge restaurées.", 
+    ["magic.miscWeaponResartusDesc"] = "Cet effet répare et recharge l'arme enchantée équipée par le lanceur. La puissance de l'effet correspond au nombre d'unités de condition et de charge restaurées.",
+	["magic.miscCorruption"] = "Corruption",
+	["magic.miscCorruptionDesc"] = "Cet effet crée un double ténébreux de la cible qui aidera le lanceur au combat.",
+	["magic.miscDistractCreature"] = "Distraction des créatures",
+	["magic.miscDistractCreatureDesc"] = "Cet effet incite une créature à s'éloigner de sa position actuelle tout en tentant de garder ses distances par rapport au lanceur. La puissance de l'effet correspond à la distance maximale à laquelle la cible peut s'éloigner de sa position, et l'effet ne peut être lancé à nouveau sur la cible tant qu'il est actif. Cet effet échouera si la cible a conscience de la présence du lanceur. Quand l'effet prend fin, la cibl commence à rejoindre sa position initiale et ne peut être distraite à nouveau jusqu'à ce qu'elle l'atteigne.",
+	["magic.miscDistractHumanoid"] = "Distraction des humanoïdes",
+	["magic.miscDistractHumanoidDesc"] = "Cet effet incite une personne à s'éloigner de sa position actuelle tout en tentant de garder ses distances par rapport au lanceur. La puissance de l'effet correspond à la distance maximale à laquelle la cible peut s'éloigner de sa position, et l'effet ne peut être lancé à nouveau sur la cible tant qu'il est actif. Cet effet échouera si la cible a conscience de la présence du lanceur. Quand l'effet prend fin, la cible commence à rejoindre sa position initiale et ne peut être distraite à nouveau jusqu'à ce qu'elle l'atteigne.",
+	["magic.miscGazeOfVeloth"] = "Regard de Véloth",
+	["magic.miscGazeOfVelothDesc"] = "Soyez témoin du visage de Véloth !",
+	["magic.miscDetectEnemy"] = "Détection des ennemis",
+	["magic.miscDetectEnemyDesc"] = "Cet effet permet de détecter n'importe quelle entité hostile ; elles apparaissent sous forme de symboles sur la carte. La puissance de l'effet détermine la portée à laquelle le lanceur peut détecter des entités hostiles (en pieds).",
+	["magic.miscDetectInvisibility"] = "Détection d'invisibilité",
+	["magic.miscDetectInvisibilityDesc"] = "Cet effet permet de détecter n'importe quelle entité affectée par un effet d'invisibilité ou de caméléon ; elles apparaissent sous forme de symboles sur la carte. La puissance de l'effet détermine la portée à laquelle le lanceur peut détecter des entités dissimulées (en pieds). Les effets d'invisibilité et de caméléon des entités détectées sont également affaiblis.",
+	["magic.miscBlink"] = "Transfert",
+	["magic.miscBlinkDesc"] = "Cet effet téléporte le lanceur dans la direction vers laquelle il regarde. La puissance de l'effet correspond à la distance maximale qui peut être parcourue.",
+	["magic.miscFortifyCasting"] = "Sorts fortifiés",
+	["magic.miscFortifyCastingDesc"] = "Cet effet augmente la chance du sujet de parvenir à lancer un sort.",
+	["magic.miscPrismaticLight"] = "Lumière prismatique",
+	["magic.miscPrismaticLightDesc"] = "Cet effet crée un projectile de lumière prismatique. Quand il touche une cible, le projectile illumine la zone pour la durée de l'effet. Le projectile de lumière n'inflige aucun dégât.",
 
 	["magic.wabbajackFailure"] = "%s est trop puissant pour que Wabbajack l'affecte !",
+	["magic.wabbajackAlready"] = "%s est déjà sous l'effet de Wabbajack !",
+	["magic.gazeOfVelothImmune"] = "%s transcende le visage de Véloth !",
+	["magic.gazeOfVelothDagoth"] = "Dagoth Ur rit face au visage de Véloth !",
+	["magic.gazeOfVelothAsh"] = "%s n'a aucun lien mortel avec le visage de Véloth !",
+	["magic.gazeOfVelothDaedra"] = "%s se moque du visage de Véloth !",
+	["magic.gazeOfVelothCreature"] = "%s est incapable de comprendre le visage de Véloth !",
+	["magic.gazeOfVelothOther"] = "%s n'est pas affecté par le visage de Véloth !",
 	["magic.banishFailure"] = "Ce sort est trop faible pour bannir : %s !",
 	["magic.passWallWard"] = "Vous ne pouvez pas passer jusque-là.",
 	["magic.passWallAlpha"] = "Vous ne pouvez pas passer à travers ceci.",
 	["magic.passWallExterior"] = "Vous devez vous trouver dans un espace confiné.",
-	["magic.passWallDoorExterior"] = "Vous devez rester dans un espace confiné.",
+	["magic.passWallDoorExterior"] = "Vous ne pouvez pas quitter un espace confiné.",
 	["magic.passWallUnderwater"] = "Vous ne pouvez pas vous trouver sous l'eau.",
 	
 	["magic.itemPotionReflectDamageB"] = "Potion Réflexion dégâts bradée",
@@ -117,6 +145,9 @@ return {
 	["magic.itemPotionInsightS"] = "Pot. Perspicacité standard",
 	["magic.itemPotionInsightQ"] = "Pot. Perspicacité de qualité",
 	["magic.itemPotionInsightE"] = "Pot. Perspicacité de choix",
+	["magic.itemPotionDetectHumanoid"] = "Potion Détecte-humanoïdes",
+	["magic.itemPotionDetectEnemy"] = "Potion Détecte-ennemis",	-- Vanilla's Detect potions have inconsistent names, so this feels OK?
+	["magic.itemPotionDetectInvisibility"] = "Potion Détecte-invisibilité",
 
 	["magic.itemScSummonDremoraArcher"] = "Parch. de proie de Mérunès",
 	["magic.itemScSummonDremoraCaster"] = "Parch. de convention du Rasoir",
@@ -131,11 +162,14 @@ return {
 	["reputation.PadomaicIsles"] = "dans les îles padomaïques",
 	["reputation.HighRock"] = "en Hauteroche",
 	["reputation.Hammerfell"] = "en Lenclume",
+	
+	-- Faction Text
+	["faction.title"] = "Factions",		-- Yes, it is just "Faction" in vanilla, but that really does not make sense
 
 	-- MCM Text
 	["mcm.name"] = "Ressources communes de Tamriel",
 	["mcm.preferences"] = "Préférences",
-	["mcm.preferencesInfo"] = "Ressources communes de Tamriel MWSE-Lua v2.0",
+	["mcm.preferencesInfo"] = "Ressources communes de Tamriel MWSE-Lua v2.1",
 	["mcm.credits"] = "Crédits :",
 	["mcm.Kynesifnar"] = "Kynesifnar - Scripting",
 	["mcm.mort"] = "mort - Scripting",
@@ -156,7 +190,7 @@ return {
 	["mcm.interventionSpellsDescription"] = "Ajout de nouveaux sorts d'Intervention pour différents panthéons et dieux de Tamriel, comme la déesse nordique Kyne.\nRequiert un rechargement.\n\nPar défaut : activé\n\n",
 	
 	["mcm.miscSpellsLabel"] = "Ajout de nouveaux sorts divers",
-	["mcm.miscSpellsDescription"] = "Ajoute de nouveaux sorts qui ne rentrent pas dans les catégories précédentes.\nRequiert un rechargement.\n\nPar défaut : activé\n\n",
+	["mcm.miscSpellsDescription"] = "Ajoute de nouveaux sorts qui ne rentrent pas dans les catégories précédentes, comme Bannissement de Daedra, Réflexion de dégâts, Distraction des humanoïdes, et Wabbajack.\nRequiert un rechargement.\n\nPar défaut : activé\n\n",
 
 	["mcm.magickaExpandedLabel"] = "Remplacer les effets de Magie étendue",
 	["mcm.magickaExpandedDescription"] = "Remplace certains effets magiques de Magie étendue avec ceux implémentés par Ressources communes de Tamriel pour être consistant, comme Bannissement de Daedra et Appel de vermaï." ..
@@ -165,12 +199,20 @@ return {
 	["mcm.provincialReputationLabel"] = "Système de réputation provinciale",
 	["mcm.provincialReputationDescription"] = "Modifie l'interface pour afficher la réputation du joueur dans différentes régions de Tamriel au lieu d'utiliser une unique valeur globale. Les chances du joueur de parvenir à admirer, intimider ou insulter quelqu'un sont également influencées par ces valeurs." ..
 											"\nRequiert un rechargement.\n\nPar défaut : activé\n\n",
+											
+	["mcm.provincialFactionsUI"] = "Interface de factions provinciales",
+	["mcm.provincialFactionsUIDescription"] = "Modifie l'interface pour que les factions dont le joueur fait partie soient organisées par province.\nRequiert un rechargement.\n\nPar défaut : activé\n\n",
 
 	["mcm.weatherChangesLabel"] = "Modifications de la météo",
-	["mcm.weatherChangesDescription"] = "Implémente de nouvelles météos dans certaines régions, comme des chutes de spores dans les Bois d'Othréleth, des tempêtes de sable dans la région de Shipal-Shin, et des tempête tropicales dans la mer d'Abecéanne. De plus, cette option procède à des ajustements mineurs de la météo dans d'autres régions, comme le fait que les tempêtes de cendres sur le continent de Morrowind ne proviennent plus systématiquement du mont Ecarlate.\nCette option risque d'entrer en conflit avec les mods MWSE qui touchent à la météo, comme Watch the Skies.\nRequiert un rechargement.\n\nPar défaut : activé\n\n",
+	["mcm.weatherChangesDescription"] = "Implémente de nouvelles météos dans certaines régions, comme des chutes de spores dans les Bois d'Othréleth, des tempêtes de sable dans la région de Shipal-Shin, et des tempête tropicales dans la mer d'Abecéanne. De plus, cette option procède à des ajustements mineurs de la météo dans d'autres régions, comme le fait que les tempêtes de cendres sur le continent de Morrowind ne proviennent plus systématiquement du mont Ecarlate."..
+											"\nCette option risque d'entrer en conflit avec les mods MWSE qui touchent à la météo, comme Watch the Skies.\nRequiert un rechargement.\n\nPar défaut : activé\n\n",
+											
+	["mcm.hatsLabel"] = "Les chapeaux sont des vêtements",
+	["mcm.hatsDescription"] = "Les chapeaux de Ressources communes de Tamriel fonctionneront comme des vêtements et non plus des pièces d'armure."..
+											"\nCette option risque d'entrer en conflit avec les mods MWSE qui ajoutent de nouveaux types de vêtements.\nRequiert un rechargement.\n\nPar défaut : activé\n\n",
 	
 	["mcm.creatureBehaviorsLabel"] = "Amélioration des comportements des créatures",
-    ["mcm.creatureBehaviorsDescription"] = "Fait en sorte que les créatures se comportent d'une façon plus intéressante et moins restreinte par les limitation du moteur de jeu. Par exemple, les coureurs stridents ne se relèveront plus maladroitement à la fin de chaque boucle d'animation."..
+    ["mcm.creatureBehaviorsDescription"] = "Fait en sorte que les créatures se comportent d'une façon plus intéressante et moins restreinte par les limitations du moteur de jeu. Par exemple, les tanthas dans l'oues de Cyrodil attaqueront le joueur quand un de leurs nids est pillé."..
                                         "\nRequiert un rechargement.\n\nPar défaut : activé\n\n", 
 	
 	["mcm.animationFixLabel"] = "Corriger les animations du joueur pour les nouvelles races",
@@ -190,7 +232,13 @@ return {
 	["mcm.travelPricesLabel"] = "Ajustement des prix des voyages",
 	["mcm.travelPricesDescription"] = "Modifie le coût des voyages vers les destinations ajoutées par les mods de provinces dans les cas où ceux calculés par le jeu sont déraisonnables, comme les prix des voyages entre les réseaux de guides de guilde de la guilde des Mages.\nRequiert un rechargement.\n\nPar défaut : activé\n\n",
 	
+	["mcm.khajiitFormCharacterCreationLabel"] = "Spécifier la forme de Khajiit pendant la création du personnage",
+	["mcm.khajiitFormCharacterCreationDescription"] = "Nomme les formes de Khajiit dans les menus de création du personnage au lieu de toutes les appeler \"Khajiit\". Un mod tiers comme Races de Tamriel est requis pour que ces races soient disponibles à la création du personnage.\nRequiert un rechargement.\n\nPar défaut : activé\n\n",
+	
+	["mcm.butterflyMothTooltipLabel"] = "Infobulle des ingrédients pour les papillons et les phalènes",
+	["mcm.butterflyMothTooltipDescription"] = "Affiche les effets alchimiques, le poids et la valeur eds ingrédients qui peuvent être récoltés sur les papillons et les phalènes quand vous les regardez, comme le permet Récolte réaliste quand vous regardez des conteneurs organiques récoltables.\nRequiert un rechargement.\n\nPar défaut : activé, si Récolte réaliste est installé et que sa fonctionnalité pour afficher les infobulles des ingrédients est active\n\n",
+	
 	["mcm.interventionRangeLabel"] = "Limiter la portée des sorts d'Intervention",
 	["mcm.interventionRangeDescription"] = "Restreint la portée jusqu'à laquelle les sorts d'Intervention fonctionnent, vous empêchant de les utiliser pour vous téléporter d'un bout à l'autre de Tamriel." ..
-											"\nCette option pourrait entrer en conflit avec d'autres mods pour MWSE qui touchent aux sorts d'Intervention, ou avec les mods qui implémentent de nouvelles régions autres que Tamriel_Data.\nRequiert un rechargement.\n\nPar défaut : désactivé\n\n",
+											"\nCette option pourrait entrer en conflit avec d'autres mods pour MWSE qui touchent aux sorts d'Intervention, ou avec les mods qui implémentent de nouvelles régions autres que Ressources communes de Tamriel.\nRequiert un rechargement.\n\nPar défaut : désactivé\n\n",
 }

@@ -22,7 +22,14 @@ authors = [
 ]
 
 [dependencies.mwse]
-buildnumber = 3074
+buildnumber = 4198
+
+[dependencies.mcp.features]
+scriptablePotionUse = true
+improvedAnimationSupport = true
+
+[dependencies.mods."TD_Lua_Addon"]
+mwse-module = "tamrielData.main"
 
 [tools.csse]
 deprecated = [
@@ -1267,4 +1274,50 @@ deprecated = [
 	"T_Com_UNI_StaffCustodian",
 	"T_Ce_Bronze_Gpesh_01",
 	"T_Ce_Bronze_Kpesh_01",
+	"T_Sc_GuideToKogotelTR",
+	"T_Imp_Grinder_01",
+	"T_Imp_DngRuin_F_Barrel_01",
+	"T_Com_Var_Nails_01",
+	"T_Imp_DngColBarrow_F_Mummy_01",
+	"T_Imp_DngColBarrow_F_Mummy_02",
+	"T_Imp_DngColBarrow_F_Mummy_03",
+	"T_Imp_DngColBarrow_F_Mummy_04",
+	"T_Imp_DngColBarrow_F_Mummy_05",
+	"T_Imp_DngColBarrow_F_Mummy_06",
+	"T_Imp_DngColBarrow_F_Mummy_07",
+	"T_Imp_DngColBarrow_F_Mummy_08",
+	"T_Imp_DngColBarrow_F_Mummy_09",
+	"T_IngCrea _StridentBirdEgg_01",
+	"T_IngCrea _StridentBirdFeath_01",
+	"T_Bk_TheFaithfulTR",
+	"tr_misc_exp_compass",
+	"T_Com_WoodenCup_01",
+	"T_We_Bone_Arrow_01",
+	"T_bk_StockCMC_TR",
+	"T_bk_StockEEC_TR",
+	"T_Dae_Cre_Drid_01",
+	"T_Dae_Cre_DridBs_01",
+	"T_Dae_Cre_DridGr_01",
+	"T_Dae_Cre_DridLs_01",
+	"T_Mw_Cr_DridreaSpawn",
+	"T_De_Ex_Pants_03",
+	"T_De_Ex_Pants_04",
+	"T_De_Ex_Pants_05",
+	"T_De_Ex_Pants_06",
+	"T_De_Ex_Pants_07",
+	"T_De_Ex_Pants_08",
+	"T_De_Ex_Shirt_03",
+	"T_De_Ex_Shirt_04",
+	"T_De_Ex_Shirt_05",
+	"T_De_Ex_Shirt_06",
+	"T_De_Ex_Shirt_07",
+	"T_De_Ex_Shirt_08",
+	"T_De_Ex_Shirt_08fff",
+	"T_De_Ex_Skirt_03",
+	"T_De_Ex_Skirt_04",
+	"T_De_Ex_Skirt_05",
+	"T_De_Ex_Skirt_06",
+	"T_De_Ex_Skirt_07",
+	"T_De_Ex_Skirt_08",
+	"T_De_Ex_Shoes_08"
 ]

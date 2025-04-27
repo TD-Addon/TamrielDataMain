@@ -95,10 +95,26 @@ local function registerModConfig()
         },
     }
     toggles:createOnOffButton{
+        label = common.i18n("mcm.provincialFactionsUI"),
+        description = common.i18n("mcm.provincialFactionsUIDescription"),
+        variable = mwse.mcm.createTableVariable{
+            id = "provincialFactionUI",
+            table = config,
+        },
+    }
+    toggles:createOnOffButton{
         label = common.i18n("mcm.weatherChangesLabel"),
         description = common.i18n("mcm.weatherChangesDescription"),
         variable = mwse.mcm.createTableVariable{
             id = "weatherChanges",
+            table = config,
+        },
+    }
+    toggles:createOnOffButton{
+        label = common.i18n("mcm.hatsLabel"),
+        description = common.i18n("mcm.hatsDescription"),
+        variable = mwse.mcm.createTableVariable{
+            id = "hats",
             table = config,
         },
     }
@@ -147,6 +163,22 @@ local function registerModConfig()
         description = common.i18n("mcm.travelPricesDescription"),
         variable = mwse.mcm.createTableVariable{
             id = "adjustTravelPrices",
+            table = config,
+        },
+    }
+    toggles:createOnOffButton{
+        label = common.i18n("mcm.khajiitFormCharacterCreationLabel"),
+        description = common.i18n("mcm.khajiitFormCharacterCreationDescription"),
+        variable = mwse.mcm.createTableVariable{
+            id = "khajiitFormCharCreation",
+            table = config,
+        },
+    }
+    toggles:createOnOffButton{
+        label = common.i18n("mcm.butterflyMothTooltipLabel"),
+        description = common.i18n("mcm.butterflyMothTooltipDescription"),
+        variable = mwse.mcm.createTableVariable{
+            id = "butterflyMothTooltip",
             table = config,
         },
     }

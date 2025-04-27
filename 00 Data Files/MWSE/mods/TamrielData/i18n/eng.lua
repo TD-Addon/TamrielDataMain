@@ -1,9 +1,8 @@
 return {
 	-- Main Text
-	["main.mwseDate"] = "[Tamriel Data] MWSE is out of date! You will need to update to a more recent version to use this mod.",
-
 	["main.imgaShoes"] = "Imga cannot wear shoes.",
 	["main.imgaHelm"] = "Male Imga cannot wear helmets.",
+	["main.imgaHat"] = "Male Imga cannot wear hats.",
 	["main.tsaesciShoes"] = "Tsaesci cannot wear shoes.",
 	["main.tsaesciPants"] = "Tsaesci cannot wear pants.",
 
@@ -33,11 +32,11 @@ return {
 	["magic.summonStormMonarchDesc"] = "This effect summons a storm monarch from Oblivion. It appears six feet in front of the caster and attacks any entity that attacks the caster until the effect ends or the summoning is killed. At death, or when the effect ends, the summoning disappears, returning to Oblivion. If summoned in town, the guards will attack you and the summoning on sight.",
 	["magic.summonIceWraith"] = "Summon Ice Wraith",
 	["magic.summonIceWraithDesc"] = "This effect summons an ice wraith from the Outer Realms. It appears six feet in front of the caster and attacks any entity that attacks the caster until the effect ends or the summoning is killed. At death, or when the effect ends, the summoning disappears, returning to the Outer Realms. If summoned in town, the guards will attack you and the summoning on sight.",
-	["magic.summonDweSpectre"] = "Summon Dwemer Spectre",
-	["magic.summonDweSpectreDesc"] = "This effect summons a dwemer spectre from the Outer Realms. It appears six feet in front of the caster and attacks any entity that attacks the caster until the effect ends or the summoning is killed. At death, or when the effect ends, the summoning disappears, returning to the Outer Realms. If summoned in town, the guards will attack you and the summoning on sight.",
-	["magic.summonSteamCent"] = "Summon Dwemer Steam Centurion",
+	["magic.summonDweSpectre"] = "Summon Dwarven Spectre",
+	["magic.summonDweSpectreDesc"] = "This effect summons a dwarven spectre from the Outer Realms. It appears six feet in front of the caster and attacks any entity that attacks the caster until the effect ends or the summoning is killed. At death, or when the effect ends, the summoning disappears, returning to the Outer Realms. If summoned in town, the guards will attack you and the summoning on sight.",
+	["magic.summonSteamCent"] = "Summon Steam Centurion",
 	["magic.summonSteamCentDesc"] = "This effect summons an steam centurion from the Outer Realms. It appears six feet in front of the caster and attacks any entity that attacks the caster until the effect ends or the summoning is killed. At death, or when the effect ends, the summoning disappears, returning to the Outer Realms. If summoned in town, the guards will attack you and the summoning on sight.",
-	["magic.summonSpiderCent"] = "Summon Dwemer Spider Centurion",
+	["magic.summonSpiderCent"] = "Summon Centurion Spider",
 	["magic.summonSpiderCentDesc"] = "This effect summons a centurion spider from the Outer Realms. It appears six feet in front of the caster and attacks any entity that attacks the caster until the effect ends or the summoning is killed. At death, or when the effect ends, the summoning disappears, returning to the Outer Realms. If summoned in town, the guards will attack you and the summoning on sight.",
 	["magic.summonWelkyndSpirit"] = "Summon Welkynd Spirit",
 	["magic.summonWelkyndSpiritDesc"] = "This effect summons a welkynd spirit from the Outer Realms. It appears six feet in front of the caster and attacks any entity that attacks the caster until the effect ends or the summoning is killed. At death, or when the effect ends, the summoning disappears, returning to the Outer Realms. If summoned in town, the guards will attack you and the summoning on sight.",
@@ -45,10 +44,10 @@ return {
 	["magic.summonAuroranDesc"] = "This effect summons an auroran from Oblivion. It appears six feet in front of the caster and attacks any entity that attacks the caster until the effect ends or the summoning is killed. At death, or when the effect ends, the summoning disappears, returning to Oblivion. If summoned in town, the guards will attack you and the summoning on sight.",
 	["magic.summonHerne"] = "Summon Herne",
 	["magic.summonHerneDesc"] = "This effect summons a herne from Oblivion. It appears six feet in front of the caster and attacks any entity that attacks the caster until the effect ends or the summoning is killed. At death, or when the effect ends, the summoning disappears, returning to Oblivion. If summoned in town, the guards will attack you and the summoning on sight.",
-	["magic.summonMorphoid"] = "Summon Morphoid",
-	["magic.summonMorphoidDesc"] = "This effect summons a morphoid from Oblivion. It appears six feet in front of the caster and attacks any entity that attacks the caster until the effect ends or the summoning is killed. At death, or when the effect ends, the summoning disappears, returning to Oblivion. If summoned in town, the guards will attack you and the summoning on sight.",
+	["magic.summonMorphoid"] = "Summon Morphoid Daedra",
+	["magic.summonMorphoidDesc"] = "This effect summons a morphoid daedra from Oblivion. It appears six feet in front of the caster and attacks any entity that attacks the caster until the effect ends or the summoning is killed. At death, or when the effect ends, the summoning disappears, returning to Oblivion. If summoned in town, the guards will attack you and the summoning on sight.",
 	["magic.summonDraugr"] = "Summon Draugr",
-	["magic.summonDraugrDesc"] = "This effect summons a draugr from the Underworld. It appears six feet in front of the caster and attacks any entity that attacks the caster until the effect ends or the summoning is killed. At death, or when the effect ends, the summoning disappears, returning to the Outer Realms. If summoned in town, the guards will attack you and the summoning on sight.",
+	["magic.summonDraugrDesc"] = "This effect summons a draugr from the Underworld. It appears six feet in front of the caster and attacks any entity that attacks the caster until the effect ends or the summoning is killed. At death, or when the effect ends, the summoning disappears, returning to the Underworld. If summoned in town, the guards will attack you and the summoning on sight.",
 	["magic.summonSpriggan"] = "Summon Spriggan",
 	["magic.summonSprigganDesc"] = "This effect summons a spriggan from the Outer Realms. It appears six feet in front of the caster and attacks any entity that attacks the caster until the effect ends or the summoning is killed. At death, or when the effect ends, the summoning disappears, returning to the Outer Realms. If summoned in town, the guards will attack you and the summoning on sight.",
 	["magic.summonGreaterBonelord"] = "Summon Greater Bonelord",
@@ -65,6 +64,8 @@ return {
 	["magic.summonSkeletonChampionDesc"] = "This effect summons a skeleton champion from the Outer Realms. It appears six feet in front of the caster and attacks any entity that attacks the caster until the effect ends or the summoning is killed. At death, or when the effect ends, the summoning disappears, returning to the Outer Realms. If summoned in town, the guards will attack you and the summoning on sight.",
 	["magic.summonFrostMonarch"] = "Summon Frost Monarch",
 	["magic.summonFrostMonarchDesc"] = "This effect summons a frost monarch from Oblivion. It appears six feet in front of the caster and attacks any entity that attacks the caster until the effect ends or the summoning is killed. At death, or when the effect ends, the summoning disappears, returning to Oblivion. If summoned in town, the guards will attack you and the summoning on sight.",
+	["magic.summonSpiderDaedra"] = "Summon Spider Daedra",
+	["magic.summonSpiderDaedraDesc"] = "This effect summons a spider daedra from Oblivion. It appears six feet in front of the caster and attacks any entity that attacks the caster until the effect ends or the summoning is killed. At death, or when the effect ends, the summoning disappears, returning to Oblivion. If summoned in town, the guards will attack you and the summoning on sight.",
 	
 	["magic.boundGreaves"] = "Bound Greaves",
 	["magic.boundGreavesDesc"] = "The spell effect conjures a lesser Daedra bound in the form of magical, wondrously light Daedric greaves. The greaves appear automatically equipped on the caster, displacing any currently equipped leg armor to inventory. When the effect ends, the greaves disappear, and any previously equipped leg armor is automatically re-equipped.",
@@ -74,8 +75,10 @@ return {
 	["magic.boundWarhammerDesc"] = "The spell effect conjures a lesser Daedra bound in the form of a magical, wondrously light Daedric warhammer. The warhammer appears automatically equipped on the caster, displacing any currently equipped weapon to inventory. When the effect ends, the warhammer disappears, and any previously equipped weapon is automatically re-equipped.",
 	["magic.boundPauldrons"] = "Bound Pauldrons",
 	["magic.boundPauldronsDesc"] = "The spell effect conjures a lesser Daedra bound in the form of magical, wondrously light Daedric pauldrons. The pauldrons appear automatically equipped on the caster, displacing any currently equipped shoulder armor to inventory. When the effect ends, the pauldrons disappear, and any previously equipped shoulder armor is automatically re-equipped.",
+	["magic.boundGreatsword"] = "Bound Greatsword",
+	["magic.boundGreatswordDesc"] = "The spell effect conjures a lesser Daedra bound in the form of a magical, wondrously light Daedric greatsword. The greatsword appears automatically equipped on the caster, displacing any currently equipped weapon to inventory. When the effect ends, the greatsword disappears, and any previously equipped weapon is automatically re-equipped.",
 	["magic.boundThrowingKnives"] = "Bound Throwing Knives",
-	["magic.boundThrowingKnivesDesc"] = "The spell effect conjures a lesser Daedra bound in the form of magical, wondrously light Daedric throwing knives. The throwing knives appear automatically equipped on the caster, displacing any currently equipped weapon to inventory.  When the effect ends, the throwing knives disappear, and any previously equipped weapon is automatically re-equipped.",
+	["magic.boundThrowingKnivesDesc"] = "The spell effect conjures a lesser Daedra bound in the form of magical, wondrously light Daedric throwing knives. The throwing knives appear automatically equipped on the caster, displacing any currently equipped weapon to inventory. When the effect ends, the throwing knives disappear, and any previously equipped weapon is automatically re-equipped.",
 
 	["magic.interventionKyne"] = "Kyne's Intervention",
 	["magic.interventionKyneDesc"] = "The subject of this effect is transported instantaneously to the nearest temple or sacred place of the Nordic goddess Kyne.",
@@ -83,11 +86,11 @@ return {
 	["magic.miscPasswall"] = "Passwall",
 	["magic.miscPasswallDesc"] = "In an indoor area, this effect permits the caster to pass through a solid barrier to a vacant space behind it. The effect will fail if the destination beyond the traversed barrier is filled with water, is blocked by a forcefield, sigil gate, or ward, or lies above or below the caster.",
 	["magic.miscBanish"] = "Banish Daedra",
-	["magic.miscBanishDesc"] = "Banishes any daedra that the spell is cast upon, if the target is of sufficiently low level compared to the spell's magnitude. If the daedra is wounded, then it will be easier to banish. Banishing a daedra will transfer any of their important belongings to a sigil that is left behind.",
+	["magic.miscBanishDesc"] = "Banishes any daedra that the spell is cast upon, if the spell's magnitude is greater than or equal to the target's level. If the daedra is wounded, then it will be easier to banish. Banishing a daedra will transfer any of their important belongings to a sigil that is left behind.",
 	["magic.miscReflectDamage"] = "Reflect Damage",
 	["magic.miscReflectDamageDesc"] = "This effect allows the subject to reflect physical damage back at an attacker. The effect's magnitude is the percent damage that will be reflected for each attack. Any unreflected damage is dealt to the defender normally.",
 	["magic.miscDetectHumanoid"] = "Detect Humanoid",
-	["magic.miscDetectHumanoidDesc"] = "The caster of this effect can detect any entity animated by a spirit; they appear on the map as symbols. This effect includes all characters. The effect's magnitude is the range in feet from the caster that people are detected.",
+	["magic.miscDetectHumanoidDesc"] = "The caster of this effect can detect any entity animated by a spirit; they appear on the map as symbols. This effect includes all people. The effect's magnitude is the range in feet from the caster that humanoids are detected.",
 	["magic.miscRadiantShield"] = "Radiant Shield",
 	["magic.miscRadiantShieldDesc"] = "This effect creates a shield of brilliant light around the subject's entire body. The spell adds its magnitude to the subject's Armor Rating, resists harmful magic, and briefly blinds attackers in melee.",
 	["magic.miscWabbajack"] = "Wabbajack",
@@ -98,14 +101,39 @@ return {
 	["magic.miscArmorResartusDesc"] = "This effect mends and recharges enchanted armor that is equipped by the caster. The magnitude is the units of condition and charge restored, which are distributed across all of the caster's enchanted armor.",
 	["magic.miscWeaponResartus"] = "Weapon Resartus",
 	["magic.miscWeaponResartusDesc"] = "This effect mends and recharges an enchanted weapon that is equipped by the caster. The magnitude is the units of condition and charge restored.",
-
+	["magic.miscCorruption"] = "Corruption",
+	["magic.miscCorruptionDesc"] = "This effect creates a shadowy counterpart of the target that will aid the caster in combat.",
+	["magic.miscDistractCreature"] = "Distract Creature",
+	["magic.miscDistractCreatureDesc"] = "This effect compels a creature to wander away from their current position while attempting to keep their distance from the caster. The effect's magnitude is the maximum distance that the target can travel and the effect cannot be casted again on the target while it is active. Using this effect will fail if the target is aware of the caster's presence. When the effect ends, the target begins to return to their original location and cannot be distracted again until they do.",
+	["magic.miscDistractHumanoid"] = "Distract Humanoid",
+	["magic.miscDistractHumanoidDesc"] = "This effect compels a person to wander away from their current position while attempting to keep their distance from the caster. The effect's magnitude is the maximum distance that the target can travel and the effect cannot be casted again on the target while it is active. Using this effect will fail if the target is aware of the caster's presence. When the effect ends, the target begins to return to their original location and cannot be distracted again until they do.",
+	["magic.miscGazeOfVeloth"] = "Gaze of Veloth",
+	["magic.miscGazeOfVelothDesc"] = "Witness the Face of Veloth!",
+	["magic.miscDetectEnemy"] = "Detect Enemy",
+	["magic.miscDetectEnemyDesc"] = "The caster of this effect can detect any entity animated by a spirit; they appear on the map as symbols. This effect includes all hostile beings. The effect's magnitude is the range in feet from the caster that enemies are detected.",
+	["magic.miscDetectInvisibility"] = "Detect Invisibility",
+	["magic.miscDetectInvisibilityDesc"] = "The caster of this effect can detect any entity animated by a spirit; they appear on the map as symbols. This effect includes all beings affected by chameleon or invisibility effects. The effect's magnitude is the range in feet from the caster that hidden beings are detected. The chameleon and invisibility effects on detected entities are also weakened.",
+	["magic.miscBlink"] = "Blink",
+	["magic.miscBlinkDesc"] = "This effect teleports the caster in whatever direction they are looking in. The effect's magnitude is the maximum distance that the caster can move.",
+	["magic.miscFortifyCasting"] = "Fortify Casting",
+	["magic.miscFortifyCastingDesc"] = "This effect raises the subject's chance of successfully casting a spell.",
+	["magic.miscPrismaticLight"] = "Prismatic Light",
+	["magic.miscPrismaticLightDesc"] = "This effect creates a projectile of prismatic light. Upon striking a target, the projectile illuminates the area for the duration of the effect. The light projectile does not cause any damage.",
+	
 	["magic.wabbajackFailure"] = "%s is too strong to be Wabbajacked!",
+	["magic.wabbajackAlready"] = "%s is already Wabbajacked!",
+	["magic.gazeOfVelothImmune"] = "%s transcends the Face of Veloth!",
+	["magic.gazeOfVelothDagoth"] = "Dagoth Ur laughs at the Face of Veloth!",
+	["magic.gazeOfVelothAsh"] = "%s has no mortal link to the Face of Veloth!",
+	["magic.gazeOfVelothDaedra"] = "%s does not care about the Face of Veloth!",
+	["magic.gazeOfVelothCreature"] = "%s cannot comprehend the Face of Veloth!",
+	["magic.gazeOfVelothOther"] = "%s is unaffected by the Face of Veloth!",
 	["magic.banishFailure"] = "This spell is too weak to banish %s!",
-	["magic.passWallWard"] = "You cannot pass through to there.",
-	["magic.passWallAlpha"] = "You cannot pass through that.",
-	["magic.passWallExterior"] = "You must be in a confined space.",
-	["magic.passWallDoorExterior"] = "You must remain in a confined space.",
-	["magic.passWallUnderwater"] = "You cannot be underwater.",
+	["magic.passwallWard"] = "You cannot pass through to there.",
+	["magic.passwallAlpha"] = "You cannot pass through that.",
+	["magic.passwallExterior"] = "You must be in a confined space.",
+	["magic.passwallDoorExterior"] = "You cannot leave a confined space.",
+	["magic.passwallUnderwater"] = "You cannot be underwater.",
 
 	["magic.itemPotionReflectDamageB"] = "Bargain Potion of Reflect Dmg",
 	["magic.itemPotionReflectDamageC"] = "Cheap Potion of Reflect Dmg",
@@ -117,9 +145,12 @@ return {
 	["magic.itemPotionInsightS"] = "Standard Potion of Insight",
 	["magic.itemPotionInsightQ"] = "Quality Potion of Insight",
 	["magic.itemPotionInsightE"] = "Exclusive Potion of Insight",
+	["magic.itemPotionDetectHumanoid"] = "Potion of Detect Humanoid",
+	["magic.itemPotionDetectEnemy"] = "Potion of Detect Enemies",	-- Vanilla's Detect potions have inconsistent names, so this feels OK?
+	["magic.itemPotionDetectInvisibility"] = "Potion of Detect Invisibility",
 
 	["magic.itemScSummonDremoraArcher"] = "Scroll of Mehrunes' Quarry",
-	["magic.itemScSummonDremoraCaster"] = "Scroll of the Razor Compact",
+	["magic.itemScSummonDremoraCaster"] = "Scroll of The Razor Compact",
 	["magic.itemScKynesIntervention"] = "Scroll of Kyne's Intervention",
 
 	-- Reputation Text
@@ -132,10 +163,13 @@ return {
 	["reputation.HighRock"] = "High Rock",
 	["reputation.Hammerfell"] = "Hammerfell",
 
+	-- Faction Text
+	["faction.title"] = "Factions",		-- Yes, it is just "Faction" in vanilla, but that really does not make sense
+
 	-- MCM Text
 	["mcm.name"] = "Tamriel Data",
 	["mcm.preferences"] = "Preferences",
-	["mcm.preferencesInfo"] = "Tamriel Data MWSE-Lua v2.0",
+	["mcm.preferencesInfo"] = "Tamriel Data MWSE-Lua v2.1",
 	["mcm.credits"] = "Credits:",
 	["mcm.Kynesifnar"] = "Kynesifnar - Scripting",
 	["mcm.mort"] = "mort - Scripting",
@@ -156,7 +190,7 @@ return {
 	["mcm.interventionSpellsDescription"] = "Adds new intervention spells for different pantheons and gods of Tamriel, such as the Nordic goddess Kyne.\nRequires reload.\n\nDefault: On\n\n",
 
 	["mcm.miscSpellsLabel"] = "Add New Miscellaneous Spells",
-	["mcm.miscSpellsDescription"] = "Adds new spells that do not fit into the categories above.\nRequires reload.\n\nDefault: On\n\n",
+	["mcm.miscSpellsDescription"] = "Adds new spells that do not fit into the categories above, such as Banish Daedra, Reflect Damage, Distract Humanoid, and Wabbajack.\nRequires reload.\n\nDefault: On\n\n",
 
 	["mcm.magickaExpandedLabel"] = "Overwrite Magicka Expanded Effects",
 	["mcm.magickaExpandedDescription"] = "Replaces some magic effects from Magicka Expanded with ones that are also implemented by Tamriel Data for the sake of consistency, such as Banish Daedra and Summon Vermai." ..
@@ -166,12 +200,19 @@ return {
 	["mcm.provincialReputationDescription"] = "Modifies the GUI to display the player's reputation in different parts of Tamriel rather than just a single global value. The player's chances of successfully admiring, intimidating, or taunting someone are also affected by these values." ..
 											"\nRequires reload.\n\nDefault: On\n\n",
 
-	["mcm.weatherChangesLabel"] = "Change Weathers",
+	["mcm.provincialFactionsUI"] = "Provincial Factions",
+	["mcm.provincialFactionsUIDescription"] = "Modifies the GUI so that joined factions are organized by province. This also removes the province names from the faction names in the UI.\nRequires reload.\n\nDefault: On\n\n",
+
+	["mcm.weatherChangesLabel"] = "New Weathers",
 	["mcm.weatherChangesDescription"] = "Adds new weathers to some regions, such as sporefall in the Othreleth Woods, sandstorms in Shipal-Shin, and tropical storms in and around the Abecean Sea. Also makes minor adjustments to the weather in other regions, such as ashstorms in parts of Morrowind's mainland not originating from Red Mountain."..
 											"\nMay conflict with MWSE addons that affect weathers, such as Watch the Skies.\nRequires restart.\n\nDefault: On\n\n",
 
+	["mcm.hatsLabel"] = "Hats as Clothing",
+	["mcm.hatsDescription"] = "Makes hats from Tamriel Data function as clothing rather than armor."..
+											"\nMay conflict with MWSE addons that add new types of clothing.\nRequires restart.\n\nDefault: On\n\n",
+
 	["mcm.creatureBehaviorsLabel"] = "Enhance Creature Behaviors",
-	["mcm.creatureBehaviorsDescription"] = "Makes creatures behave in a more interesting manner or one that is less constrained by Morrowind's limitations, such as nesting Strident Runners not awkwardly getting up at the end of each animation loop."..
+	["mcm.creatureBehaviorsDescription"] = "Makes creatures behave in a more interesting manner or one that is less constrained by Morrowind's limitations, such as tanthas in western Cyrodiil attacking the player when one of their nests is looted."..
 											"\nRequires restart.\n\nDefault: On\n\n",
 
 	["mcm.animationFixLabel"] = "Fix Player Animations for Tamriel Data Races",
@@ -190,6 +231,12 @@ return {
 
 	["mcm.travelPricesLabel"] = "Adjust Travel Prices",
 	["mcm.travelPricesDescription"] = "Changes the cost of traveling to destinations added by Tamriel Rebuilt and Project Tamriel when Morrowind's calculated prices are unreasonable, such as between Mages Guild networks.\nRequires reload.\n\nDefault: On\n\n",
+	
+	["mcm.khajiitFormCharacterCreationLabel"] = "Specify Khajiit Form during Character Creation",
+	["mcm.khajiitFormCharacterCreationDescription"] = "Names the Khajiit forms in the relevant character creation menus rather than just calling all of them \"Khajiit\". Another mod, such as All Races and Classes Unlocked, is needed to actually make these races available during character creation.\nRequires reload.\n\nDefault: On\n\n",
+
+	["mcm.butterflyMothTooltipLabel"] = "Ingredient Tooltip for Butterflies and Moths",
+	["mcm.butterflyMothTooltipDescription"] = "Shows the effects, weight, and value of ingredients that can be harvested from butterflies and moths when looking at them, much like the Graphic Herbalism feature that does so for harvestable containers.\nRequires reload.\n\nDefault: On, if Graphic Herbalism is installed and its feature for showing ingredient tooltips is active\n\n",
 
 	["mcm.interventionRangeLabel"] = "Limit Intervention Spell Range",
 	["mcm.interventionRangeDescription"] = "Restricts the range at which some intervention spells work, preventing them from being used to teleport across the entirety of Tamriel." ..

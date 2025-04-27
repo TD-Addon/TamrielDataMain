@@ -6,6 +6,7 @@ event.register(tes3.event.loaded, function()
 		local me_summoning = include("OperatorJack.MagickaExpanded-SummoningPack.main")
 		local me_tr = include("OperatorJack.MagickaExpanded-TamrielRebuiltPack.main")
 		local me_lorefriendly = include("OperatorJack.MagickaExpanded-LoreFriendlyPack.main")
+		local me_cortex = include("OperatorJack.MagickaExpanded-CortexPack.main")
 
 		for _,spell in pairs(me_framework.getActiveSpells()) do
 			for i = 1, 8, 1 do
@@ -62,13 +63,25 @@ event.register(tes3.event.loaded, function()
 					elseif spell.effects[i].id == tes3.effect.boundWarhammer then
 						replacementEffect = tes3.getObject("T_Com_Cnj_BoundWarhammer").effects[1]
 						spell.effects[i] = replacementEffect
+					elseif spell.effects[i].id == tes3.effect.boundClaymore then
+						replacementEffect = tes3.getObject("T_Com_Cnj_BoundGreatsword").effects[1]
+						spell.effects[i] = replacementEffect
 					end
 				end
 				
-				if config.miscSpells == true and me_lorefriendly then
-					if spell.effects[i].id == tes3.effect.banishDaedra then
-						replacementEffect = tes3.getObject("T_Com_Mys_BanishDaedra").effects[1]
-						spell.effects[i] = replacementEffect
+				if config.miscSpells == true then
+					if me_lorefriendly then
+						if spell.effects[i].id == tes3.effect.banishDaedra then
+							replacementEffect = tes3.getObject("T_Com_Mys_BanishDaedra").effects[1]
+							spell.effects[i] = replacementEffect
+						end
+					end
+
+					if me_cortex then
+						if spell.effects[i].id == tes3.effect.blink then
+							replacementEffect = tes3.getObject("T_Com_Mys_Blink").effects[1]
+							spell.effects[i] = replacementEffect
+						end
 					end
 				end
 				
