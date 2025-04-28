@@ -120,6 +120,7 @@ return {
 	["magic.miscPrismaticLight"] = "Lumière prismatique",
 	["magic.miscPrismaticLightDesc"] = "Cet effet crée un projectile de lumière prismatique. Quand il touche une cible, le projectile illumine la zone pour la durée de l'effet. Le projectile de lumière n'inflige aucun dégât.",
 
+	["magic.blinkLevitationDisabled"] = "Transfert ne fonctionne pas ici.",
 	["magic.wabbajackFailure"] = "%s est trop puissant pour que Wabbajack l'affecte !",
 	["magic.wabbajackAlready"] = "%s est déjà sous l'effet de Wabbajack !",
 	["magic.gazeOfVelothImmune"] = "%s transcende le visage de Véloth !",
@@ -191,19 +192,22 @@ return {
 	
 	["mcm.miscSpellsLabel"] = "Ajout de nouveaux sorts divers",
 	["mcm.miscSpellsDescription"] = "Ajoute de nouveaux sorts qui ne rentrent pas dans les catégories précédentes, comme Bannissement de Daedra, Réflexion de dégâts, Distraction des humanoïdes, et Wabbajack.\nRequiert un rechargement.\n\nPar défaut : activé\n\n",
+	
+	["mcm.passwallAlterationLabel"] = "Faire de Passe-muraille un effet de l'école d'Altération",
+	["mcm.passwallAlterationDescription"] = "Définit l'effet magique Passe-muraille comme appartenant à l'école de l'Altération au lieu de celle du Mysticisme.\nRequiert un rechargement.\n\nPar défaut : activé\n\n",
 
 	["mcm.magickaExpandedLabel"] = "Remplacer les effets de Magie étendue",
 	["mcm.magickaExpandedDescription"] = "Remplace certains effets magiques de Magie étendue avec ceux implémentés par Ressources communes de Tamriel pour être consistant, comme Bannissement de Daedra et Appel de vermaï." ..
 											"\nCette option n'aura d'effet que si les packs correspondants de Magie étendue sont installés et que les paramètres de Ressources communes de Tamriel ajoutant les nouveaux sorts correspondants sont activés.\nRequiert un rechargement.\n\nPar défaut : activé\n\n",
 											
-	["mcm.provincialReputationLabel"] = "Système de réputation provinciale",
+	["mcm.provincialReputationLabel"] = "Interface pour le système de réputation provinciale",
 	["mcm.provincialReputationDescription"] = "Modifie l'interface pour afficher la réputation du joueur dans différentes régions de Tamriel au lieu d'utiliser une unique valeur globale. Les chances du joueur de parvenir à admirer, intimider ou insulter quelqu'un sont également influencées par ces valeurs." ..
 											"\nRequiert un rechargement.\n\nPar défaut : activé\n\n",
 											
 	["mcm.provincialFactionsUI"] = "Interface de factions provinciales",
 	["mcm.provincialFactionsUIDescription"] = "Modifie l'interface pour que les factions dont le joueur fait partie soient organisées par province.\nRequiert un rechargement.\n\nPar défaut : activé\n\n",
 
-	["mcm.weatherChangesLabel"] = "Modifications de la météo",
+	["mcm.weatherChangesLabel"] = "Nouvelles météos",
 	["mcm.weatherChangesDescription"] = "Implémente de nouvelles météos dans certaines régions, comme des chutes de spores dans les Bois d'Othréleth, des tempêtes de sable dans la région de Shipal-Shin, et des tempête tropicales dans la mer d'Abecéanne. De plus, cette option procède à des ajustements mineurs de la météo dans d'autres régions, comme le fait que les tempêtes de cendres sur le continent de Morrowind ne proviennent plus systématiquement du mont Ecarlate."..
 											"\nCette option risque d'entrer en conflit avec les mods MWSE qui touchent à la météo, comme Watch the Skies.\nRequiert un rechargement.\n\nPar défaut : activé\n\n",
 											

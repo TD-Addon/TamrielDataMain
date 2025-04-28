@@ -5,6 +5,7 @@ local defaultConfig = {
 	boundSpells = true,
 	interventionSpells = true,
 	miscSpells = true,
+	passwallAlteration = false,
 	overwriteMagickaExpanded = true,
 	provincialReputation = true,
 	provincialFactionUI = true,

@@ -711,10 +711,10 @@ event.register(tes3.event.loaded, function()
 	end
 
 	if config.miscSpells == true then
-		timer.start{ duration = 0.0166667, iterations = -1, type = timer.simulate, callback = magic.prismaticLightTick }
-		event.register(tes3.event.referenceActivated, magic.onPrismaticLightReferenceActivated, { unregisterOnLoad = true })
-		event.register(tes3.event.referenceDeactivated, magic.onPrismaticLightReferenceDeactivated, { unregisterOnLoad = true })
-		event.register(tes3.event.magicEffectRemoved, magic.prismaticLightRemovedEffect, { unregisterOnLoad = true })
+		--timer.start{ duration = 0.0166667, iterations = -1, type = timer.simulate, callback = magic.prismaticLightTick }
+		--event.register(tes3.event.referenceActivated, magic.onPrismaticLightReferenceActivated, { unregisterOnLoad = true })
+		--event.register(tes3.event.referenceDeactivated, magic.onPrismaticLightReferenceDeactivated, { unregisterOnLoad = true })
+		--event.register(tes3.event.magicEffectRemoved, magic.prismaticLightRemovedEffect, { unregisterOnLoad = true })
 
 		event.register(tes3.event.spellCast, magic.fortifyCastingOnSpellCast, { unregisterOnLoad = true })
 

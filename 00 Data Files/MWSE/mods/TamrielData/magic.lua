@@ -3,6 +3,12 @@ local this = {}
 local common = require("tamrielData.common")
 local config = require("tamrielData.config")
 
+local passwallAlteration = config.passwallAlteration	-- Magic effects are only resolved once when the game begins, but just checking config.passwallAlteration means that the effect's hit sound and VFX will change with the config's value even if the game is not restarted
+local passwallIcon = "td\\s\\td_s_passwall.tga"
+if passwallAlteration then
+	passwallIcon = "td\\s\\td_s_passwall_alt.tga"
+end
+
 local northMarkerCos = 0
 local northMarkerSin = 0
 local mapWidth = 0
@@ -109,7 +115,7 @@ local td_summon_effects = {
 	{ tes3.effect.T_summon_SteamCent, common.i18n("magic.summonSteamCent"), "centurion_steam", 29, "td\\s\\td_s_sum_dwe_cent.dds", common.i18n("magic.summonSteamCentDesc")},
 	{ tes3.effect.T_summon_SpiderCent, common.i18n("magic.summonSpiderCent"), "centurion_spider", 15, "td\\s\\td_s_sum_dwe_spdr.dds", common.i18n("magic.summonSpiderCentDesc")},
 	{ tes3.effect.T_summon_WelkyndSpirit, common.i18n("magic.summonWelkyndSpirit"), "T_Ayl_Cre_WelkSpr_01", 29, "td\\s\\td_s_sum_welk_srt.dds", common.i18n("magic.summonWelkyndSpiritDesc")},
-	{ tes3.effect.T_summon_Auroran, common.i18n("magic.summonAuroran"), "T_Dae_Cre_Auroran_01", 44, "td\\s\\td_s_sum_auro.dds", common.i18n("magic.summonAuroranDesc")},
+	{ tes3.effect.T_summon_Auroran, common.i18n("magic.summonAuroran"), "T_Dae_Cre_Auroran_01", 46, "td\\s\\td_s_sum_auro.dds", common.i18n("magic.summonAuroranDesc")},
 	{ tes3.effect.T_summon_Herne, common.i18n("magic.summonHerne"), "T_Dae_Cre_Herne_01", 18, "td\\s\\td_s_sum_herne.dds", common.i18n("magic.summonHerneDesc")},
 	{ tes3.effect.T_summon_Morphoid, common.i18n("magic.summonMorphoid"), "T_Dae_Cre_Morphoid_01", 21, "td\\s\\td_s_sum_morph.dds", common.i18n("magic.summonMorphoidDesc")},
 	{ tes3.effect.T_summon_Draugr, common.i18n("magic.summonDraugr"), "T_Sky_Und_Drgr_01", 29, "td\\s\\td_s_sum_draugr.dds", common.i18n("magic.summonDraugrDesc")},
@@ -121,7 +127,7 @@ local td_summon_effects = {
 	{ tes3.effect.T_summon_MinoBarrowguard, common.i18n("magic.summonMinoBarrowguard"), "T_Cyr_Und_MinoBarrow_01", 57, "td\\s\\td_s_summ_mintur.dds", common.i18n("magic.summonMinoBarrowguardDesc")},
 	{ tes3.effect.T_summon_SkeletonChampion, common.i18n("magic.summonSkeletonChampion"), "T_Glb_Und_SkelCmpGls_01", 32, "td\\s\\td_s_sum_skele_c.dds", common.i18n("magic.summonSkeletonChampionDesc")},
 	{ tes3.effect.T_summon_AtroFrostMon, common.i18n("magic.summonFrostMonarch"), "T_Dae_Cre_MonarchFr_01", 47, "td\\s\\td_s_sum_fst_monch.dds", common.i18n("magic.summonFrostMonarchDesc")},
-	{ tes3.effect.T_summon_SpiderDaedra, common.i18n("magic.summonSpiderDaedra"), "", 47, "td\\s\\td_s_sum_spidr_dae.dds", common.i18n("magic.summonSpiderDaedraDesc")},
+	{ tes3.effect.T_summon_SpiderDaedra, common.i18n("magic.summonSpiderDaedra"), "T_Dae_Cre_SpiderDae_01", 42, "td\\s\\td_s_sum_spidr_dae.dds", common.i18n("magic.summonSpiderDaedraDesc")},
 }
 
 -- effect id, effect name, item id, 2nd item ID, effect mana cost, icon, effect description
@@ -143,7 +149,7 @@ local td_intervention_effects = {
 
 -- effect id, effect name, effect mana cost, icon, effect description
 local td_misc_effects = {
-	{ tes3.effect.T_mysticism_Passwall, common.i18n("magic.miscPasswall"), 750, "td\\s\\td_s_passwall.tga", common.i18n("magic.miscPasswallDesc")},
+	{ tes3.effect.T_mysticism_Passwall, common.i18n("magic.miscPasswall"), 750, passwallIcon, common.i18n("magic.miscPasswallDesc")},
 	{ tes3.effect.T_mysticism_BanishDae, common.i18n("magic.miscBanish"), 128, "td\\s\\td_s_ban_daedra.tga", common.i18n("magic.miscBanishDesc")},
 	{ tes3.effect.T_mysticism_ReflectDmg, common.i18n("magic.miscReflectDamage"), 20, "td\\s\\td_s_ref_dam.tga", common.i18n("magic.miscReflectDamageDesc")},
 	{ tes3.effect.T_mysticism_DetHuman, common.i18n("magic.miscDetectHumanoid"), 1.5, "td\\s\\td_s_det_hum.tga", common.i18n("magic.miscDetectHumanoidDesc")},
@@ -182,7 +188,7 @@ local td_summon_spells = {
 	{ "T_Dwe_Cnj_Uni_SummonSteamCent", tes3.spellType.spell, common.i18n("magic.summonSteamCent"), 88, { tes3.effect.T_summon_SteamCent }, tes3.effectRange.self, 0, 60, 1, 1 },
 	{ "T_Dwe_Cnj_Uni_SummonSpiderCent", tes3.spellType.spell, common.i18n("magic.summonSpiderCent"), 45, { tes3.effect.T_summon_SpiderCent }, tes3.effectRange.self, 0, 60, 1, 1 },
 	{ "T_Ayl_Cnj_SummonWelkyndSpirit", tes3.spellType.spell, common.i18n("magic.summonWelkyndSpirit"), 78, { tes3.effect.T_summon_WelkyndSpirit }, tes3.effectRange.self, 0, 60, 1, 1 },
-	{ "T_Com_Cnj_SummonAuroran", tes3.spellType.spell, common.i18n("magic.summonAuroran"), 132, { tes3.effect.T_summon_Auroran }, tes3.effectRange.self, 0, 60, 1, 1 },
+	{ "T_Com_Cnj_SummonAuroran", tes3.spellType.spell, common.i18n("magic.summonAuroran"), 138, { tes3.effect.T_summon_Auroran }, tes3.effectRange.self, 0, 60, 1, 1 },
 	{ "T_Com_Cnj_SummonHerne", tes3.spellType.spell, common.i18n("magic.summonHerne"), 54, { tes3.effect.T_summon_Herne }, tes3.effectRange.self, 0, 60, 1, 1 },
 	{ "T_Com_Cnj_SummonMorphoid", tes3.spellType.spell, common.i18n("magic.summonMorphoid"), 63, { tes3.effect.T_summon_Morphoid }, tes3.effectRange.self, 0, 60, 1, 1 },
 	{ "T_Nor_Cnj_SummonDraugr", tes3.spellType.spell, common.i18n("magic.summonDraugr"), 78, { tes3.effect.T_summon_Draugr }, tes3.effectRange.self, 0, 60, 1, 1 },
@@ -196,7 +202,7 @@ local td_summon_spells = {
 	{ "T_Cyr_Cnj_SummonMinoBarrowguard", tes3.spellType.spell, common.i18n("magic.summonMinoBarrowguard"), 171, { tes3.effect.T_summon_MinoBarrowguard }, tes3.effectRange.self, 0, 60, 1, 1 },
 	{ "T_Com_Cnj_SummonSkeletonChamp", tes3.spellType.spell, common.i18n("magic.summonSkeletonChampion"), 96, { tes3.effect.T_summon_SkeletonChampion }, tes3.effectRange.self, 0, 60, 1, 1 },
 	{ "T_Com_Cnj_SummonFrostMonarch", tes3.spellType.spell, common.i18n("magic.summonFrostMonarch"), 141, { tes3.effect.T_summon_AtroFrostMon }, tes3.effectRange.self, 0, 60, 1, 1 },
-	{ "T_Com_Cnj_SummonSpiderDaedra", tes3.spellType.spell, common.i18n("magic.summonSpiderDaedra"), 141, { tes3.effect.T_summon_SpiderDaedra }, tes3.effectRange.self, 0, 60, 1, 1 },
+	{ "T_Com_Cnj_SummonSpiderDaedra", tes3.spellType.spell, common.i18n("magic.summonSpiderDaedra"), 126, { tes3.effect.T_summon_SpiderDaedra }, tes3.effectRange.self, 0, 60, 1, 1 },
 }
 
 -- spell id, cast type, spell name, spell mana cost, 1st effect id, 1st range type, 1st area, 1st duration, 1st minimum magnitude, 1st maximum magnitude, ...
@@ -308,7 +314,7 @@ local td_ingredients = {
 	{ "T_IngFlor_PBloomBulb_01", tes3.effect.poison, -1, -1,
 								 tes3.effect.T_mysticism_ReflectDmg, -1, -1,
 								 tes3.effect.damageFatigue, -1, -1,
-								 tes3.effect.light, -1, -1, },
+								 tes3.effect.light, -1, -1 },
 	{ "T_IngCrea_Eyestar_01", tes3.effect.nightEye, -1, -1,
 							  tes3.effect.T_mysticism_Insight, -1, -1,
 							  tes3.effect.weaknesstoMagicka, -1, -1,
@@ -329,19 +335,15 @@ local td_ingredients = {
 								   tes3.effect.restoreMagicka, -1, -1,
 								   tes3.effect.T_mysticism_Insight, -1, -1,
 								   tes3.effect.fortifyMaximumMagicka, -1, -1 },
-	{ "T_IngMine_PearlPink_01", tes3.effect.drainAttribute, tes3.attribute.strength, 0,
-								tes3.effect.waterBreathing, -1, -1,
-								tes3.effect.T_restoration_FortifyCasting, -1, -1,
-								tes3.effect.restoreHealth, -1, -1 },
-	{ "T_IngMine_PearlPinkDae_01", tes3.effect.drainAttribute, tes3.attribute.strength, 0,
+	{ "T_IngMine_PearlKardesh_01", tes3.effect.silence, -1, -1,
 								   tes3.effect.waterBreathing, -1, -1,
-								   tes3.effect.T_restoration_FortifyCasting, -1, -1,
-								   tes3.effect.restoreHealth, -1, -1 },
+								   tes3.effect.damageAttribute, tes3.attribute.luck, 0,
+								   tes3.effect.T_restoration_FortifyCasting, -1, -1 },
 	{ "T_IngMine_DiamondRed_01", tes3.effect.drainAttribute, tes3.attribute.endurance, 0,
 								 tes3.effect.invisibility, -1, -1,
 								 tes3.effect.T_mysticism_ReflectDmg, -1, -1,
 								 tes3.effect.resistFire, -1, -1 },
-	{ "T_IngCrea_PrismaticDust_01", tes3.effect.light, -1, -1,	-- Change to Prismatic Light once MWSE has been changed as needed
+	{ "T_IngCrea_PrismaticDust_01", tes3.effect.light, -1, -1,	-- Change to Prismatic Light once MWSE has been fixed as needed
 									tes3.effect.T_alteration_RadShield, -1, -1,
 									tes3.effect.blind, -1, -1,
 									tes3.effect.restoreMagicka, -1, -1 },
@@ -372,7 +374,7 @@ local td_ingredients = {
 	{ "T_IngCrea_ArmunHide_01", tes3.effect.resistNormalWeapons, -1, -1,
 								tes3.effect.T_mysticism_DetHuman, -1, -1,
 								tes3.effect.resistFire, -1, -1,
-								tes3.effect.weaknesstoFrost, -1, -1, },
+								tes3.effect.weaknesstoFrost, -1, -1 },
 	{ "T_IngCrea_RakiTeeth_01", tes3.effect.drainHealth, -1, -1,
 								tes3.effect.weaknesstoShock, -1, -1,
 								tes3.effect.T_mysticism_DetHuman, -1, -1,
@@ -384,7 +386,7 @@ local td_ingredients = {
 	{ "T_IngCrea_DridreaSilk_01", tes3.effect.burden, -1, -1,
 								  tes3.effect.nightEye, -1, -1,
 								  tes3.effect.T_mysticism_DetEnemy, -1, -1,
-								  tes3.effect.damageAttribute, tes3.attribute.endurance, 0, },
+								  tes3.effect.damageAttribute, tes3.attribute.endurance, 0 },
 	{ "T_IngCrea_MothWingCyr_02", tes3.effect.drainAttribute, tes3.attribute.willpower, 0,
 								  tes3.effect.T_mysticism_DetHuman, -1, -1,
 								  tes3.effect.fortifyMagicka, -1, -1,
@@ -423,38 +425,42 @@ local td_ingredients = {
 	{ "T_IngFlor_Peony_01", tes3.effect.restoreAttribute, tes3.attribute.strength, -1,
 							tes3.effect.damageHealth, -1, -1,
 							tes3.effect.damageAttribute, tes3.attribute.speed, -1,
-							tes3.effect.T_mysticism_DetHuman, -1, -1, },
+							tes3.effect.T_mysticism_DetHuman, -1, -1 },
 	{ "T_IngSpice_Curcuma_01", tes3.effect.T_mysticism_ReflectDmg, -1, -1,
 							   tes3.effect.weaknesstoFire, -1, -1,
 							   tes3.effect.damageAttribute, tes3.attribute.strength, -1,
-							   tes3.effect.resistParalysis, -1, -1, },
+							   tes3.effect.resistParalysis, -1, -1 },
 	{ "T_IngCrea_CetaceanMelon", tes3.effect.detectAnimal, -1, -1,
 							   	 tes3.effect.sound, -1, -1,
 							   	 tes3.effect.damageAttribute, tes3.attribute.personality, -1,
-							   	 tes3.effect.T_mysticism_ReflectDmg, -1, -1, },
+							   	 tes3.effect.T_mysticism_ReflectDmg, -1, -1 },
 	{ "T_IngFlor_Siyat_01", tes3.effect.T_mysticism_Insight, -1, -1,
 							tes3.effect.resistParalysis, -1, -1,
 							tes3.effect.damageMagicka, -1, -1,
-							tes3.effect.dispel, -1, -1, },
+							tes3.effect.dispel, -1, -1 },
 	{ "T_IngCrea_HagravenFeathers_01", tes3.effect.damageMagicka, -1, -1,
 									   tes3.effect.fortifyAttack, -1, -1,
 									   tes3.effect.weaknesstoShock, -1, -1,
-									   tes3.effect.T_restoration_FortifyCasting, -1, -1, },
+									   tes3.effect.T_restoration_FortifyCasting, -1, -1 },
 	{ "T_IngSpice_Cinnamon_01", tes3.effect.fireDamage, -1, -1,
 								tes3.effect.T_restoration_FortifyCasting, -1, -1,
 								tes3.effect.damageFatigue, -1, -1 },
 	{ "T_IngMine_Spellstone_01", tes3.effect.T_restoration_FortifyCasting, -1, -1,
 								 tes3.effect.spellAbsorption, -1, -1,
 								 tes3.effect.restoreMagicka, -1, -1,
-								 tes3.effect.telekinesis, -1, -1, },
+								 tes3.effect.telekinesis, -1, -1 },
 	{ "T_IngSpice_Pepper_01", tes3.effect.drainAttribute, tes3.attribute.personality, -1,
 							  tes3.effect.resistMagicka, -1, -1,
 							  tes3.effect.fireDamage, -1, -1,
-							  tes3.effect.T_mysticism_Insight, -1, -1, },
+							  tes3.effect.T_mysticism_Insight, -1, -1 },
+	{ "T_IngFlor_MonksTons_01", tes3.effect.T_mysticism_Insight, -1, -1,
+								tes3.effect.blind, -1, -1,
+								tes3.effect.fortifyAttribute, tes3.attribute.willpower, 0,
+								tes3.effect.drainAttribute, tes3.attribute.personality, 0 },
 	--{ "T_IngMine_Agate_01", tes3.effect.reflect, -1, -1,
 	--						  tes3.effect.levitate, -1, -1,
 	--						  tes3.effect.T_illusion_PrismaticLight, -1, -1,
-	--						  tes3.effect.silence, -1, -1, },
+	--						  tes3.effect.silence, -1, -1 },
 }
 
 -- item id, item name, 1st effect id, 1st duration, 1st magnitude, ...
@@ -556,12 +562,14 @@ local wabbajackCreatures = {
 	"golden saint"
 }
 
--- actor name
+-- actor id
 local gazeOfVelothImmuneActors = {
-	"Vivec",
-	"Almalexia",
-	"Divayth Fyr",
-	"Azra Nightwielder"
+	"vivec_god",
+	"almalexia",
+	"Almalexia_warrior",
+	"divayth fyr",
+	"wulf",
+	"Sky_qRe_KWMG6_Azra"
 }
 
 ---@param table table
@@ -969,59 +977,83 @@ local function blinkEffect(e)
 		return
 	end
 
-	if tes3.worldController.flagTeleportingDisabled then
-		tes3ui.showNotifyMenu(tes3.findGMST(tes3.gmst.sTeleportDisabled).value)
+	if tes3.worldController.flagLevitationDisabled then
+		tes3ui.showNotifyMenu(common.i18n("magic.blinkLevitationDisabled"))
+		e.effectInstance.state = tes3.spellState.retired
 		return
 	end
 
 	local range = e.effectInstance.magnitude * 22.1
 
-	local obstacles = tes3.rayTest{
+	local wardCheck = tes3.rayTest{
 		position = tes3.getPlayerEyePosition(),
 		direction = tes3.getPlayerEyeVector(),
 		maxDistance = range,
 		findAll = true,
 		ignore = { tes3.player },
-	}
-
-	if obstacles then		-- I would much rather just test the collision, but that doesn't seem to be possible
-		for _,obstacle in ipairs(obstacles) do
-			local validObstacle = true
-			if obstacle.reference then
-				local mesh = tes3.loadMesh(obstacle.reference.baseObject.mesh)
-				if mesh.extraData then
-					repeat
-						if mesh.extraData.string and (mesh.extraData.string:lower() == "nco" or mesh.extraData.string:lower() == "nc") then validObstacle = false end
-					until not mesh.extraData.next
-				end
-			elseif obstacle.object.name and obstacle.object.name:startswith("Water ") then
-				validObstacle = false
-			end
+		observeAppCullFlag  = false,
+		useBackTriangles = true
+	}			
 	
-			if validObstacle then
-				range = obstacle.distance - (tes3.mobilePlayer.boundSize2D.y / 2) - 16		-- The 16 is there to put a bit more space between the player and the target; there is probably a better way to do this by taking the angle of the camera into account
-				break
+	if wardCheck then
+		for _,detection in ipairs(wardCheck) do
+			if detection.reference then
+				if detection.reference.baseObject.id:find("T_Dae_Ward_") or detection.reference.baseObject.id:find("T_Aid_PasswallWard_") then
+					range = detection.distance - 16
+					break
+				end
 			end
 		end
 	end
 
 	if range > 0 then
-		local destination = tes3.mobilePlayer.position + tes3.getPlayerEyeVector() * range
-
-		tes3.mobilePlayer.isSwimming = false	-- If the player is swimming, then they need to stop swimming in order to leave the water; a condition for this shouldn't be needed since they were either not swimming to begin with or will immediately begin swimming again if still underwater
-
-		local heightCheck = tes3.rayTest{
-			position = destination + tes3vector3.new(0, 0, tes3.mobilePlayer.height),
-			direction = tes3vector3.new(0, 0, -1),
-			maxDistance = tes3.mobilePlayer.height,
-			ignore = { tes3.player },
+		local obstacles = tes3.rayTest{
+			position = tes3.getPlayerEyePosition(),
+			direction = tes3.getPlayerEyeVector(),
+			maxDistance = range,
+			findAll = true,
+			ignore = { tes3.player }
 		}
-
-		if heightCheck and heightCheck.distance then
-			destination = destination + tes3vector3.new(0, 0, tes3.mobilePlayer.height - heightCheck.distance)	-- This should prevent the player from clipping through objects below them
+	
+		if obstacles then		-- I would much rather just test the collision, but that doesn't seem to be possible
+			for _,obstacle in ipairs(obstacles) do
+				local validObstacle = true
+				if obstacle.reference then
+					local mesh = tes3.loadMesh(obstacle.reference.baseObject.mesh)
+					if mesh.extraData then
+						repeat
+							if mesh.extraData.string and (mesh.extraData.string:lower() == "nco" or mesh.extraData.string:lower() == "nc") then validObstacle = false end
+						until not mesh.extraData.next
+					end
+				elseif obstacle.object.name and obstacle.object.name:startswith("Water ") then
+					validObstacle = false
+				end
+		
+				if validObstacle then
+					range = obstacle.distance - (tes3.mobilePlayer.boundSize2D.y / 2) - 16		-- The 16 is there to put a bit more space between the player and the target; there is probably a better way to do this by taking the angle of the camera into account
+					break
+				end
+			end
 		end
-
-		tes3.mobilePlayer.position = destination
+	
+		if range > 0 then
+			local destination = tes3.mobilePlayer.position + tes3.getPlayerEyeVector() * range
+	
+			tes3.mobilePlayer.isSwimming = false	-- If the player is swimming, then they need to stop swimming in order to leave the water; a condition for this shouldn't be needed since they were either not swimming to begin with or will immediately begin swimming again if still underwater
+	
+			local heightCheck = tes3.rayTest{
+				position = destination + tes3vector3.new(0, 0, tes3.mobilePlayer.height),
+				direction = tes3vector3.new(0, 0, -1),
+				maxDistance = tes3.mobilePlayer.height,
+				ignore = { tes3.player },
+			}
+	
+			if heightCheck and heightCheck.distance then
+				destination = destination + tes3vector3.new(0, 0, tes3.mobilePlayer.height - heightCheck.distance)	-- This should prevent the player from clipping through objects below them
+			end
+	
+			tes3.mobilePlayer.position = destination
+		end
 	end
 
 	e.effectInstance.state = tes3.spellState.retired
@@ -1066,23 +1098,24 @@ local function gazeOfVelothEffect(e)
 		return
 	end
 
+	local id = target.baseObject.id:lower()
 	local name = target.object.name
 
-	if table.contains(gazeOfVelothImmuneActors, name) then
+	if table.contains(gazeOfVelothImmuneActors, id) then
 		tes3ui.showNotifyMenu(common.i18n("magic.gazeOfVelothImmune", { name }))
 		e.effectInstance.state = tes3.spellState.retired
 		return
 	end
 
 	if target.mobile.actorType ~= tes3.actorType.npc then
-		if name == "Dagoth Ur" then
+		if id:find("dagoth_ur") then
 			tes3ui.showNotifyMenu(common.i18n("magic.gazeOfVelothDagoth"))
 			e.effectInstance.state = tes3.spellState.retired
 			return
 		end
 
 		if target.baseObject.type == tes3.creatureType.humanoid then
-			if name:find("Ash ") or name:find("Dagoth") or name:find("Corprus") or name == "Ascended Sleeper" then
+			if id:find("ash_") or id:find("dagoth_") or id:find("corprus_") or id == "ascended_sleeper" then
 				tes3ui.showNotifyMenu(common.i18n("magic.gazeOfVelothAsh", { name }))
 				e.effectInstance.state = tes3.spellState.retired
 				return
@@ -1114,16 +1147,18 @@ local function gazeOfVelothEffect(e)
 	target.mobile:kill()
 	tes3.incrementKillCount({ actor = target.baseObject })
 
-	if target.baseObject.faction then tes3.triggerCrime({ type = tes3.crimeType.killing, victim = target.baseObject.faction }) end	-- Ensures that the player will be expelled for attacking a faction member
+	if target.baseObject.faction then tes3.triggerCrime({ type = tes3.crimeType.killing, victim = target.baseObject.faction }) end	-- Ensures that the player will be expelled for killing a faction member
 	tes3.triggerCrime({ type = tes3.crimeType.killing, victim = target.baseObject })
 
-	for _,v in pairs(raceSkeletonBodyParts) do
-		if target.baseObject.race.id == v[1] then
-			target.data.tamrielData.gazeOfVelothSkeleton = true
-			target:updateEquipment()
-			
-			e.effectInstance.state = tes3.spellState.retired
-			return
+	if target.baseObject.race then
+		for _,v in pairs(raceSkeletonBodyParts) do
+			if target.baseObject.race.id == v[1] then
+				target.data.tamrielData.gazeOfVelothSkeleton = true
+				target:updateEquipment()
+
+				e.effectInstance.state = tes3.spellState.retired
+				return
+			end
 		end
 	end
 
@@ -2085,8 +2120,10 @@ function this.wabbajackTransRemovedEffect(e)
 				tes3.positionCell({ reference = ref, position = target.position, orientation = target.orientation, cell = target.cell })
 				
 				if target.mobile.isDead or target.mobile.health.current <= 1 then
+					tes3.decrementKillCount({ actor = target.baseObject })
 					ref.mobile:kill()
-					tes3.triggerCrime({ type = tes3.crimeType.killing, victim = ref.mobile })
+					if target.baseObject.faction then tes3.triggerCrime({ type = tes3.crimeType.killing, victim = ref.baseObject.faction }) end	-- Ensures that the player will be expelled for killing a faction member
+					tes3.triggerCrime({ type = tes3.crimeType.killing, victim = ref.baseObject })
 					tes3.incrementKillCount({ actor = ref.baseObject })
 				else
 					ref.mobile.health.current = ref.mobile.health.base * transformedHealth
@@ -2586,7 +2623,7 @@ function this.passwallEffect(e)
 	for _,v in pairs(e.source.effects) do
 		if v.id == tes3.effect.T_mysticism_Passwall then
 
-			if not tes3.mobilePlayer.cell.isInterior or not tes3.mobilePlayer.cell.pathGrid then
+			if tes3.mobilePlayer.cell.isOrBehavesAsExterior or not tes3.mobilePlayer.cell.pathGrid then
 				tes3ui.showNotifyMenu(common.i18n("magic.passwallExterior"))
 				return
 			end
@@ -2596,8 +2633,8 @@ function this.passwallEffect(e)
 				return
 			end
 
-			if tes3.worldController.flagTeleportingDisabled then
-				tes3ui.showNotifyMenu(tes3.findGMST(tes3.gmst.sTeleportDisabled).value)
+			if tes3.worldController.flagTeleportingDisabled or tes3.worldController.flagLevitationDisabled then
+				tes3ui.showNotifyMenu(common.i18n("magic.passwallDisabled"))
 				return
 			end
 
@@ -2613,6 +2650,10 @@ function this.passwallEffect(e)
 
 			local hitSound = "mysticism hit"
 			local hitVFX = "VFX_MysticismHit"
+			if passwallAlteration then
+				hitSound = "alteration hit"
+				hitVFX = "VFX_AlterationHit"
+			end
 
 			local checkMeshes = tes3.rayTest{
 				position = castPosition,
@@ -2659,7 +2700,7 @@ function this.passwallEffect(e)
 
 			if hitReference then
 				if hitReference.baseObject.objectType == tes3.objectType.static or hitReference.baseObject.objectType == tes3.objectType.activator then
-					if hitReference.baseObject.boundingBox.max:heightDifference(hitReference.baseObject.boundingBox.min) >= 192 then		-- Check how tall the targeted object is; this is Passwall, not Passtable
+					if hitReference.baseObject.boundingBox.max:heightDifference(hitReference.baseObject.boundingBox.min) >= 172 then		-- Check how tall the targeted object is; this is Passwall, not Passtable
 						local bestPosition, bestDistance = passwallCalculate(wallPosition + (forward * 16) - (up * 48), forward, right, up, range)		-- (forward * 16) is used to hopefully prevent teleporting inside the target; (up * 64) is used to make the effect work better with stairways down that are right behind doors and to limit the player's ability to teleport up stairs
 
 						if bestPosition then
@@ -2696,6 +2737,11 @@ function this.passwallEffect(e)
 							tes3.mobilePlayer.position = bestPosition
 						end
 					elseif hitReference.destination and hitReference.destination.cell.isInterior then
+						if hitReference.baseObject.script then
+							tes3ui.showNotifyMenu(common.i18n("magic.passwallAlpha"))
+							return
+						end
+
 						if passWallDoorCrime(hitReference) then tes3.triggerCrime({ type = tes3.crimeType.trespass }) end
 						tes3.playSound{ sound = hitSound, reference = tes3.mobilePlayer }
 						local vfx = tes3.createVisualEffect({ object = hitVFX, lifespan = 2, avObject = tes3.player.sceneNode })
@@ -2762,7 +2808,7 @@ event.register(tes3.event.magicEffectsResolved, function()
 	end
 	
 	if config.boundSpells == true then
-		local boundCuirassEffect = tes3.getMagicEffect(tes3.effect.boundCuirass)
+		local boundCuirassEffect = tes3.getMagicEffect(tes3.effect.boundBoots)
 
 		for _,v in pairs(td_bound_effects) do
 			local effectID, effectName, itemID, itemID_02, effectCost, iconPath, effectDescription = unpack(v)
@@ -2866,6 +2912,14 @@ event.register(tes3.event.magicEffectsResolved, function()
 	end
 	
 	if config.miscSpells == true then
+		local passwallBaseEffect = tes3.getMagicEffect(tes3.effect.detectAnimal)
+		local passwallSchool = tes3.magicSchool.mysticism
+
+		if passwallAlteration then
+			passwallBaseEffect = tes3.getMagicEffect(tes3.effect.levitate)
+			passwallSchool = tes3.magicSchool.alteration
+		end
+
 		local soultrapEffect = tes3.getMagicEffect(tes3.effect.soultrap)
 		local reflectEffect = tes3.getMagicEffect(tes3.effect.reflect)
 		local detectEffect = tes3.getMagicEffect(tes3.effect.detectAnimal)
@@ -2883,16 +2937,16 @@ event.register(tes3.event.magicEffectsResolved, function()
 			id = effectID,
 			name = effectName,
 			description = effectDescription,
-			school = tes3.magicSchool.mysticism,
+			school = passwallSchool,
 			baseCost = effectCost,
-			speed = detectEffect.speed,
+			speed = passwallBaseEffect.speed,
 			allowEnchanting = true,
 			allowSpellmaking = true,
 			appliesOnce = true,
 			canCastSelf = false,
 			canCastTarget = false,
 			canCastTouch = true,
-			casterLinked = detectEffect.casterLinked,
+			casterLinked = passwallBaseEffect.casterLinked,
 			hasContinuousVFX = false,
 			hasNoDuration = true,
 			hasNoMagnitude = true,
@@ -2902,20 +2956,20 @@ event.register(tes3.event.magicEffectsResolved, function()
 			targetsAttributes = false,
 			targetsSkills = false,
 			unreflectable = true,
-			usesNegativeLighting = detectEffect.usesNegativeLighting,
+			usesNegativeLighting = passwallBaseEffect.usesNegativeLighting,
 			icon = iconPath,
-			particleTexture = detectEffect.particleTexture,
-			castSound = detectEffect.castSoundEffect.id,
-			castVFX = detectEffect.castVisualEffect.id,
+			particleTexture = passwallBaseEffect.particleTexture,
+			castSound = passwallBaseEffect.castSoundEffect.id,
+			castVFX = passwallBaseEffect.castVisualEffect.id,
 			boltSound = "T_SndObj_Silence",
 			boltVFX = "T_VFX_Empty",
 			hitSound = "T_SndObj_Silence",
 			hitVFX = "T_VFX_Empty",							-- Currently has to use VFX because otherwise Morrowind crashes when casting the effect on some actors despite this parameter being "optional"
 			areaSound = "T_SndObj_Silence",
 			areaVFX = "T_VFX_Empty",							-- Problems can apparently still arise from missing boltVFX and areaVFX for some people
-			lighting = {x = detectEffect.lightingRed / 255, y = detectEffect.lightingGreen / 255, z = detectEffect.lightingBlue / 255},
-			size = detectEffect.size,
-			sizeCap = detectEffect.sizeCap,
+			lighting = {x = passwallBaseEffect.lightingRed / 255, y = passwallBaseEffect.lightingGreen / 255, z = passwallBaseEffect.lightingBlue / 255},
+			size = passwallBaseEffect.size,
+			sizeCap = passwallBaseEffect.sizeCap,
 			onTick = function(eventData) eventData:trigger() end,
 			onCollision = nil
 		}

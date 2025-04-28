@@ -22,7 +22,7 @@ function this.getExteriorCell(cell, cellVisitTable)
 	for ref in cell:iterateReferences(tes3.objectType.door) do
 		if ref.destination and ref.destination.cell then
 			local linkedExterior = this.getExteriorCell(ref.destination.cell, cellVisitTable)
-			if (linkedExterior) then
+			if linkedExterior then
 				return linkedExterior
 			end
 		end
@@ -270,10 +270,15 @@ function this.hasAlpha(node, clip, blend)
 			end
 	
 			if child.children then
-				return this.hasAlpha(child, clip, blend)
+                local childHasAlpha = this.hasAlpha(child, clip, blend)
+				if childHasAlpha then
+                    return childHasAlpha
+                end
 			end
 		end
 	end
+
+    return false
 end
 
 return this

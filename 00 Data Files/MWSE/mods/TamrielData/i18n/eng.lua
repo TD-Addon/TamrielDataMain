@@ -120,6 +120,7 @@ return {
 	["magic.miscPrismaticLight"] = "Prismatic Light",
 	["magic.miscPrismaticLightDesc"] = "This effect creates a projectile of prismatic light. Upon striking a target, the projectile illuminates the area for the duration of the effect. The light projectile does not cause any damage.",
 	
+	["magic.blinkLevitationDisabled"] = "Blink does not work here.",
 	["magic.wabbajackFailure"] = "%s is too strong to be Wabbajacked!",
 	["magic.wabbajackAlready"] = "%s is already Wabbajacked!",
 	["magic.gazeOfVelothImmune"] = "%s transcends the Face of Veloth!",
@@ -129,6 +130,7 @@ return {
 	["magic.gazeOfVelothCreature"] = "%s cannot comprehend the Face of Veloth!",
 	["magic.gazeOfVelothOther"] = "%s is unaffected by the Face of Veloth!",
 	["magic.banishFailure"] = "This spell is too weak to banish %s!",
+	["magic.passwallDisabled"] = "Passwall does not work here.",
 	["magic.passwallWard"] = "You cannot pass through to there.",
 	["magic.passwallAlpha"] = "You cannot pass through that.",
 	["magic.passwallExterior"] = "You must be in a confined space.",
@@ -191,6 +193,9 @@ return {
 
 	["mcm.miscSpellsLabel"] = "Add New Miscellaneous Spells",
 	["mcm.miscSpellsDescription"] = "Adds new spells that do not fit into the categories above, such as Banish Daedra, Reflect Damage, Distract Humanoid, and Wabbajack.\nRequires reload.\n\nDefault: On\n\n",
+
+	["mcm.passwallAlterationLabel"] = "Make Passwall an Alteration Effect",
+	["mcm.passwallAlterationDescription"] = "Sets Passwall to belong to the school of Alteration rather than the school of Mysticism.\nRequires restart.\n\nDefault: Off\n\n",
 
 	["mcm.magickaExpandedLabel"] = "Overwrite Magicka Expanded Effects",
 	["mcm.magickaExpandedDescription"] = "Replaces some magic effects from Magicka Expanded with ones that are also implemented by Tamriel Data for the sake of consistency, such as Banish Daedra and Summon Vermai." ..

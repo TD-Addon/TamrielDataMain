@@ -66,7 +66,7 @@ return {
 	["magic.summonFrostMonarchDesc"] = "Przywołuje z Otchłani monarchę mrozu. Stworzenie pojawi się sześć stóp przed magiem i będzie atakowało każdą zagrażającą mu istotę, póki nie minie czas trwania efektu lub póki samo nie zostanie zabite. W obydwu przypadkach przywołana istota znika, powracając do Otchłani. Pamiętaj, że jeśli przywołasz istotę z innego wymiaru wewnątrz miasta, miejska straż rzuci się na ciebie bez ostrzeżenia!",
 	["magic.summonSpiderDaedra"] = "Przywołanie Pajęczej Daedry",
 	["magic.summonSpiderDaedraDesc"] = "Przywołuje z Otchłani pajęczą daedrę. Stworzenie pojawi się sześć stóp przed magiem i będzie atakowało każdą zagrażającą mu istotę, póki nie minie czas trwania efektu lub póki samo nie zostanie zabite. W obydwu przypadkach przywołana istota znika, powracając do Otchłani. Pamiętaj, że jeśli przywołasz istotę z innego wymiaru wewnątrz miasta, miejska straż rzuci się na ciebie bez ostrzeżenia!",
-	
+
 	["magic.boundGreaves"] = "Zaklęte Nagolenniki",
 	["magic.boundGreavesDesc"] = "Przywołuje pomniejszą Daedrę zaklętą w postaci magicznych, niezwykle lekkich, daedrycznych nagolenników. Pancerz pojawia się automatycznie na ciele rzucającego. Po upłynięciu czasu trwania efektu, nagolenniki znikają, a postać ponownie nosi swój zwykły pancerz.",
 	["magic.boundWarAxe"] = "Zaklęty Topór Wojenny",
@@ -119,7 +119,8 @@ return {
 	["magic.miscFortifyCastingDesc"] = "Tymczasowo zwiększa szanse postaci na skuteczne rzucenie zaklęcia.",
 	["magic.miscPrismaticLight"] = "Pryzmatyczne Światło",
 	["magic.miscPrismaticLightDesc"] = "Tworzy magiczny pocisk, który po uderzeniu w cel rozświetla na pewien czas okolicę. Nie zadaje obrażeń.", -- Aly: polish description of "Light" is so cut, trying to get consistent basically makes prismatic light's description a duplicate
-	
+
+	["magic.blinkLevitationDisabled"] = "Migotanie nie działa w tym miejscu.",
 	["magic.wabbajackFailure"] = "Cel: %s jest zbyt potężny, nie może być poddany efektowi Łabadżaka!", -- Aly: ok this was harder to figure out due to adjectives inheriting gender of subject so: "Alex is strong" -> "Alex jest silny" but "Anna is strong" -> "Anna jest silna"; in this case "cel (target)" not %s is the subject so no matter what gender %s is, string will remain the same
 	["magic.wabbajackAlready"] = "Cel: %s jest już pod wpływem efektu Łabadżaka!",
 	["magic.gazeOfVelothImmune"] = "%s przewyższa Oblicze Velotha!",
@@ -129,6 +130,7 @@ return {
 	["magic.gazeOfVelothCreature"] = "%s nie jest w stanie pojąć Oblicza Velotha!",
 	["magic.gazeOfVelothOther"] = "%s jest niewzruszony wobec Oblicza Velotha!",
 	["magic.banishFailure"] = "Cel: %s nie może zostać wypędzony, zaklęcie jest zbyt słabe!",
+	["magic.passwallDisabled"] = "Przeniknięcie Ściany nie działa w tym miejscu.",
 	["magic.passWallWard"] = "Nie możesz tam przeniknąć.",
 	["magic.passWallAlpha"] = "Nie możesz przez to przeniknąć.",
 	["magic.passWallExterior"] = "Musisz być w zamkniętej przestrzeni.",
@@ -192,6 +194,9 @@ return {
 	["mcm.miscSpellsLabel"] = "Nowe Różnorodne Zaklęcia",
 	["mcm.miscSpellsDescription"] = "Dodaje nowe zaklęcia nie pasujące do żadnej z powyższych kategorii, jak Wypędzenie Daedry, Odbicie Obrażeń, Rozproszenie Humanoida czy Łabadżak.\nWymaga ponownego wczytania gry.\n\nDomyślnie: Wł.\n\n",
 
+	["mcm.passwallAlterationLabel"] = "Przeniknięcie Ściany Jako Efekt Szkoły Przemiany",
+	["mcm.passwallAlterationDescription"] = "Przypisuje Przeniknięcie ściany do szkoły Przemiany, zamiast szkoły Mistycyzmu.\nWymaga ponownego uruchomienia gry.\n\nDomyślnie: Wył.\n\n",
+
 	["mcm.magickaExpandedLabel"] = "Nadpisanie Efektów Magicka Expanded",
 	["mcm.magickaExpandedDescription"] = "Podmienia, dla spójności, niektóre efekty dodane w Magicka Expanded na takie same zaimplementowane również w Tamriel Data, jak np. Wypędzenie Daedry czy Przywołanie Vermai" ..
 											"\nPrzynosi efekt tylko w przypadku, gdy odpowiednie pakiety modu Magicka Expanded są zainstalowane, a powyższe ustawienia zaklęć są aktywne.\nWymaga ponownego wczytania gry.\n\nDomyślnie: Wł\n\n",
@@ -207,7 +212,7 @@ return {
 	["mcm.weatherChangesDescription"] = "Dodaje nowe efekty pogodowe w niektórych regionach, jak np. opad zarodników w Lasach Othreleth, burze piaskowe w Shipal-Shin czy tropikalne burze w okolicach Morza Abeceańskiego. Wprowadza także poprawki pogodowe w pozostałych regionach, jak np. popielne burze w częściach kontynentalnych Morrowind nie mające źródła na Czerwonej Górze."..
 										"\nMoże kolidować z innymi modami MWSE wpływającymi na efekty pogodowe, jak np. Watch the Skies.\nWymage ponownego uruchomienia gry.\n\nDomyślnie: Wł\n\n",
 
-	["mcm.hatsLabel"] = "Nakrycia głów jako ubrania",
+	["mcm.hatsLabel"] = "Nakrycia Głów Jako Ubrania",
 	["mcm.hatsDescription"] = "Powoduje, że nakrycia głów z Tamriel Data funkcjonują jako ubrania, a nie pancerz."..
 											"\nMoże kolidować z innymi modam MWSE dodającymi nowe typy ubrań.\nWymage ponownego uruchomienia gry.\n\nDomyślnie: Wł\n\n",
 
@@ -231,7 +236,7 @@ return {
 
 	["mcm.travelPricesLabel"] = "Regulacja Kosztów Podróży",
 	["mcm.travelPricesDescription"] = "Zmienia koszty podróży do miejsc docelowych dodanych przez Tamriel Rebuilt i Project Tamriel w przypadku, gdy ceny obliczone przez grę są nierozsądne, jak np w przypadku sieci teleportacyjnej Gildii Magów.\nWymaga ponownego wczytania gry.\n\nDomyślnie: Wł\n\n",
-	
+
 	["mcm.khajiitFormCharacterCreationLabel"] = "Określ Formy Khajiitów Podczas Tworzenia Postaci",
 	["mcm.khajiitFormCharacterCreationDescription"] = "Nazywa formy Khajiitów w stosownych menu tworzenia postaci, zamiast kolektywnej nazwy \"Khajiit\". Dodatkowy mod, taki jak All Races and Classes Unlocked jest wymagany, aby odblokować wspomniane rasy podczas tworzenia postaci.\nWymaga ponownego wczytania gry.\n\nDomyślnie: Wł\n\n",
 
