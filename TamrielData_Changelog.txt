@@ -1,0 +1,3263 @@
+April 27th 2025 Update
+
+- Added Spider Daedra (female variant)                  (Cameron2023, revenorror, Cicero)
+- Added Yokudan NPC race                                (Kynesifnar, UXO)
+- Added Nordic Fine Wood tableware                      (BarbedWireKisses)
+- Added Khajiiti Copper/Bronze weapon set               (Alexander_7070, shtou)    
+- Added whale skeleton fins                             (Alexander_7070, GrumblingVomit)
+- Added 11 new cave shells                              (revenorror)
+- Added Guide to Hlerynhul                              (pralec, trav)
+- Added Lua spells to leveled lists                     (Cicero)
+- Added Canyon Echo Newspapers                          (trav)
+- Updated Cine Tree and Sundered Palms                  (Cicero)
+- Updated Dragonfields land texture                     (LilianaUnfolded, Fremennik, Hemaris)
+- Updated Andothren to Bal Foyen banner                 (trav)
+
+April 26th 2025 Update
+
+- Added Altmer Glass Plates                             (revenorror, LilianaUnfolded)
+- Added HF Basketweave clutter                          (spexd)
+- Added HR Silver Tableware                             (revenorror)
+- Added Cyr Ebony Tableware                             (revenorror)
+- Added HF Prickle-spice                                (revenorror)
+- Added PI/Sky Wasabi                                   (Asylum, Vohki)
+- Added more TR road signs                              (Phenoix12)
+- Added Nibenese jewelry                                (revenorror, UXO)
+- Added Kvatch Exterior set                             (spineinside, Chef, joanasc)
+- Updated Dragonfields trees                            (revenorror, LilianaUnfolded)
+- Updated Unending                                      (Cicero)
+- Updated Imperial Gold Helm                            (Cicero)
+- Updated Blindstalker Amulet                           (Cicero)
+- Updated pig sounds                                    (Kynesifnar)    
+
+April 22nd 2025 Update
+
+- Added Olive Containers and Leveled Lists				(SuddenlyMute)
+- Added Summerset Leveled Lists							(Taniquetil)
+- Added More Redguard Tapestries						(MammaHyena, LilianaUnfolded)
+- Added Merged Narsis Catacombs Entrance				(Snailsting)
+- Added Hlaalu Brewery Fermentation Chamber 			(ComradeCheekiBreeki)
+- Added Imperial Gold Tableware Expansion				(revenorror)
+- Added Prince Juliek's Seal							(Gr8 A2n)
+
+- Updated Pasoroth Armor enchantment					(Cicero)
+- Updated Khajiit variant greetings						(Ronik)
+- Updated Skyrim Bears spells							(Stele)
+
+- Fixed various typos									(Cicero, Terrifying Daedric Foe, Kynesifnar, Blueshift)
+- Fixed Dreugh Helmet enchantments						(Stele)
+
+April 15th 2025 Update
+
+- Added T_SndObj_BlinkHit								(Kynesifnar)
+- Added TR_Ex_V_Tower_05 interior						(vohki)
+- Added T_VFX_Wabbajack									(Kynesifnar)
+- Added Trefoil and Gloomtear plants					(Hemaris, revenorror, Kynesifnar)
+- Added Feivelyn's Ostheldir Landscape painting			(trav, Feivelyn)
+- Added Hlaalu Theater's Poster							(trav, be-a-stranger)
+- Added Hlaalu Theatre Backdrop							(Feivelyn, trav)
+- Added Beacon Company Sign								(Mammahyena)
+- Added Perthan											(Cameron2023, Alexander_7070, Cicero, Stele, Kynesifnar)
+
+- Updated Guide to Narsis and Narsis District			(trav)
+- Updated Abecean Shores bookart maps					(trav)
+- Updated Skyrim bookart map							(trav)
+
+April 12th 2025 Update
+
+- Added Direnni Bookart									(MammaHyena)
+- Added More Merged Anvil Buildings						(trav)
+- Added Padomaic Velothi Tileset						(Vohki)
+- Added Velothi Mountainss Quarry Rocks					(Phenoix12)
+- Added Can of Worms									(hemaris)
+- Added Nord Tradeship Interior Wall Variants + Doors	(neonfrost84)
+- Added Pomegrenate Trees								(tepidWater)
+- Added More MWSE Scrolls and Effects					(Kynesifnar)
+- Added Altmer Lights									(LilianaUnfolded)
+- Added Altmer Shack									(LilianaUnfolded)
+- Added Bone Fetishes									(joanasc)
+- Added Dragon Cult Artifact Helm						(Gr8 A2n)
+- Added Imperial Consular Robe							(Stele)
+- Added Adamantium Crypt Urns							(Cicero)
+- Added TD Global Variable for Vanilla Dialogue			(FlinSunset)
+
+- Updated Canyon Echo scripting							(trav)
+- Updated Dunmer leveled lists							(Aveno,)
+- Updated Varla Stone VFX								(KnobelKnight)
+- Updated Lamia stats									(minifly)
+- Updated PC alchemy ingredients						(minifly)
+- Updated PC Imperial Cult dialogue						(minifly)
+- Updated Shinathi leveled lists						(Warped)
+- Updated Muatra model									(DuX, Gr8 A2n, Why)
+
+March 28th 2025 Update
+
+- Added Indoril Interior Set							(shivatheo, athcliath97)
+- Added Red Dome Templar Armor							(GrumblingVomit, Cicero)
+- Added Wild Elf race									(GrumblingVomit, Rats)
+- Added MWSE_BUILD variable								(pralec)
+- Added Blink spell										(Kynesifnar)
+- Added Veloth's Face									(Rats, Concept: Gnomey)
+- Added Wabbajack effects								(Kynesifnar)
+- Added Gaze of Veloth effect							(Kynesifnar)
+- Added Staff of St. Veloth								(AnrohaNexus, Cicero, Concept: Pickles)
+- Added Detect Potions effect							(Kynesifnar)
+- Added Skyrender pupae slumgum							(Gr8 A2n)
+- Added Skyrender Queen									(Cameron2023, GrumblingVomit, Stele, Concept: be-a-stranger)
+- Added Nord Stoneware									(Tenosit, Concept: BarbedWireKisses)
+- Added Xarxen Mora terrain assets						(worsas)
+- Added Altmer Clayware									(LilianaUnfolded)
+- Added Ogre race										(GrumblingVomit)
+- Added Shiratar Sound									(Leyawynn)
+- Added Veloth's Pauldrons								(Alexander_7070, Feighten)
+- Added Detect Invisibility effect						(Kynesifnar)
+- Added Fortify Casting items							(Kynesifnar, Cicero)
+- Added Books
+ - Dead Magic							 				(Taniquetil)
+
+- Updated Cyr and Sky wolves stats						(Ricketybob)
+- Updated Goblin speed stats							(Ricketybob)
+- Updated smuggler leveled lists						(Ricketybob)
+- Updated Fig Bush meshes and textures					(joanasc)
+- Updated Stock Exchange Framework						(trav)
+
+- Fixed Abecean Monitor wrong locations					(Ricketybob)
+- Fixed missing Advancement topic in IP dialogue		(Ricketybob)
+- Fixed Diseased Bat name								(Ricketybob)
+- Fixed typos in The True Folk							(Terrifying Daedric Foe)
+
+March 15th 2025 Update
+
+- Added Rogue Nix-Hound									(Cicero, GrumblingVomit)
+- Added JS Snow Road Texture							(chef)
+- Added Empty Meat Honey								(Aveno, neonfrost94)
+- Added Summon Guardian Enchantment						(Kynesifnar)
+- Added Glass Triolith									(Leyawynn, Concept: Gnomey?)
+- Added Canah Feather									(Alexander, ComradeCheekiBreeki)
+- Added or Updated lots of DE LVL List stuff			(Aveno)
+- Added Flora_Bush_02									(chef, Stele)
+- Added More Grey Meadow Region Sounds					(Cicero)
+- Added Placeholder Minotaur Soundgen					(Kynesifnar)
+- Added Short Velothi Large Ends						(Snailsting)
+- Added Kresh Fiber Containers							(RoxDoc2)
+- Added Sload Mold Fungus								(Stele)
+- Added Redoran Basement Expansion						(Snailsting)
+- Added Lover's Raflesia								(Stele, Concept: Be-A-Stranger)
+- Added Assets for Headless Quest						(Marhaus, FlinSunset)
+
+- Updated Kragen Moor Region to Kartur Dale Region
+- Updated Guide to Firewatch Map						(trav)
+
+
+March 3rd 2025 Update
+
+- Added Netch Leather Containers						(roxdoc2)
+- Added Adamantium Shield								(Alexander_7070, Concept: Ateiggaer)
+- Added Skyrender Meat Honey							(neonfrost84, Concept: Calvin)
+- Added Skyrender Larva									(Cameron2023, Concept: Be-A-Stranger)
+- Added Mephalan Vales Morel Mushrooms					(VenuSprout)
+- Added Kvatch Urban Set Interiors						(Joanasc, Concept: Ateiggaer)
+- Added Altmer Poor Furniture							(LilianaUnfolded, Concept: Tammilisake)
+- Added Breque Na'Brac									(ThomasRuz)
+- Added Sconce_10 No Flames								(Ficmon)
+- Added Poison + Velothi and MH District Levelled Lists	(chef)
+- Added Yuin Plant										(Revenorror)
+- Added Ostheldir and Creag Coast Regions				(Fremennik)
+- Added Goldmoor and Riddle Lands Regions				(Joanasc)
+- Added Othreleth Woods Levelled Creatures				(Wanax)
+
+- Updated Colovian Levelled Lists With New Armor		(chef)
+- Updated T_Imp_Grinder_01 to an Apparatus				(chef)
+- Updated Imperial DngRuin Barrels to Containers		(chef)
+- Updated T_Com_Var_Nails_01 to a Misc					(chef)
+- Updated Colovian Barrow Mummies to Containers			(chef)
+
+
+February 16th Update
+
+- Added various spells for MWSE override				(Kynesifnar)
+- Added Goldmoor Cacti									(Joanasc)
+- Added Dwemer Silo Door								(Cicero)
+- Added Durzog Hide Ingredient							(Fremennik)
+- Added Orethan Waterflowers							(LilianaUnfolded, Stele, Concept: Be-A-Stranger)
+- Added Altmer Tea and Xuansis							(LilianaUnfolded)
+- Added Goat and Elk Meat								(Lucevar)
+- Added Lazarum Lazandrum								(Gr8 A2n, Concept: aylinerik)
+- Added Altmer Containers								(LilianaUnfolded, Concept: Tammilisake)
+- Added Altmer Nacreware								(LilianaUnfolded, Revenorror)
+- Added Shinathi Clan Banners							(MammaHyena, Ronik)
+- Added Nord Corded Ware								(BarbedWireKisses)
+- Added Hlaalu Pasoroth Statue							(Stele, Thomasasia)
+
+- Updated Narsis Maps									(trav)
+- Updated Com Shirt 03/04 with breast reduction surgery	(Evil Eye)
+- Updated Skull of Corruption to an Amulet				(Cicero)
+- Updated Various HR levelled lists						(Fremennik)
+- Updated Daedric Steps Collision						(Cicero)
+
+- Fixed Defense of Morrowind being in wrong lists		(Terrifying Daedric Foe)
+
+
+January 26th Update
+
+- Added Shipal-Shin Rock Texture C						(Leyawynn)
+- Added Canyon Echo Base Asset and Scripting			(trav)
+- Added Hammerfell Asset Batch							(Joanasc)
+- Added 10 Kingdoms Ruins								(Joanasc)
+- Added Snow Blossom									(Revenorror)
+- Added Extra Nord Tapestries							(BarbedWireKisses)
+- Added Nordic Horned Helmets							(Alexander_7070, Feivelyn)
+- Added Scrib Cabbage Containers						(Feighten)
+- Added Altmer Pillows and Cushions						(LilianaUnfolded)
+- Added Narsis MG Dungeon Assets						(Cicero)
+- Added Grasping Fortune Propylons						(Maars, Ronik)
+- Added Runners League Signs and Containers				(xeno, Taniquetil)
+- Added Book Showcases in Test Cells					(Revane)
+- Added Tsaesci											(Lamb Shark, Kynesifnar)
+- Added T_Glob_Rep_Mw									(Kynesifnar)
+- Added Colovian Barrow Dirt Piles						(Snailsting)
+- Added more De_P Shelves								(Snailsting)
+- Added Breton M Furniture								(Joanasc, Concept: MammaHyena)
+- Added Sutch Acini Manor Thing							(Joanasc)
+- Added Breton Mini Pot Leveled Lists					(Taniquetil)
+- Added Hlaalu Pasoroth's War Armor						(Alexander_7070, Concept: Mannimarcos)
+- Added Book: Archei, He Who Whispered Mortality		(ThomasRuz)
+- Added Book: The Exile of Meredie						(ThomasRuz)
+- Added Book: A Blacksmith's Last Writ					(ThomasRuz)
+
+- Updated Morphoid to Morphoid Daedra					(Kynesifnar)
+- Updated Nordic Ceramic Bowls							(BarbedWireKisses, Feivelyn)
+- Updated Oghma Infinium Bookart						(trav)
+- Updated Siyat Cigar as a Consumable					(Kynesifnar)
+- Updated Skull of Corruption to look more like DF		(Cicero)
+- Updated Daedric Face of Abberation Tint				(Cicero)
+- Updated TR Skeleton list to remove Nord Skeletons		(Cicero)
+- Updated Nerevar Soul Value to 0						(Cicero)
+- Updated Gemstone Value								(Cicero)
+- Updated Imperial Heraldry to Remove ESO				(Cicero)
+- Updated Seducers with chameleon spell					(Cicero)
+- Updated Requiem Shield stats							(Cicero)
+- Updated Marukhati Doctrine in PC Books				(Revane)
+- Updated Barrow Interior Tileset						(Hemaris)
+
+- Fixed an issue in adamantium weapon lists				(Cicero)
+- Fixed UVs on some Ragada Ruin Towers					(Joanasc)
+- Fixed Redguard R Sidetable 02 Collision				(Joanasc)
+- Fixed a batch of PC meshes							(Snailsting)
+
+
+January 10th Update
+
+- Added Grey Meadows Rocks and Land Textures			(Iterator, GrumblingVomit, Shivatheo)
+- Added Grey Meadows Placeholder Grass					(ch)
+
+
+1/1/2025
+
+- Added Khajiit Baskets									(Asylum, Feighten)
+- Added Exterior Editor Markers							(hemaris)
+- Added Skyrender Pupae									(Stele)
+- Added Metal and Bamboo Cages							(DimNussens)
+- Added High Rock Small Labeled Pots					(MwGek)
+- Added Breton Herb Posters								(MwGek)
+- Added Balconies for Colovian Fort set					(joanasc)
+- Added Ostheldir Land Textures							(Fremennik)
+- Added Altmer Keys										(LilianaUnfolded)
+- Added West Reach Cave Entrances and Cairns			(Fremennik)
+- Added Morrowind Com platform expansion				(Snailsting)
+- Added Altmer Tapestries and Cloths					(LilianaUnfolded)
+- Added Riddle Lands Nomads assets						(joanasc)
+- Added Redguard Lamps									(joanasc)
+
+- Fixed (and deprecated) missing Guide to Kogotel book	(Ronik)
+
+- Updated Cyr Slaughterfish lists (again)				(Revane)
+- Updated Bloodmoon Pine Trees							(chef)
+
+
+v11 UPDATE - December 22nd 2024
+
+- Added Khajiit Chessboard								(EndoranWest)
+- Added Khajiit Sugar Rum Drink							(SigynLaufeyson)
+- Added Nordic Leather Armor							(Alexander_7070, GrumblingVomit)
+- Added Riddle Lands Flora								(Joanasc)
+- Added Wolf Helms										(Alexander_7070, GrumblingVomit)
+- Added Redguard Foods									(Joanasc, Toma400)
+- Added Anvil Frescoes part 2							(Ateiggaer, Toma400)
+- Added Summerset Wicker Baskets						(LilianaUnfolded)
+- Added Com Chandeliers Radius 77						(Denis418)
+- Added More Anvil Basement Walls						(Fremennik)
+- Added Fruit											(Revenorror)
+- Added Quey Bronze Weapons								(Brannon the Ilk, Looks to the Moon Pie, Melchior Dahrk, Concept: Pickles)
+- Added Crown Iron Armor								(joanasc, Alexander_7070)
+- Added Forebear Iron Armor								(joanasc, Alexander_7070)
+- Added Banish Daedra Containers						(Kynesifnar)
+- Added Nerevar Bonewalker								(Kinezis, GrumblingVomit, Svergy, Concept: Leyawynn, Tammilisake)
+- Added Merged Anvil/Imperial Chapel					(Snailsting)
+- Added More Unique Generic Items with MWSE Effects		(Cicero, Kynesifnar)
+- Added Resartus Lua Spells								(Cicero, Kynesifnar)
+- Added Stock Exchange Framework						(jackimoff wackimoff, trav)
+- Added Aebis Bird										(Worsas)
+- Added Haafinheim Poor Interior Set and Stone Basement Kit (Shtou)
+- Added More Redguard Beds								(Fremennik)
+- Added More Hammerfell Pots and Urns					(joanasc)
+- Added Many Paintings									(Ateiggaer, Aldergo, be-a-stranger, DharmaPR, Drathar, Feivelyn, Leyawynn, MammaHyena, Feighten)
+- Added Redguard Bottles & Jugs							(joanasc)
+- Added Quest Landmark Editormaker						(hemaris)
+- Added Dock/Platform Set Additions						(Snailsting)
+- Added More Colovian Robes								(worsas)
+- Added Portrait of Herrius Thimistrel					(Rats)
+- Added Chocolate Muffin								(Revenorror, ZoltanFoods)
+- Added Ayleid Scroll									(Infragris, hemaris)
+- Added The Abecean Monitor								(Taniquetil, trav, KnobelKnight)
+- Added Briricca Bank Signs								(MammaHyena, Taniquetil)
+- Added More Termite Hills								(joanasc)
+- Added Anvil Merged Dock Pieces						(Revenorror)
+- Added Anvil Frescoes									(Aldergo, Ateiggaer, Toma400)
+- Added More Imperial Ebony Helmets						(Rats)
+- Added Imperial Sky Skiff								(Rats)
+- Added Gorapple Tree and Fruit							(Stele, Concept: Schwerthelm, be-a-stranger, Atteigaer)
+- Added Morrowind Mini Regions							(chef)
+- Added Kragenmoor Unique Scrub Texture					(chef)
+- Added Altmer Bottles									(LilianaUnfolded)
+- Added Com Bunks										(Exovian)
+- Added Indoril Thirr Armor Remake						(P. Rivates)
+- Added Maormer Armor									(Dux, Alexander_7070, Concept: Phenoix12, Pickles)
+- Added Ynesai Iron Weapons								(Dux, Concept: DharmaPR)
+- Added More Padomaic Food								(Looks to the Moon Pie)
+- Added Yneslea Bitter Ginger							(Melchior Dahrk)
+- Added Tiki Torches									(Melchior Dahrk, Looks to the Moon Pie)
+- Added Chimer Seaweed Wine								(Looks to the Moon Pie)
+- Added Oyster Shell Miscs								(Looks to the Moon Pie)
+- Added Quey & Ynesai Ceramic Bottles					(SigynLaufeyson, Looks to the Moon Pie)
+- Added Cyr Goat Hide Armor								(Rats, Concept: Aldergo)
+- Added Hammerfell Assets Batch							(joanasc)
+- Added Fishbowls										(Rats)
+- Added Additional SetAnv Stair							(Snailsting)
+- Added Anvil_Bridge02 standalone variants				(Shtou)
+- Added Dolphin											(Cait, Kynesifnar, Stele, Spawner: Revane)
+- Added Cyr Roadsign Additions							(Revane)
+- Added Velothi Mountains Gold Grass					(Cicero)
+- Added Indoril Halberd									(AnrohaNexus)
+- Added OAAB Ship Interior Pieces						(OAAB)
+- Added Frost Monarch									(Antares, Rats, Kynesifnar)
+- Added Redguard Iron Lamellar Armor					(joanasc, Alexander_7070, Concept: Pickles)
+- Added Generic Enchanted Cyr/Com Weapons				(Revane)
+- Added Imperial Navy Wax Seal							(Yoae)
+- Added Ash Tree Variant for Grey Meadows				(GrumblingVomit)
+- Added Quey Dice										(Looks to the Moon Pie)
+- Added Ascended Sleeper Skull							(SvartmerII, Cicero)
+- Added Static Dagoth Banner							(Cicero)
+- Added Brass Dodecahedron								(hemaris)
+- Added House Dagoth Blood Message						(Cicero)
+- Added Golden Scales									(Looks to the Moon Pie)
+- Added Dried Large Abecean Slaughterfish				(Looks to the Moon Pie)
+- Added OW Cave Entrances								(Looks to the Moon Pie)
+- Added Porous Exidia									(VenuSprout, Concept: aylinerik)
+- Added More OR Rocks									(vern)
+- Added SD Welkynd Meshes								(Cicero)
+- Added Requiem Shield									(Cicero)
+- Added Flask of Lillandril Enchantment					(Cicero)
+- Added Helm of Light Within Light						(Cicero)
+- Added Ice Cave Expansion								(shivatheo)
+- Added Colovian Household Sword						(EndoranWest, Concept: Mike123)
+- Added Redguard Books									(LilianaUnfolded)
+- Added Redguard Rings									(Yoae, Concept: MammaHyena, Toma400)
+- Added Daedric Face of Renewal							(Alexander_7070, Concept: Gnomey, DharmaPR, Pickles)
+- Added Belt of Hearttide								(Cicero)
+- Added Ynesai Jewelry									(MwGek, Looks to the Moon Pie)
+- Added Vinegar											(Yoae)
+- Added Generic Enchanted Cyr Items						(Revane)
+- Added Ayleid Secret Walls								(Phenoix12)
+- Added MWSE Scrolls and Other Items					(Kynesifnar)
+- Added MWSE Potions									(Kynesifnar)
+- Added More summoning spells							(Kynesifnar)
+- Added Western Dwemer Goldmail							(Joanasc, Alexander_7070)
+- Added Bosmer Wenbone Weapons							(AnhoraNexus, Concept: Pickles)
+- Added Ayleid Square Columns							(Snailsting)
+- Added Morag Tong Blade								(GrumblingVomit)
+- Added Double Length Chapel Wall						(Snailsting)
+- Added MWSE Storm SFX									(Kynesifnar)
+- Added Rourken Interior Set Batch 1					(Joanasc)
+- Added Reach Royal Guard Armor							(Edmurius Tullius, Alexander_7070, GrumblingVomit, Concept: Lathal)
+- Added Hammerfell Test Cell
+- Added OM Caveset [Greyrock]							(Cicero)
+- Added Mokre											(Cicero)
+- Added Meridia statue									(Stele)
+- Added Redoran Large Walls								(Dimnussens, Stele)
+- Added Nine-Holes Game									(Why, trav, FlinSunset, Blueshift, Original Implementation: Dillon)
+- Added Altmer Blueware									(LilianaUnfolded)
+- Added Altmer Rugs										(LilianaUnfolded)
+- Added Altmer Wines									(LilianaUnfolded)
+- Added Altmer Books									(LilianaUnfolded)
+- Added skooma/moon sugar/flashgrit blocker for Cooks	(trav)
+- Added Itinerant Priest Dialogue Typo Fixes			(KnobelKnight)
+- Added Redoran Modular Bridge set						(athcliath97, shivatheo)
+- Added Dwemer Machines									(R-Zero, shivatheo)
+- Added SetInd_Steps_00									(shivatheo)
+- Added Meridia Voice lines								(Renara Hawke, Ja'Keel Jyba)
+- Added Namira Voice lines								(Renara Hawke, Ja'Keel Jyba)
+- Added Even more MWSE Summon Spell Placeholders		(Kynesifnar)
+- Added Strident Runner									(worsas)
+- Added Large Ice Sheets								(Cicero)
+- Added Gremlin Jester									(Hemaris)
+- Added 1024x1024 wide SetAnv platform					(Snailsting)
+- Added Golden Saint Armour								(EndoranWest)
+- Added Ayleid Set Additions							(Aleister, Overseer, Snailsting, GrumblingVomit)
+- Added Indoril Set Planters Variations					(pralec)
+- Added Colovian Leather Armor Set 2					(Alexander_7070, Concept: Aldergo)
+- Added King Barda's Robe								(Feivelyn, Gr8 A2n)
+- Added Olive Oil										(Feighten)
+- Added Insight Spell									(Kynesifnar)
+- Added Wabbajack Empty Enchantment						(Kynesifnar)
+- Added Adamantium And Mithril Leveled Lists			(Kynesifnar)
+- Added Indoril Set Additions							(shivatheo)
+- Added OE Tournament Tent								(shivatheo, tweaks: Marhaus, LilianaUnfolded)
+- Added Redoran Interior and Wall Additions 			(Vidi_Aquam)
+- Added Bookart maps for Abecean Shores					(Trav)
+- Added Nedic Sword										(Gr8 A2n)
+- Added DngRuin Expansion								(Fremennik)
+- Added Shipal Shin Amethyst Ore						(Cicero)
+- Added Minerals version 3.0							(Cicero)
+- Added Veloth's Path Hlaalu Bridge						(Chef)
+- Added PC scum retexture for Grey Meadows				(Chef)
+- Added Missing Death Animation Preview Files			(KnobelKnight)
+- Added Guide to Narsis									(Mark, trav)
+- Added Western Reach Fortifications set				(Fremennik)
+- Added Western Reach/Dragonfields Rock Set				(AcrylicFrog, LilianaUnfolded)
+- Added Grey Meadow Ash Parasols 						(DarkKnightComes, LilianaUnfolded, Feighten)
+- Added Lapis Lazuli									(Looks To The Moon Pie)
+- Added Shorter Hlaalu floor asset / Temple stairs fix	(Feighten)
+- Added Narsis Mages Guild Reactor						(Stele, Aleister)
+- Added Vampyrum Order weapons							(Rats)
+- Added Anvil Tall Building Shells						(Chef, Hemaris)
+- Added Imga Race										(Rats, Kynesifnar)
+- Added More Food										(Looks to Moon Pie)
+- Added Vermai (Sload variant) 							(Cameron2023)
+- Added Altmer Jewelry									(LilianaUnfolded)
+- Added New canton entrance for Almas Thirr				(Snailsting)
+- Added Skyrender Hive - Shell Platform Light Cell		(Shivatheo)
+- Added Redoran Drawbridge 								(Stele, Brannon the Ilk)
+- Added Redoran Open Ruins								(Shivatheo)
+- Added Dragonscale armor set redo						(EndoranWest)
+- Added Sand Kwoom										(Kinezis, GrumblingVomit)
+- Added Kyne's Intervention								(Kynesifnar)
+- Added Dragonstar Set Expansion						(LilianaUnfolded)
+- Added Non-BB T_Com_Ep_Shirt_03						(Evil Eye)
+- Added Nord Tapestry Hanger Pack						(BarbedWireKisses)
+- Added Non-BB PT common shirts							(Evil Eye)
+- Added Sealing Wax										(Hemaris)
+- Added Nord and Breton ladders							(Exovian)
+- Added Hlerynhul Bridge								(shivatheo)
+- Added Hlaalu Fountain									(athcliath97, shivatheo)
+- Added Radiant Shield VFX								(Kynesifnar)
+- Added Hlaalu Grand Council Hall Statue				(Feighten)
+- Added General Use Dunmer Divine Shrines				(Kynesifnar)
+- Added Maormer Weapons									(Dux)
+- Added Redoran Building interiors 						(Shivatheo)
+- Added Generic headwear								(Rats)
+- Added Non-Ashy Redoran Road							(Cicero, Kynesifnar)
+- Added Cheese Grater									(hemaris, MwGek)
+- Added Breton Alcoholic Beverages						(Gr8 A2n)
+- Added Redguard Rugs									(LilianaUnfolded)
+- Added Padomaic Sea Anemones							(Wanderer, Kynesifnar)
+- Added Toadscale Armor									(Alexander, Taniquetil, Concept: Aldergo)
+- Added Horn of Wild and King of Rats relics			(Cicero)
+- Added Willow Fungis									(LilianaUnfolded)
+- Added Breton Dungeon Ruin set additions				(Fremennik)
+- Added Passwall Wards and Empty VFX					(Kynesifnar)
+- Added More Coconut Stuff								(Looks to the Moon Pie, Concept: Pickles)
+- Added HR427 leveled lists								(Fremennik)
+- Added Washed-up Kelp Clumps							(Looks to the Moon Pie)
+- Added Bolts of Cloth									(Fremennik)
+- Added Breton Lights									(Fremennik)
+- Added Falkreath Guard Armor							(Alexander, Concept: MK, Lathal)
+- Added Breton Rugs										(MammaHyena, LilianaUnfolded)
+- Added Kelp Tree										(MwGek, Looks to the Moon Pie)
+- Added missing Cyrodiil leveled creature lists			(Revane)
+- Added Hammerfell Crates and Barrels					(LilianaUnfolded, joanasc)
+- Added Manis											(Cicero)
+- Added Blind Stalker Goblins							(Cicero)
+- Added Breton Tapestries								(MammaHyena, LilianaUnfolded)
+- Added Addon Pack for Oirrad Interior Development		(LilianaUnfolded)
+- Added Ostern Castle Set								(Kynesifnar)
+- Added Rihad Rural Interiors							(LilianaUnfolded)
+- Added Dreugh Manowar									(Feivelyn, Shivatheo, GrumblingVomit, Concept: tammilisäke)
+- Added Dark Elven Dark Brotherhood Tapestries			(Rats)
+- Added Greydust Containers								(Osidian)
+- Added Kwoom Fronds Ingredient							(Leyawynn)
+- Added Greydust Vials									(Cicero)
+- Added Canyon Thresher									(Kaitou, Alexander, GrumblingVomit, Concept: Maelan)
+- Added Drug Sniff Sound								(Kynesifnar)
+- Added OE Tourney Shields 								(Marhaus)
+- Added Isquel 											(Kynesifnar)
+- Added Indulcet 										(Kynesifnar)
+- Added Hautoma 										(Kynesifnar)
+- Added Imperial Pool Table 							(Melchior Dahrk, Kynesifnar)
+- Added more EEC crates 								(Fluxbender)
+- Added Redoran Waters March Bonemold					(Kinezis, Alexander_7070, Concept: Pickles)
+- Added Narsis Watch Armor								(Alexander_7070, Concept: Pickles)
+- Added Ja-Natta Syndicate faction						(Pralec)
+- Added Skyrender Interior SFX							(Mannaz230)
+- Added Sundered Scar SFX								(beninate)
+- Added Com Market Tents								(Asylum, Kynesifnar)
+- Added Sacred Lands Bonemold							(Alexander_7070, Concept: Pickles, DharmaPR)
+- Added Big Mournhold Tree Variants						(Stele)
+- Added New Redguard poor table							(Joanasc, Concept: Toma400)
+- Added Wraith Mail										(Shadow_Mimicry, Cicero, Concept: Gnomey)
+- Added 2 Khajiit Heads and Hair						(Rot, Kynesifnar)
+- Added Unique Head for Athires Hlaalu					(Rats, Concept: Feivelyn)
+- Added Kagouti Hide Armor								(Alexander_7070, Concept: Pickles)
+- Added BC Entrances and more rocks for Orethan			(MinerMan60101, chef)
+- Added Roadsigns for Poison Song						(Fremennik)
+- Added Kvatch Arena									(Joanasc)
+- Added Shorter Com Forge								(Stele)
+- Added Rihad Architecture								(Joanasc)
+- Added Blade of Kenes									(Joanasc, Concept: heavenlee)
+- Added Little Key Cult Shrine							(Joanasc)
+- Added Abecean Goblin Decals and Banners				(Rats)
+- Added Goblin Raft										(Rats)
+- Added Filled Bosmer Baskets							(mojo187)
+- Added Riverfolk Race									(Kynesifnar, Concept: Xeno, MammaHyena, ThomasRuz)
+- Added CyrImpRuin Door 4								(obie dwyer)
+- Added Orc Urns										(MammaHyena)
+- Added Alit Hide Armour								(Alexander_7070, Concept: Ateiggaer, Pickles)
+- Added Dead Bloodmoon Trees							(VenuSprout)
+- Added Dark Brown DE Lightpost							(chef)
+- Added Pots filled with food							(Denis418)
+- Added Jinevere										(Kynesifnar)
+- Added TD IDs for some SHotN restext textures			(Fremennik)
+- Added Vampirum Order Bloodline						(Evil Eye)
+- Added Natural Cave Entrances for PC					(Snailsting)
+- Added many more Altmer heads and hair					(Rats)
+- Added Shrine of St. Bendu								(Taniquetil)
+- Added Naturalist Class								(Taniquetil)
+- Added Padomaic Roc									(Joanasc, tkurza)
+- Added Cathnoquey Shell Pack							(Brannon The Ilk)
+- Added Adavrin Manor									(chef)
+- Added Narsis Council Building							(chef)
+- Added Breton Beer										(Kynesifnar)
+- Added Dunmer Stronghold Sewer Grate					(Stele)
+- Added SH Cave Transition Tiles for more sets			(Stele)
+- Added Redguard Swords									(Worsas)
+- Added Combined variants of and Updated Direnni Grates (Snailsting)
+- Added GC Addon Tile									(Taniquetil)
+- Added Sutch Guard Armor								(Alexander_7070, Concept: Ateiggaer)
+- Added Shinathi Faction								(Ronik)
+- Added new GC tower and windows						(Worsas, Taniquetil)
+- Added Bosmer wenbone armor							(Alexander_7070, Concept: Pickles)
+- Added Com cellar pillar + struts						(Snailsting)
+- Added driftwood										(MwGek)
+- Added hanging practice dummy							(EndoranWest)
+- Added more CaveRe tiles								(Snailsting)
+- Added Pillarless T_Glb_Cave_I_Platf128_01				(Snailsting)
+- Added Velothi Silo									(Stele)
+- Added Hla temple 03 int								(Stele)
+- Added loads of misc High Rock assets					(Fremennik)
+- Added Wooden Animal Carvings							(Stele)
+- Added Abysmal Blade									(VenuSprout, Concept: be-a-stranger)
+- Added Velothi int entrance 3							(Snailsting)
+- Added Ynesai poor furniture							(DarkKnightComes, Concept: Pickles)
+- Added Ynesai middle class furniture					(DarkKnightComes, Concept: Pickles)
+- Added Bitterstone and bronze							(Kynesifnar, Concept: Fluxbender)
+- Added Longboard										(MwGek)
+- Added Colovian Lamellar armor							(Alexander_7070, Concept: Ateiggaer, MK)
+- Added more Padomic Ocean rocks						(Brannon the Ilk)
+- Added more Rihad buildings							(Joanasc)
+- Added Goldmoor land textures							(Joanasc)
+- Added Ra Gada fort ruins								(Joanasc)
+- Added Nedic artifact club								(AnhoraNexus, Concept: Aylinerik)
+- Added Tilled Dirt for Clambering Moor					(chef)
+- Added more Uniques for TR								(Cicero)
+- Added Malahk Orc Set									(athcliath97, Concept: Pickles)
+- Added more Imp Saint Shrines							(Taniquetil)
+- Added Nedic Burial Caves for Shipal-Shin				(Stele, Concept: Aveno)
+- Added more Velothi Interior Railings					(Snailsting)
+- Added Velothi Brazier with no Flame					(Snailsting)
+- Added Py, Mold, and Lavacave Dwe connectors			(Aveno)
+- Added Ebonweave Armor									(Alexander_7070, Concept: Pickles, Tammilisake)
+- Added Pudjing											(Kynesifnar)
+- Added Guards of Ngalom								(Brannon the Ilk, MwGek)
+- Added Dreugh cave connections							(Snailsting)
+- Added Keptu-Quey Manatee Leather Armor				(PulcharmSolis, Concept: DharmaPR)
+- Added missing SH cave curve							(Stele)
+- Added Velothi Interior alt curved corner				(Snailsting)
+- Added Hugh Anhora Weapon Pack							(AnhoraNexus)
+- Added Argonian Wood Clutter							(Overseer, Stele, Concept: Casey Fogwell)
+- Added Breton Books									(Asylum)
+- Added Padomaic Sand piles
+- Added Western Reach Mysterious Shrine					(ThomasRuz, Kynesifnar)
+- Added Hardhat Prawn									(EJRS)
+- Added Broker Class									(Taniquetil)
+- Added Skyrim Reputation Global						(Tristior)
+- Added Alessian Bronze Armor							(Alexander_7070, Concept: Aldergo)
+- Added King Barda's Head								(Rats)
+- Added Curved Flowing Water Tiles						(Stele)
+- Added Padomaic Roc Nests								(MwGek)
+- Added Daedric Helm of Aberration						(Alexander_7070, Feivelyn, Concept: Gnomey, DharmaPR)
+- Added Bosmer Hide Canoe								(Worsas)
+- Added Ashen BM Pines									(VenuSprout)
+- Added Gold Ivy										(Feivelyn, Shtou)
+- Added Hlaalu Theater Pieces							(Stele)
+- Added Unlit Tiki Torches								(Osidian)
+- Added Mirrored and Tailless Redoran Barracks			(DimNussens)
+- Added Shinathi Clothes								(Feivelyn, Alexander_7070, Concept: Feivelyn, Gnomey)
+- Added Alternate Daedric Armor							(Alexander_7070)
+- Added Herne and Morphoid								(Aleister, Rats, Cicero, Kynesifnar, Worsas)
+- Added Castaway Shack									(MwGek)
+- Added Redoran Docks									(DimNussens)
+- Added More Minecart Railings							(Stele)
+- Added Dragonfields Textures							(Ajbaj, ThomasRuz, MinerMan60101)
+- Added Argonian Ceramic Clutter						(Joanasc, Concept: Tammilisake)
+- Added Reman Ruin Stairs								(Shtou)
+- Added Velothi Corner entrances						(Snailsting)
+- Added Namira Quest Miscs								(Cicero, Remiros, OAAB)
+- Added more Breton Gilded Glass						(LilianaUnfolded)
+- Added Redguard Pants									(Worsas)
+- Added Redoran Wells									(DimNussens, Stele)
+- Added Tsaesci Ruin Furniture							(Brannon the Ilk, Looks to the moon Pie, Concept: Pickles)
+- Added Turned off DE lantern 6							(Snailsting)
+- Added Redoran March Banners							(Brannon the Ilk)
+- Added Wolf Skull										(Alexander_7070)
+- Added Imp Sewer Pycave								(Aveno)
+- Added Cath Shell Clutter								(Fluxbender)
+- Added Shinathi Chitin Armour							(Alexander_7070, Feivelyn, Concept: Pickles)
+- Added Redoran Ruins									(DimNussens)
+- Added Redoran and Telvanni Tapestries					(Feivelyn, Brannon the Ilk)
+- Added Misc Shells										(Looks to the Moon PIe)
+- Added Breton Pewter Clutter							(LilianaUnfolded)
+- Added Water Wheel										(Fremennik)
+- Added Flashgrit										(Shtou, Concept: Mike123)
+- Added more small chests								(Aveno)
+- Added Breton Glass Tableware							(LilianaUnfolded)
+- Added More Drink Barrels								(Aveno)
+- Added Roc Feather										(Looks to the Moon Pie)
+- Added Snowy Daedric Stone								(Kynesifnar)
+- Added Breton Baskets									(Fremennik)
+- Added Redeemed Servants + lists						(Joanasc, Concept: Ateiggaer, Infragris, xeno, Aldergo)
+- Added Breton Signs									(Fremennik)
+- Added Ostern Rural Well								(ThomasRuz, Kynesifnar)
+- Added Velothi Large Transition TIle					(Snailsting)
+- Added Ynesai Stoneware								(Vidi_Aquam, Looks to the moon pie, Concept: Pickles)
+- Added Cath Ceramic Clutter							(BarbedWireKisses, Looks to the Moon pie, Concept: Pickles)
+- Added more Ynesai Heads + Vampire Head				(Kynesifnar)
+- Added Cath Red Glass Tableware						(Looks to the Moon PIe, Concept: Pickles)
+- Added Four Score War Relics							(AnhoraNexus)
+- Added Goblin Skull and Staff							(Joanasc)
+- Added More Exquisite Dunmer Clothes					(Feivelyn, Stele, Concept: Feivelyn)
+- Added Colovian Leather Armor							(Edmurius Tullius, Alexander_7070, Feivelyn, Concept: Aldergo)
+- Added Redoran Hunting Hound SFX						(tkurza)
+- Added Chimer Mussel Amulet							(OAAB)
+- Added Ash-Fowl										(Feivelyn, Cameron2023, Concept: VenuSprout)
+- Added Misc Hammerfell Assets							(Joanasc)
+- Added Sea of Ghosts Natty Cave Ent (WOOOO!!!!)		(MinerMan60101)
+- Added Redoran Banners									(OAAB, HotV, Concept: MK)
+- Added more trap spells								(Revane)
+- Added Quey Baskets									(Looks to the Moon Poe, Brannon the Ilk, Concept: Pickles)
+- Added Coconuts										(Looks to the Moon Pie)
+- Added Hanging Glass Orbs								(Billyfighter, Freddy, Looks to the Moon Pie)
+- Added Hlaalu Iron Railings							(Shtou, Concept: athcliath97)
+- Added Breton Clayware									(Asylum, LilianaUnfolded)
+- Added Misc Clams and Kollops							(OAAB, Looks to the Moon Pie)
+- Added Ynesai Baskets									(Asylum, Looks to the Moon PIe)
+- Added Quey Shell Lantern								(Looks to the Moon Pie)
+- Added Quey Fishing Boat								(MwGek)
+- Added Com Window Cages								(Shtou)
+- Added Ngop Root										(Looks to the Moon Pie)
+- Added more Fish and Jellyfish							(OAAB)
+- Added Breton Stoneware								(Fremennik)
+- Added Yneslea Cave Set								(Looks to the Moon PIe)
+- Added Loads of Velothi Int Tiles						(Snailsting)
+- Added Breton Bottles									(Fremennik)
+- Added Stacked Barrel Lists							(Fremennik)
+- Added Dragonfields Region								(Fremennik)
+- Added Gull Wing Clam									(Looks to the Moon PIe)
+- Added Poor Keptu Chests								(Brannon the Ilk, Looks to the Moon Pie, Concept: Pickles)
+- Added Breton Small Chest								(Fremennik)
+- Added Breton Shop Signs								(Fremennik, MammaHyena)
+- Added Breton Crates and Barrels						(Fremennik)
+- Added Battlespire Spells								(Cicero)
+- Added Diamond Aspis Snake								(Worsas)
+- Added Ashless Velothi Ashpits							(Aleister)
+- Added Sulfur Lights									(Aveno)
+- Added Dwemer Containers								(Aveno)
+- Added Com Millstone									(Kynesifnar)
+- Added Second Batch of Indoril Set						(shivatheo, Athcliath97)
+- Added Greydust Placeholder							(FlinSunset)
+- Added Animal Pens										(Shtou)
+- Added HR Map Scripts									(Taniquetil)
+- Added Shipal-Shin Big Velothi Tower					(Stele)
+- Added Esroniet Small Chest							(DimNussens)
+- Added Imperial Signet Ring							(DimNussens)
+- Added Expensive Compass								(DimNussens)
+- Added Fortify Skill Scrolls							(FlinSunset)
+- Added Py Activator Rocks								(Aveno)
+- Added Ynesai Wooden Teapot and Pitcher				(Looks to the Moon Pie)
+- Added Butter Churn Variants							(Fremennik)
+- Added Roc Eggs										(Looks to the Moon Pie)
+- Added Fletcher, Jeweler, Potter and Carpenter Class	(Revane)
+- Added Blind Stalker Amulet							(Cicero)
+- Added more Battlespire spells							(Cicero)
+- Added Breton crypt exterior set						(LilianaUnfolded)
+- Added Anvil thrones									(Rats)
+- Added corkscrew										(Hemaris, Feighten)
+- Added Abecean/Redguard Alcoholic Beverages			(Shtou joanasc, Concept: Tammilisake)
+- Added unique Anvil NPCs								(Rats)
+- Added Hill Giants										(Rats, GrumblingVomit)
+- Added Deathlands Nede ruins							(Joanasc)
+- Added curtains										(DimNussens, Melchior Dahrk)
+- Added Hemaris moth									(Kynesifnar)
+- Added Altmer glass sword								(Alexander_7070, Feighten, Concept: Tammilisake)
+- Added Orc urns										(LilianaUnfolded, MammaHyena)
+- Added Ostern bridge									(Fremennik)
+- Added Breton rings									(LilianaUnfolded, Asylum, Concept: MammaHyena)
+- Added GCPoor ladder									(Shtou)
+- Added cake											(Hemaris)
+- Added Hlaalu iron railings							(Shtou)
+- Added mounted Alphyn head								(GrumblingVomit)
+- Added misc HR flora									(Spineinside, Fremennik)
+- Added shakhal											(SigynLaufeyson, Revane)
+- Added more Redoran towers								(MwGek)
+- Added more Cyrodiil signs								(MammaHyena, Aldergo, Taniquetil, Rats, Gnomey)
+- Added HR caves										(Fremennik)
+- Added Breton tower cellar set							(LilianaUnfolded)
+- Added Mastreeve										(EJRS, Joanasc, GrumblingVomit)
+- Added SH/mudcave transition							(Cicero)
+- Added Ostern rural interior tileset					(LilianaUnfolded)
+- Added Dreugh karvanasim / meff sack					(Looks to the Moon Pie)
+- Added more Breton wines								(Taniquetil, MammaHyena, Lucevar)
+- Added Nord furnM expansion							(Fremennik)
+- Added Sharai Hopper meat								(Leyawynn)
+- Added wild flora_tree_mh2								(Leyawynn)
+- Added Hlaalu artifacts								(Alexander_7070, AnhoraNexus)
+- Added Firemoth propylons + indices					(Feighten, Ronik)
+- Added Breton poor furniture							(ThomasRuz, LilianaUnfolded)
+- Added com buoys										(Looks to the Moojn Pie, LilianaUnfolded)
+- Added expensive carriage								(Worsas)
+- Added Breton cheese									(Fremennik)
+- Added Morrowind Nede clutter							(MwGek, Bodz Concept: Tammilisake)
+- Added Imperial / common amulets						(LilianaUnfolded, Concept: MammaHyena, JayRicktor)
+- Added Orethan flower grass texture					(Leyawynn)
+- Added Books
+ - Ja-Natta Syndicate Canyon Echo Edition 				(Pralec, Jackimoff Wackimoff)
+ - Armies of the Usurper								(Abby)
+ - Generic Harbourmaser Books
+ - The Kendhall Book of Riddles							(Cicero)
+ - High Rock Books Bundle								(Taniquetil)
+ - The Imperial Census of Daedra Lords					(Cicero, Feighten)
+ - Nature of Fire										(Delemis)
+ - The Mask and the Mirror								(Shapur)
+ - Ode to a Prince's Wealth								(Delemis)
+ - Tower or Tomb										(Violet)
+ - Generic Burial Records Books							(ymAtarax1A)
+ - Meditations on Tobr'a								(mothpot)
+ - The Apology of Stendarr								(Terrifying Daedric Foe)
+ 
+- Fixed PC crates mesh 									(Fluxbender)
+- Fixed DP Dead Tree 1 using wrong mesh					(chef)
+- Fixed Ore Containers									(Ronik)
+- Fixed Silver Weapons List								(Ronik)
+- Fixed Goats With Fish SFX								(Ronik)
+- Fixed Fish Levelled List								(Ronik)
+- Fixed Missing Icon for Coat of Arms					(Ronik)
+- Fixed St. Jahn Wort Atlas								(Ronik)
+- Fixed PI Rock paths									(Ronik)
+- Fixed Bucket Texture Path								(Ronik)
+- Fixed Kragen Helm Enchant Value						(Ronik)
+- Fixed Yneslea Jungle Tree filepath					(Pickles)
+- Fixed male Breton head 15 UV							(Worsas)
+- Fixed missing tourney shields							(Marhaus)
+- Fixed Cyr wooden sign bases							(Taniquetil)
+- Fixed empty organic containers						(Ronik)
+- Fixed Othreleth Woods Sound Files						(Ronik)
+- Fixed Reman Fort Canopy								(Cicero)
+- Fixed Coronati Basin Sounds							(Ronik)
+- Fixed Alchemy Shelf									(Shtou)
+- Fixed Tsokni											(Looks to the Moon Pie)
+- Fixed a bunch of collisions							(freefred1122)
+- Fixed OW Rock 4										(Cicero)
+- Fixed missing Telvanni tapestries						(Ronik)
+- Fixed tantha animations								(Joanasc)
+- Fixed Storm Monarch Particle Scale					(Kynesifnar)
+- Fixed Imperial Chapel Interior Windows				(Snailsting)
+- Fixed a bunch of Anvil assets							(Snailsting)
+- Fixed Anvil City Walls and Towers meshes				(Hemaris)
+- Fixed Sea Urchin Meat spawn rate						(Revane)
+- Fixed Abecean Shore regions sleep spawners			(Revane)
+- Fixed Respawn flags for PT creatures					(Revane)
+- Fixed Cyrodiil Goblin stats							(Ronik)
+- Fixed Sabre/Saber Cats								(Revane)
+- Fixed Elsweyr Asset Paths								(Toma400)
+- Fixed Worshipper/Worshiper spelling					(Revane)
+- Fixed Drumpear Graphic Herbalism support				(Revenorror)
+- Fixed Itinerant Priest and 9-Holes Typos				(KnobelKnight)
+
+- Updated PT Pants Meshes								(Kynesifnar)
+- Updated Sword of Dibella name							(FlinSunset)
+- Updated Pitcher Effects								(Ronik)
+- Updated Itinerant Priests Ranks						(Ronik)
+- Updated Cutting Board									(Aveno)
+- Updated Hammerfell Fruit effects						(Denis418)
+- Updated Anvil Guard Set Emblem						(Worsas)
+- Updated SH Cave Geometry								(Stele)
+- Updated red coral ID
+- Updated SetInd IDs to SetMH
+- Updated new SetOM IDs to SetInd (ruined pieces remain SetOM)
+- Updated SHotN Pine1 through 3							(VenuSprout)
+- Updated Ald Iuval council int into 4 objects			(shivatheo)
+- Updated Navy Officer set name							(Ronik)
+- Updated Red Colovian Fur Helm texture					(Cicero)
+- Updated De Misc Candle Icons							(Cicero)
+- Updated Placeholder Bonemold names					(Revane)
+- Updated Astrology Books								(Taniquetil, Revane)
+- Updated Big Redoran Tower								(Snailsting, MwGek)
+- Updated Narsis Consulate Dome							(shivatheo)
+- Updated Gold Coast name to Strident Coast
+- Updated Blank Trade Manifest							(Ronik)
+- Updated Bandit levelled lists							(Ronik)
+- Updated Redguard Shirt textures						(Worsas)
+- Updated Daedra Lists									(Ronik)
+- Updated (added, really) Sload							(Adanorcil, GrumblingVomit, Feighten, Stele, Concept: MK)
+- Updated Sky Sack Texture								(Fremennik)
+- Updated Yellow Flowers								(Looks to the Moon Pie)
+- Updated Maidenhair Fern								(Cicero)
+- Updated River Strider									(Cameron2023, Feivelyn)
+- Updated PC Cart textures								(Worsas)
+- Updated PC Mine entrances								(Worsas)
+- Updated Seagulls										(Worsas)
+- Updated Domica Redwort								(Worsas)
+- Updated PI Mine entrances								(Worsas)
+- Updated Stirk Walls									(Worsas)
+- Updated HR Levelled Lists								(Fremennik)
+- Updated PC ivy										(Hemaris)
+- Updated dartboard texture								(Hemaris)
+- Updated purple OW scrub								(Leyawynn)
+- Updated Wisp Stalks									(LondonRook, Feighten)
+- Updated Abecean Coral textures						(Looks to the Moon Pie)
+- Updated iron bar textures								(MwGek)
+- Updated rice ingredient								(Looks to the Moon Pie)
+- Updated Ayleid Creature Spawns						(Revane)
+- Updated Meridia Voice Lines							(Cicero)
+- Updated GC Oak Trees									(Hemaris)
+- Updated PT Books for Abecean Shores release			(Taniquetil)
+- Updated Imperial Kitchen book							(Infragris, GubernatorialEkphrasis)
+- Updated Strident Coast Land textures					(mothpot)
+- Updated Redguard Tableware textures					(joanasc)
+- Updated SHotN Redguard heads							(Rats)
+- Updated Cyr Runestones with Bound Effects				(Trav)
+- Updated Cyr MG FacRep									(FlinSunset)
+- Updated Anvil stairs and bridge						(Yoae)
+- Updated Anvil platforms								(Yoae)
+- Updated MWSE Spell Scrolls							(Kynesifnar)
+- Updated/optimized select TR textures					(Cicero)
+- Updated Anvil platforms								(Snailsting)
+- Updated Ayleid Tower Hall Connector					(hemaris)
+- Updated Bats											(worsas)
+- Updated Cyr Slaughterfish lists						(Revane)
+- Updated Anvil doors									(Yoae)
+- Updated Great Faiths dialogue							(Blueshift)
+- Updated Imperial Highway Milestones					(hemaris)
+- Updated Hexagonal SetAnv Addons						(Snailsting)
+- Updated Staff of the Custodian mesh and textures		(Rats)
+- Updated Cyr Gravestones								(worsas)
+- Updated Goldstone Bridge Pieces						(Shtou)
+- Updated Cliff Mesh UVs								(Cicero)
+- Updated FurnM Printing Press textures					(worsas)
+- Updated Cane weapon type								(FlinSunset)
+- Updated Cyr Legion dialogue							(Revane)
+- Updated Cyr Imperial Cult dialogue					(Revane)
+- Updated Colovian Clothing Leveled Lists				(BarbedWireKisses)
+- Updated Anvil Basement Walls and Forge				(Fremennik)
+- Updated Skyrim Signposts								(Fremennik)
+- Updated Barrow Mummy texture							(joanasc)
+- Updated Alphyn stats									(Blueshift)
+- Updated Chev-Aram Helm meshes							(hemaris)
+- Updated Nirnroot stats								(Blueshift)
+- Updated Ayleid Hall meshes							(Snailsting)
+- Updated Nirnroot										(Revenorror)
+
+- All new deprecations are now done using the CSSE TOML file
+- Tamriel_Data Graveyard was merged back into the Tamriel_Data ESM. The items are still considered deprecated, and hidden in the CS using the CSSE TOML file
+
+
+December 2023 UPDATE
+
+- Added Koroi Islander Hanging Beads					(Fluxbender)
+- Added Velothi Mountains Land Textures	& Rocks			(VenuSprout, EP1CN3SS2, Cicero, chef)
+- Added Clambering Moor Land Textures					(chef)
+- Added more Minecart rails								(Stele)
+- Added Minecart contents								(Wolli, Kynesifnar)
+- Added Gilded Glass Armor								(Feivelyn, Kynesifnar, Concept: Feivelyn)
+- Added Scamp Iron Weapons								(AnhoraNexus, Concept: Ateiggaer)
+- Added Ashlander Rawglass Weapons						(AnhoraNexus)
+- Added "Lustrous Pearls" Jewelry & Sword				(Melchior Dahrk)
+- Added Small Dunmer Shipwreck							(Kynesifnar)
+- Added Padomaic Ocean Cave Set							(Fluxbender)
+- Added SkyCom sack variants							(Aveno)
+- Added Enchanted PI Weapons							(Fluxbender, Jackimoff Wackimoff)
+- Added Shellmold Weapons								(AnhoraNexus, Concept: Pickles?)
+- Added Closed Nordic Ringmail Helm						(AnhoraNexus, Concept: Aldergo)
+- Added Hlerynhul Buildings								(chef)
+- Added Azura's Moon									(AnhoraNexus)
+- Added Roc Next Columns								(Fluxbender)
+- Added Canes											(DarkKnightComes)
+- Added Female Dwemer Spectre							(OAAB)
+- Added Sea of Ghosts North Region						(Taniquetil)
+- Added more Cathnoquey and Yneslea Rocks				(Fluxbender)
+- Added Generic Clams & Oytsters						(Asylum, Fluxbender)
+- Added Dunmer Jeweler Hairs							(Svartmerll, Kynesifnar)
+- Added Cathnoquey Cave Entrance + Addons				(Fluxbender)
+- Added Icebergs										(Melchior Dahrk)
+- Added Com Lamp Recolours								(Snailsting)
+- Added Small Stirk Pillar								(Worsas)
+- Added Orethan land textures							(Kynesifnar, chef)
+- Added Spiked Iron Helm								(AnhoraNexus, Kynesifnar, Concept: MK)
+- Added Breton Gilded Glassware							(Vidi_Aquam)
+- Added Mournhold Docks									(EndoranWest)
+- Added Modular Cranes									(OAAB)
+- Added Static open chest								(Snailsting)
+- Added Enchanted Glass Arrows and Bolts				(Aveno)
+- Added more MW Containers								(Aveno)
+- Added Daedric Septis Spell							(FlinSunset, Ronik)
+
+- Updated (and expanded) Butterfly and Moths			(Stripes, Revenorror, Worsas, Kynesifnar)
+- Updated Beetle names									(Cicero)
+- Updated Old Riverstrider Mesh							(Stele)
+
+October 2023 UPDATE
+
+Tamriel_Data
+
+- Added Velothi Lighthouse 								(MwGek)
+- Added Dunmer Ebony Helm Variants 						(AnhoraNexus, Cicero Concept: Ateiggaer)
+- Added Alma Rula's Ceremonial Helmet 					(Kynesifnar Concept: Rats)
+- Added More Dwemer Statues 							(Svartalfar, Cicero, Kynesifnar, Revenorror)
+- Added Bellman Entry for Literary Critic 				(Taniquetil, Why)
+- Added Corkbulb Bow 									(AnhoraNexus Concept: Ateiggaer)
+- Added Additional Com Potions 							(Phenoix12)
+- Added Velothi Ruins 									(OAAB)
+- Added Velothi Rubble 									(chef)
+- Added Yneslea Palm Trees								(DarkKnightComes, Cicero)
+- Added EEC Tapestries, Signs and Banners 				(Rats)
+- Added NiCollisionSwitch Dongle Water					(Melchior Dahrk)
+- Added more Hlaalu Big and Tall pieces					(Tosky)
+- Added Hlaalu Wall Screen tile							(Tosky)
+- Added Hlaalu Dome tile								(Tosky)
+- Added OW and SH Tilled Dirts							(Revenorror, chef)
+- Added Open Tall Canton								(Atrayonis)
+- Added Editormarker NPC								(Hemaris)
+- Added Editormarker Playerhome							(Hemaris)
+- Added 3rd Colovian Robe								(Worsas Concept: MammaHyena)
+- Added Legion Fort floor for high battlements			(Hemaris)
+- Added Shipal-Shin sandstone cave set					(S'wit, Kynesifnar, Revenorror)
+- Added Bloodmoon rocks (all current VM rocks renamed)
+- Added Coral (old OW coral fungus)						(S'wit)
+- Added Ostern Rural Set								(Joanasc Concept: Drathar, ThomasRuz)
+- Added Modular Lower Canton Set						(MwGek)
+- Added Telvanni Merchant Hats							(Feivelyn, Kynesifnar Concept: Ateiggaer)
+- Added Ex Telvanni Robes and Hats						(Feivelyn, Kynesifnar Concept: Feivelyn)
+- Added Filled Small Sack Variants						(Denis418)
+- Added Cyrodillic Wheat and Sacks						(Worsas)
+- Added Anvil Shipyard Building							(Worsas)
+- Added Generic Coal Containers							(Osidian)
+- Added Additional Kvetchi Pass Flora, logs and stumps	(Worsas, Joanasc)
+- Added Imperial Baskets								(Infragris, Worsas)
+- Added Bleakstar										(Spineinside, ThomasRuz)
+- Added Skis											(Hemaris)
+- Added Falkreath Building Set							(Joanasc Concept: roerich)
+- Added Breton Wizard Robe								(c0dacan0n, Kynesifnar, Aleister)
+- Added Tall GC Fireplace								(Lucevar)
+- Added Ancient Nordic Weapons							(AnhoraNexus)
+- Added Velothi Mountain Flowers						(Fluxbender)
+- Added Cathnoquey Palmwood Tableware					(Fluxbender Concept: Pickles)
+- Added Yneslea Clay Tableware							(Fluxbender Concept: Pickles)
+- Added Curved Velothi Int Corner						(Kynesifnar)
+- Added Padomic Sage									(MwGek)
+- Added Redoran Warbanners								(Remiros, Kynesifnar)
+- Added Scroll for Appraisal Quest						(Remiros, Cicero, Kynesifnar)
+- Added Dwemer Lift										(Wojtek, Kynesifnar)
+- Added Legion Tower Base								(Greatness7, Taniquetil)
+- Added Yneslea Rattan									(MwGek)
+- Added Indoril Ulvra Bonemold							(DharmaPR, Feivelyn, Kynesifnar Concept: DharmaPR, Pickles)
+- Added Generic Padomic Coastal Palms					(MwGek)
+- Added Temaris Veloth Statue							(MwGek)
+- Added Padomic Ocean Rocks								(Kynesifnar)
+- Added Padomic Ocean Textures							(AcrylicFrog)
+- Added more Snowy Darkstone Textures					(Kynesifnar)
+- Added more Blunt Weapons								(Rats)
+- Added GCPoor Tunnel Block tile						(Worsas)
+- Added Common and Expensive Telvanni Clothes			(Feivelyn, Kynesifnar Concept: Feivelyn)
+- Added Temaris Land Textures							(Asylum)
+- Added Iron/Pewter Candle Snuffer						(EndoranWest)
+- Added Imperial Navy Officer Armour					(Worsas Concept: Ateiggaer)
+- Added unique Ward of Akavir							(Shadow_Mimicry, Kynesifnar, Cicero Concept: Jackimoff Wackimoff)
+- Added Cathnoquey Bronze Clutter						(Fluxbender Concept: Pickles)
+- Added Ngopta											(Fluxbender Concept: Pickles)
+- Added Draketails										(ThomasRuz)
+- Added Keptu-Quey Bull Drawing							(Rats)
+- Added Gauntlets of the Poor							(Lamb Shark)
+- Added FurnP Pos Chest									(Aveno)
+- Added Imperial Sewer Stairs							(Joanasc)
+- Added Shinathi Heads									(Rats Concept: Gnomey)
+- Added missing Kragen Bonemold pieces					(Lamb Shark Concept: Pickles)
+- Added Temarin Bugloss									(MwGek)
+- Added Tiger Guar										(Cicero, Kynesifnar)
+- Added Cathnoquey Puffball Flower						(Fluxbender)
+- Added Dwemer Robe										(Ashtaar, Svartalfar, Cicero, Kynesifnar)
+- Added Cathnoquey White Sand							(Cicero)
+- Added Blessings for Nord Priestesses					(Tristior)
+- Added Kushimmu Nerevarine Reward						(Cicero, OAAB)
+- Added missing HD textures for TR faces				(Rats)
+- Added Natural Cave Entrances							(Cicero, Kynesifnar)
+- Added Steel Truncheon									(Rats)
+- Added GC retexture of T_Mw_CaveMold_4way_Room_01		(Snailsting)
+- Added Cathnoquey Natural Cave Entrances				(Asylum, Kynesifnar)
+- Added Damaged Velothi Urns and Altars					(OAAB)
+- Added Colovian Fortresses								(Joanasc, Worsas, Spineinside)
+- Added AC rock variants for darkstone 3				(Cicero)
+- Added Kenassa Tong faction
+- Added Summerset Celadonware							(DangerDog, Kynesifnar)
+- Added Scathecraw trees								(VenuSprout)
+- Added Sammas Bonemold Helmet							(Rats, Kynesifnar)
+- Added generic seafood barrels							(Shadowhawk)
+- Added Com (nord) lighthouse							(MwGek)
+- Added Com perfumes									(Worsas)
+- Added Aanthirin rock texture							(Cicero, Kynesifnar)
+- Added Sharai Hopper									(Joanasc, sfx by Beninate Concept: Gnomey)
+- Added Shipal-Shin sapphire ores						(Cicero)
+- Added Bosmer Trade Ship								(Joanasc Concept: Ateiggaer)
+- Added Dwemer Tomb										(Kynesifnar, Geophysic2013)
+- Added many more Reman ruin pieces						(Worsas)
+- Added Dunmer candles for more clutter sets			(Fluxbender)
+- Added Alchemist's Globe								(Feivelyn, Kynesifnar Concept: 10Kaziem)
+- Added Bosmer Kitchenware								(Worsas)
+- Added additional com beds								(OAAB)
+- Added Blackdrake										(PulcharmSolis, Taniquetil)
+- Added open coffin										(Brannon the ilk)
+- Added Aegrotat										(Kynesifnar)
+- Added Dragonfield Trees								(ThomasRuz, Kynesifnar, Worsas)
+- Added Goldmoor Rocks and Flora						(Joanasc)
+- Added Burned GC Trees									(chef)
+- Added Moth Herder Helmet								(PulcharmSolis, Taniquetil)
+- Added Leafy Plant										(Asylum)
+- Added Missing cave 4way_Room_01 variants				(Snailsting)
+- Added Tall De_R Bookshelf								(OAAB)
+- Added New Redoran Exterior Shells						(shivatheo)
+- Added Small Dunmer Ship								(OAAB Concept: Gnomey)
+- Added Generic Barrels with wine						(chef)
+- Added Imperial Carved Wood Clutter					(Kaiel)
+- Added more Cyrodiil Road Signs						(chef)
+- Added Additional Kvetchi Cave Entrances				(Worsas)
+- Added Shorter In_Cavern_Beams							(Stele)
+- Added Copper Dome Chapel								(chef, architextures.org)
+- Added Pilgrim's Pillar								(DarkKnightComes Concept: 10Kaziem)
+- Added Open Small Weathered Crate						(Denis418)
+- Added Morrowind Creature Skulls						(Sandman, Vidi_Aquam, Kynesifnar)
+- Added More Aanthirin Trees							(Cicero)
+- Added Vounoura Assets									(Cicero)
+- Added burnt GL Tree_01								(Cicero)
+- Added Astrologer Class								(Taniquetil)
+- Added Ratcatcher Class								(Taniquetil)
+- Added Hlaalu Ledge with no ends						(Stele)
+- Added Hlaalu Interior Dome set						(Stele)
+- Added Ynesai Race										(PulcharmSolis)
+- Added Yneslea Tall Yellow Flower						(DarkKnightComes)
+- Added Yneslea Tree									(DarkKnightComes)
+- Added Dwemer Rourken Exterior Set						(Joanasc)
+- Added First Era Colovian Redware						(Kaiel)
+- Added Nibenese Robes									(Feivelyn, Kynesifnar Concept: Ald Ma Cyrod)
+- Added Dreugh Citadel Set								(Lamb Shark, Kynesifnar)
+- Added Cathnoquey Rocks								(Asylum, Kynesifnar)
+- Added Nordic Tomb Artifacts							(AnhoraNexus)
+- Added Chimeri-Quey Chitin Weapons						(AnhoraNexus, concept: Drathar)
+- Added various filled containers						(Aveno)
+- Added Guarskin Armor									(AnhoraNexus, concept: Pickles, Gnomey)
+- Added Additional Chimeri-Quey Head & Hair				(Kynesifnar)
+- Added Yneslea Ground Textures							(DarkKnightComes)
+- Added Iron Helm Variants for Cyrodiil					(AnhoraNexus)
+- Added Hlaalu River Watch Set							(Vidi_Aquam, VenuSprout, concept: Ateiggaer, Pickles)
+- Added Muatra Pedestal									(rats)
+- Added Ald Iuval Council Hall							(shivatheo)
+- Added Yneslea Rock Set								(Feivelyn)
+- Added New Velothi Buildings							(shivatheo)
+- Added Valenwood Wine									(Worsas, Steppenwolf)
+- Added Rich Redguard furniture							(Joanasc)
+- Added Sword of Dibella								(Cicero)
+- Added Padomic Coral									(Captain Angus, Swit)
+- Added Daedric Crossbow and Bolts						(AnhoraNexus)
+- Added Iron Shortbow									(AnhoraNexus)
+- Added Greater Bonelord								(Svarmerll, AnhoraNexus, Kynesifnar)
+- Added Area Effect Arrows								(Bethesda)
+- Added Skyrim Bulls									(Kynesifnar)
+- Added Somber Widow									(MwGek, DarkKnightComes)
+- Added Medium OW Mushroom								(Hemaris, Fluxbender)
+- Added more OAAB things								(OAAB, Revenorror, Worsas)
+- Added Foul Murder Mural								(RandomPal, Cicero)
+- Added Wraithmail Ringlet								(Cicero)
+- Added Com Trade Ship + wreck							(Taniquetil's Brother, Worsas, Revenorror, Kynesifnar Concept: Shadowhawk)
+- Added Curled Ferns									(Asylum, Kaitou)
+- Added Plaques											(Joanasc)
+- Added GC Set Patches									(Joanasc)
+- Added Keptu-Quey Obsidian Weapons						(AnhoraNexus)
+- Added Minotaur Barrowguard							(Joanasc Concept: Ateiggaer)
+- Added More Rich Imp Furniture							(OAAB)
+- Added missing TD Legion tiles for PC					(Taniquetil)
+- Added P and M Redguard Furniture						(EJRS, Worsas)
+- Added Redguard wood, porcelain and clay Tableware		(Joanasc)
+- Added many missing container variants					(Aveno)
+- Added Argonian Skeleton & bones						(Revenorror)
+- Added Dreugh Furniture								(Tammilisake, Kynesifnar, Feivelyn, Fluxbender Concept: Tammilisake, Feivelyn)
+- Added Dagi-Raht Khajiit								(Rats)
+- Added Red Coral										(DarkKnightComes)
+- Added Scepter of Violation							(VenuSprout)
+- Added Starfish										(MwGek, Remiros, Fluxbender)
+- Added Colovian Common Shoes							(Matt Andrews Concept: MammaHyena)
+- Added Bosmer Dresses									(Worsas)
+- Added Nord Barrow additions							(Worsas)
+- Added Richton Coat of Arms							(Cicero)
+- Added Tall Hlaalu Sewer Tiles 						(shivatheo)
+- Added Hlaalu RoomT Balcony							(DarkKnightComes)
+- Added Hlaalu half railings							(DarkKnightComes)
+- Added Daedroth Statue									(AnhoraNexus, Cicero)
+- Added Nord Barrow hall door							(Wolli, Kynesifnar)
+- Added Red bottles, coloured paper, gold thread 		(Revenorror)
+- Added vanilla plant pot without the plant				(Revenorror)
+- Added Cinnamon and Lotte								(Revenorror)
+- Added Legion Lighthouse								(MwGek)
+- Added Blue Palms										(Fluxbender)
+- Added Swamp Troll Sounds								(Beninate)
+- Added Padomic Candles									(Fluxbender)
+- Added Temaris and Cathnoquey Bushes					(Asylum, Fluxbender)
+- Added missing ebony clutter							(OAAB, shivatheo)
+- Added Altmer Trade Ship								(Ajbaj, Worsas)
+- Added Glass and Gold Hlaalu Decoration				(Feivelyn)
+- Added Clambering Moor Boneshrooms						(VenuSprout)
+- Added Temaris Succulents								(Asylum, MwGek, DarkKnightComes, Cicero)
+- Added Sanguine Voice Acting							(MAJ-12 MEDIA, Beninate, Cicero)
+- Added Namira Statue + Ring							(AnhoraNexus)
+- Added Rihad Lighthouse and poor set					(Joanasc)
+- Added Cane of the Madstar								(DarkKnightComes)
+- Added Wyrm's Fang spear								(AnhoraNexus)
+- Added Guar pack										(DarkKnightComes)
+- Added Kurahk											(AnhoraNexus)
+- Added Plainstrider									(Petethegoat, Axebeard, Bisty, Kynesifnar, Feivelyn Concept: Gnomey, Feivelyn)
+- Added Clambering Moor (Bloodmoon) grass				(chef)
+- Added Geysers											(OAAB)
+- Added Nord Trade Ship									(Worsas Concept: Shadowhawk)
+- Added Narsis Arena									(MwGek, shivatheo)
+- Added Narsis Council Quarter Sewer Room				(shivatheo)
+- Added Narsis Grand Council Platform + Ceiling			(Galrom, shivatheo, athcliath97)
+- Added PI Sand piles									(Phenoix12)
+- Added the rest of the Shipal-Sharai buildings			(chef)
+- Added Dreugh Queen									(Feivelyn, Joanasc, shivatheo Concept: Tammilisake)
+- Added Narsis Consulate Dome							(shivatheo)
+- Added iron ingot crates								(LilianaUnfolded)
+- Added Redguard utensil list and chest					(Aveno)
+- Added expanded Old Mournhold set						(shivatheo Concept: Nirva)
+- Added Auroran Weapons									(Worsas)
+- Added General Use Talos Tapestry						(Kynesifnar, Athcliath97)
+- Added GITD-less variants for shipwrecks				(Kynesifnar)
+- Added Afliq SFX										(Beninate, Fluxbender)
+- Added Padomic Palm Wine								(Fluxbender)
+- Added MW variants of SHOTN's natty cave exit			(Snailsting)
+- Added Lake Algae										(Fluxbender)
+- Added Sea Urchins										(Fluxbender)
+- Added Asparagus Trees									(VenuSprout Concept: 10Kaziem)
+- Added Bosmer rings									(Worsas, Steppenwolf)
+- Added Beeswax											(Worsas, Steppenwolf)
+
+- Added books:
+ - Divine Sacrifice										(Infragris)
+ - Memories of Western Highlands						(Infragris)
+ - Sayings of the Church-Mothers						(Infragris)
+ - The Image and the Divine								(Infragris)
+ - Arcturianism For Beginners							(Infragris)
+ - Tales of the Woven City								(Infragris)
+ - The Secret Throne of Vampires						(Infragris)
+ - The Pilgrim and the Soldier							(Infragris)
+ - Iniquities of the Current Era						(Infragris)
+ - Temple Zero - A Warning								(Infragris)
+ - Narsis: A History									(Mark)
+ - Seven Families of Clan Hlaalu						(Mark)
+ 
+- Fixed Dark Seducers using a unique weapon
+- Fixed non-navigable GCPoor ramp2						(Worsas)
+- Fixed Indoril Mace being set as an axe
+- Fixed custom Khajiit stretching						(Lamb Shark)
+- Fixed Indoril stair and striderport collisions		(Lamb Shark)
+- Fixed Giant Kobolds (final?)							(Lamb Shark)
+- Fixed Roa Dyr stair collision							(Lamb Shark)
+- Fixed TD Mw and Cyr Goblin stats						(Ronik)
+- Fixed typo in For My Gods And Emperor					(FlinSunset)
+- Fixed a few misc and ingred naming errors				(Revane)
+- Fixed Velothi Wall 6 collision						(Stele)
+- Fixed missing Akatosh windows							(Kynesifnar)
+
+- Updated Chitin Open Helm 								(AnhoraNexus)
+- Updated Dwemer bow and added a club					(AnhoraNexus, Cicero)
+- Updated Templar Weapons (twice)						(AnhoraNexus)
+- Updated Galleon Collisions							(Worsas)
+- Updated Othreleth Woods Region map colour
+- Updated (nerfed) Javelin damage by half
+- Updated Bonemold Open helm							(AnhoraNexus)
+- Updated Coral Fungus									(Joanasc)
+- Updated Falkheim Region name to Grey Plains Region
+- Updated Gilded Hills Region name to Brennan Bluffs Region
+- Updated Reachmen race with unique bodies + new faces	(rats)
+- Updated old Vurt Joshua trees with new meshes			(Joanasc)
+- Updated Fearstruck from HR to PI
+- Updated Sanguine Rose and Skull of Corruption			(Cicero)
+- Updated Uriel V Shield								(Rats)
+- Updated Imperial Cutter and Galleon					(Melchior Dahrk)
+- Updated Iron sabers									(Rats)
+- Updated Reach rocks with collisions					(Joanasc)
+- Updated swamp troll collision box						(Lamb Shark)
+- Updated Othreleth Woods sounds						(Beninate)
+- Updated Reman ruin int and ext pieces					(Worsas)
+- Updated Eyestar model									(shivatheo, Kynesifnar)
+- Updated Bal-Darum Bonemold							(Lamb Shark)
+- Updated Reach Cave Textures							(Worsas)
+- Updated Lex Imperii books								(Infragris)
+- Updated Skyrim Barrow Textures						(Worsas)
+- Updated Dreugh Closed Helm							(AnhoraNexus)
+- Updated Daedric Scimitar								(AnhoraNexus)
+- Updated Silver Longbow								(AnhoraNexus)
+- Updated Ebony Blade and Ethos Knife					(Cicero)
+- Updated keys											(Zobator)
+- Updated Ebony Crossbow								(AnhoraNexus Concept: Ateiggaer)
+- Updated Narsis Gazebo									(Overseer Concept: Athcliath97)
+- Updated Velothi MT and PI flowers with Graphic Herbalism (Fluxbender)
+- Updated a few PI meshes and icons						(Fluxbender)
+- Updated PC crate textures								(OAAB, Cicero)
+
+- Removed potion_ancient_brandy from T_Mw_Random_Drink
+
+- Deprecated T_Sc_MistressTR
+
+November 2022 UPDATE
+
+Project Tamriel
+
+- Added stackable GC stairs
+- Added GC sewer entrance tile
+- Added Tsaesci Urns
+- Added 2 Cyr cave sets
+- Added levelled bullfrog
+- Added lampknight and barrister classes
+- Added Unique Bendu Olo helm
+- Added Tantha nests
+- Added Strid levelled lists
+- Added Boar Meat to Wild Boars, replacing Bristleback Leather
+- Added Orc Tapestries
+- Added Another Reachmen Interior
+- Added Lamp Knight Class
+- Added Clan Khulari Faction
+- Added some SHotN enchanted weapons
+- Added Falkreath land textures
+- Added Colovian Iron Armor
+- Added Reman Ruin Tapestries
+- Added Dasek Marsh Region
+- Added Woad Flower
+- Added more Jerral Mountains rocks
+- Added more Valstaag Highlands textures
+- Added Aqueducts
+- Added Skyrim Caretaker and Scribe classes
+- Added Companions faction
+- Added Tacca plant
+- Added Nord tanning pits
+- Added Dasek Marsh mud textures
+- Added Kreathi Dale dirt textures
+- Added more Ayleid interior tiles
+- Added Kreathi Dale moss textures
+- Added com R cupboard and round table
+- Added merged version of a common Haafingar house + wood steps
+- Added Drajkmyr Marsh mud textures and flora
+- Added more Haafingar meshes
+- Added Haafingar Set Zenithar Window
+- Added Gjeche Ale, Risla, and Strongmead
+- Added Hay bale
+- Added Ghulve (drink)
+- Added Elephant Grass
+- Added a few new Breton heads
+- Added salt baskets for Drajkmyr
+- Added GC com set diagonal wall
+- Added Falkreath bushes
+- Added Colovian Steel Armour
+- Added Ayleid Sorceror Kings
+- Added Koglings
+- Added combined Temple (small) for Anvil
+- Added Umbranox Saber
+- Added Quaesto Vil
+- Added Wood elf amulets
+- Added basilisk hide
+- Added bosmer hide baskets
+- Added long Imp FurnM table
+- Added Beorinhal Banner
+- Added Salt stations
+- Added Inscribed stone
+- Added Orcish lanterns
+- Added town guard armours
+- Added rich wall addons for windows
+- Added rich closet
+- Added Redguard Ships (TES3A)
+- Added Auroran
+- Added Bosmer Bone Arrows
+- Added Gold Anvil (misc)
+- Added new connectors for Ayleid Round interior tiles
+- Added Cyrodiilic Pigs
+- Added Dragon Cult Clutter
+- Added Ironwood Logs
+- Added Direnni load doors
+- Added more redguard lamp variants
+- Added Bosmer deerhide
+- Added Redguard shirts
+- Added some new imp tables
+- Added braziers for Imp_DngRuinSky
+- Added Packaged painting
+- Added alternate Anvil chimneys and canopies for performance heavy areas
+- Added more Goldenrod variants
+- Added grey goat pelt
+- Added GCPoor interior ramp
+- Added new global kelp variants
+- Added another GC wall cover
+- Added Sky and PC placeholder guides
+- Added Dartboard
+- Added modular block-and-tackle rigging set
+- Added Telescope
+- Added more and Updated Colovian Banners
+- Added 2 Colovian Robes
+- Added Cow Tools
+- Added com rowboat
+- Added Static Water Hyacinths, Lilly pads and mangrove roots
+
+- Added Books:
+ - Artificial Diseases
+ - De Sphaera Nirni
+ - Guide to the Guild Guides
+ - Teleportation: Premise and Praxis
+ - Weir Gate Memorandum
+ - The Grand Alliance
+ - Horskva Kongerike 1 & 2
+ - Riddles, Good with Mead
+ - The Friend of Giants
+ - The Hsaarik Elegy
+ - Old Fjori the Cove
+ - Radr, Stag-King
+ - Legends of Athalwyrm the Clever-Man
+ 
+- Fixed Sky farmhouse interior gap
+- Fixed some incorrect bookart paths
+- Fixed Xahxes' Gift, Part I also containing Part II
+- Fixed the Alphyn corpse persisting
+- Fixed enchantment values of the Songs of Pelinal VII and VIII
+- Fixed a few typos in books from github
+- Fixed Nord dresses first person view
+- Fixed huge collision in sky_ex_SN_roof_01_02
+- Fixed turnip CTD
+- Fixed HR market stands
+- Fixed Ice Wraith hostility
+- Fixed some Colovian Barrow collisions
+- Fixed wereboar head glitch
+- Fixed Silver palm sprigs
+
+- Updated "some" artifacts
+- Updated Gold Coast rock texture
+- Updated Black Bears to fight level 80 so they attack you when you get close
+- Updated Colovian Barrow loot list to remove septims
+- Updated Falkheim Region Sounds
+- Updated Stinkhorn
+- Updated Cyrodiilic Dremora to sometimes drop a Daedra Heart
+- Updated Reachman ladder collisions
+- Updated Direnni grate collisions
+- Updated hidden door
+- Updated Markarth int tiles
+- Updated Karthwasten atlas and collision
+- Updated Gold Coast and Gilded Hills weather settings
+- Updated Nord heads
+- Updated hundreds of sky and pc meshes with optimizations
+- Updated com bookends
+- Updated some shotn books
+- Updated hundreds of sky and pc meshes with optimizations (again)
+- Updated SHotN trees normals
+- Updated Breton heads
+- Updated Anvil walls and platforms
+- Updated Imperial faces
+- Updated various PC plants
+- Updated Chokeberry poly count
+- Updated wasabi bowl potion to be a squeezable tube thing
+- Updated the existing weapons from the Imperial set
+- Updated Playing Card textures
+- Updated orc tapestries
+- Updated GC tunnel set floors
+- Updated Reman Ruin interior floor texture
+- Updated and expanded SetGC interior windows
+
+- Deprecated old Colovian Iron and Steel Sets
+
+Tamriel Rebuilt
+
+- Added Bodrem Quarry Rocks
+- Added Single Model Ebon Tower
+- Added Unique Face and Hair Models for Arnie the Scrib
+- Added De Windmills
+- Added Hlaalu tapestries
+- Added Dunmer Middle Class Beds
+- Added Dreugh Hunter Helm
+- Added Neldrac's Reach + Alt Adamantium Crossbow Quivers
+- Added Thoricles' Bane
+- Added Andothren Buildings
+- Added Hlaalu Temples of the Divines
+- Added Round Hlaalu Interior Set
+- Added Dedicated Asset for Arvud Tower covers
+- Added Hlaalu Balconies (no rope)
+- Added Hlaalu Council Company Scrip
+- Added Dedicated OM large stairs
+- Added "Preview Enabled" Global
+- Added Rapiers and daggers
+- Added More Horker variants
+- Added Asset request: Ebony Bowl and Plate
+- Added Glow Mapped Kobold
+- Added Vent Worms
+- Added Firewatch Tapestries
+- Added Buoy
+- Added Hlaalu Half length Endcaps
+- Added Necrom Bonewalkers
+- Added Misc hair models
+- Added Altmer Glass Armor
+- Added New portraits
+- Added Ceramic Playing Cards - Morag Tong expansion
+- Added Asset request: Rich Common bed without canopy
+- Added Dunmer Purple Glassware set
+- Added Ruined Books
+- Added Smith Crates
+- Added Asset Request More Hlaalu Ledge pieces
+- Added Hlaalu Sewer Set
+- Added Land Dreugh
+- Added Shutag Pod
+- Added Urgent Asset Request - Roth Roryn flora and LTEX
+- Added Firewatch Staff
+- Added Akrash sword
+- Added Omaynis Banner
+- Added Adding missing pieces for common interior set
+- Added Orc head, Vivec-painted
+- Added Red and White Paper Lanterns
+- Added Collared Rats
+- Added Stackable Com Stairs
+- Added Sea Cup
+- Added Bonemold Throwing Stars
+- Added Cine Tree
+- Added Large Regular Dunmer Rugs
+- Added Octagonal Lighthouse Tower for Firewatch
+- Added Asset reques: required interior shells for TV Redoran settlements
+- Added Unique Bel Betu Crystal
+- Added Market Stands, Tents & Flags on Ropes
+- Added Breton Mithril Weapons
+- Added Round Dwemer Platform
+- Added LegionMW pieces for round towers
+- Added Asset request Hlaalu forge/fireplace
+- Added Storm Monarch
+- Added Dwemer Steam Colossus
+- Added Malahk Orc Waystones and Altar
+- Added Open Dunmer Tent
+- Added Naval Navigation Tools
+- Added unique Alandro Sul Helmet
+- Added Imperial Arrowslit Shutters 
+- Added resin deposits
+- Added Imperial cellar wall
+- Added expansions for the Wooden cutlery, plate, and bowl set
+- Added new Nord faces
+- Added alternative shipwreck model
+- Added banners for Andar Mok, Bodrum, and Darvon
+- Added severed Dunmer heads
+- Added new Chuzei bonemold armor
+- Added new OM rubble pieces
+- Added Chitin Pioneer helm
+- Added Seducer
+- Added Clambering Moors Dead Trees
+- Added Rich Dark Elf Bar Set
+- Added Roth Roryn Dwemer Alcoves
+- Added Com Jaildoor
+- Added More Collision Shapes
+- Added Legion Set Addons
+- Added More Legion Set Addons
+- Added Another Hlaalu Strider Port
+- Added Double Sided Imperial Wall
+- Added Wood Imperial Chapel Window
+- Added Com M Drawers
+- Added Indoril Entrance tiles
+- Added Duchess' Guard Silver Cuirass
+- Added Imperial Cutter Ships
+- Added Javelines
+- Added Misc Hairs 2
+- Added Backless Redoran Interior Shell
+- Added Akaviri Invasion Relics
+- Added Ashwalker Spawners
+- Added Indoril Bonewalker Placeholder
+- Added Imperial Ebony Shield
+- Added Imperial Gold Armour
+- Added Dark Seducer
+- Added Note To Self Editormarker
+- Added Edited Redoran Interior Pieces
+- Added Prerelease Tapestries
+- Added Firewatch Cobblestone Texture
+- Added Suj Sprout
+- Added Red Leaf Trees
+- Added Imp SetMw Tower Interiors
+- Added Varga
+- Added enchanted items from Battlespire
+- Added Random Jungle Plant
+- Added Imperial Rugs and Tapestries
+- Added Polyhedrascope
+- Added CM moss texture
+- Added RM Volcano mesh
+- Added combined Roa Dyr meshes
+- Added Stones March Armor
+- Added Keptu urns
+- Added Chimer bronze weapons
+- Added snowy menhirs
+- Added Othreleth Woods Shroud Caps
+- Added Single strut for com ints
+- Added plateau rocks
+- Added Spyglass
+- Added GITD support addon
+- Added DE rugs
+- Added Coral Fungus
+- Added Glowshrooms
+- Added Andothren Port Authority and Apartment block
+- Added object entries for an unused vanilla Com Cabinet
+- Added SHotN gallows with morrowind woods texture
+- Added War-Banner of Prince Bashomon
+- Added Imperial Fort helix stair set (Firewatch Chapel Additions)
+- Added Poison Bloom
+- Added Drumpear
+- Added ITO island levelled creatures
+- Added new large Imperial gates
+- Added Yam Orb
+- Added more com int set parts
+- Added static pulley
+- Added Devourer Daedra
+- Added Xivali
+- Added Candleless Lampstand
+- Added Hanging Light
+- Added gem free T_B_De_HeadFemTR_34
+- Added Skylamp
+- Added Hlaalu Brevur statue
+- Added Indoril Pathways
+- Added white version of B_N_Dark Elf_F_Hair_02
+- Added Othreleth Woods bulbshroom
+- Added Firewatch EEC building
+- Added Velothi Ceiling Column/Railing
+- Added Praise Vehk, Mephalan Wall Decal
+- Added OAAB scorch decals
+- Added Fighters Guild Tapestries
+- Added MW (and optimised) legion forge
+- Added Hlaalu Divine shrines and tapestries
+- Added Ashlander Shirt
+- Added Omaynis Rock Alcove
+- Added Khalaan Decobbling assets
+- Added Tanna and Corkbulb containers
+- Added Spindlewort Howling SFX
+- Added Skyrender Nest SFX
+- Added Acid Pool SFX
+- Added Ghostfence Machine SFX
+- Added Riverstrider Eggs
+- Added Static Shield and Crossed Swords
+- Added new Dwemer staff and great mace
+- Added altered vanilla Hlaalu wall slope
+- Added small Narsis Tower and 3 Generic Hlaalu buildings
+- Added ruined Azura, Mephala, and Sheogorath statues
+- Added Gremlins
+- Added Aanthirin road texture
+- Added unused vanilla dried mud texture
+- Added Unique ancient vampire head
+- Added corkbulb, chitin, iron and bonemold darts
+- Added OAAB palisade Gates
+- Added rotated SH rock textures
+- Added 2 types of 3 layer Tribunal Temple
+- Added new artifacts for Firewatch
+- Added a whole lot of generic containers
+- Added a Dunmer potters wheel
+- Added Dreugh Wax Candles based off of OAAB scamp candles
+- Added select OAAB Hackle-Lo, blue kanet and goldreed
+- Added many new Velothi interior tiles
+- Added Blue Flamed Daedric Lamp
+- Added Magickeater and Magickmirror Robes
+- Added House Affiliation Pillar
+- Added OAAB vanilla tree saplings
+- Added Armorer's Challenge artefacts
+- Added square Hlaalu canal corners
+- Added even even more new Hlaalu generic buildings
+- Added new guarskin service banners
+- Added Oarless Dunmer ship
+- Added Chimeri-Quey and Keptu-Quey races
+- Added wooded topped guard tower
+- Added more spells
+- Added Hleryn Statue
+- Added Dagger of the Open Soul
+- Added Cursed Crown of Ushu-Dimmu
+- Added Savior's Hide set
+- Added ITO Stronghold Teleporters
+- Added Scathecraw 03 and 04
+- ADded OAAB Dwemer Set (Buildings + Chain int tiles + Puzzle activators + Pipe set + Grate floor + furn)
+- Added Bloodrust sword
+- Added Glass Club
+- Added snowy variant of Scrub Plain LTEX
+- Added more to (and updated) the silver, orcish, glass and iron weapon sets
+- Added ITO roadsigns
+- Added Red Roses
+- Added snowy AC rock textures + unused vanilla darkstone
+- Added Sanguine fires
+- Added Imperial Templar Steel weapon set
+- Added Hircine Shrine (wolf version)
+- Added Daedric Curve stairs
+- Added Velothi Mountains levelled creature lists (from template)
+- Added Indoril weapons from concept art
+- Added Keptu Urns
+- Added Dreugh weapons
+- Added more Nordic weapons
+- Added Adamantium throwing weapons
+- Added Dagon Urul and Molag Ruhn Regions
+- Added Blueware plate
+- Added Dwarven Repair Hammer
+- Added Stalhrim Weapons
+- Added Missing Nordic Ringmail armour pieces
+- Added Wood and Corkbulb staves
+- Added Sanguine Statue
+- Added the missing weapons from the Imperial weapon set
+- Added Crystal Ball
+- Added various OAAB furniture items
+- Added Redoran Hunting Hounds
+- Added Dwarven Junk Throwing Stars
+- Added dummy spells for MWSE override
+- Added new cave shell
+- Added new Hlaalu Tall int tiles
+- Added Placeholder City/District Guides
+- Added Sturgeon (OAAB)
+- Added dunmer market shelf/display
+- Added a few more ebony weapons
+- Added Chimeri-Quey urns
+- Added Horsen Fungus
+- Added Sundered Scar Rocks
+- Added Ground Drumpear Seeds
+- Added Sulphur Containers
+- Added more glass lanterns
+- Added Gold Candlesticks
+- Added Mournhold Entrance Corner
+- Added Hlaalu Company Scrip Scripts
+- Added Sulphur Rock pools
+- Added Sweetbarrel variants
+- Added Ynesai Urns
+- Added half sized Hlaalu floor tile
+- Added Shipal-Sharai buildings
+- Added Spiny Llomar variants
+- Added Othmura manor
+- Added long de_r tables
+- Added Gold Rapier
+- Added Hlaalu Canyon Watch Bonemold
+- Added Legion of Shadows artifacts
+- Added Vanilla bread variants
+- Added Extra Narsis Waterfront tile
+- Added Orlukh's Cleaver
+- Added Shalk rug
+- Added Palm Leaf Scrolls (PI)
+- Added open top Hlaalu stairs
+- Added Malakh Orcs
+- Added Ventshrooms and Boreal Hydnum
+- Added Cathnoquey Cave set
+- Added CM Red mushroom tree
+- Added Shellmold armor
+- Added Sweetbread Polypore
+- Added Imperial Navy uniform
+- Added Combined Hlaalu interior tiles
+- Added Ynes Clutter
+- Added Exterior Friendly Velothi Set
+- Added Nibenese Katanas
+- Added Iron Warhammer variant
+- Added 6th House Weapons
+- Added Shipal-Shin Crossbow
+- Added Chitin Weapons
+- Added Dark Elf Crying Voice
+- Added Andothren FG Map
+- Added Namiras Shroud
+- Added Nordic Claw
+- Added Velothi Entrance variant
+- Added White Bloatroot
+- Added Bricca Bank Sign
+- Added Weir Gate focus lens
+- Added Guide to Firewatch and Andothren
+- Added Chapel Windows
+- Added Daedric Fountain
+- Added custom Conjuration spells (MWSE only as of now)
+
+- Added Books:
+  - Geometry for Barbarians 
+  - Arithmetic for Barbarians
+  - The Tools of the Trade
+  - On Daedric Design
+  - The Dwarven Firmament
+  - Almalexia Speaks to Her Children
+  - Compendium of Lost Artifacts
+  - The Talking Guar of Vhul
+  - Analysis on the Asurani Writing
+  - On the Perfection of the Guar
+  - Horoscope for 3E 427
+  - History of Firewatch
+  - Lichdom: A Trap, an Escape
+  - Various Generic Books
+  - Ash and Blood: The Imperial Simulacrum in Morrowind
+  - Welcome to the Arena
+  - The Lantern Thief
+  - The Malahk: Scourge of the East
+  - Bonewalker Rituals
+  
+- Fixed tr_in_c_plain set
+- Fixed General Texture Compression
+- Fixed Optimized book and note meshes
+- Fixed Optimized hair and head meshes
+- Fixed Fixed Rouge items
+- Fixed Tr_de_urn_open01 model rework
+- Fixed Misc keys rework
+- Fixed Imperial studded leather rework
+- Fixed Data fixes + first wave of expanded enchanted generic items
+- Fixed Hlaalu bricks UV mapping fix
+- Fixed Nahgacra's Soul Thef by renaming it Nahgacra's Soul Heist
+- Fixed a lot of problems with the Ebonheart Bellman
+- Fixed some book title (Book of Nordic Proverbs, The Malahk: Scourge of the East)
+- Fixed note meshes having a small version of themselves underneath
+- Fixed Guide to <X> icons to resemble those of Patch for Purists (which align with their meshes)
+- Fixed Common Pillar UVs
+- Fixed Eastern Quarantine Book Jacket
+- Fixed Swamptroll-Fix for OpenMW
+- Fixed tr_terrain_rocks_rm/rr fixes
+- Fixed spelling in map of Aanthirin
+- Fixed skeleton rise scripts
+- Fixed tr_ex_dwrv_plat_02 not having collision
+- Fixed Dreugh Hunter Helm using Dres Hunter Helm body part
+- Fixed bad planter 01 collision
+
+- Updated Bellman book art and texture
+- Updated some DE tapestry textures
+- Updated DE M furniture
+- Updated Ash Parasols with atlas
+- Updated Tur Julan Door
+- Updated Dunmer and Common Scales and Weights Remake
+- Updated Khalaan sky tweaks
+- Updated Fire Flower Remake
+- Updated Optimized Sign Meshes
+- Updated Atlased Bluefoot and TerrasTrees
+- Updated Paper Lanterns
+- Updated Imperial Braziers
+- Updated Floating Lanterns
+- Updated Mournhold Lanterns
+- Updated CM Grass
+- Updated Various Ingredients
+- Updated Goblin Decals
+- Updated the Arkhon Lim book by replacing its content completely
+- Updated the VampirePC and VampireNPC scripts to use VampClan (100 = Baluath, 101 = Orlukh, 200 = Khulari)
+- Updated the Sheggo Shelf with an atlased version
+- Updated Optimized ext meshes pt 1
+- Updated Grass texture swap on Roth Roryn cliff meshes
+- Updated New and fixed Imperial highway bridge meshes
+- Updated Vermai Battlespire (almost) sound effects
+- Updated Ruffin's Daedric Helm Rework
+- Updated Broken bottles rework
+- Updated tr_book_cover_28 texture rework
+- Updated Atlased statues
+- Updated the content of "Morrowind Historia: Andothren" 
+- Updated Imperial Sewer Grates
+- Updated various meshes used in the Old Ebonheart harbor
+- Updated broken plank meshes
+- Updated Dunmer Tent Scales
+- Updated Argonian hair models
+- Updated various things (Aug 9th Data Edits)
+- Updated Roth Roryn to Roth Roryn Region
+- Updated Shalk to Brown Beetles in Armun Ashlands lists
+- Updated Ebony Clutter textures
+- Updated Tumtum Parasols
+- Updated Rockburst
+- Updated Bad Pauldron Dremora
+- Updated "Some" Indoril meshes
+- Updated Redoran Watchman Armour set
+- Updated Cupling
+- Updated old large gates
+- Updated Dwarven arrow and bolt
+- Updated Thirr Valley Mangrove texture
+- Updated Mages Guild Tapestry ID
+- Updated Pudjing ID
+- Updated Maormer race with new unique assets
+- Updated Terras Trees again
+- Updated old Dwemer weapon meshes
+- Updated Thirr Valley road texture
+- Updated Wolli's terrace cliffs
+- Updated ixed galleon sails (uv map and new texture)
+- Updated Wolli-cliffs med single-material update
+- Updated Ethos Knife (Version 3)
+- Updated Steel Scimitar
+- Updated Ebony Warhammer and Battleaxe
+- Updated all broken bottles and weapons into misc items
+- Updated Orc Skull
+- Updated cork into a misc (again)
+- Updated Cooking Knives
+- Updated Orc Heads
+- Updated De_M furniture set
+- Updated Hamum Roots
+- Updated High Elf tapestry
+- Updated Ice Crystal
+- Updated Sundered Scar palms
+- Updated bamboo (optimised)
+- Updated Darvon banner to Darvonis
+- Updated Daedric wards with scripts
+- Updated Akavir Invasion Map
+
+- Deprecated T_De_BlueGlassBowel_01 (use T_De_BlueGlassBowl_01 instead)
+- Deprecated Daedric Lord set
+- Deprecated T_Mw_Flora_Parasol_c and T_Mw_Flora_Parasol_s, new sapling versions with a more appropriate poly count were made
+- Deprecated cloned AC cave entrance
+- Deprecated Warm Meat
+- Deprecated the broken bottle static that is made up of all 3 misc items
+- Deprecated old Othreleth Woods flora
+- Deprecated useless vanilla daedra copies
+
+- Removed "The Dragon Break Reexamined" from two levelled lists
+- Removed OrdinatorUniform script from all Ordinator in Mournhold pieces that are not helmets or cuirasses
+
+===
+
+DECEMBER 2020 UPDATE
+
+Project Tamriel
+- Added tiling rich rug and GC rich walls
+- Added GC brick walls
+- Added Reman Legion armor
+- Added squirrels
+- Added dry and snowy reeds
+- Added Cicero artifact pack 1
+- Added Haafingar building set
+- Added Danstrar vertebrae and skull
+- Added diseased bats
+- Added GC and Anvil maps
+- Added Yoku weapons
+- Added GC market stands
+- Added com banner hangers
+- Added Spider Impaler blade
+- Added Asylum hammer pack
+- Added new Colovian Highlands trees
+- Added Sep's Bow
+- Added Asylum artifact pack 1
+- Added Cicero artifact pack 2
+- Added Imperial sewer half pieces and room tiles
+- Added invisible door for ladders
+- Added clones of some vanilla book meshes without daedric letters
+- Added Cyrodiil tavern signs
+- Added Skyrim crops
+- Added wide GC dock piece
+- Added Anvil set atlas, combined buildings and Glow in the Dahrk compatibility
+- Added SHotN wereboar trapped in crystal (file only)
+- Added Ayleid interior tiles and new round interior tower set
+- Added Penumbra gemstone
+- Added Reman Legion weapons
+- Added Reman Legion skeletons
+- Added Gold Tantha creature
+- Added Neb's Talon dagger
+- Added Ring of thunderblows
+- Added Imperial chain variations
+- Added Muskrat creature
+- Added Alphyn creature
+- Added Skyrim Imperial Legion fort interior set
+- Added Ayleid weapon pack
+- Added Wolli cliffs for the Gilded Hills
+- Added Tsaesci creature
+- Added deer creature
+- Added RM bunk bed
+- Added Bosmer Wenbone bow
+- Added Nord hair
+- Added a dark water circle
+- Added iron greatsword
+- Added Blacknettle flora
+- Added exterior Colovian Barrow pillar
+- Added Nord heads
+- Added vanilla voice greetings with "outlander" etc cut out
+- Added Iron Toda creature
+- Added Danswyrm Viper creature
+- Added female elk creature
+- Added new SHotN regions
+- Added larch trees
+- Added new birch trees
+- Added mangrove trees
+- Added SHotN Redguard set atlas
+- Added 7 combined Dragonstar buildings
+- Added rich Imperial display case
+- Added TotSP pine trees
+- Added middle class Imperial cabinet
+- Added Reachman amulet and misc item
+- Added SHotN levelled lists
+- Added misc TD things that were in Sky_Main
+- Added Whiterun rock set
+
+- Added books:
+The Restless North, Book I
+The Restless North, Book II
+The Restless North, Book III
+The Talhjolde Companion
+Talhjolde, Hvals Bol
+Talhjolde, Modiskva Bern
+Talhjolde, Horsk Olf
+Talhjolde, Allfathirs Beit
+Val-Staag of the Vesturhola
+Notebook (x2)
+Lost and Found in the Reach
+
+- Fixed Imperial ruin tiles
+- Fixed Direnni castle collision
+- Fixed Imperial galleon sail and collision
+- Fixed GC lighthouse interior collision
+- Fixed aloe vera puplp price
+- Fixed Markarth interior shell doorframe height
+- Fixed Nord head scale and ears
+- Fixed Colovian Highlands shrub collision
+- Fixed Militia Armor names
+- Fixed type in T_BkGen_BusinessLedger_02
+- Fixed Aeli damage intelligence
+
+- Updated cavern roots
+- Updated reeds to be smaller and longer
+- Updated Blade of Woe UV and texture
+- Updated Shard of Vehemence model and texture
+- Updated Conjurer's Ring model and texture
+- Updated Colovian Highlands rock/gravel and road textures to be darker
+- Updated Skyrim runestones to be lighter
+- Updated anvil set textures to match Stirk
+- Updated Rivernewt creature with animations
+- Updated PC shrines, wayshrines and doomstones with scripts
+- Updated birch trees
+- Updated Colovian Highlands rock models
+- Updated frying pan mesh
+- Updated Reach, Karthwasten and Dragonstar maps
+
+- Deprecated misnamed Reachmen race and body parts
+- Deprecated misnamed Doomstones
+- Deprecated ImperialWatch and CensusAndExcise factions
+- Deprecated misnamed Vurt Trees
+- Deprecated Roast boar meat
+- Deprecated Roast chicken leg
+- Deprecated Roast venison
+
+===
+
+Tamriel Rebuilt
+- Added T_ScGlobal_PassTime MCP fix
+- Added Witch's Hut
+- Added Imperial weapon sheaths
+- Added Nord weapon sheaths
+- Added Dunmer Mages Guild tapestry
+- Added Redoran Watchman helm
+- Added Velothi platform and ashpit
+- Added quivers
+- Added Redoran hero blade sheath
+- Added Bert Pod flora
+- Added iron blade sheaths
+- Added Adamantium blade sheaths
+- Added rich Dunmer display rack
+- Added fallen Geranium tree branches
+- Added HD Geranium tree textures
+- Added Fetish of the Ishanuran
+- Added Sash of the Obainat
+- Added Necrom Undercroft assets
+- Added Shial Shin cliffs and terrain assets
+- Added new Velothi buildings
+- Added modular Dres building set
+- Added misc sheaths
+- Added silver katana
+- Added Orc skeleton
+- Added Dunmer Burial Flags
+- Added Snowy and ashy RM terrace cliffs
+- Added Weir Gate glow map
+- Added Staff of the Typos Sophia
+- Added Ebony Blade sheath
+- Added 3 Hlaalu bridges
+- Added Huntsman sword sheath
+- Added Hirv creature
+- Added Imperial spiral stair junction
+- Added Velothi Mountains shrubs
+- Added Tribunal shrine variants
+- Added Godsblood axe, seax and spear
+- Added Velothi Mountains rock groups
+- Added Baluath vampire scripts and faction
+- Added RM peaks
+- Added Imperial trap door
+- Added vanilla bucket variants
+- Added red, blue and yellow Dunmer overhangs
+- Added Shipal Shin shrubs
+- Added pointy roof Imperial guard tower
+- Added hlaalu stairs
+- Added Old Ebonheart flags
+- Added Dwemer scrap armor
+- Added misc tray
+- Added Cutting Room Floor items
+- Added Imperial canvas overhangs
+- Added non spiked Daedric mezzanine
+- Added Bel-Betu voice lines
+- Added cloth Dunmer overhangs
+- Added Shipal Shin cliff art
+- Added Goblin camp assets
+- Added Necrom vault keys
+- Added closed glass helm
+- Added ring pack
+- Added silver warhammer
+- Added standard speech skill check script
+- Added Narsis waterfront set
+- Added Hlaalu modular building set
+- Added Armun Ashlands sounds
+- Added Old Ebonheart Wyrm fountain
+- Added Imperial fountain
+- Added chitin bolts
+- Added Geranium tree expansion
+- Added more options for dunmer lanterns
+- Added Hlaalu canal corners
+- Added Daedric sigil amulets
+- Added OM rubble
+- Added burnt Ascadian Isles trees
+- Added Dunmer ebony armor
+- Added heavy chitin armor
+- Added stoneware bowl
+- Added more com candle options
+- Added Khalaan grass
+- Added cursed amber
+- Added Necrom Archmatron head and hair
+- Added Imperial tiling pieces
+- Added new rock arch
+- Added Shipal Shin bushes
+- Added bear traps
+- Added generic sound effects
+- Added Indoril lanterns
+- Added compass
+- Added Velothi Mountains gravel texture
+- Added Great house ceramic playing cards
+- Added glass warhammer
+- Added Hlaalu stair balconies
+- Added Daedric wards
+- Added Aanthirin terrain bridge
+- Added Treasure Wood sword
+- Added small Dunmer rugs
+- Added Redoran buildings
+- Added cut Bloodmoon weapons
+- Added Dunmer archery targets
+- Added Othreleth Woods ground textures
+- Added Othreleth Woods ovary tree recolours
+- Added new minerals
+- Added new generic, Andothren, Narsis, and Sadrathim Hlaalu buildings
+- Added more natural tiles
+- Added NPC praying idle animation
+- Added misc alchemy ingredients
+- Added Velothi Mountains beehives
+- Added mainland stronghold propylons
+- Added Ascadian Isles Dwemer alcoves
+- Added Omaynis signpost
+- Added new vanilla style lichens and vanilla lichen variants
+- Added Hoom sounds
+- Added Andothren Almalexia shrine
+- Added armored troll creatures
+- Added black circles
+- Added OAAB green glass clutter
+- Added OAAB halberd and arrows
+- Added Kobold creature
+- Added OAAB ebony clutter
+- Added OAAB ebony alchemy set
+- Added Old Ebonheart manor mesh
+- Added Native Thirr Bonemold armor set
+- Added OAAB kwama mine clutter
+- Added Native Chev-Aram armor set
+- Added Hortator ceramic card game
+- Added Yneslea items from Remiros
+- Added OAAB misc items
+- Added OAAB yellow glass clutter
+- Added The Ebonheart Bellman papers
+- Added sounds for ceramic cards
+- Added OAAB clay clutter
+- Added OAAB blue glass clutter
+- Added Hlaalu interior stair expansion
+
+- Added books:
+Indoril Beroth and the Hermit
+Bones of Hlur'Matta
+On the Definition of Heresy
+A Pearl Betwixt Empires, vol. 1
+A Pearl Betwixt Empires, vol. 2
+A Dunce in Morrowind, vol. 4
+A Dunce in Morrowind, vol. 5
+A Dunce in Morrowind, vol. 6
+A Dunce in Morrowind, vol. 7
+A Dunce in Morrowind, vol. 8
+His
+An Indoril's Garden
+Bondman's Creed
+Song of the Scarabs-On-March
+The Tale of King Vrage's Sons
+
+- Fixed TR beetles are hard to hit with marksman
+- Fixed tr_cont_v_chest_01 collision
+- Fixed Orc skeleton skull colour
+- Fixed Nordic shield edge texture
+- Fixed Dremora and Ghost deaths
+- Fixed various misplaced texture locations
+- Fixed plank pile collision
+- Fixed old Hlaalu balconies
+- Fixed Necrom fane interior collision
+- Fixed moss clump size
+- Fixed Sermon Zero typesetting
+
+- Updated Staff of Typos Sophia model
+- Updated Ethos Knife UV
+- Updated wooden mace model and UV
+- Updated iron tanto 01 with new model
+- Updated steel dagger 02 with new model and vanilla textures
+- Updated cooking knives with new models
+- Updated Imperial broadsword models
+- Updated iron dagger 03 model
+- Updated Redoran platform/stair UVs
+- Updated Sword not Held stats, texture and added floating animation
+- Updated toy guar model
+- Updated Bluefoot model
+- Updated Thirr Valley ground textures 
+- Updated Roth Roryn scrub texture
+- Updated improperly upscaled clothing textures to use the low res version
+- Updated various armors to use vanilla textures
+- Updated Dunmer heads with emeralds to use the vanilla emerald texture
+- Updated Thirr Valley mushroom vertex shading
+- Updated Velothi well texture
+- Updated Neldrac's Reach texture
+- Updated Ebony Blade texture, mesh and UV
+- Updated Staff of St. Roris texture and UV
+- Updated Flask of Lillandril texture and UV
+- Updated plank pile UV
+- Updated Orange Moss texture
+- Updated ashy RM cliffs to the proper ash texture
+- Updated Weirbeam size
+- Updated some statics with water to use the new textures
+- Updated Dwemer Centurion armor as misc items
+- Updated Khalaan terrain pieces with optimizations
+- Updated Indoril building 01 mesh
+- Updated Tanna flora
+- Updated Indoril building 05 mesh
+- Updated Othreleth Woods rock ID and texture
+- Updated various icons
+- Updated Indoril pavgate
+- Updated glass weapon meshes
+- Updated Sacred Lands maps
+- Updated banking scripts
+- Updated goblin rug thickness
+- Updated fake water texture to match the vivec water
+- Updated ghosts with weapons animation
+- Updated Othreleth Woods sounds
+- Updated Grey Meadows flora meshes and textures
+- Updated and atlased stoneware meshes
+- Updated Hlaalu bridge meshes
+- Updated spiked iron pauldron texture
+- Updated cave troll sounds
+- Updated Vivec's shield mesh and texture
+- Updated Dagger of Meridia mesh and texture
+- Updated Moon Reiver mesh and texture
+- Updated Mosslog mesh and texture
+- Updated Claw of Naaf mesh and texture
+- Updated dreugh armor set
+- Updated Katariah's Death-Mask
+- Updated Akavit Invasion maps
+- Updated Nordic Mutton to Mutton
+- Updated Mephala statue with new model
+
+- Deprecated misnamed OW RockMoss objects
+
+JANUARY 2020 HOTFIX
+
+Project Tamriel
+- Added rich bar set
+- Added hutch desk
+- Added map books for various Skyrim cities and regions
+- Added Elk
+- Added Giant Spider and their eggs
+
+- Fixed the male Cathay Vampire Head to no longer be playable
+- Fixed various sounds to be Mono instead of Stereo
+
+- Updated various water-bearing meshes to use the new water textures
+
+===
+
+Tamriel Rebuilt
+- Added vanilla resolution landscape textures where they were missing
+- Added custom bridge support beams for Almas Thirr
+
+- Deleted endboom4 from the creature scream list
+
+- Fixed a RM cliff to actually use RM textures intead of WG ones
+- Fixed some Dunmer heads to no longer be playable that had been intended for special NPCs to begin with
+- Fixed various sounds to be Mono instead of Stereo
+
+- Updated the Akaviri shield mesh and textures
+- Updated various water-bearing meshes to use the new water textures
+- Updated several plants to be GH-aware 
+- Updated books with new text:
+	Dres Slave Trade
+	True Telvanni Nobility
+- Updated the Almas Thirr Ordinator voices
+- Updated a Dunmer and two Imperial heads to be more artistic and less ugly
+- Updated Clambering Moor landscape texture to be more red and less saturated
+
+DECEMBER 2019 UPDATE
+
+Project Tamriel
+
+- Added ancient nord coins
+- Added barrow interior stairs and a further tombwall variant
+- Added a range of new breton faces
+- Added a small range of golden tableware for imperials
+- Added a range of rich furniture for imperials
+- Added old wood furniture for reman era ruins
+- Added a variety of lutes for imperials and others
+- Added a general purpose nord trapdoor
+- Added cargo boats for nord traders
+- Added new cave pieces to the goldcoast cave set
+- Added ropebridges for Cyrodiil
+- Added a variety of outdoor planters
+- Added quarry rocks for the colovian highlands
+- Added an imperial silver cuirass variant
+- Added stalag-groups for skyrim caves
+- Added statue of Morihaus
+- Added bat creature
+
+- Added books:
+History of the Dragon Cult
+
+- Updated P:C npc scripts to use new numbering and not to do auto-removal of dunmer spells anymore
+- Updated the sutch elevator and its scripts to include a third stop for the merchant gallery
+- Updated the look of iron- and copper ore aswell as its natural containers
+
+- Fixed bone weights of nord guard gauntlets
+- Fixed Mandrake model to make it easier to place around exteriors
+
+===
+
+Tamriel Rebuilt
+
+- Added several ancestral tomb assets
+- Added indoril bell hammers
+- Added skyrender hive exterior objects
+- Added natural containers for Amber, garnet and topaz
+- Added Propylon Portals for Morrowind mainland
+- Added Goblin Tribe symbols for Velothis
+- Added dwemer exterior pieces
+- Added a dunmer trellis
+- Added orcish darts
+- Added Lesser Clannfear
+- Added new summon effects
+- Added a variety of silver daggers
+- Added a new necrom armor variant
+- Added steel- and iron ingots
+- Added default guard npcs
+- Added barrow stairs and - tombwall
+- Added scripted skeletons and other undeads (Skeletons arise!)
+- Added Telvanni Cephalopod Armor
+- Added Zifa Plants
+- Added Geranium Tree
+- Added a few OM - objects for Khalaan Manor of the Lord
+- Added Domina Armor
+- Added Gold Armor
+- Added steam activator for lava rivers without giant purple box
+- Added Black Triangle for minimap correction in interiors
+- Added a new asset test cell to the data files
+
+- Added books:
+Census of the First Council, 2E 622
+
+- Added Artifacts
+Oghma Infinium
+Boots of the Atronach
+
+- Updated nails to look smoother
+- Updated appearance of Neldrac's Reach (artifact)
+- Updated stats of Faceless Ordinator helm
+- Updated iron ore texture
+- Updated names and stats of a number of objects (White robe of Saint Meris, Cutlass of Archon, Hammer of Olfor)
+- Updated model of Nerevars Axe
+- Updated models of Champion's Ring and Ring of Vitality
+- Updated models of a number of daedric and glass weapons
+- Updated models of imperial dagger, saber, swiftcut saber and broken imperial shortsword
+- Updated model of T_Mw_Und_Mum_02
+- Updated and fixed necrom armor
+- Updated model of tapestry urn
+- Updated models of iron broadswords
+- Updated model of the gold dagger
+
+- Fixed icon of T_De_Cm_Robe_04
+- Fixed biscuit icon
+- Fixed clipping issues with necrom pauldrons
+- Fixed collision and texture seam - problems with a bunch of cavern tiles
+- Fixed dwemer dagger
+- Fixed and improved a large amount of further objects in TR_Data.bsa
+
+
+OKTOBER 2019 UPDATE
+
+With this update, most container plants and harvestable minerals have become compatible with Graphic Herbalism - MWSE and OpenMW Edition
+https://www.nexusmods.com/morrowind/mods/46599
+
+
+Project Tamriel
+
+- Added Ingredients:
+	Ink Cone
+	Hemlock Seeds
+
+- Added Colovian Highlands - Regional Assets
+- Added Kvetchi Pass - Regional Assets
+- Added Kvetchi Pass - Region
+- Added universal Reed plants for river banks
+- Added universal scum layers for rivers and swamp holes
+- Added an interior set for imperial sewers
+- Added new waterfall variants
+- Added a universal platform set for caverns
+- Added province-wide platform set for Cyrodiil
+- Added retextured way railings for the inside of Cyrodiil
+- Added general plank piles for Cyrodiil
+- Added retextured cave doors for Cyrodiil
+- Added Hemlock plants for Skyrim
+- Added Inkwood plants for Cyrodiil
+- Added Colovian Fur Cuirasses to accompany Colovian Fur -Hats and -Gloves
+
+- Updated almost all container plants and ores to support Graphics Herbalism
+- Updated Cyrodiil farm assets and tents to use a different wood texture
+- Updated Seagull model and textures
+- Updated cliff models
+- Updated texture of the new amber model
+- Fixed size of most of Cyrodiils mushrooms
+- Fixed size of T_IngFood_EggChicken_01
+- Fixed size of Inion Bundle container
+
+- Deprecated T_IngMine_Amber_02. To be replaced with T_IngMine_Amber_01
+- Deprecated T_Glb_Fauna_Leek01. To be replaced with T_Glb_Flora_Leek01
+
+===
+
+Tamriel Rebuilt
+
+- Added Artifacts:
+	Axe of the Hortator (Placeholder)
+	Ring of Bloodlust
+	Ring of the Hunt
+	Ring of Instinct
+	Ring of the Moon
+	Hammer of Gharen has been turned into a repair item
+
+- Added Ingredients:
+	Charcoal
+	Coal
+	Water Lilly (4 variants)
+	Blister Spore
+	Garnet
+
+- Added coal pile containers and coal ingredients
+- Added red dirt textures for Shipal Shin
+- Added an equipable Tiki Torch
+- Added sand piles with dunmer fortress rubble
+- Added the Punavit drinking Set
+- Added a daedric Broadsword
+- Added nordic ring artifacts
+- Added gemstone ore containers
+- Added large icelayer meshes
+- Added daedric stone terrain textures for Shipal Shin and Aanthirin
+- Added tree stumps for Aanthirin
+- Added missing pieces to the bone- and BM- cave sets
+- Added several objects for Dwemer Ruins
+- Added ash piles
+- Added Shipal Shin rock groups
+- Added Shipal Shin rubble
+- Added Southern Maidenhair plant
+- Added Fern for Clambering Moor
+- Added ground textures for Clambering Moor
+- Added Blister Spore mushrooms
+- Added Garnet gem
+- Added global water lilies
+- Added a lava (Water)fall
+- Added a variety of terrain objects
+- Added Stalagmite groups for several cave sets
+- Added silver ore containers
+
+- Updated almost all container plants and ores to support Graphics Herbalism
+- Updated light rays for caves with a script that disables them at night
+- Updated Hammer of Gahren to be a repair item rather than a weapon
+- Updated the stats of many enchantments, weapons, etc
+- Updated gold ore and - containers
+- Updated dunmer -carts and -wagons
+- Updated straw heaps
+- Updated cliff models
+- Updated several potion models
+- Updated hookah
+- Updated terrain ridges
+- Updated global ferns
+
+- Fixed mine entrance
+- Fixed egg clutches
+- Fixed various furniture
+- Fixed various flora
+- Fixed some harbor assets
+- Fixed planks and rails
+- Fixed some RM - rocks
+- Fixed Yeth Resin texture
+- Fixed some keys
+- Fixed a bunch of other things
+
+
+SEPTEMBER 2019 UPDATE
+
+Project Tamriel
+
+- Added artifacts: 
+	Conjurer's Ring
+	Ring of Warding
+	Chillrend
+	Malkav's Ring
+	Weatherward Circlet
+	Shard of Vehemence
+	Guardian Ring
+	Shadowweave
+	Ring of Sunfire
+	Blade of Woe
+	Dragoneye Helm
+	Nandor Berald's Longspear
+
+- Added books: 
+	Barenziah II
+	Last Story of Sirof
+	Six Truths of Shadow
+	Song of the Labyrinth
+	Danstrar Serpent
+	Voyage of Three Winds
+	Defence of the Wolf Queen
+	Lex Imperia
+	Mixed Unit Tactics v. II
+	Song of the Wreath Queen
+	Dangers of Reach Magick
+	The Hill of Kvatch
+
+- Added ingredients: 
+	Aquae Vitae
+	Phyrric Acid
+	Vitriol Oil
+	Lich Dust
+	Orc's Blood
+	Pearlessence
+	Lodestone
+	Malouchite
+	Salt
+	Cured Siyat
+	Arenthian Jerky
+	Orichalc Grains
+	Kardesh Pearls
+	
+- Added cliffs and rocks for Gilded Hills region
+- Added new Reach regions
+- Added missing windmill door mesh (SHOTN)
+- Added more Redguard and Nord faces
+- Added seaweerd en volcanic sand terrain textures (SHOTN)
+- Added salt formations, containers and terrain textures for Sutch
+- Added Siyat pipes and cigar
+- Added Ayleid claywayre items
+- Added Syrim castle assets
+- Added Markarth window
+- Added Nordic bar door
+- Added Nordic copper tankard
+- Added Extravagant west-colovian shirts
+- Added Nineholes game set
+- Added new common Imperial cloth cap
+- Added New interior and exterior poor GC tunnel tileset
+- Added Anvil trapdoor and city wall doors
+- Added more Imperial furniture planters
+- Added Extravagant West-Colovian pants and shirts
+- Added Reachmen Sheor statue
+- Added Reachmen sleeved shirt
+- Added Reachmen race vampire faces
+- Added horker skeleton
+- Added Incarnadine potion
+- Added wooden trestle
+- Added old impruin braziers
+- Added trebuchet
+- Added Imperial streetlamp and lampposts
+- Added com_p grindstone
+- Added variant on GC rural circular house without central pillar
+- Added three new upper-class chandeliers
+- Added new half-wall to common GC interior set
+- Added chisels, drills, hammer, painting supplies, sponge
+- Added Redguard items, weapons, bale containers, etc.
+- Added Redguard canoe
+- Added vampire global
+- Added Werewolf scripts and global
+- Added Imperial Temple tileset
+- Added common grindstone
+- Added a number of filled redguard containers
+- Added missing content to skyrim levelled creatures.
+- Added missing icons for some skyrim artifacts.
+- Added small waterjet asset for Anvil fountains
+- Added additional lights and scripted window lights
+- Added ambient Nordic Barrow sound
+- Added unique wereboar creature (SHOTN)
+- Added generic sour and sweet wine
+- Added fireplaces and chimneys for Skyrim houses
+- Added whalebone statics
+- Added memorial plaques and obelisks for Nordic barrows
+- Added pillars for Nordic stonewalls
+- Added new Imperial weapons (katana, shortsword, waraxe)
+- Added Ayleid arrow
+- Added Gooseberry and Cornflower container plants
+- Added Skyrim's Khulari vampire scripts, disease and abilities
+- Added seagull nest container
+- Added improved bird sounds for SHOTN
+- Added "Elf Mauler" asset
+- Added Nordic fences
+- Added four new Nordic market tents
+- Added fixed amber ingredient
+- Added Nordic firepit
+- Added Nordic shelf/display for marketstands and merchants
+- Added Nordic clay pots
+- Added Nordic drinking horn
+- Added Nordic round wooden boxes
+- Added common copperware pots
+- Added new regional wolf howl sound
+- Added Nordic deer & elk trophies, misc item antlers and swordstands
+- Added a large variety of Nordic weapons
+- Added Carline Thistle container plant
+
+- Updated ingredients: Ginseng, Lady's Mantle, Motherworts, Wormwood, Spike Rice, Dragonscale
+- Updated Ayleid interior dias tileset (iron grill)
+- Updated Anvil city walls
+- Updated Imperial furniture planters (standing and hanging)
+- Updated Wormmouth Armor naming convention
+- Updated rain and thunder chances in the Abecean Sea, Gold Coast and Gilded Hills regions
+- Updated Nordic regions
+
+- Overhauled Legion interior tileset
+- Overhauled low-quality sounds
+
+- Fixed Frost Lich creature bounding boxes
+- Fixed High King's Vedda book series
+- Fixed issues with T_Sky_AlchemistService and T_Sky_Farmer name fields
+- Fixed mesh gap in pc_in_impruin_4w_01
+- Fixed Direnni and Ayleid door scripts not working in after a reload	
+- Fixed Goat creature walking cycle
+- Fixed grape ingredient leaves
+- Fixed Markarth cellar tiles
+- Improved Nord hair meshes and textures
+- Fixed UV and textures on Anvil trapdoor
+- Fixed size of Ayleid coffin
+- Edited pc_ex_anv_canopy_01 to be slightly easier to use
+- Fixed iron ore and aquamarine usage in lvld lists
+- Fixed spelling of T_Orc_Regular_WarAxeThooted_01 name
+- Fixed ID of class "T_Sky_HealerService"
+- Fixed name of T_SkyNor_SetFarm_Silo01 container
+- Rescaled Siyat leaf ingredient
+- Rescaled colovian grape ingredients
+- Rescaled Ayleid necklace
+- Fixed new sound implementation
+- Fixed missing icon files in HD package
+- Fixed sugarcane texture paths
+- Fixed pc_in_ar_pitbr.nif texture paths
+- Fixed sky_flora_tr_pd_06_05 texture paths
+- Fixed Sutch interior window: added daylight panel script
+- Fixed IDs of:
+	T_Rga_BronzeLamp_128:T_Rga_Var_BronzeLamp_128
+	T_Rga_BronzeLamp_256:T_Rga_Var_BronzeLamp_256
+	T_Com_Furn_Pipe3Way_01:T_Com_Var_Pipe3Way_01
+	T_Com_Furn_Pipe4Way_01:T_Com_Var_Pipe4Way_01
+	T_Com_Furn_PipeCurve_01:T_Com_Var_PipeCurve_01
+	T_Com_Furn_PipeLarge_01:T_Com_Var_PipeLarge_01
+	T_Com_Furn_PipePump_01:T_Com_Var_PipePump_01
+	T_Com_Furn_PipeSmall_01:T_Com_Var_PipeSmall_01
+	T_Com_Furn_PipeTransitionLrg_01:T_Com_Var_PipeTransitionLrg_01
+	T_Com_Furn_PipeTransitionSml_01:T_Com_Var_PipeTransitionSml_01
+	T_Com_Furn_PipeValve_01:T_Com_Var_PipeValve_01
+- Replacer ID's for
+	T_Com_Hammer_01:T_Com_Hammer_Repair_01
+	T_Com_Hammer_02:T_Com_Farm_Sledgehammer_01
+	T_Com_Hammer_03:hammer_repair
+- Fixed naming scheme on new unique objects
+- Fixed name of T_ScObj_FloatIntense script
+- Fixed name of T_ScObj_StartFrostPower script
+- Fixed name of T_Strike_Muatra enchantment
+- Fixed PC_in_Impruin_CR_01 mesh gaps
+- Fixed T_Imp_SetGC_X_PlatfCornSB_03 filepath
+- Fixed leveled lists and added new content
+- Fixed leveled objects
+- Fixed seagull sounds
+- Fixed Ayleid coffin size
+- Fixed canvas objects
+- Fixed grapes ingredient sizeµ
+- Fixed GC grassdirt texture tiling
+- Improved waterlily and water hyacinth textures
+- Improved Colovian pottery saturation
+- Fixed UVs and vertex colors on GC and GH rocks
+- Fixed Ayleid tower meshes collision
+- Fixed hibiscus plant container scale
+- Fixed OldImperial ruin stairs (P:C and SHOTN)
+- Fixed Imperial crypt stairs
+- Fixed pc_furn_ex_stool
+- Fixed frypan misc. object
+- Fixed scaling of Lizardfoot container plant
+- Fixed colors and meshes of Canis Root and Cabbage container plant
+- Fixed texture on hanging dried sage container plant
+- Fixed one Nordic face texture
+- Fixed Skyrim HealerService class ID
+- Fixed missing Stirk dock stairs in BSA
+
+- Deprecated SHOTN copy-books
+- Deprecated broken wooden crossbow
+- Deprecated "Pirate" swords
+- Deprecated T_Note_SmugglerKarthgadSHOTN
+- Deprecated Cyrodiilic bear and wold pelt ingredients (duplicates of vanilla ingredients)
+- Deprecated a number of Legion tileset statics (can be replaced with existing statics)
+- Removed several unused soundfiles
+- Removed duplicate T_Sky_TerrSeaweed_01.dds texture
+- Removed T_Sky_Random_HuntingGoods2 and T_Sky_Random_HuntingGoods3 Lvld lists
+
+
+===
+
+Tamriel Rebuilt
+
+- Banking: Moved generic dialogue to Tamriel_Data
+- Banking: Added Hlaalu House Bank (#3)
+
+- Artifacts:
+	Blunt Weapon: Hammer of Gharen
+	Blunt Weapon: Sanguine's Rose
+	Blunt Weapon: Skull of Corruption
+	Blunt Weapon: Staff of Saint Roris
+	Blunt Weapon: Wabbajack
+	Bow: Neldrac's Reach 
+	Clothing: Belt of St. Olms
+	Clothing: White Robe of St. Meris
+	Long Blade: Ebony Blade
+	Long Blade: Sword Not Held
+	Misc Item: Flask of Lillandril
+	Misc Item: King Orgnum's Coffer
+	Ring: Ring of Eidolon's Edge
+	Ring: Ring of St. Seryn
+	Shield: Shield of the Trickster
+	Shield: Ward of the Poet
+	Short Blade: Ebony Blade
+	Short Blade: Ethos Knife
+	Spear: Muatra
+
+- Added books:
+	T_Bk_BeforeGatesValsarTR
+	T_Bk_MagickaMoonsDancerTR
+	T_Bk_AtopATowerOnMoridunonTR
+	T_Bk_DunceInMorrowindTR_V1
+	T_Bk_DunceInMorrowindTR_V2
+	T_Bk_DunceInMorrowindTR_V3
+	T_Bk_HoomHabitatHabitsTR
+	T_Bk_GospelOfSaintVelothTR_V1
+	T_Bk_GospelOfSaintVelothTR_V2
+	T_Bk_GospelOfSaintVelothOTR_V1
+	T_Bk_GospelOfSaintVelothOTR_V2
+	
+- Added creatures:
+	Cave Troll
+	Frost Troll
+	Dremora Sharpshooter (also added to levelled lists)
+	Dremora Spellcaster
+	Armed Ancestor Ghost
+	Khajiit Skeleton
+	Armun Kagouti	
+	Guardian (Clavicus Vile servant)
+	Juvenile Riverstrider
+	
+- Added regional sounds:
+	Soluthis
+	Grey Meadows
+	Othreleth Woods
+	Deshaan Plains
+	
+- Added weapons:
+	Silver Longbow
+	Broken Bottles (two additional variants)
+	Steel Swords
+	Huntsman Shortsword
+	Nordic Longbow
+	Ebony Longbow
+	Huntsman Longbow
+	Ice Longbow
+	Daedric Halberd
+	Iron Staff
+	Iron Great Mace
+	Iron War Pick
+	Silver War Pick
+	Adamantium Arrows
+	Adamantium Bolts
+	Adamantium Battleaxe
+
+- Added armor pieces:
+	Dres Chap-Thil hats
+	Dres Salt Merchant helmets
+	Bonemold Kragen pauldron and helmet
+	Imperial Ebony helmet
+	Caravaner's helm
+	Redoran Bonemold open helm
+	Netch Leather Rogue cuirass, helm, and hood
+	Native Chev-Aram helmet and pauldrons
+	Indoril Necrom Gauntlets
+	Redoran Maradlai Bonemold helmets, pauldrons, cuirass, and shield
+	Ordinator helmet without face
+
+- Added the following flora:
+	T_Mw_Flora_Red_Lily_01
+	T_Mw_FloraAT_Lily_01 (container version of an existing static)
+	T_Mw_FloraTV_Grass_01 to 03 (statics)
+	T_Mw_FloraTV_TreeZifa_01 to 03 (statics)
+	T_Mw_FloraTV_TreeGeran_01 (statics)
+	T_Mw_FloraTV_SpoLotus01 to 02
+	T_MW_FloraSM_Fogstool_01
+	T_Mw_Flora_DesertRose01 to 03 (primarily Shipal-Shin)
+	T_Mw_FloraTV_ManShroomRoot_01 to 07 (statics)
+	T_IngFlor_VeiledUrnula_01 (Shipal-Shin)
+	T_IngFlor_BlisteringFoment_01 (Shipal-Shin)
+	T_Mw_Flora_SheggShelf01 to 03 (statics, for caves)
+	T_Mw_FloraMF_Palm_01 to 05 (statics)
+	
+- Added a unique book model for Mysteries of the Worm
+- Added roadsigns for several settlements
+- Added town banners for several settlements
+- Added additional cliff meshes for the WG textures
+- Added Thirr Valley rock, cliff, entrance, grass plane, and hill assets
+- Added Thirr Valley ground textures
+- Added Othreleth Woods rocks
+- Added Indoril Dulcimer (plus short music pieces/sound effects)
+- Added Hlaalu settlement-in-construction assets
+- Added Hlaalu grates and watersprouts
+- Added boiling water in metal bucket activator (animation and sound)
+- Added gold and silver ingot misc items (Imperial stamp, Hlaalu stamp, and without stamp)
+- Added Shipal-Shin boulders, and rock and ground textures
+- Added Roth Roryn rock and ground textures
+- Added Bitter Coast style cliffs (with more of a lip)
+- Added roped urns and barrels 
+- Added Vivec-style house banners for the Indoril and Dres
+- Added a 256x256 bone plane
+- Added decorated altars (house banners, tribunal tapestry and generic "rich" tapestry) as statics, activators may be available in the future
+- Added new large and small book models
+- Added RM versions of the small cliff meshes
+- Added burned books as misc item
+- Added new Stronghold exterior pieces
+- Added a Dunmer small tent set (1/2 yurt sized)
+- Added a Dunmer medium tent set (3 yurt sized)
+- Added additional Telvanni interior pieces (connectors)
+- Added additional Redoran interior pieces (ceiling and platform)
+- Added Mournhold dock pieces
+- Added a Mournhold door gate
+- Added Velothi exterior assets (new dock set, canton-style market place, towers, houses)
+- Added floating lanterns
+- Added an edited shack set with a flat ground pane
+- Added sand heaps 
+- Added Daedric rubble heaps
+- Added a Hlaalu Striderport
+- Added a Hircine statue
+- Added a standing Malacath statue
+- Added Deshaan salt plains 
+- Added Deshaan salt pools
+- Added additional Orc heads and hairs
+- Added additional Dunmer heads and hairs
+- Added an elderly Khajiit face
+- Added assets for a Daedric plane
+- Added cut up statics of the propylon portal
+- Added Velothi cave inside entrances mirroring the existing outside version
+- Added curved wooden docks
+- Added curved Imperial docks
+- Added non-ruined Old Mournhold style buildings and doors
+- Added Old Mournhold styled Mournhold pillars
+- Added a silver hand mirror (plus a unique variant)
+- Added schematics for the Enhanced Dwemer Centurions
+- Added Velothi tomb meshes and containers
+- Added a fixed version of Bethesda's photodragons
+- Added a ballpeen repair hammer
+- Added a global and script for passed time
+- Added high resolution versions of the Aanthirin ground textures
+- Added a skeletal hand as misc item (to go with the misc item skulls)
+- Added a faceless Dunmer head
+- Added spooky voices for a special occasion 
+- Added a new ghost effect (activators and a script)
+- Added a lot of Dunmer clothing
+- Added voiced dialogue for the Almas Thirr Ordinators
+- Added Dunmer wall decals (intended for Hlaalu and Velothi sets)
+- Added a broken Molag Bal statue
+- Added one-sided Indoril and Hlaalu walls
+- Added some unique Dreugh-related assets: amulet, glove, face
+- Added a lot more cave pieces
+- Added a flipped Velothi curved ramp
+- Added a bigger Velothi temple exterior
+- Added a variety of canton buttresses (stairs, balconies, both)
+- Added a skybox
+- Added various canvas sacks
+- Added a version of the Uriel V propaganda map
+- Added a paper version of the Tamriel map (originally taken from PGE1)
+- Added ingredients to various Oblivion plants
+- Added glowbugs
+- Added tiny urns as misc items 
+- Added three more blood decals
+- Added new Hlaalu windows
+
+- Deprecated the Cooked Rat meat (replaced it with the current/correct version)
+
+- Removed unused snow peaks and ridges
+- Removed remaining Amanita Muscaria levelled list and ingredient
+- Removed the umpteenth implementation of the Queen of Bats axe
+- Removed unnecessary giant napkin icons
+- Removed unused bookarts
+
+- Fixed collision on the Aanthirin Bulb Trees
+- Fixed collision problems with Imperial interiors in OpenMW
+- Fixed a CTD due to regions not having a sleep encounter list 
+- Fixed visual and technical problems with the shed mesh
+- Fixed collision problems of some Dwemer floor meshes
+- Fixed visual problems of the rich Dunmer desk
+- Fixed collision and visual problems of the Thorn Elowan mesh
+- Fixed the Jet texture
+- Fixed various tr_in, tr_in_mh, and tr_in_mould meshes by removing unnecessary animation frames
+- Fixed an error in the Velothi Gourd Harp script
+- Fixed the names of various "Map of X" books to reflect their content
+- Fixed the size of the Daedric Helm of Rebellion
+- Fixed countless spelling and grammar errors in books
+- Fixed lore errors in books 
+- Fixed collision problems with some Hlaalu stairs
+- Fixed model errors on the broken urn meshes
+- Fixed several books not displaying their last line properly
+- Fixed the Native Chuzei Gauntlets to have an armor value of 17
+- Fixed collision problems on a large Necrom gate
+
+- Updated the Darnim Watch town banner to spell "Ildrim"
+- Updated the adamantium set (quality and aesthetics overhaul)
+- Updated the mesh for Soul Anchor
+- Updated the mesh for Gawi-Lo
+- Updated the mesh for the Ring of Lightning Speed
+- Updated the mesh for the Iron Morningstar
+- Updated the static water meshes for graphical fidelity
+- Updated sound files for Indoril instruments
+- Updated sound files for the mouse creature
+- Updated leaf textures of the Aanthirin Bulb Trees
+- Updated the Vermai to be a bit faster
+- Updated missing enchantments to various scrolls: Inner Pale Sun, Seventh Barrier, Eight Barrier, Flaming Hand, Spring Tail Leap, Trenchant Hand
+- Updated TR_Death_ArmorDummy by adding missing xnif and xkf files
+- Updated various map books by adding more current maps
+- Updated a lot of old weapon icons
+- Updated the Indoril guards to use Chev-Aram armor and act like low-level militia (individual high-level retainers will keep their bonemold armor)
+- Updated an Indoril bridge mesh
+- Updated the tapestry "Map of Tamriel"
+- Updated some ingredients to use "SH" instead of "SS"
+- Updated TumTum textures
+- Updated various mountain meshes
+
+
+====================================================================================================================================================================================
+
+
+
+MAY 2018 UPDATE
+
+Project Tamriel
+- Added Ayleid Rings
+- Added Expensive Nibenese Amulet
+- Added Wraiths and Faded Wraiths
+- Added Common Cell Door
+- Added Poor and Rich Common Lecterns, Rich Lectern container
+- Added Easel
+- Added Mages Guild Banners
+- Added Ayleid Beds, Benches, Chair, wallshelves
+- Added Ayleid Pit Dividers and extra Ledge Exits
+- Added Common GC set forge
+- Added Legion Circular room and second Void big4way
+- Added Olives ingredient
+- Added Figs; Fig Trees and Dried Figs
+- Added Siyat plant
+- Added Spices: Anise, Cardamon, Curcuma, Dried Hibiscus, Muscta, Nigella, Pepper, and Saffron
+- Added New Amphora container variation
+- Added New exterior Legion stairs
+- Added Cod ingredients, containers, creature
+- Added Market stalls
+- Added Books:
+	The 1,000 Spirits of Old Cyrod
+	The Coronation of Eplear
+	Fighters Guild Charter (P:C version)
+	Mages Guild Charter (P:C version)
+	Ordo Legionis (P:C version)
+	Funerary Rites of Cyrodiil (reworked and expanded series)
+	The Middle Dawn
+	The High King's Vedda
+- Added common market stands
+- Added Nord mummy containers
+- Added Goblin Thrall (SHOTN)
+- Skyrim magical items and arcane artifacts
+- Added Grey Wolf creature
+- Added Oleander, Thorntail flora containers (Elsweyr)
+- Added Nordic wagon wheel
+- Added Nordic windmills
+- Added Nordic smith's shed variation
+- Added Nordic bridge variation
+- Added Fish Cod racks
+- Added chandeliers with extra long ropes
+- Added Nordic farmhouse interior shells
+
+- Updated Amphora containers
+- Updated Flax Flowers
+- Updated pc_furn_coffin_stone
+- Updated race descriptions for Tamriel_Data added races
+- Updated Ayleid hanging chair
+- Updated Skyrim Goblin creatures
+- Updated Dragonstar banners
+- Updated Skyrim cave clutter
+
+- Fixed P:C loaddoors handle issue
+- Fixed coffin materials
+- Fixed pc_furn_ex_plank_pile1 
+- Fixed pc_terrain_gc_rock_11
+- Fixed common wallshelves
+- Fixed Common floors
+- Fixed collision on GH cliff meshes
+- Fixed Grapes and grapevines
+- Fixed various Legion interior assets (pc_in_imp_ceiling, pc_in_impbig_t_4way, pc_in_impbig_w_4way, pc_in_impsmall_rail)
+- Fixed Stirk common set interior skirting
+- Fixed copper textures on saint shrines
+- Fixed collision of mine entrances
+- Fixed collision on crypt interiors
+- Fixed ghost textures
+- Fixed Open iron helmet
+- Fixed data designation of Reachmen race
+- Fixed Elsweyr flora: sugarcane, hibiscus, palmtrees
+- Fixed Skyrim bar mesh collision
+- Fixed Redguard "hidden door" mesh
+- Fixed Anvil flag texture issue
+
+- Removed Aloe Vera pulp ingredient icon (PT version only, duplicate)
+- Removed unused P:C flora textures from replaced meshes (pc_flora_aloe3, pc_flora_cattail_..., pc_flora_flax1-3, pc_flora_goldenrod)
+- Removed sky_in_cvn_bm_01-07 asset duplicates (unused)
+- Removed wide Legion interior hall (pc_in_impbig_w_4way and pc_in_impbig_w_wall)
+- Removed superfluous crypt interior assets: pc_in_crypt_corner_02, pc_in_crypt_endcap, pc_in_crypt_hall_02, pc_in_crypt_side_02
+- Removed T_Example Cells (will become available as a dedicated plugin)
+
+
+===
+
+Tamriel Rebuilt
+- Added classes for Scribes and Bankers
+- Added Morrowind-style chapel glasses
+- Added Velothi Well
+- Added Weir Gate, Weir Gate active beam, and sounds
+- Added banking template
+- Added MapPos activators for keeping TR_Map variables correct in interiors
+- Added various maps
+- Added common interiors with dormers and balconies, additional roof meshes
+- Added Hlaalu overhangs
+- Added wooden heater shields (equippable)
+- Added Indoril tapestries, additional Imperial Dragon varieties
+- Added globals for teleport disabers
+- Added armor dummy (non-)animation files
+- Added template for newspapers
+- Added Yeth-Grub creature
+
+- Changed Dridea sounds
+- Changed Skyrender sounds
+- Changed around 100 meshes for performance
+- Changed some polearm stats, following their function
+
+- Fixed Velothi Well and Curia Mural meshes
+- Fixed various typos
+- Fixed missing door sounds
+- Fixed the Baker class to add services
+- Fixed sound issue for Dwemer centurion archers
+
+====================================================================================================================================================================================
+
+
+
+JANUARY 2018 UPDATE
+
+Project Tamriel
+- Added Khajiit subraces
+- Added Alfiq creature/race
+- Added Maormer race
+- Added Reachman race
+- Added Redguard Lamellar Armor with color variants
+- Added Ayleid furniture, interior and exterior pieces
+- Added Skyrim-appropriate tent retextures
+- Added Imperial signpoles and signposts
+- Added extra Colovian barrow pieces
+- Added smaller blacksquare door
+- Added GC lighthouse interior
+- Added Redguard containers, cutlery, and Sift drink (alchemy)
+- Added cairns, cave and mine entrances for GH region
+- Added new, versatile Reman ruin hallway pieces (pc and sky versions)
+- Added wide GC bridge for Sutch
+- Added new cave connector, allowing for cave pieces to be used vertically (...cave2_s_07)
+- Added several new Direnni interior tiles
+- Added new bathtubs and basin furniture
+- Added double height walls, tiling pillar/fences, and seperate struts to the common interior tilesets
+- Added new grate, banners and fountain for Dragonstar
+- Added new books:
+	T_Bk_ImperialProverbsPC
+	T_Bk_PortOfAnvilPC
+	T_Sc_BookOfCirclesPC (scroll version)
+	T_Sc_SyffaTemetKaiPC
+- Added new flora containers and ingredients:
+	Poppad Gourd
+	Pitcher Plant
+	Mara's Beads
+	Marsh Stalk
+	Lycovine
+	Ironrye
+	Indureta Stalk
+- Added NPC size and activation reach indicator (T_Aid_Character_01)
+
+- Updated containers and ingredients of various flora containers and ingredients
+- Updated rich hanging bookshelf
+- Updated sundial mesh
+- Updated Redguard hidden door mesh
+- Updated Redguard hookahs and tongs meshes
+- Updated Redguard buildings collision
+- Updated pc_furn_ex_cart_02_2
+- Improved Skyrim goat amination files
+- Changed handling of reflect maps in several meshes for OpenMW compatability
+- Changed names of Ayleid spell scrolls that had the same name for different spell effects.
+- Updated Imperial crypt set
+- Updated GC interior skirting mesh
+
+- Fixed P:C and SHOTN creatures for OpenMW compatability
+- Fixed Impruin (Reman ruin) hallway width due to clipping issues
+- Fixed collision on Anvil exterior stairs
+- Fixed Colovian Red Fur Gauntlets and Helmet
+- Fixed painting T_Imp_Furn_Painting_09a
+- Fixed mine entrances
+- Fixed pc_in_col_barrexit UV
+- Fixed texture paths on Skyrim barrows
+- Fixed Redguard mill mesh
+- Fixed Varla and Welkynd stones not having the correct weight and/or price before being picked up
+- Fixed various flora containers not having lvld lists or associated ingredients
+
+- Deprecated the "Book of Circles" in favor of a scroll version.
+- Removed deprecated PC books
+- Removed Ayleid furniture with wrong IDs
+
+
+===
+
+Tamriel Rebuilt
+
+- Added internal TR Map scripts for NPCs
+- Added Imperial heads and hair
+- Added Redguard heads and hair
+- Added various expensive, exquisite, and extravagant clothing for Dunmer and Imperials
+- Added two helmets: Expensive Imperial Cap and Exquisite Colovian Fur Helm
+- Added spiked Iron and Steel pauldrons
+- Added Imperial Ebony armor set
+- Added light Chitin pauldrons
+- Added town banners for Dondril and Vhul
+- Added Deshaan chlorine pools
+- Added various Imperial signs
+- Added velothi gourd (with sound effects)
+- Added imperial sign holders and signs
+- Added unique Dwemer Lighthouse for Andothren
+- Added cave rays
+- Added new cursed items: gold and gems
+- Added new dungeon trigger: ghost spawn
+- Added new uniques: Prey Seeker Helm, Swiftcut Saber, and Renald the Incredible Lute
+- Added a variety of soap
+- Added coloured tiles, replacing pillows as fort-building material 
+- Added new floor sets for Velothi and Stronghold cantons
+- Added 90° inverted cave tunnels, to make caves horizontally interesting
+- Added additional cliff meshes for Roth-Roryn and (Armun) Ashlands
+- Added a mummy creature
+- Added Aanthirin spore clouds
+- Added new books:
+	T_Bk_OfFireAntsAndHoomsTR
+	T_Bk_OfUnspeakableVolumesTR
+	T_Bk_SakaPunikaTR
+	T_Bk_TheOriginOfVampiresTR
+	T_Bk_ThePurposeOfTheCorkbulbTR
+	T_Bk_TheWorshipOfAshlandersTR
+	T_Bk_SermonZeroTR
+- Added flora:
+	Saltgrass (statics)
+	Saltstrap (statics, containers & ingredients)
+	Thirr Valley mangrove shrooms (statics)
+	Aanthirin Pyrous Uracia (containers & ingredients)
+	Shipal-Shin Tanna Plant (containers & ingredients)
+	Spartium Bealei (statics)
+
+- Changed textures for the Deshaan bread
+- Changed internal Map global assignment script
+- Changed the Narsis meshes for performance
+- Changed the Aanthirin ground textures
+
+- Fixed missing high-res textures for the Shroom Tables
+- Fixed missing textures for the Skyrender Riders
+- Fixed inverted bodyparts on native bonemold pauldrons
+
+- Deprecated Colovian bread ingredients
+- Deprecated T_Bk_TheFourthTR
+- Removed majority of deprecated TR books
+
+====================================================================================================================================================================================
+
+
+
+AUGUST 2017 UPDATE
+
+Project Tamriel
+- Added T_Imp_FurnR_TableSmall_02
+- Added more Colovian Fur armor pieces: boots and black fur helmet and gauntlets
+- Added Imperial Mananaut helm
+- Added Ayleid Keystone object
+- Added more Ayleid chains
+- Added Gilded Hills Region
+- Added Gilded Hills groundtextures and terrain assets (rocks, trees, saltpiles)
+- Added Rune- and Doomstones
+- Added common wall shelves
+- Added expanded common cellar set
+- Added smaller anvil ext stairs (T_Imp_SetAnv_X_Stairs_04)
+- Added anvil exterior stonewall pillar/endcap
+- Added Anvil cobblestone groundtexture
+- Added new books
+	T_bk_Fascicle_...
+	T_bk_JulianiteNumberSpells
+	T_bkGen_ (generic books)
+	T_Bk_CommentaryCovenantsPC
+	T_Bk_ShortHistoryEmpiresPC
+	T_Bk_ConstantInvocationPC
+	T_Bk_ConstantInvocationOpenPC
+	T_Bk_LifeAndTheAnimateHR
+	T_Bk_MysticPathEmperorPC
+	T_Bk_MysticPathEmperorOpenPC
+	T_Bk_OnSericulturePC
+	T_Bk_OnSericultureOpenPC
+	T_Bk_SaintAndLeftHandPC
+	T_Bk_TravelsOfTyalDirenniPC
+	T_Bk_CodifiedLaw01PC
+	T_Bk_CodifiedLaw02PC
+	T_Bk_CodifiedLaw03PC
+	T_Bk_PrivilegesOfTheDeadPC
+	T_Bk_QuarterPalmLiturgyPC
+	T_Bk_UNI_AlessianDoctrinesPC
+	T_Bk_BookOfCirclesPC
+	T_Bk_LawAndTheWillPC
+	T_Bk_MurderOfCrowsPC
+	T_Bk_LesserCatechismJulPC
+	T_Bk_LesserCatechismJulOpenPC
+- Added Imperial Legion skirts (T_Imp_Cm_SkirtLegion)
+- Added Legionnaire Skeleton creatures (T_Cyr_Und_SkelLegion)
+- Added variations on common furniture bookshelves
+- Added Portraits
+- Added Trebataur creature
+- Added the following flora:
+	T_Cyr_Flora_Ironrye (still uses Skyrim cloudy corn model)
+	T_Cyr_Flora_Monarda01 (replaced Bergamot)
+	T_Cyr_Flora_Aquilegia01 (replaces Columbine)
+	T_Cyr_Flora_Indureta01 (replaces maize)
+	T_Cyr_Flora_Siyat01 (replaces tobacco)
+	T_Cyr_Flora_Lycovine_01 (replaces tomato)
+	T_Cyr_Flora_Poppad01 (replaces pumpkin)
+- Added Cataphract, Kalantar and Klibanion Mail armors for use by guards
+
+- Changed Stirk bookart map
+- Changed GC Planters model
+- Changed small chests model
+- Changed Anvil House textures
+- Changed vintner buckets
+- Changed existing painting models and textures
+- Changed Dark Welkynd stones name to Loria Stones
+- Changed Ayleid furniture IDs 
+- Changed price of many Ayleid items
+- Changed content of the Ami-El book series
+- Changed weight and price of several books
+- Changed names of various pieces of Colovian Iron and Steel Armor
+- Changed name of Sacred Lotus to Perriff's Lotus
+
+- Fixed Colovian hair meshes
+- Fixed geometry on T_Imp_SetAnv_X_Stairs_04
+- Fixed Colovian founder shrine
+- Fixed pc_in_gc_cm_wll
+- Fixed T_cyr_agent class (no name)
+- Fixed bad body part assignments on dreugh helm, open iron helm, and colovian fur gauntlets
+- Fixed door collision problems (OpenMW issue) on several Stirk, GC and crypt doors (keep an eye on this, some meshes might not have the correct bounding box collision flag)
+
+- Deprecated a large number of PC books
+- Deprecated old brothel signs
+- Deprecated old Anvil chapel building
+- Deprecated following flora:
+	T_Cyr_Flora_Bergamot01
+	T_Cyr_Flora_Columbine01
+	T_Cyr_Flora_Corn01
+	T_Cyr_Flora_Tobacco01 (copied to Glb)
+	T_Cyr_Flora_Tomato01 (copied to Glb)
+- Deprecated copy of Kali Mes bracers (wrong code)
+
+===
+
+Tamriel Rebuilt
+- Added more Imperial Chain armor pieces: boots and gauntles
+- Added more Imperial Silver armor pieces: boots, bracers, greaves, and pauldrons
+- Added weapon: Nordic Saex, in silver, steel, and iron qualities
+- Added additional in_dae_cave connectors
+- Added misc item: Astrolabe
+- Added magic item: Penitent's Ring
+- Added flora: Deshaan Saltrice
+- Added flora: Salt Crocus
+- Added flora: Weeping Veil
+- Added statics: Tumtum Parasol
+- Added statics: Giant Elowan
+- Added statics: Shroom Table, in blue, red, orange, and green colours
+- Added statics: Cyrodiilic Bamboo
+- Added statics: Munzur Tree
+- Added statics: Aanthirin Bulb trees and stumps
+- Added statics: Nail (singular)
+- Added statics: Old Ebonheart wyrm statue
+- Added statics: Small Dunmer Guar-skin tent set (interor, exterior, banners, door)
+- Added statics: Dres Common Tileset (exteriors only)
+- Added statics, scrolls, and equipment specific to Ebon Tower
+- Added lightsources: de_lantern variations, in purple, cyan, yellow, and blue
+- Added Dunmer hairstyles
+- Added Breton heads
+- Added Bosmer heads and hairstyles
+- Added tr_ex_common_plat_end
+
+- Added new books:
+	T_Bk_StudyLockedNovelTR
+	T_Bk_DryMetaphorTR
+	T_Bk_MorrowindMartialArtsTR
+	T_Bk_ThePeryitonVol1CloseTR
+	T_Bk_ThePeryitonVol2CloseTR
+	T_Bk_ThePeryitonVol3CloseTR
+	T_Bk_ThePeryitonVol4CloseTR
+	T_Bk_ThePeryitonVol5CloseTR
+	T_Bk_ThePeryitonVol1OpenTR
+	T_Bk_ThePeryitonVol2OpenTR
+	T_Bk_ThePeryitonVol3OpenTR
+	T_Bk_ThePeryitonVol4OpenTR
+	T_Bk_ThePeryitonVol5OpenTR
+	T_Bk_ThePeryitonVol6OpenTR
+	T_Bk_MysteriesOfTheWormTR
+	T_Bk_TalosDragonbumTR
+	T_Bk_MalahkOrcsTR
+	T_Bk_CrookTailedKhajiitTR
+	
+- Changed Skyrender model
+- Changed Swamp Troll animations
+- Changed some Indoril house meshes, will need further improvement
+- Changed the TR_Flora_AJ meshes
+
+- Fixed .kf/.nif files for banner (for OpenMW)
+- Fixed	Nordic Iron Greaves' weight class
+- Fixed typo in "Redemption Volume III"
+- Fixed typo in "Redemption Volume IV"
+- Fixed wrong icon for "Defense of Morrowind Volume I"
+- Fixed wrong icon for "Daedric Septis"
+- Fixed animation error for a butterfly
+
+- Deprecated following flora:
+	T_Glb_Flora_AmanitaMs01 in favor of T_Mw_Flora_TempleDom01
+	T_Glb_Flora_AmanitaMs02 in favor of T_Mw_Flora_TempleDom02
+- Deprecated following alchemical item:
+	T_Orc_Drink_LiquorUngorth_01 in favor of T_De_Drink_LiquorLlotham_01 (T_Orc_Drink_LiquorUngorth_02 is the definite Ungorth drink)
