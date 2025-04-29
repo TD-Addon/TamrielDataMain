@@ -1,9 +1,9 @@
 [package]
 name = "Tamriel_Data"
-version = "11"
+version = "12"
 description = "The data repository for Tamriel Rebuilt, Project Tamriel and The Padomaic Isles province mods."
 homepage = "https://www.nexusmods.com/morrowind/mods/44537"
-repository = "https://github.com/TD-Addon/TD_Addon"
+repository = "https://github.com/TD-Addon/TamrielDataMain"
 authors = [
 	"chef",
 	"Kynesifnar",
