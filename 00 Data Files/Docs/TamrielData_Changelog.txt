@@ -1,3 +1,25 @@
+May 2nd 2025 Update
+
+- Added Dragonfields grass                              (Fremennik)
+- Updated normal maps                                   (Ronik)
+- Updated tr_in_hla_roomt_side_l                        (stele)
+
+April 30th 2025 Update
+
+- Updated T_Kha_Copper_Club_01                          (stele)
+- Updated T_Ayl_DngRuin_X_Stairs_01                     (stele)
+- Updated Narsis Arena GitD support                     (stele)
+
+April 29th 2025 Update
+
+- Updated Othreleth Woods sleep creatures               (Wanax)
+- Updated imported books                                (TipsyTechPriest)
+- Updated pc_furn_rug_lc_01                             (Evil Eye)
+
+April 28th 2025 Update
+
+- Updated Canyon Echo newspaper articles                (trav)
+
 v25.05 Update: January 1st through April 27th
 
 April 27th 2025 Update
