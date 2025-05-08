@@ -1320,5 +1320,16 @@ deprecated = [
 	"T_De_Ex_Skirt_07",
 	"T_De_Ex_Skirt_08",
 	"T_De_Ex_Shoes_08",
-	"T_Com_CoatofArms_01"
+	"T_Com_CoatofArms_01",
+	"T_De_NativeEbony_Boots_01",
+	"T_De_NativeEbony_Cuirass_01",
+	"T_De_NativeEbony_GauntletL_01",
+	"T_De_NativeEbony_GauntletR_01",
+	"T_De_NativeEbony_Greaves_01",
+	"T_De_NativeEbony_HelmClosed_01",
+	"T_De_NativeEbony_HelmClosed_02",
+	"T_De_NativeEbony_HelmOpen_01",
+	"T_De_NativeEbony_HelmOpen_02",
+	"T_De_NativeEbony_PauldronL_01",
+	"T_De_NativeEbony_PauldronR_01"
 ]
