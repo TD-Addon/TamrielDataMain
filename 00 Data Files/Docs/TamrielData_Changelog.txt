@@ -1,3 +1,8 @@
+May 10th 2025 Update
+
+- Added Bre manufactured clutter                        (revenorror, LilianaUnfolded)
+- Updated Imperial stocks/pillory                       (ComradeCheekiBreeki)
+
 May 2nd 2025 Update
 
 - Added Dragonfields grass                              (Fremennik)
