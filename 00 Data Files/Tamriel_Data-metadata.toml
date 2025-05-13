@@ -1331,5 +1331,11 @@ deprecated = [
 	"T_De_NativeEbony_HelmOpen_01",
 	"T_De_NativeEbony_HelmOpen_02",
 	"T_De_NativeEbony_PauldronL_01",
-	"T_De_NativeEbony_PauldronR_01"
+	"T_De_NativeEbony_PauldronR_01",
+ 	"T_Cyr_Cr_Lamia",
+ 	"T_Com_Scrapwood01",
+ 	"T_Com_Scrapwood02",
+ 	"T_Com_Scrapwood03",
+ 	"T_Com_Scrapwood04",
+ 	"T_Com_Scrapwood05"
 ]

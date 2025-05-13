@@ -1,3 +1,14 @@
+May 11th 2025 Update
+
+- Added propylons for TR Poison Song                    (Maars)
+- Updated HR Breton male heads 14 & 23                  (Kynesifnar)
+- Updated Ebony Battleaxe                               (Alexander_7070)
+
+May 10th 2025 Update
+
+- Added Bre manufactured clutter                        (revenorror, LilianaUnfolded)
+- Updated Imperial stocks/pillory                       (ComradeCheekiBreeki)
+
 May 2nd 2025 Update
 
 - Added Dragonfields grass                              (Fremennik)
