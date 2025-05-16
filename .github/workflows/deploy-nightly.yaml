@@ -1,0 +1,24 @@
+name: Deploy nightly
+on:
+  schedule:
+    - cron: '0 0 * * *' # run at midnight UTC
+  workflow_dispatch:
+jobs:
+  nightly:
+    name: Deploy nightly
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          sparse-checkout: .github
+
+      - name: Install dependencies
+        run: pip install PyGithub
+
+      - name: Deploy nightly
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python ".github/workflows/deploy-nightly.py"
