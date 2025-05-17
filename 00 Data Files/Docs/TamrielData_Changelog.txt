@@ -1,6 +1,19 @@
+May 16th 2025 Update
+
+- Added Imperial Microscope                             (Hemaris)
+- Updated glowbugs                                      (Chef)
+- Updated Perthan                                       (Kynesifnar)
+- Added workflow to generate addon nightlies            (Greatness7)
+
+May 14th 2025 Update
+
+- Updated SHOTN female Nord head 11                     (Kynesifnar)
+- Updated pc_ex_carriage_01.nif                         (Kynesifnar)
+
 May 13th 2025 Update
 
 - Added Wrecked T_Nor Tradeship                         (Brannon the Ilk, Vohki)
+- Updated open com crates                               (stele)
 
 May 11th 2025 Update
 

@@ -1337,5 +1337,10 @@ deprecated = [
  	"T_Com_Scrapwood02",
  	"T_Com_Scrapwood03",
  	"T_Com_Scrapwood04",
- 	"T_Com_Scrapwood05"
+ 	"T_Com_Scrapwood05",
+ 	"T_Glb_Fauna_Glowbugs_01",
+ 	"T_Glb_Fauna_Glowbugs_02",
+ 	"T_Glb_Fauna_Glowbugs_03",
+ 	"T_Glb_Fauna_Glowbugs_04",
+ 	"T_Glb_Fauna_Glowbugs_05"
 ]
