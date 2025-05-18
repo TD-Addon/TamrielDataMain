@@ -1342,5 +1342,8 @@ deprecated = [
  	"T_Glb_Fauna_Glowbugs_02",
  	"T_Glb_Fauna_Glowbugs_03",
  	"T_Glb_Fauna_Glowbugs_04",
- 	"T_Glb_Fauna_Glowbugs_05"
+ 	"T_Glb_Fauna_Glowbugs_05",
+ 	"T_Sky_Cr_LrgSpider01",
+ 	"T_Sky_Cr_LrgSpider02",
+ 	"T_Sky_Cr_LrgSpider03"
 ]

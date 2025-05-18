@@ -2419,6 +2419,9 @@ tr_stc_wildguar:T_Mw_Cr_GuarWild
 tr_stc_wingedtw:T_Mw_Cr_WingedTwilligh
 tr_stc_wolf:T_Mw_Cr_Wolf
 tr_stc_wolf_easy:T_Mw_Cr_WolfEasy
+T_Sky_Cr_LrgSpider01:T_Glb_Cr_LrgSpider01
+T_Sky_Cr_LrgSpider02:T_Glb_Cr_LrgSpider02
+T_Sky_Cr_LrgSpider03:T_Glb_Cr_LrgSpider03
 
 #Levelled Items
 tr_l_m_wpn_missle_arrow:T_Mw_Lvl_MissilesArrowEnchanted
