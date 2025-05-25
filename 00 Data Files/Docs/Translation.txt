@@ -4838,6 +4838,9 @@ tr_water_sqstat512:T_Glb_TerrWater_SqrStill512_01
 tr_wood_fence01:T_Com_Set_FenceBriar_01
 tr_wood_fence02:T_Com_Set_FenceBriar_02
 tr_wood_fence03:T_Com_Set_FenceBriar_03
+T_He_DngDirenni_F_Tray_01:T_He_DirenniTray_01
+T_He_DngDirenni_F_Tray_02:T_He_DirenniTray_02
+T_He_DngDirenni_F_Laddle_01:T_He_DirenniLadle_01
 
 #weapons
 tr_aug_silver claymore:T_Imp_Silver_Claymore_AugFleet

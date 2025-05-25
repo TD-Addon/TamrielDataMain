@@ -1,3 +1,15 @@
+May 25th 2025 Update
+
+- Added Direnni ladle + trays miscs                     (Exovian)
+- Added Breton Rings Pack 2                             (revenorror, LilianaUnfolded)
+- Added Anvil Building: Imperial Astrological Society   (trav)
+- Added Ancient Normen Pottery set                      (Lus)
+- Added Monk's Tonsure                                  (LilianaUnfolded)
+- Added Anvil Building: Saint Amiel Officers' Club      (trav)
+- Added Alessian Skeleton Champions                     (Kynesifnar)
+- Updated T_Imp_Set_Platf and T_Glb_Cave_I_Platf sets   (Snailsting)
+- Updated First Empire & Ayleid coin values             (minifly)
+
 May 22nd 2025 Update
 
 - Added He_FurnP Sequel and Additions                   (LilianaUnfolded)
