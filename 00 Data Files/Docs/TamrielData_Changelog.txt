@@ -1,3 +1,9 @@
+May 26th 2025 Update
+
+- Added iron, steel, and silver glaives                 (AnrohaNexus)
+- Added steel and silver falcatas                       (AnrohaNexus)
+- Added silver naginata                                 (AnrohaNexus)
+
 May 25th 2025 Update
 
 - Added Direnni ladle + trays miscs                     (Exovian)
