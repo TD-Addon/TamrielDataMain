@@ -4,6 +4,36 @@ import github
 import subprocess
 
 from datetime import datetime
+from github.Repository import Repository
+
+
+def get_changed_files(repo: Repository, since: datetime) -> set[str]:
+    """Get the set of changed files in the repository since a given date."""
+
+    # Doing this manually instead of using `repo.compare()` as that method
+    # had both timeout issues and did not return the full list of changes.
+    commits = repo.get_commits(since=since, until=datetime.now())
+
+    changed_files = set()
+
+    for commit in commits.reversed:
+        print(f"Processing commit: {commit.sha}")
+        for file in commit.files:
+            if not file.filename.startswith("00 Data Files/"):
+                continue
+
+            print(f"Found {file.status} file: {file.filename}")
+
+            if file.status == "removed":
+                changed_files.discard(file.filename)
+                continue
+
+            if file.status == "renamed":
+                changed_files.discard(file.previous_filename)
+
+            changed_files.add(file.filename)
+
+    return changed_files
 
 
 if __name__ == "__main__":
@@ -26,12 +56,8 @@ if __name__ == "__main__":
     print(f"Current branch SHA: {current_sha}")
 
     # Find the changed files
-    print("Comparing changed files...")
-    comparison = repo.compare(release_sha, current_sha)
-    changed_files = [f.filename for f in comparison.files if f.status != "removed"]
-
-    # Ignore stuff outside of the "00 Data Files" directory
-    changed_files = [f for f in changed_files if f.startswith("00 Data Files/")]
+    print("Retrieving changed files...")
+    changed_files = get_changed_files(repo, since=release.created_at)
 
     if num_changes := len(changed_files):
         print(f"Found {num_changes} changed files.")
