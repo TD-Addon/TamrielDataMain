@@ -1,3 +1,8 @@
+May 30th Update
+
+- Added Indoril Modular Ext Tileset                     (shivatheo, Vohki)
+- Updated Man o War soul value                          (chef)
+
 May 26th 2025 Update
 
 - Added iron, steel, and silver glaives                 (AnrohaNexus)
