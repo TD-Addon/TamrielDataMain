@@ -1348,5 +1348,15 @@ deprecated = [
  	"T_Sky_Cr_LrgSpider03",
  	"T_He_DngDirenni_F_Tray_01",
  	"T_He_DngDirenni_F_Tray_02",
- 	"T_He_DngDirenni_F_Laddle_01"
+ 	"T_He_DngDirenni_F_Laddle_01",
+ 	"Sky_Guard_Imp",
+ 	"Sky_Guard_Imp_m",
+ 	"Sky_Guard_Imp_s",
+ 	"Sky_Guard_Re",
+ 	"Sky_Guard_Re_Elite_s"
+ 	"Sky_Guard_Re_f",
+ 	"Sky_Guard_Re_f_s",
+ 	"Sky_Guard_Re_m",
+ 	"Sky_Guard_Re_m_f",
+ 	"Sky_Guard_Re_s",
 ]
