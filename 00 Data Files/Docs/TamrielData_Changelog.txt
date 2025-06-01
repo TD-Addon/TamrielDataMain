@@ -1,3 +1,10 @@
+June 1st Update
+
+- Added Ashlander Scouting Mask                         (AquilaXIV, dzumka)
+- Added extra Kartur Dale textures                      (chef)    
+- Added brass coins                                     (ZackG)
+- Added SkyCom container variants for amber and furs    (Hase. Oster.)
+
 May 31st Update
 
 - Updated Imperial Navy Skills                          (Taniquetil)
