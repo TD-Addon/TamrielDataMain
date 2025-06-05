@@ -1,3 +1,18 @@
+June 5th Update
+
+- Added Breton doilies                                  (revenorror)    
+- Added Nordic blueware                                 (spexd)
+- Added Abecean Arrowroot                               (Hemaris, revenorror)
+- Added Arthorn bush + ingredient (SD only)             (revenorror, UXO, LilianaUnfolded)
+- Added Nede Deathlands bull statues                    (MammaHyena)
+- Added Bodrum bridge modular piece                     (Vohki)
+- Added Morag Tong armor                                (AquilaXIV)
+- Added Orange Road viaduct assets                      (joanasc)
+- Added Real Dwemer Armor                               (Feivelyn, Alexander_7070, Marhaus, AquilaXIV)
+- Added The Seven Doors of Unmaking book                (Tristior)
+- Added Sheogorath artifact club                        (Iterator, Alexander, Gr8 A2n)
+- Updated Othreleth Woods ground textures               (Chef)
+
 June 1st Update
 
 - Added Ashlander Scouting Mask                         (AquilaXIV, dzumka)
