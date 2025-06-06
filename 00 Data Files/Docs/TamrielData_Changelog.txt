@@ -1,5 +1,8 @@
 June 5th Update
 
+- Added Anvil Building: Red Treasury                    (trav)
+- Added Nordic rich/medium murte                        (Alexander_7070, LilianaUnfolded)
+- Added Nordic poor murte                               (Alexander_7070, Feivelyn)
 - Added Breton doilies                                  (revenorror)    
 - Added Nordic blueware                                 (spexd)
 - Added Abecean Arrowroot                               (Hemaris, revenorror)
