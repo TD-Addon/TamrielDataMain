@@ -1359,4 +1359,11 @@ deprecated = [
  	"Sky_Guard_Re_m",
  	"Sky_Guard_Re_m_f",
  	"Sky_Guard_Re_s",
+ 	"T_Mw_Lvl_Ghosts+0",
+ 	"T_Mw_Lvl_Ghosts-2",
+ 	"T_Mw_Lvl_Ghosts+2",
+ 	"T_Sc_MoonsugarPoemTR",
+ 	"T_Com_Var_RopeHooks_01",
+ 	"T_Com_Var_RopeHooks_02",
+ 	"T_De_CardMiscEmpty",
 ]
