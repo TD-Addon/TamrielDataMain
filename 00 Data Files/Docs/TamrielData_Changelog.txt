@@ -1,3 +1,9 @@
+June 9th Update
+
+- Added Py cave diamonds rocks                          (CdoubleOK)
+- Added SetReach guard tower int tileset                (pronam)
+- Added empty variants of Dwemer container furniture    (Warped)
+
 June 6th Update
 
 - Added SUM Altmeri flatbread                           (revenorror)
