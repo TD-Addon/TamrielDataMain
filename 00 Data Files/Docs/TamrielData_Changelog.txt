@@ -1,3 +1,32 @@
+June 10th Update
+
+- Added CaveGC to CavePy transition                     (Snailsting)
+- Added Barda's Reach Royal Robe                        (Feivelyn, Gr8 A2n)
+- Added Breton and Nordic Enchants                      (Ashtom)
+- Added 09 June PT leveled lists update                 (Taniquetil)
+- Added Wine Cap Stropharia (PC)                        (revenorror)
+- Added Cramp Ball (HR)                                 (revenorror)
+- Added Common Waxbite (HR)                             (revenorror)
+- Added Wood Blewit (HR)                                (revenorror)
+- Added Field Yellowgill (HR)                           (revenorror)
+- Added Verdigris Navel (HR)                            (revenorror)
+- Added Cyanula fomoria (HR)                            (revenorror)
+- Added Parasola plicatilis (HR)                        (revenorror)
+- Added Rose-gill Grisette (HR)                         (revenorror)
+- Added Jelly Tree Ear (HR)                             (revenorror)
+- Added Seaglass Dewcup (Summerset)                     (revenorror)
+- Added Marrow Drop (HR)                                (revenorror)
+- Added Giant Puffball (Skyrim)                         (revenorror)
+- Added Midnight Entoloma (HR)                          (revenorror)
+- Added Benighted Cortinar (HR)                         (revenorror)
+- Added Brunven (HR)                                    (revenorror)
+- Added Rust Belt (HR)                                  (revenorror)
+- Added Pink Kollop (Sum)                               (revenorror)
+- Added Blue Pinkgill (Sum)                             (revenorror)
+- Added Midwinter Polypore (Sky)                        (revenorror)
+- Added Blue Felt Lichen (Sky)                          (revenorror)
+- Added Sulphur Firedot (HR/MW?)                        (revenorror)
+
 June 9th Update
 
 - Added Py cave diamonds rocks                          (CdoubleOK)
