@@ -1,4 +1,17 @@
-June 10th Update
+June 11th 2025 Update
+
+- Added De_Furn EEC Tapestries                          (Reach)
+- Added Sea of Ghosts limpets                           (revenorror, LilianaUnfolded)
+- Added Altmer Steel weapons & shield                   (LilianaUnfolded)
+- Added Altmer drink Ebonille                           (Yoae)
+- Added Altmer drink Tanische                           (Yoae)
+- Added Altmer drink Ocolei                             (Yoae)
+- Added static MW goblin tribe banners                  (Snailsting)
+- Added ruined Indoril small chapel meshes              (Why)
+- Updated Sharai Hopper fight values                    (Chef)
+- Updated weights for Glass, Ebony & Daedric weapons    (Hase. Oster.)
+
+June 10th 2025 Update
 
 - Added CaveGC to CavePy transition                     (Snailsting)
 - Added Barda's Reach Royal Robe                        (Feivelyn, Gr8 A2n)
@@ -27,13 +40,13 @@ June 10th Update
 - Added Blue Felt Lichen (Sky)                          (revenorror)
 - Added Sulphur Firedot (HR/MW?)                        (revenorror)
 
-June 9th Update
+June 9th 2025 Update
 
 - Added Py cave diamonds rocks                          (CdoubleOK)
 - Added SetReach guard tower int tileset                (pronam)
 - Added empty variants of Dwemer container furniture    (Warped)
 
-June 6th Update
+June 6th 2025 Update
 
 - Added SUM Altmeri flatbread                           (revenorror)
 - Added SUM Silche peppercorn                           (revenorror)
@@ -67,7 +80,7 @@ June 6th Update
 - Updated clouded funnel cap                            (revenorror)
 - Updated clay misc                                     (revenorror)
 
-June 5th Update
+June 5th 2025 Update
 
 - Added Anvil Building: Red Treasury                    (trav)
 - Added Nordic rich/medium murte                        (Alexander_7070, LilianaUnfolded)
@@ -85,18 +98,18 @@ June 5th Update
 - Added Sheogorath artifact club                        (Iterator, Alexander, Gr8 A2n)
 - Updated Othreleth Woods ground textures               (Chef)
 
-June 1st Update
+June 1st 2025 Update
 
 - Added Ashlander Scouting Mask                         (AquilaXIV, dzumka)
 - Added extra Kartur Dale textures                      (chef)    
 - Added brass coins                                     (ZackG)
 - Added SkyCom container variants for amber and furs    (Hase. Oster.)
 
-May 31st Update
+May 31st 2025 Update
 
 - Updated Imperial Navy Skills                          (Taniquetil)
 
-May 30th Update
+May 30th 2025 Update
 
 - Added Indoril Modular Ext Tileset                     (shivatheo, Vohki)
 - Updated Man o War soul value                          (chef)
