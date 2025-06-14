@@ -1,3 +1,11 @@
+June 13th 2025 Update
+
+- Added PI throwing axes                                (AnrohaNexus, Gr8 A2n)
+- Added more RGA furniture                              (joanasc)
+- Updated HR leveled lists                              (Fremennik)
+- Updated Oathbound enemy                               (Kynesifnar)
+- Updated "Emperor" greetings for guards                (Taniquetil)
+
 June 11th 2025 Update
 
 - Added De_Furn EEC Tapestries                          (Reach)

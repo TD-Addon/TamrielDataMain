@@ -1356,4 +1356,7 @@ deprecated = [
  	"T_Com_Var_RopeHooks_01",
  	"T_Com_Var_RopeHooks_02",
  	"T_De_CardMiscEmpty",
+ 	"T_Nor_CeramicBowl_01",
+ 	"T_Nor_CeramicBowl_02",
+ 	"T_Nor_CeramicBowl_03",
 ]
