@@ -1,3 +1,9 @@
+June 14th 2025 Update
+
+- Added dragon skeleton                                 (revenorror)
+- Added alternate Daedric armor                         (Alexander_7070, Feivelyn)
+- Added OOAB shacks                                     (OAAB)    
+
 June 13th 2025 Update
 
 - Added PI throwing axes                                (AnrohaNexus, Gr8 A2n)
