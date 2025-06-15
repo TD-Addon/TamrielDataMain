@@ -1,3 +1,11 @@
+June 15th 2025 Update
+
+- Added Wyrmslayer                                      (Alexander_7070)
+- Added 45° curves for ex_de_docks                      (Snailsting)
+- Added Flame/Frost/Storm Lords                         (Cicero)
+- Added more Lua spell icons                            (Cicero)
+- Added smaller hot oil mesh                            (revenorror)
+
 June 14th 2025 Update
 
 - Added dragon skeleton                                 (revenorror)
