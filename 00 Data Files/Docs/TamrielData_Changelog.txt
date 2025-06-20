@@ -1,3 +1,13 @@
+June 19th 2025 Update
+
+- Added banners for TR Poison Song settlements          (trav)
+- Added empty and wickwheat silo containers             (Chef)
+- Updated Nord baskets                                  (BarbedWireKisses)
+- Updated T_Nor_DrinkingHorn_03                         (BarbedWireKisses)
+- Updated white wolf head                               (BarbedWireKisses)
+- Updated Ayleid clutter                                (Kynesifnar)
+- Updated House Indoril faction                         (FlinSunset)
+
 June 15th 2025 Update
 
 - Added Wyrmslayer                                      (Alexander_7070)
