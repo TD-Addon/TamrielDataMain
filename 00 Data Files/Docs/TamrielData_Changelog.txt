@@ -1,3 +1,7 @@
+June 29th 2025 Update
+
+- Updated PC_Ex_ColFort set                             (trav)
+
 June 24th 2025 Update
 
 - Updated Colovian Barrow floors                        (Hemaris, worsas)
