@@ -1361,4 +1361,7 @@ deprecated = [
  	"T_Nor_CeramicBowl_03",
  	"T_Ayl_ClayCup_01",
  	"T_Nor_CopperTankard",
+ 	"T_Glb_Flora_Lotus01",
+ 	"T_IngFlor_LotusSeed_01",
+ 	"T_Cyr_Random_FlorLotus",
 ]
