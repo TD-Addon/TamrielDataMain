@@ -17175,3 +17175,4 @@ T_Imp_DngColBarrow_F_Mummy_07:T_CyrImp_DngColB_Mumy07
 T_Imp_DngColBarrow_F_Mummy_08:T_CyrImp_DngColB_Mumy08
 T_Imp_DngColBarrow_F_Mummy_09:T_CyrImp_DngColB_Mumy09
 T_Ayl_ClayCup_01:T_Ayl_Cup_01
+T_Nor_CopperTankard:potion_nord_mead

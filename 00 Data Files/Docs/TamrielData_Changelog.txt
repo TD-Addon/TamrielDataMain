@@ -1,3 +1,9 @@
+July 3rd 2025 Update
+
+- Added Forebear hats                                   (tammilisäke, Yoae, UXO, revenorror)
+- Added Dunmer road marker obelisks                     (Pickles)
+- Updated Indoril foundations with platforms            (trav)
+
 June 29th 2025 Update
 
 - Updated PC_Ex_ColFort set                             (trav)
