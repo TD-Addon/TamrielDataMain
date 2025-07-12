@@ -1364,4 +1364,13 @@ deprecated = [
  	"T_Glb_Flora_Lotus01",
  	"T_IngFlor_LotusSeed_01",
  	"T_Cyr_Random_FlorLotus",
+	"T_Bk_NotesForRedguardHistoryTR",
+	"T_Bk_RedguardsTheirHistorySHOTN",
+	"T_Bk_RedguardsTheirHistoryTR",
+	"T_Bk_DivadTheSingerTR",
+	"T_Bk_DivadTheSingerSHOTN",
+	"T_Bk_TheMemoryStoneTR",
+	"T_Bk_LastKingOfTheAyleidsPC",
+	"T_Bk_LastKingOfTheAyleidsSHOTN",
+	"T_Bk_AmuletOfKingsPC"
 ]
