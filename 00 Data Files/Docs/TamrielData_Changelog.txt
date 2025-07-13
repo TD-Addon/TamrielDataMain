@@ -1,4 +1,9 @@
-July 12th 2025 update
+July 13th 2025 Update
+
+- Updated Dagon Urul leveled lists                      (aveno)
+- Updated Iron Truncheon of Beatdown name               (obie dwyer)
+
+July 12th 2025 Update
 
 -Added Bosmer tree houses & tree traversing facilities  (Worsas)
 
