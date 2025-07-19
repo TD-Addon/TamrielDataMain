@@ -1,3 +1,16 @@
+July 19th 2025 Update
+
+- Added Hlaalu fermentation tanks                       (Feighten)
+- Added Dres architecture                               (athcliath97, revenorror)
+- Added dead OR trees                                   (chef)
+- Added 2 new Velothi large tiles                       (Snailsting)
+- Added T_De_Set_X_Drawbridge_01                        (trav)
+- Added T_De_SetInd_X_Plat_Str_04                       (trav)
+- Added star charts                                     (dzumka)
+- Added t_glob_sound_steam                              (aveno)
+- Updated Skyrim poor fireplaces                        (BarbedWireKisses)
+- Updated Reach large cliffs                            (Meadhainnigh)
+
 July 13th 2025 Update
 
 - Updated Dagon Urul leveled lists                      (aveno)
