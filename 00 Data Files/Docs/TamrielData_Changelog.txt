@@ -1,6 +1,10 @@
+August 8th 2025 Update
+
+- Added Reach cave set expansion                        (revenorror, Meadhainnigh)
+
 July 27th 2025 Update
 
-- Added more Skyrim fungi                               (Revenorror)
+- Added more Skyrim fungi                               (revenorror)
 - Added Hammerfell signs                                (MammaHyena, joanasc)
 - Added Breton banner posts                             (Fremennik)
 
