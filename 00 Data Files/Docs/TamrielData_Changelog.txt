@@ -1,3 +1,8 @@
+August 10th 2025 Update
+
+- Added rescaled Nord CabinLog set (batch #1)           (shtou)
+- Updated pc_ex_imp_hway set                            (Snailsting)
+
 August 8th 2025 Update
 
 - Added Reach cave set expansion                        (revenorror, Meadhainnigh)
