@@ -1,3 +1,8 @@
+August 12th 2025 Update
+
+- Added Colovian fortress interior set                  (joanasc)
+- Updated 2nd Empire set                                (Kynesifnar, worsas)
+
 August 10th 2025 Update
 
 - Added rescaled Nord CabinLog set (batch #1)           (shtou)
