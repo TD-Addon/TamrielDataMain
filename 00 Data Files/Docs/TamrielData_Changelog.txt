@@ -1,3 +1,7 @@
+August 13th 2025 Update
+
+- Added merged T_Rga_SetReach parts                     (Snailsting)
+
 August 12th 2025 Update
 
 - Added Colovian fortress interior set                  (joanasc)
