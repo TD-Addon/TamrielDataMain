@@ -1,3 +1,8 @@
+August 18th 202 Update
+
+- Added SHOTN Red Palace, tower, and int shells         (Meadhainnigh, spexd)
+- Updated HR OstR fireplace models                      (Fremennik)
+
 August 17th 2025 Update
 
 - Added Auroran creature sounds                         (Sabitsuki)
