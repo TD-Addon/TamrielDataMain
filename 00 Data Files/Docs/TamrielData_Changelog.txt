@@ -1,4 +1,13 @@
-August 18th 202 Update
+August 20th 2025 Update
+
+- Added Dres interior set                               (revenorror, UXO, Feivelyn)
+- Updated sky_FK_Porch_01b.nif                          (trav)
+- Updated Nine-Hole scripts                             (trav)
+- Updated T_Imp_SetGraveYSky_Rail_* pieces              (Quid)
+- Updated sky_ex_farm_h_01_w_0[12].nif                  (Quid)
+- Updated sky_in_red_t_ceil_01.nif                      (trav)
+
+August 18th 2025 Update
 
 - Added SHOTN Red Palace, tower, and int shells         (Meadhainnigh, spexd)
 - Updated HR OstR fireplace models                      (Fremennik)
