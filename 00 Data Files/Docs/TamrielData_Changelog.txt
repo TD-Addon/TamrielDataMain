@@ -1,3 +1,13 @@
+August 25th 2025 Update
+
+- Added transmuted flesh ingredient                     (revenorror, Kynesifnar)
+- Added Cuirass of Queen Naghea                         (Gr8 A2n, Alexander_7070, GrumblingVomit)
+- Added various Breton statics                          (Fremennik)
+- Added Redguard Blade hair                             (GrumblingVomit)
+- Added White Meadowsweet plant                         (Gr8 A2n)
+- Updated Reach Cave tileset                            (Meadhainnigh)
+- Updated Snowray                                       (Kynesifnar)
+
 August 24th 2025 Update
 
 - Updated Welkynd Spirit                                (Kynesifnar)
