@@ -1372,5 +1372,6 @@ deprecated = [
 	"T_Bk_TheMemoryStoneTR",
 	"T_Bk_LastKingOfTheAyleidsPC",
 	"T_Bk_LastKingOfTheAyleidsSHOTN",
-	"T_Bk_AmuletOfKingsPC"
+	"T_Bk_AmuletOfKingsPC",
+	"T_Rga_Steel_SwiftcutSaber"
 ]
