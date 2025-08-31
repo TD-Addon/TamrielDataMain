@@ -1,3 +1,8 @@
+August 31st 2025 Update
+
+- Added Redguard crypt set                              (joanasc)
+- Added Redguard sacks                                  (Fremennik)
+
 August 30th 2025 Update
 
 - Added Dreugh trophy                                   (shtou)
