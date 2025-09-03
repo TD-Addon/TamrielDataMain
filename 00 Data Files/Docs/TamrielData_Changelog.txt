@@ -1,3 +1,8 @@
+September 3rd 2025 Update
+
+- Added Hide Crates					(RoxDoc2)
+- Added T_Aid_Wander NPCs				(Boyos)
+
 August 31st 2025 Update
 
 - Added Redguard crypt set                              (joanasc)
