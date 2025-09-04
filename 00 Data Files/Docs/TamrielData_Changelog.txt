@@ -1,3 +1,8 @@
+September 4th 2025 Update
+ 
+- Added Breton Canned food 				(revenorror)
+- Added TD House Indoril faction dialogue		(Flinsunset, Knobelknight)		
+
 September 3rd 2025 Update
 
 - Added Hide Crates					(RoxDoc2)
