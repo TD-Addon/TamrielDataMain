@@ -1,12 +1,22 @@
+September 8th 2025 Update
+
+- Added 4x1 merged T_Rga_SetReach_X building            (Snailsting)
+- Added West Reach mountain peaks                       (Lus, Fremennik)
+- Added additional castaway shacks                      (Melchior Dahrk, MwGek, Taniquetil)
+- Added CaveRe small room ceiling and floor             (burritosan)
+- Added Nord amber tableware                            (BarbedWireKisses)
+- Added rescaled SetReach awnings                       (Shtou)
+- Added rescaled Nord CabinLog set                      (Shtou)
+
 September 4th 2025 Update
  
-- Added Breton Canned food 				(revenorror)
-- Added TD House Indoril faction dialogue		(Flinsunset, Knobelknight)		
+- Added Breton Canned food                              (revenorror)
+- Added TD House Indoril faction dialogue               (Flinsunset, Knobelknight)		
 
 September 3rd 2025 Update
 
-- Added Hide Crates					(RoxDoc2)
-- Added T_Aid_Wander NPCs				(Boyos)
+- Added Hide Crates                                     (RoxDoc2)
+- Added T_Aid_Wander NPCs                               (Boyos)
 
 August 31st 2025 Update
 
