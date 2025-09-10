@@ -66,5 +66,17 @@ event.register(tes3.event.initialized, function()
 		common.gh_config.blacklist["t_cyr_fauna_nesttant_02"] = true
 		common.gh_config.blacklist["t_cyr_fauna_nesttant_03"] = true
 		common.gh_config.blacklist["t_cyr_fauna_nesttant_04"] = true
+		common.gh_config.blacklist["t_hrbre_set_beehive_01"] = true
+		common.gh_config.blacklist["t_hrbre_set_beehive_02"] = true
+		common.gh_config.blacklist["t_hrbre_set_beehive_03"] = true
+		common.gh_config.blacklist["t_hrbre_set_beehive_04"] = true
+		common.gh_config.blacklist["t_mw_fauna_beehvvm_01"] = true
+		common.gh_config.blacklist["t_mw_fauna_beehvvm_02"] = true
+		common.gh_config.blacklist["t_mw_fauna_beehvvm_03"] = true
+		common.gh_config.blacklist["t_sky_fauna_beehveart01"] = true
+		common.gh_config.blacklist["t_sky_fauna_beehveart02"] = true
+		common.gh_config.blacklist["t_sky_fauna_beehveart03"] = true
+		common.gh_config.blacklist["t_skynor_set_beehive01"] = true
+		common.gh_config.blacklist["t_skynor_set_beehive02"] = true
     end
 end)
