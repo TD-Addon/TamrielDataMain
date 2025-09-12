@@ -1,3 +1,7 @@
+September 11th 2025 Update
+
+- Added large ice chunks                                (Shtou)
+
 September 8th 2025 Update
 
 - Added 4x1 merged T_Rga_SetReach_X building            (Snailsting)
