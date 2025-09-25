@@ -1,3 +1,15 @@
+September 24th 2025 Update
+
+- Added Redguard wallscreens                            (Meadhainnigh)
+- Added unique mural for Mora Ancestral Tomb            (Neutral, Gr8 A2n)
+- Added Skyrim chopped firewood                         (revenorror, GrumblingVomit)
+- Added Rilsoan, Selyn, Velonith town banners           (trav)
+- Added Selyn waysign                                   (trav)
+- Added Imp_SetChapel railing variants                  (dzumka)
+- Added Parsleydown plant                               (Gr8 A2n)
+- Updated Markarth exterior set to use atlas            (trav)
+- Updated Altmer Glass armor                            (Alexander_7070)
+
 September 17th 2025 Update
 
 - Added Gilded Slave Bracer                             (Meadhainnigh, revenorror)
