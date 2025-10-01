@@ -1,3 +1,10 @@
+September 30th 2025 Update
+
+- Added Redguard ballista                               (dzumka)
+- Added Hammerfell leveled list additions               (Toma400)
+- Added lids for T_Com_IronPot                          (Edith Lambertine)
+- Updated hoom health                                   (KnobelKnight)    
+
 September 24th 2025 Update
 
 - Added Redguard wallscreens                            (Meadhainnigh)
