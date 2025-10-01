@@ -1373,5 +1373,10 @@ deprecated = [
 	"T_Bk_LastKingOfTheAyleidsPC",
 	"T_Bk_LastKingOfTheAyleidsSHOTN",
 	"T_Bk_AmuletOfKingsPC",
-	"T_Rga_Steel_SwiftcutSaber"
+	"T_Rga_Steel_SwiftcutSaber",
+	"T_HamRga_Furn_Pot1Empty",
+	"T_HamRga_Furn_Pot2Empty",
+	"T_HamRga_Furn_Pot3Empty",
+	"T_HamRga_Furn_Pot4Empty",
+	"T_HamRga_Furn_Pot5Empty"
 ]
