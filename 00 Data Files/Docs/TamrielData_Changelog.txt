@@ -1,3 +1,11 @@
+October 4th 2025 Update
+
+- Added more MWSE custom spells                         (Kynesifnar)
+- Added Velothi ceiling-pit transitions                 (Snailsting)
+- Added Redguard Crypt interior set                     (joanasc)
+- Added Hammerfell cave sets                            (Lus, joanasc)
+- Added Redguard exterior furniture                     (joanasc)
+
 September 30th 2025 Update
 
 - Added Redguard ballista                               (dzumka)
