@@ -5,6 +5,8 @@ October 4th 2025 Update
 - Added Redguard Crypt interior set                     (joanasc)
 - Added Hammerfell cave sets                            (Lus, joanasc)
 - Added Redguard exterior furniture                     (joanasc)
+- Added additional Dwemer int pieces                    (pronam)
+- Added Redguard travel lanterns                        (Joto)
 
 September 30th 2025 Update
 
