@@ -1,3 +1,8 @@
+October 5th 2025 Update
+
+- Added flora_BM_holly_05/06 variant for VM             (Hemaris)
+- Added T_Mw_Flora_Tree_BM_Snow_08/09 Variant for VM    (Hemaris)
+
 October 4th 2025 Update
 
 - Added more MWSE custom spells                         (Kynesifnar)
