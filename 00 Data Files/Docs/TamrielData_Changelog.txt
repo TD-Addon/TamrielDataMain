@@ -1,3 +1,7 @@
+October 15th 2025 Update
+
+- Added Snow Conespruce Variants for VM             (Hemaris)
+
 October 5th 2025 Update
 
 - Added flora_BM_holly_05/06 variant for VM             (Hemaris)
