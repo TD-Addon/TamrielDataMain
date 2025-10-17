@@ -1,6 +1,15 @@
+October 16th 2025 Update
+
+- Added Goldmoor natural cave entrance                  (Lus)
+- Added sloped railings                                 (Snailsting)
+- Added Redguard Reach set expansion                    (Meadhainnigh, joanasc)
+- Added Chapel of Talos                                 (FiaPunocalypse)
+- Added Velothi curve pieces                            (Snailsting)
+- Updated Glb Joshua trees                              (joanasc)
+
 October 15th 2025 Update
 
-- Added Snow Conespruce Variants for VM             (Hemaris)
+- Added Snow Conespruce Variants for VM                 (Hemaris)
 
 October 5th 2025 Update
 
