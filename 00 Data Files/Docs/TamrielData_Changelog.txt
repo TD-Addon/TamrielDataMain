@@ -1,7 +1,14 @@
+October 20th 2025 Update
+
+- Added Hammerfell dock set                             (joanasc)
+- Added five Indoril books                              (pralec)
+- Added Reach destroyed 3-way tower                     (revenorror)
+- Added ColFort tower expansion                         (Edith Lambertine)    
+
 October 16th 2025 Update
 
 - Added Goldmoor natural cave entrance                  (Lus)
-- Added sloped railings                                 (Snailsting)
+- Added sloped railings                                 (revenorror, Snailsting)
 - Added Redguard Reach set expansion                    (Meadhainnigh, joanasc)
 - Added Chapel of Talos                                 (FiaPunocalypse)
 - Added Velothi curve pieces                            (Snailsting)

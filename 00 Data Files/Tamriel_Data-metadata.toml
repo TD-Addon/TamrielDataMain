@@ -1369,5 +1369,12 @@ deprecated = [
 	"T_HamRga_Furn_Pot2Empty",
 	"T_HamRga_Furn_Pot3Empty",
 	"T_HamRga_Furn_Pot4Empty",
-	"T_HamRga_Furn_Pot5Empty"
+	"T_HamRga_Furn_Pot5Empty",
+	"T_Rga_SetRihad_X_WoodPlatCrv_01",
+	"T_Rga_SetRihad_X_WoodPlatEnd_01",
+	"T_Rga_SetRihad_X_WoodPlatRai_01",
+	"T_Rga_SetRihad_X_WoodPlatSta_01",
+	"T_Rga_SetRihad_X_WoodPlatSta_02",
+	"T_Rga_SetRihad_X_WoodPlatStr_01",
+	"T_Rga_SetRihad_X_WoodPlatStr_02"
 ]
