@@ -29,7 +29,7 @@ scriptablePotionUse = true
 improvedAnimationSupport = true
 
 [dependencies.mods."TD_Lua_Addon"]
-mwse-module = "tamrielData.main"
+mwse-module = "TamrielData.main"
 
 [tools.csse]
 deprecated = [
