@@ -1376,5 +1376,9 @@ deprecated = [
 	"T_Rga_SetRihad_X_WoodPlatSta_01",
 	"T_Rga_SetRihad_X_WoodPlatSta_02",
 	"T_Rga_SetRihad_X_WoodPlatStr_01",
-	"T_Rga_SetRihad_X_WoodPlatStr_02"
+	"T_Rga_SetRihad_X_WoodPlatStr_02",
+	"T_Rga_SetRihad_X_WoodRail_01",
+    "T_Rga_SetRihad_X_WoodRail_02",
+    "T_Rga_SetRihad_X_WoodRail_03",
+	"T_Rga_Set_BannerTownDragons01In"
 ]

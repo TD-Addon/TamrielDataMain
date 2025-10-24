@@ -1,3 +1,22 @@
+October 24th 2025 Update
+
+- Added T_Com_Var_Logpile_77                            (Denis418)
+- Added Dwemer airship hangar door                      (LogansGun)
+- Added Saveri banner and road                          (trav)
+- Added De_Furn small rugs from OAAB                    (Melchior Dahrk)
+- Added De_FurnM statics and containers from OOAB       (Melchior Dahrk, Reach)
+- Added De_FurnM printing press                         (Reach)
+- Added more Rga hookahs                                (joanasc)
+- Added T_De_SetVeloth_I_Dome_Large temple variant      (Reach)
+- Added Redguard city banners                           (MammaHyena, dzumka)
+- Added Mournhold exterior meshes                       (trav)
+- Updated Aimrah banner                                 (trav)
+- Updated Rga railings                                  (joanasc)
+- Updated Velothi pit bottom pieces                     (Snailsting)
+- Updates Nan Iban banners to non-destroyed variants    (trav)
+- Updated Ayleid dust                                   (Kynesifnar)
+- Updated Mournhold exterior meshes                     (trav)
+
 October 20th 2025 Update
 
 - Added Hammerfell dock set                             (joanasc)
