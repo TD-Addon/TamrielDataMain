@@ -1,3 +1,13 @@
+November 1st 2025 Update
+
+- Added second batch of Mournhold exterior meshes       (trav)
+- Added Kvetchi Pass grass plane                        (revenorror)
+- Added Okra                                            (revenorror, Meadhainnigh)
+- Added Hoom ingredient #1 - lung                       (LittleLionheadRabbit)
+- Updated tr_ex_de_shack_03                             (trav)
+- Updated Old Ebonheart tournament shield names         (Marhaus)
+- Updated Tsaesci NPC animations                        (Kynesifnar)
+
 October 24th 2025 Update
 
 - Added T_Com_Var_Logpile_77                            (Denis418)
