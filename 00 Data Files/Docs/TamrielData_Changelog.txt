@@ -1,3 +1,8 @@
+November 4th 2025 Update
+
+- Added Sutch Royal Palace ext & int                    (Meadhainnigh)
+- Added Indoril gardens wooden structures               (Stele)
+
 November 1st 2025 Update
 
 - Added second batch of Mournhold exterior meshes       (trav)
