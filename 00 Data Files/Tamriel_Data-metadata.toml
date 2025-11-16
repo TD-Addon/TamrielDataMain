@@ -1382,5 +1382,7 @@ deprecated = [
 	"T_Rga_SetRihad_X_WoodRail_03",
 	"T_Rga_Set_BannerTownDragons01In",
 	"T_Tsa_Cre_Tsaesci _01",
-	"T_Tsa_Cre_Tsaesci_02"
+	"T_Tsa_Cre_Tsaesci_02",
+	"T_Glb_Var_GeyserDMG",
+	"T_Glb_Var_GeyserFX"
 ]
