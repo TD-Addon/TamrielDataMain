@@ -179,8 +179,13 @@ local travel_actor_prices = {
 
 -- bodypart id
 local hats = {
+	"T_C_BreEpHat01_Hr",
+	"T_C_BreEpHat02_Hr",
 	"T_C_BreEpHatWizard01_Hr",
 	"T_C_BreEpHatWizard02_Hr",
+	"T_C_BreEtHat01_Hr",
+	"T_C_BreExHat01_Hr",
+	"T_C_BreExHat02_Hr",
 	"T_C_ComCmHat01_Hr",
 	"T_C_ComCmHat02_Hr",
 	"T_C_ComCmHat03_Hr",
@@ -222,7 +227,7 @@ local hats = {
 	"T_C_ImpEtHatColNorth04_Hr",
 	"T_C_ImpEtHatColNorth05_Hr",
 	"T_A_ReaLeatherHat01_Hr",
-	"T_A_ImpEpHat02_Hr",
+	"T_A_ImpEpHat02_Hr"
 }
 
 local TD_ButterflyMothTooltip = {}
