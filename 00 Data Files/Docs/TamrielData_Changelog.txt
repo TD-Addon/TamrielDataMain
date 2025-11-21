@@ -1,3 +1,16 @@
+November 20th 2025 Update
+
+- Added Kragenmoor buildings                            (chef, Stele)
+- Added Dragonstar Arena int shell with ext edits       (trav)
+- Added Shadowkey floater                               (Asylum, Kynesifnar, revenorror)
+- Added pinned Dunmer tapestries                        (Melchior Dahrk)
+- Added sulfur activator script                         (Boyos)
+- Added Hoom shell and fur ingredients                  (LittleLionheadRabbit)
+- Added batch 3 of Mournhold ext atlas edits            (trav)
+- Added Redguard FurnM bookshelf variant                (joanasc)
+- Added Rga fancy candles                               (Vohki, Meadhainnigh)
+- Added Deathlands Nedes amulets                        (MammaHyena, Lus)
+
 November 15th 2025 Update
 
 - Added Breton Boots, Hats, and Shoes                   (Feivelyn, Alexander_7070, Meadhainnigh)
