@@ -1384,5 +1384,7 @@ deprecated = [
 	"T_Tsa_Cre_Tsaesci _01",
 	"T_Tsa_Cre_Tsaesci_02",
 	"T_Glb_Var_GeyserDMG",
-	"T_Glb_Var_GeyserFX"
+	"T_Glb_Var_GeyserFX",
+	"T_De_SetOm_X_Door_TurJulan_01",
+	"T_De_SetOm_X_Door_TurJulan_02"
 ]
