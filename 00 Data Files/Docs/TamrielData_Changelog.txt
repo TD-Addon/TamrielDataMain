@@ -1,3 +1,11 @@
+November 26th 2025 Update
+
+- Added Rga_FurnM Book Stand                            (Feighten)
+- Added vanilla sway lantern variant                    (Warped)
+- Added extravagant Breton shirts, pants, skirt & robe  (Feivelyn, Meadhainnigh)
+- Added Shouts tapestry                                 (MammaHyena)
+- Added Redguard alcohols                               (Kotshur)
+
 November 20th 2025 Update
 
 - Added Kragenmoor buildings                            (chef, Stele)
