@@ -1,3 +1,8 @@
+November 27th 2025 Update
+
+- Added Redguard jade tableware                         (revenorror)
+- Added Cyrodiil drugs                                  (revenorror, UXO, Meadhainnigh)
+
 November 26th 2025 Update
 
 - Added Rga_FurnM Book Stand                            (Feighten)
