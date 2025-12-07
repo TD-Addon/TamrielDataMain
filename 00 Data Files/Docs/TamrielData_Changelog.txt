@@ -1,3 +1,9 @@
+December 7th 2025 Update
+
+- Added snowy Dragonfields flora                        (Lus)
+- Added T_Glb_Flora_ReedSNW_Group_05/06 variants        (Meadhainnigh)
+- Updated Cairn Bolete and Rust Russula mushrooms       (revenorror)
+
 November 30th 2025 Update
 
 - Added Imperial Navy barge                             (Ficmon)
