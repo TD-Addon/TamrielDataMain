@@ -1,3 +1,9 @@
+December 10th 2025 Update
+
+- Added Redguard crypt interior pieces                  (joanasc)
+- Added T_MwDe_FurnM_Dw2 levelled versions              (Exovian)
+- Updated T_D ingredients                               (minifly)
+
 December 7th 2025 Update
 
 - Added snowy Dragonfields flora                        (Lus)
