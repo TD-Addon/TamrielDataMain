@@ -1,3 +1,10 @@
+December 12th 2025 Update
+
+- Added Breton gloves                                   (Feivelyn, Meadhainnigh)
+- Added Expensive Breton shirts                         (Feivelyn, Meadhainnigh)
+- Added Reachman alcohols                               (shtou)
+- Added new Ancient Nordic weapon set                   (DuX, Meadhainnigh)
+
 December 10th 2025 Update
 
 - Added Redguard crypt interior pieces                  (joanasc)
