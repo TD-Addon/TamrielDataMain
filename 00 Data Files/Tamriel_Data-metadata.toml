@@ -1401,5 +1401,7 @@ deprecated = [
 	"T_Nor_Ancient_Shortsword_01",
 	"T_Nor_Ancient_Spear_01",
 	"T_Nor_Ancient_Staff_01",
-	"T_Nor_Ancient_WarAxe_01"
+	"T_Nor_Ancient_WarAxe_01",
+	"T_De_SetInd_DoorSquareIn",
+	"T_De_SetInd_DoorJailIn"
 ]
