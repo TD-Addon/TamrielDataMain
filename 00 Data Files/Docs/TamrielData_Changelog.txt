@@ -1,3 +1,9 @@
+December 21st 2025 Update
+
+- Added TikiTorch00 variants                            (Kramnik)
+- Updated Nord wooden tableware                         (BarbedWireKisses)
+- Updated The Devout's Book of Days                     (OuranOS)
+
 December 18th 2025 Update
 
 - Added Breton Mithril armor                            (Alexander_7070, shtou, ThomasRuz, Feighten)
