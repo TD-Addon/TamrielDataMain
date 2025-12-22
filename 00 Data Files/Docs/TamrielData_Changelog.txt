@@ -1,8 +1,15 @@
 December 21st 2025 Update
 
 - Added TikiTorch00 variants                            (Kramnik)
+- Added SetReachRga atlased doors                       (shtou)
+- Added Nordic earthenware set                          (CapKi, BarbedWireKisses)
+- Added Ra-Habi Company banner                          (Lucevar)
+- Added High Rock polity banners                        (Lucevar, MammaHyena)
+- Added two more paintings                              (Leyawynn, Feighten)
 - Updated Nord wooden tableware                         (BarbedWireKisses)
 - Updated The Devout's Book of Days                     (OuranOS)
+- Updated plateau rock texel density                    (Cicero)
+- Updated Orethan rock texture                          (Cicero)
 
 December 18th 2025 Update
 
