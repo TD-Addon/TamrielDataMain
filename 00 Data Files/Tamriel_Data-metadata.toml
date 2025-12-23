@@ -1410,5 +1410,7 @@ deprecated = [
 	"T_Com_BrokenWeapon_03",
 	"T_Imp_Legion_BroadswordBroken01",
 	"T_Imp_Legion_ShortswordBroken01",
-	"T_Com_Bound_Greatsword_01"
+	"T_Com_Bound_Greatsword_01",
+	"T_Bk_CrimesOfTriTR",
+	"T_Bk_SpawnOfAshTR"
 ]
