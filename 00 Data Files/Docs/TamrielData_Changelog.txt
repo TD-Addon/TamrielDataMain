@@ -1,3 +1,14 @@
+December 24th 2025 Update
+
+- Added Kanit River Barge                               (Ficmon, Hemaris, LittleLionheadRabbit)
+- Added snow-covered variants of Haafingar roofs        (worsas)
+- Added Nord musical instruments pt 2                   (BarbedWireKisses, Leyawynn)
+- Added interior showcase review note pins              (Warped)
+- Added Crowned Kagouti warning sign                    (Hemaris)
+- Added Indoril interior set quarter column             (Feighten)
+- Updated act_dwe_cavein00 pycave texture               (Snailsting)
+- Updated Temple saint banner textures                  (revenorror)
+
 December 22nd 2025 Update
 
 - Added bound claymore                                  (Kynesifnar)
