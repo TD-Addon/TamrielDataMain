@@ -1,3 +1,8 @@
+December 28th 2025 Update
+
+- Added Armun Ashlands unique trees                     (revenorror)
+- Added SetInd niche                                    (Stele)
+
 December 24th 2025 Update
 
 - Added Kanit River Barge                               (Ficmon, Hemaris, LittleLionheadRabbit)
