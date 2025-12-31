@@ -1,3 +1,9 @@
+December 30th 2025 Update
+
+- Added Breton wrought iron furniture set               (Meadhainnigh, revenorror)
+- Added Direnni tapestries                              (Lucevar)
+- Added Old Ebonheart Docks small shelters              (FiaPunocalypse)
+
 December 28th 2025 Update
 
 - Added Armun Ashlands unique trees                     (revenorror)
