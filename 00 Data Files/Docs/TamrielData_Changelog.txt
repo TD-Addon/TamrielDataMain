@@ -1,3 +1,10 @@
+January 1st 2026 Update
+
+- Added Nordic Leather Armor variant                    (Alexander_7070, GrumblingVomit)
+- Added Quey Chitin Armor                               (Alexander_7070, GrumblingVomit)
+- Added Malahk Bazul grass textures                     (LogansGun)
+- Added HR Sweedledee flora                             (revenorror)
+
 December 30th 2025 Update
 
 - Added Breton wrought iron furniture set               (Meadhainnigh, revenorror)
