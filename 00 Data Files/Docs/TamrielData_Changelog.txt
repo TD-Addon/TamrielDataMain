@@ -1,10 +1,10 @@
 January 4th 2026 Update
 
-- Updated Nerevar's Axe                                 (Lucevar)
-- Added HF/HR427 floating crates and barrels            (DuX, GrumblingVomit)    
+- Added HF/HR427 floating crates and barrels            (Lucevar)
 - Added Indoril Orethan Guard Armor                     (Kaitou, athcliath97, AquilaXIV, GrumblingVomit, DharmaPR, DuX)
 - Added Felms Ithul banner                              (trav)
 - Added PGE1 inspired paintings                         (Feivelyn, Feighten)
+- Updated Nerevar's Axe                                 (DuX, GrumblingVomit) 
 
 January 1st 2026 Update
 
