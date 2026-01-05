@@ -1458,5 +1458,6 @@ deprecated = [
 	"T_Nor_WoodenSpoon_04a",
 	"T_Nor_WoodenSpoon_04b",
 	"T_Nor_WoodenTankard_01a",
-	"T_Nor_WoodenTankard_01b"
+	"T_Nor_WoodenTankard_01b",
+	"T_Rga_Set_BannerTownDragons01In"
 ]
