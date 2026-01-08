@@ -1,3 +1,18 @@
+January 8th 2026 Update
+
+- Added Redguard copper tableware                       (Kotshur)
+- Added Altmer heads                                    (revenorror, UXO, Kynesifnar)
+- Added Client Houses Badges amulets                    (GrumblingVomit)
+- Added generic enchanted items                         (Boyos)
+- Added Naga race                                       (revenorror, MammaHyena)
+- Added Redoran Hearthguard armor                       (P.Rivates, GrumblingVomit)
+- Added Maormer clothing                                (DuX, Feivelyn)
+- Updated Maormer armor                                 (DuX, GrumblingVomit)
+- Updated Dreugh and Dragonscale stats                  (Hase. Oster.)
+- Updated Imperial sewer grates                         (FiaPunocalypse)
+- Updated Orethan Armor                                 (FlinSunset)
+- Updated Firemoth region                               (Exovian)
+
 January 4th 2026 Update
 
 - Added HF/HR427 floating crates and barrels            (Lucevar)
