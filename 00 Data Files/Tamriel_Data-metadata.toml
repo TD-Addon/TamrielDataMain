@@ -1461,5 +1461,6 @@ deprecated = [
 	"T_Nor_WoodenTankard_01b",
 	"T_Rga_Set_BannerTownDragons01In",
 	"T_Dis_AstralVapors",
-	"T_De_FurnM_Winerack_01"
+	"T_De_FurnM_Winerack_01",
+	"T_Com_Var_TikiTorch_01"
 ]

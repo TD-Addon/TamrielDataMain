@@ -1,3 +1,8 @@
+January 20th 2026 Update
+
+- Added Punavit service refusal dialogue                (SpottheCat)
+- Added Malahk Bazul suspension bridge                  (LogansGun)
+
 January 13th 2026 Update
 
 - Added Colovian town banners                           (Lucevar, MammaHyena)
