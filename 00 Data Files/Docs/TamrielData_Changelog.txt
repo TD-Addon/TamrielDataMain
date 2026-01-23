@@ -1,3 +1,9 @@
+January 22nd 2026 Update
+
+- Added global use grapevines                           (revenorror)
+- Added Indoril double winged rectangular doors         (Stele) 
+- Added milk & blood glass                              (Feighten)
+
 January 20th 2026 Update
 
 - Added Punavit service refusal dialogue                (SpottheCat)
