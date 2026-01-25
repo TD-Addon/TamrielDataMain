@@ -1,3 +1,13 @@
+January 24th 2026 Update
+
+- Added Batch 4 of Mournhold exterior atlas + edits     (trav)
+- Added Breton iron weapons                             (AnrohaNexus)
+- Added Breton hats                                     (Feivelyn, Alexander_7070, Meadhainnigh)
+- Added docks_steps expansion                           (Ficmon)
+- Added Dragontail Orcs banner                          (MammaHyena, Lucevar)
+- Added Dunmer hanging lights                           (revenorror)
+- Added wall-mounted star chart                         (dzumka)
+
 January 23rd 2026 Update
 
 - Added Canyon Thresher trophy                          (StJericho)
