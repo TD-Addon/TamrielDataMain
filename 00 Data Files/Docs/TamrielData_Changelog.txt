@@ -1,3 +1,10 @@
+January 26th 2026 Update
+
+- Added Polyp Pearl                                     (LilianaUnfolded)
+- Added ported crypt set for PI                         (OAAB)
+- Added Sload sound effects                             (Sabitsuki)
+- Added Telvanni crystals                               (OAAB)
+
 January 24th 2026 Update
 
 - Added Batch 4 of Mournhold exterior atlas + edits     (trav)
