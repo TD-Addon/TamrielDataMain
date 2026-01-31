@@ -1,3 +1,12 @@
+January 31st 2026 Update
+
+- Added expanded pinned Dunmer tapestries               (StJericho)
+- Added Ghosts on the Strid book                        (Terrifying Daedric Foe)
+- Added Ordo Classis book                               (Taniquetil)
+- Added Subtlety in Showing Off books                   (WellTemperedClavier)
+- Added Tea and the Altmer book                         (ashtom)
+- Updated Ordo Legionis book                            (Taniquetil)
+
 January 26th 2026 Update
 
 - Added Polyp Pearl                                     (LilianaUnfolded)
