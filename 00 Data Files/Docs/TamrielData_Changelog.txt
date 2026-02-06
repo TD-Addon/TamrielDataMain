@@ -1,3 +1,13 @@
+February 6th 2026 Update
+
+- Added De Creatio Homunculi                            (W-E-R-D-N-A)
+- Added Ordolane's Bestiary v4                          (The Violet Euphemism)
+- Added Rihad wall fort set                             (joanasc)
+- Added Rihad set prefabs                               (joanasc)
+- Added The Nine Parables of Almalexia v1 & v7          (Taniquetil)
+- Added The Nine Parables of Almalexia v9               (pralec)
+- Added two-sided Redguard tapestries                   (UXO)
+
 January 31st 2026 Update
 
 - Added expanded pinned Dunmer tapestries               (StJericho)
