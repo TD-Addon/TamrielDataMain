@@ -17238,4 +17238,4 @@ T_De_SetHla_I_LedgeArch_02:T_De_SetHla_I_LedgeArch_01
 T_Rga_CopperCuttlery_01:T_Rga_CopperCutlery_01
 T_Rga_CopperCuttlery_02:T_Rga_CopperCutlery_02
 T_Rga_CopperCuttlery_03:T_Rga_CopperCutlery_03
-
+"T_Com_Steel_ Longspear_01":T_Com_Steel_Longspear_01
