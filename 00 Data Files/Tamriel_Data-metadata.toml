@@ -1524,5 +1524,6 @@ deprecated = [
 	"T_Rga_SetRihad_X_Handler_01d",
 	"T_Hr_FloraDF_Tree_04",
 	"T_Hr_FloraDF_Tree_05",
-	"T_Com_SetMw_SignWayTheInnBet_01"
+	"T_Com_SetMw_SignWayTheInnBet_01",
+	"T_De_SetHla_I_LedgeArch_02"
 ]
