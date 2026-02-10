@@ -1,3 +1,9 @@
+February 9th 2026 Update
+
+- Added Hammerfell way signs                            (joanasc
+- Added Riddle-Lands trees                              (joanasc)
+- Added Rihad fountain                                  (joanasc)
+
 February 8th 2026 Update
 
 - Added Hlaalu Ledge Arch Corners                       (Eldael)
