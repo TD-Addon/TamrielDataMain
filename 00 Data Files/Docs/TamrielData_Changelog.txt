@@ -1,6 +1,10 @@
+February 10th 2026 Update
+
+- Added RHC HQ exterior model and unique items          (Meadhainnigh)
+
 February 9th 2026 Update
 
-- Added Hammerfell way signs                            (joanasc
+- Added Hammerfell way signs                            (joanasc)
 - Added Riddle-Lands trees                              (joanasc)
 - Added Rihad fountain                                  (joanasc)
 
