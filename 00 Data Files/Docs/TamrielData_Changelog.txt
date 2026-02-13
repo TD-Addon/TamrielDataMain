@@ -1,3 +1,10 @@
+February 12th 2026 Update
+
+- Added Goblin ramps and platform                       (joanasc)
+- Added Indoril interior tileset half hall              (Stele)
+- Added orrery                                          (R-Zero)
+- Added Reach set half-ceiling tile                     (Feighten)
+
 February 10th 2026 Update
 
 - Added RHC HQ exterior model and unique items          (Meadhainnigh)
