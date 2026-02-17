@@ -1,3 +1,14 @@
+February 16th 2026 Update
+
+- Added furn_de_vanilla round rug variants              (Reach)
+- Added Hammerfell standing lamps                       (joanasc)
+- Added Ogre's Puffball flora                           (LittleLionheadRabbit)
+- Added red glass clutterware                           (OAAB)
+- Added Redguard faces and hair                         (Rats)
+- Added sliced bread ingredients                        (revenorror, Meadhainnigh)
+- Added snow chunk statics                              (worsas)
+- Updated On Elemental Daedra book                      (FiaPunocalypse)
+
 February 14th 2026 Update
 
 - Added Ordinator faction                               (Mortimer)
