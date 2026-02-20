@@ -1,3 +1,9 @@
+February 19th 2026 Update
+
+- Added Faith and Virtue book                           (pralec)
+- Added Soul of the Dwemer Language book                (jkulhavy)
+- Updated tr_furn_de_rm_wrack static                    (Reach)
+
 February 16th 2026 Update
 
 - Added furn_de_vanilla round rug variants              (Reach)
