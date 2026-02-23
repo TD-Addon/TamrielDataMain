@@ -1,3 +1,9 @@
+February 22nd 2026 Update
+
+- Added Clavicus Vile statue static                     (revenorror)
+- Added Indoril Chapel short interior tileset           (stele)
+- Added Indoril Chapel tall interior tileset            (athcliath97, trav, Feivelyn)
+
 February 21st 2026 Update
 
 - Added T_MwCom_Var_Cr01miner leveled list              (dacoda)
