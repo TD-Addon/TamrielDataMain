@@ -98,7 +98,7 @@ January 22nd 2026 Update
 
 - Added global use grapevines                           (revenorror)
 - Added Indoril double winged rectangular doors         (Stele) 
-- Added milk & blood glass                              (Feighten)
+- Added milk & blood glass                              (revenorror, Feighten)
 
 January 20th 2026 Update
 
@@ -175,7 +175,7 @@ December 24th 2025 Update
 - Added Crowned Kagouti warning sign                    (Hemaris)
 - Added Indoril interior set quarter column             (Feighten)
 - Updated act_dwe_cavein00 pycave texture               (Snailsting)
-- Updated Temple saint banner textures                  (revenorror)
+- Updated Temple saint banner textures                  (Tenosit)
 
 December 22nd 2025 Update
 
