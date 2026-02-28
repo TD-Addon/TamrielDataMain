@@ -1,3 +1,13 @@
+February 28th 2026 Update
+
+- Added Ancient Nord Armor                              (DuX, Alexander_7070, ThomasRuz)
+- Added Daedric Language Guide book                     (OuranOS)
+- Added Falkreath step-less doorframes                  (Quit)
+- Added Fire Fern variants                              (LittleLionheadRabbit)
+- Updated Hammerfell books                              (Tim Stonks, Toma400)
+- Updated Rislav the Righteous book                     (TipsyTechPriest)
+- Updated T_Gallery cell                                (Feighten)
+
 February 22nd 2026 Update
 
 - Added Clavicus Vile statue static                     (revenorror)
