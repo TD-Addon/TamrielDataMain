@@ -1529,5 +1529,13 @@ deprecated = [
 	"T_Com_Steel_ Longspear_01",
 	"T_Cyr_FloraGC_CactusSutch_01",
 	"T_Ham_Random_ArmorDwemerGold",
-	"T_Bk_FirstCouncilCensus2E622TR"
+	"T_Bk_FirstCouncilCensus2E622TR",
+	"T_De_HvChit_Boots",
+	"T_De_HvChit_Cuirass",
+	"T_De_HvChit_Gauntlet_L",
+	"T_De_HvChit_Gauntlet_R",
+	"T_De_HvChit_Greaves",
+	"T_De_HvChit_Helmet",
+	"T_De_HvChit_Pauldron_L",
+	"T_De_HvChit_Pauldron_R"
 ]
