@@ -1,3 +1,23 @@
+March 5th 2026 Update
+
+- Added T_Rga_DngCrypt door haunting script             (Hase.Oster.)
+- Added Horn Nut                                        (joanasc)
+- Added Rihad Guard Armor                               (joanasc, Alexander_7070)
+- Added Rihad poor trapdoor                             (joanasc)
+- Added plain Aanthirin grass                           (EP1CN3SS2)    
+- Added Indoril interior lights                         (trav)
+- Added Elder Scroll painting                           (Feighten)
+- Added Indoril Chapel half halls                       (Eldael)
+- Added additional HF land textures                     (joanasc)
+- Added Kingdom of Sutch unique faces                   (UXO, Feighten, Kynesifnar)
+- Added Bosmer assets                                   (worsas)
+- Added amphora stand                                   (Cerebulon)
+- Updated Hermaeus Mora statue                          (revenorror)
+- Updated Malahk Orc huts                               (LittleLionheadRabbit)
+- Updated Orethan region creature lists                 (kari.nu)
+- Updated IndC hall collision                           (Eldael)
+- Updated Bosmer assets                                 (worsas)
+
 February 28th 2026 Update
 
 - Added Ancient Nord Armor                              (DuX, Alexander_7070, ThomasRuz)
