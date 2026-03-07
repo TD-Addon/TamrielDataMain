@@ -6,7 +6,7 @@ March 5th 2026 Update
 - Added Rihad poor trapdoor                             (joanasc)
 - Added plain Aanthirin grass                           (EP1CN3SS2)    
 - Added Indoril interior lights                         (trav)
-- Added Elder Scroll painting                           (Feighten)
+- Added Elder Scroll painting                           (Feighten, RakettiKettu)
 - Added Indoril Chapel half halls                       (Eldael)
 - Added additional HF land textures                     (joanasc)
 - Added Kingdom of Sutch unique faces                   (UXO, Feighten, Kynesifnar)
