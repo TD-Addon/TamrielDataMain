@@ -1,3 +1,14 @@
+March 7th 2026 Update
+
+- Added Token of St. Olms                               (LittleLionheadRabbit)
+- Added Indoril altar                                   (Feighten)
+- Added Ostheldir fort walls                            (Lus, worsas)
+- Added DeLantern06A variants                           (Kramnik)
+- Added EEC tournament shield                           (BobbyThibs)
+- Added Redguard kegstand                               (Lus)
+- Updated Kwama cocoons                                 (nuclearwinter)
+- Updated Tenderizer weapon                             (DuX, GrumblingVomit)
+
 March 5th 2026 Update
 
 - Added T_Rga_DngCrypt door haunting script             (Hase.Oster.)
