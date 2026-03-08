@@ -1537,5 +1537,6 @@ deprecated = [
 	"T_De_HvChit_Greaves",
 	"T_De_HvChit_Helmet",
 	"T_De_HvChit_Pauldron_L",
-	"T_De_HvChit_Pauldron_R"
+	"T_De_HvChit_Pauldron_R",
+	"T_Com_UNI_Sharplens"
 ]
