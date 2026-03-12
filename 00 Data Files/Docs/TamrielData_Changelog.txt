@@ -1,3 +1,14 @@
+March 11th 2026 Update
+
+- Added kettles                                         (Eldrig)
+- Added Scroll of Arcanus Imperium                      (Cicero)
+- Added salve sound                                     (Kynesifnar)
+- Added bullfrog sounds                                 (Kynesifnar)
+- Added Clambering Moors container grass                (LittleLionheadRabbit)
+- Updated bank framework                                (jackimoff wackimoff)
+- Updated Magicka Ward dummy spell                      (Kynesifnar)
+- Updated Redguard Reach fort exterior set              (Meadhainnigh)
+
 March 7th 2026 Update
 
 - Added Token of St. Olms                               (LittleLionheadRabbit)
