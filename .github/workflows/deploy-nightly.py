@@ -85,7 +85,7 @@ if __name__ == "__main__":
         # Update modified time for the ESM
         if file.endswith("Tamriel_Data.esm"):
             print("Updating modified time for Tamriel_Data.esm")
-            os.utime(file, (os.stat(file).st_atime, 1325439000))
+            os.utime(file, (os.stat(file).st_atime, 1325376000))
 
     # Compress the "00 Data Files" directory
     print("Compressing...")
