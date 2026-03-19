@@ -1,3 +1,8 @@
+March 18th 2026 Update
+
+- Added Redguard Steel Armor                            (Kotshur)
+- Added Rihad big wall set                              (joanasc)
+
 March 15th 2026 Update
 
 - Added Parable of the Five Sons book                   (Rats)
