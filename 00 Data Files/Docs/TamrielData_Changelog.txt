@@ -1,3 +1,18 @@
+March 24th 2026 Update
+
+- Added Indoril Small Round Buildings Interiors         (trav)
+- Added Indoril Mid Round Buildings Interiors           (trav)
+- Added Indoril secret doors with banners               (trav)
+- Added Indoril chapel interior short set space         (trav)
+- Added Com/Imp FurnM Pinboard                          (Hemaris)
+- Added Marukhati Ruin Exterior Set                     (Kynesifnar)    
+- Added Armun Ashlands Termite Towers                   (LittleLionheadRabbit)
+- Added Narsis Landscape Painting                       (be-a-stranger, Feighten)
+- Added "The Arcturian Heresy" Painting                 (Feighten)
+- Added Velothismall Additions                          (Eldael)
+- Added mirrored ex_v_house_13/15 shell                 (Reach)
+- Added Rihad Interior Set                              (joanasc)
+
 March 18th 2026 Update
 
 - Added Redguard Steel Armor                            (Kotshur)
