@@ -1,3 +1,9 @@
+March 28th 2026 Update
+
+- Added Hammerfell Leveled Lists Part 3                 (Toma400)
+- Added painting frame SD textures                      (Feighten)
+- Updated Guide to Old Ebonheart maps                   (trav)
+
 March 27th 2026 Update
 
 - Added Enide unique head                               (UXO, Feighten)
