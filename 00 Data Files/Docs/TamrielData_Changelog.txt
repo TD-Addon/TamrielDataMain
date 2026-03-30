@@ -1,3 +1,11 @@
+March 29th 2026 Update
+
+- Added Indoril Chapel set corner pieces                (trav)
+- Added Sulfuric Willow trees                           (Reach, Kynesifnar)
+- Updated Flask of Lillandril script                    (Cicero)
+- Updated Battlespire artifact stats                    (Cicero)    
+- Updated Bonemold armor stats                          (Hase. Oster.)
+
 March 28th 2026 Update
 
 - Added Hammerfell Leveled Lists Part 3                 (Toma400)
