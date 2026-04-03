@@ -1,3 +1,15 @@
+April 2nd 2026 Update
+
+- Added Wider Velothi Stairs                            (Eldael)
+- Added Shorter Velothi Stairs                          (Eldael)
+- Added Rga M Bars                                      (joanasc)
+- Added EEC colony buildings without snow               (revenorror)
+- Added Reman Ruin Skyrim-Texture Interior Pieces       (Cerebulon)    
+- Added Redguard Wallscreens                            (Meadhainnigh, joanasc)
+- Added Throne of Sutch                                 (Rats)
+- Added Black Marsh Crates and Sacks                    (revenorror, Toma400)
+- Added Vivec Dock 02                                   (Chef)    
+
 March 29th 2026 Update
 
 - Added Indoril Chapel set corner pieces                (trav)
