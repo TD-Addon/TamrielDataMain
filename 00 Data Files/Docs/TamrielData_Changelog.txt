@@ -5,7 +5,7 @@ April 9th 2026 Update
 - Added Cyrodiil Nineholes Scripts for PC Maps 2-9      (Terrifying Daedric Foe)
 - Added Redguard Wineracks                              (Salle)
 - Added RgaReach bridge modular set                     (mmgery)
-- Added Redguard Beds                                   (Fremennik)
+- Added Redguard Beds                                   (Fremennik, juner_lunar)
 
 April 4th 2026 Update
 
