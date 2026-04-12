@@ -1,4 +1,3 @@
-#spells
 tr_ab_greaterlich:T_Cr_Ab_LichGreater
 tr_bot_absorbfatigue:T_Com_Mys_Tag
 tr_bot_almsiviintervention:T_De_Mys_TempleSong
@@ -99,8 +98,6 @@ tr_restore_constitution:T_De_Res_RestoreConstitution
 tr_restore_finesse:T_De_Res_RestoreFinesse
 tr_fall1barrier:T_Com_Alt_Falling1stBarrier
 tr_sp_paralysis:T_Com_Ilu_Paralysis
-
-#armor body parts
 tr_a_dae_lords_helm:T_A_DaeLordHelm01_Hd
 tr_a_dae_lords_pauld_cl:T_A_DaeLordPauldr01_Cl
 tr_a_dae_lords_boots_a:T_A_DaeLordBoots01_A
@@ -305,8 +302,6 @@ tr_a_diviner_n:T_A_DeDivinerHelm01_N
 tr_a_helm_tiger_fur:T_A_ImpColFurHelmTiger01_Hr
 tr_a_katariah_mask_bp:T_A_ImpUNIKatariahMask_Hd
 tr_a_shield_akaviri:T_A_AkaRegularShield01_S
-
-#Clothing body parts
 tr_c_com_skirt_01:T_C_ComCmSkirt01_G
 tr_c_exp_glove_01:T_C_ComEpGlove01_Ha
 tr_c_exp_glove_01.1st:T_C_ComEpGlove01_Ha.1st
@@ -399,9 +394,6 @@ tr_c_com_robe_04.1st:T_C_DeCmRobe04_C.1st
 tr_c_dae_hide_hand:T_C_DeDaedricHideGlove01_Ha
 tr_c_dae_hide_hand.1st:T_C_DeDaedricHideGlove01_Ha.1st
 tr_c_dae_hide_brc_w:T_C_DeDaedricHideBracer01_W
-
-
-#Heads & Hair
 tr_argonian_m_h04_nal:T_B_Arg_HeadMaleTR_01
 tr_breton_f_h01_ln:T_B_Bre_HeadFemTR_01
 tr_dark elf_m_head_01:T_B_De_HeadMaleTR_01
@@ -489,8 +481,6 @@ tr_rs_dunmer_f_head03:T_B_De_HeadFemTR_10
 tr_rs_dunmer_f_head04:T_B_De_HeadFemTR_11
 tr_rs_dunmer_f_head05:T_B_De_HeadFemTR_12
 tr_rs_dunmer_f_head06:T_B_De_HeadFemTR_13
-
-#Activators
 tr_act_tiki_128:T_Com_Var_TorchTikiUnlit128_01
 tr_act_tiki_256:T_Com_Var_TorchTikiUnlit256_01
 tr_act_tiki_512:T_Com_Var_TorchTikiUnlit512_01
@@ -661,8 +651,6 @@ tr_furn_shrine_ord_01:T_De_Var_ShrineOrdinator_01
 tr_furn_shrine_soth_cure_01:T_De_Var_ShrineSothaMastery_01
 tr_sound_ambientinsects:T_Glb_Sound_AmbientInsects_01
 TR_m3_OE_act_bell:T_Imp_Legion_X_Bell_02
-
-#potions and drinks
 tr_p_paralysis_resist_b:T_Com_Potion_ResistParalysis_B
 tr_p_paralysis_resist_c:T_Com_Potion_ResistParalysis_C
 tr_p_paralysis_resist_e:T_Com_Potion_ResistParalysis_E
@@ -674,7 +662,6 @@ tr_potion_colovian_wine:T_Imp_Drink_WineBattle_01
 tr_potion_jagga.nif:T_De_Drink_LiquorLlotham_01
 tr_potion_orc_liquor.nif:T_Orc_Drink_LiquorUngorth_01
 tr_potion_wayrest_wine:T_Bre_Drink_WineWayrest_01
-#inserting P:C wines infront of the TR-ones in order to have the updated versions of P:C
 PC_Misc_Wine_01:T_Imp_Drink_WineTwinMoon_01
 tr_potion_wine_01:T_Imp_Drink_WineTwinMoon_01
 PC_Misc_Wine_02:T_Imp_Drink_WineTamikaClr_01
@@ -687,12 +674,8 @@ PC_Misc_Wine_05:T_Imp_Drink_WineWolfsbl_01
 tr_potion_wine_05:T_Imp_Drink_WineWolfsbl_01
 PC_Misc_Wine_06:T_Imp_Drink_WinePlalloVin_01
 tr_potion_wine_06:T_Imp_Drink_WinePlalloVin_01
-
-#Apparati
 tr_apparatus_a_hookah:T_Rga_HookahApp_01
 tr_apparatus_f_hookah:T_Rga_HookahFlavouredApp_01
-
-#armors
 tr_a_akaviri_shield:T_Aka_Regular_Shield_01
 tr_a_bearskin_boots:T_Nor_Bearskin_Boots_01
 tr_a_bearskin_bracer_left:T_Nor_Bearskin_BracerL_01
@@ -871,8 +854,6 @@ tr_a_watchman_pauldron_left:T_De_RedWatchChitin_PauldrL_01
 tr_a_watchman_pauldron_right:T_De_RedWatchChitin_PauldrR_01
 tr_a_wood_shield:T_Imp_Wood_ShieldTower_01
 T_De_Necrom_CuirassCloak_01:T_De_Necrom_Cuirass_01
-
-#books
 tr_bk_aboveitall:T_Bk_AboveItAllTR
 tr_bk_adabala_tes4:T_Bk_AdabalaTR
 tr_bk_adventuresend:T_Bk_AdventuresEndTR
@@ -892,14 +873,14 @@ tr_bk_assassinsdiary_jc:T_Bk_AssassinsDiaryTR
 tr_bk_asylumball:T_Bk_AsylumBallTR
 tr_bk_bankersbet:T_Bk_BankersbetTR
 tr_bk_battlemolagberan:T_Note_BattleOfMolagBeranTR
-tr_bk_becamemonster1_nt:T_Bk_BecameMonsterTR_V1
-tr_bk_becamemonster2_nt:T_Bk_BecameMonsterTR_V2
-tr_bk_becamemonster3_nt:T_Bk_BecameMonsterTR_V3
+tr_bk_becamemonster1_nt:T_Bk_InsideAlmasTongsTR
+tr_bk_becamemonster2_nt:T_Bk_OrdolanesBestiaryTR_V09
+tr_bk_becamemonster3_nt:T_Bk_OrdolanesBestiaryTR_V11
 tr_bk_bitterheart:T_Bk_BiiterHeartTR
 tr_bk_blessedreman_t0:T_Bk_BlessedRemanTR
-tr_bk_bloodyend_bm:T_Bk_BloodyEndTR
+tr_bk_bloodyend_bm:T_Bk_LamentForPelinalTR
 tr_bk_blue_book:T_Bk_BlueBookTR
-tr_bk_boethiahandthebridge:T_Bk_BoethiaAndTheBridgeTR
+tr_bk_boethiahandthebridge:T_Bk_WaterGettingGirlTR_V1
 tr_bk_breakinsetofarmor:T_Bk_BreakInSetOfArmorTR
 tr_bk_breakout:T_Bk_BreakoutTR
 tr_bk_brokendiamonds:T_Bk_BrokenDiamondsTR
@@ -910,19 +891,19 @@ tr_bk_charityandleadership:T_Bk_CharityAndLeadershipTR
 tr_bk_comradery_jc:T_Bk_ComraderyTR
 tr_bk_confessionsandresort_af:T_Bk_ConfessionsAndResortTR
 tr_bk_confessionsofathief:T_Bk_ConfessionsOfAThiefTR
-tr_bk_corprusawake:T_Bk_CorprusAwakeTR
+tr_bk_corprusawake:T_Bk_OrcCreationStoryTR
 tr_bk_corprusdivine:T_Bk_CorprusDivineTR
 tr_bk_cowardiceoftheenemy:T_Bk_CowardiceOfTheEnemyTR
 tr_bk_crimesoftri_jc:T_Bk_CrimesOfTriTR
 tr_bk_daedricseptis_tel_uni:T_Bk_UNI_DeadricSeptisTR
 tr_bk_dalgorjournal_i:T_Bk_DalgorJournalTR
-tr_bk_dawnsdisplacement:T_Bk_DawnsDisplacementTR
+tr_bk_dawnsdisplacement:T_Bk_SkylampNightTR
 tr_bk_defensemorrowindi:T_Bk_DefenseOfMorrowindTR
-tr_bk_diary_sd:T_Bk_DiarySDTR
+tr_bk_diary_sd:T_Bk_HowToTuneYourHoomTR
 tr_bk_divadamakalluh_gz:T_Bk_DivadamakalluhTR
 tr_bk_divadthesinger:T_Bk_DivadTheSingerTR
 tr_bk_djulighanasrole_sl:T_Bk_DjulighanasRoleTR
-tr_bk_drakehold_np:T_Bk_DrakeholdTR
+tr_bk_drakehold_np:T_Bk_AndWeAteItToBecomeItTR
 tr_bk_dreadfultheft:T_Bk_DreadfulTheftTR
 tr_bk_dresslavetrade_sc:T_Bk_DresSlaveTradeTR
 tr_bk_dubioustale:T_Bk_DubiousTaleTR
@@ -930,7 +911,7 @@ tr_bk_dunmerlawprimer:T_Bk_DunmeriLawprimerTR
 tr_bk_dwemerburialcustoms:T_Bk_DwemerBurialCustomsTR
 tr_bk_elementaldaedra:T_Bk_ElementalDaedraTR
 tr_bk_emeralds_hj:T_Bk_EmeraldsTR
-tr_bk_emnvaec_el:T_Bk_EmnvaecTR
+tr_bk_emnvaec_el:T_Bk_DivadamakalluhTR
 tr_bk_epicofthegreyfalcon:T_Bk_EpicOfTheGreyFalconTR
 tr_bk_essenceofbeingathief:T_Bk_EssenceOfBeingAThiefTR
 tr_bk_etiquettewithrulers:T_Bk_EtiquetteWithRulersTR
@@ -941,7 +922,7 @@ tr_bk_fablevalenwood:T_Bk_FableValenwoodTR
 tr_bk_failureoftheempire:T_Bk_FailureOfTheEmpireTR
 tr_bk_falloftheusurper:T_Bk_FallOfTheUrsuperTR
 tr_bk_fateofthesnowelves:T_Bk_FateOfTheSnowelvesTR
-tr_bk_father_jc:T_Bk_FatherTR
+tr_bk_father_jc:T_Bk_TraditionalSloadTaleTR
 tr_bk_fetchersguidetoancestral:T_Bk_FetchersGuideToAncestralTR
 tr_bk_follyofsteel:T_Bk_FollyOfSteelTR
 tr_bk_foolsebonyi:T_Bk_FoolsEbonyTR_V1
@@ -966,14 +947,14 @@ tr_bk_gospelofsaintolms:T_Bk_GospelOfSaintOlmsTR
 tr_bk_gospelofsaintrilms:T_Bk_GospelOfSaintRilmsTR
 tr_bk_gospelofsaintroris:T_Bk_GospelOfSaintRorisTR
 tr_bk_gospelofsaintseryn:T_Bk_GospelOfSaintSerynTR
-tr_bk_guardsmemory:T_Bk_GuardsMemoryTR
+tr_bk_guardsmemory:T_Bk_PaintedPeoplesTR
 tr_bk_guarherdart_mc:T_Bk_GuarHerdersArtTR
 tr_bk_handbookdevout:T_Bk_HandbookOfTheDevoutTR
 tr_bk_handinhand:T_Bk_HandInHandTR
 tr_bk_handsoff:T_Bk_HandsOffTR
 tr_bk_healerstale:T_Bk_HealersTaleTR
-tr_bk_helotry1_bm:T_Bk_HelotryTR_V1
-tr_bk_helotry2_bm:T_Bk_HelotryTR_V2
+tr_bk_helotry1_bm:T_Bk_RemanadaTR_V1
+tr_bk_helotry2_bm:T_Bk_RemanadaTR_V2
 tr_bk_herhands:T_Bk_HerHandsTR
 tr_bk_herooftheindoril:T_Bk_HeroOfTheIndorilTR
 tr_bk_historydaggerfall:T_Bk_HistoryOfDaggerfallTR
@@ -983,12 +964,12 @@ tr_bk_hlaaluplans:T_Bk_HlaaluPlansTR
 tr_bk_holidaysiliacbay:T_Bk_HolidaysIlliacBayTR
 tr_bk_hoomtuneguide_gd:T_Bk_HowToTuneYourHoomTR
 tr_bk_houndsofhircine:T_Bk_HoundsOfHircineTR
-tr_bk_huntedvolumei:T_Bk_HuntedTR_V1
-tr_bk_huntedvolumeii:T_Bk_HuntedTR_V2
-tr_bk_huntedvolumeiii:T_Bk_HuntedTR_V3
-tr_bk_huntedvolumeiv:T_Bk_HuntedTR_V4
-tr_bk_huntedvolumev:T_Bk_HuntedTR_V5
-tr_bk_huntedvolumevi:T_Bk_HuntedTR_V6
+tr_bk_huntedvolumei:T_Bk_SongOfPelinalTR_V1
+tr_bk_huntedvolumeii:T_Bk_SongOfPelinalTR_V2
+tr_bk_huntedvolumeiii:T_Bk_SongOfPelinalTR_V3
+tr_bk_huntedvolumeiv:T_Bk_SongOfPelinalTR_V4
+tr_bk_huntedvolumev:T_Bk_SongOfPelinalTR_V5
+tr_bk_huntedvolumevi:T_Bk_SongOfPelinalTR_V6
 tr_bk_immyowngrandpa:T_Bk_ImMyOwnGrandpaTR
 tr_bk_imperialheraldrymw:T_Bk_ImperialHeraldryMwTR
 tr_bk_imperialkitcheni:T_Bk_ImperialKitchenTR_V1
@@ -1262,8 +1243,6 @@ tr_sc_tuneroad_py:T_Sc_TuneOfTheRoadTR
 tr_sc_unipoem01_py:T_Sc_UNI_PoemTR
 tr_sc_wanderlust_el:T_Sc_WanderlustTR
 tr_sc_wintersolace_hp:T_Sc_WintersolaceTR
-
-#clothing
 tr_amulet_cure_common_d:T_De_Cm_Amulet_DaydenesPanacea
 tr_amulet_dematerial:T_De_UNI_AmuletOfDematerial
 tr_amulet_precision:T_De_UNI_AmuletOfPrecision
@@ -1332,8 +1311,6 @@ tr_warrior_skirt_hlaalu:T_De_Ep_SkirtHlaWarrior_01
 tr_warrior_skirt_indoril:T_De_Ep_SkirtIndWarrior_01
 tr_warrior_skirt_redoran:T_De_Ep_SkirtRedWarrior_01
 tr_warrior_skirt_telvanni:T_De_Ep_SkirtTelvWarrior_01
-
-#containers
 tr_barrel_01_arrows_aen:T_MwCom_Var_Bl1ArrowAena
 tr_barrel_01_arrows_cht:T_MwCom_Var_Bl1ArrowChit
 tr_barrel_01_arrows_crk:T_MwCom_Var_Bl1ArrowCork
@@ -1560,8 +1537,6 @@ tr_urn_04_scrl2_3rnd:T_MwDe_Furn_U4ScrollA
 tr_urn_05_food:T_MwDe_Furn_U5Food
 tr_urn_05_ingred:T_MwDe_Furn_U5Ing
 tr_urn_05_scrl1_7rnd:T_MwDe_Furn_U5ScrollA
-
-#Doors
 tr_de_ladder_01:T_De_Set_LadderLoad_01
 tr_de_ladder_02:T_De_Set_LadderLoad_02
 tr_de_ladder_03:T_De_Set_LadderLoad_03
@@ -1569,7 +1544,6 @@ tr_door_dwrv_inner01:T_Dwe_DngRuin_DoorInner_01
 tr_ex_barrow_door_01:T_Nor_DngBarrow_Door_01
 tr_ex_barrow_door_02:T_Nor_DngBarrow_Door_02
 tr_ex_barrow_door_03:T_Nor_DngBarrow_Door_03
-#Putting the SHOTN - barrow assets in front of their TR-counterparts
 Sky_Ex_Barrow_Gate_01:T_Nor_DngBarrow_GateEx_01
 tr_ex_barrow_gate:T_Nor_DngBarrow_GateEx_01
 tr_ex_imp_bdoord_zy:T_Imp_SetMw_DoorDoubleOrn_01
@@ -1613,8 +1587,6 @@ tr_mystical_gate:T_Com_Var_GateMystical_01
 tr_nec_lighthouse_trapdoor:T_De_SetNecrom_DoorLHouseTrp_01
 tr_rope_ladder:T_De_Set_LadderRopeLoad_01
 tr_uv_door_01:T_Nor_Set_Door_01
-
-#Enchantments
 tr_aug_deepcrushing:T_Strike_AugDeepcrushing
 tr_aug_dolphin:T_Strike_AugDolphin
 tr_aug_fleetness:T_Strike_AugFleetness
@@ -1731,8 +1703,6 @@ tr_sc_silence_tgt_12_en:T_Once_SilenceTarget-12
 tr_sc_sound35_15_en:T_Once_SoundTarget35-15
 tr_sc_starfall_en:T_Once_Starfall
 tr_sc_tenthbarrier_en:T_Once_TenthBarrier
-
-#Ingredients
 tr_ing_cupling:T_Ingflor_Cupling_01
 tr_ingred_alexandrite:T_IngMine_Alexandrite_01
 tr_ingred_aloe_pulp:T_IngFlor_AloeVeraPulp_01
@@ -1824,8 +1794,6 @@ tr_ingred_troll_fat:T_IngCrea_Trollfat_01
 tr_ingred_turquoise:T_IngMine_Turquoise_01
 tr_ingred_velk_nectar_sac:T_IngCrea_VelkNectarSack_01
 tr_ingred_whitepoppypod:T_IngFlor_WhitePoppyPod_01
-
-#Levelled Creatures
 tr_lc_alit_all_lev+0:T_Mw_Lvl_Alits+0
 tr_lc_alit_all_lev+2:T_Mw_Lvl_Alits+2
 tr_lc_alit_all_lev-2:T_Mw_Stat_Alits
@@ -2422,8 +2390,6 @@ tr_stc_wolf_easy:T_Mw_Cr_WolfEasy
 T_Sky_Cr_LrgSpider01:T_Glb_Cr_LrgSpider01
 T_Sky_Cr_LrgSpider02:T_Glb_Cr_LrgSpider02
 T_Sky_Cr_LrgSpider03:T_Glb_Cr_LrgSpider03
-
-#Levelled Items
 tr_l_m_wpn_missle_arrow:T_Mw_Lvl_MissilesArrowEnchanted
 tr_loot_bandit_01-05:T_Mw_Lvl_LootBandit-01-05
 tr_loot_bandit_06-10:T_Mw_Lvl_LootBandit-06-10
@@ -2612,8 +2578,6 @@ tr_random_wep_sblade1h:T_Mw_Lvl_WeaponsShortOneHand
 tr_random_wep_spear2h:T_Mw_Lvl_WeaponsSpear
 tr_random_wep_thrown:T_Mw_Lvl_WeaponsThrown
 tr_random_wep_xbow:T_Mw_Lvl_WeaponsCrossbow
-
-#lights
 tr_light_tiki_s_128_unique:T_Com_Var_TikiDoNotUse01_128
 tr_light_tiki_s_256_unique:T_Com_Var_TikiDoNotUse01_256
 tr_light_tiki_s_512_unique:T_Com_Var_TikiDoNotUse01_512
@@ -2626,9 +2590,6 @@ tr_light_de_lantern_11_256alma:T_De_SetInd_Lantern03_256
 tr_light_de_lantern_13_128alma:T_De_SetInd_Lantern04_128
 tr_light_de_lantern_15_128:T_De_SetInd_Lantern01_128
 tr_light_mh_rope_lantern_256:T_De_SetInd_LanternRope01_256
-
-
-#misc items
 tr_furn_com_p_bkend:T_Com_BookendPoor_01
 tr_furn_com_r_bkend:T_Com_BookendRich_01
 tr_furn_de_p_bkend:T_De_BookendPoor_01
@@ -2824,8 +2785,6 @@ T_Com_Var_BottleBroken_09:T_Com_BrokenBottle_01
 T_Com_Var_BottleCork_01:T_Com_Cork
 T_Com_WoodenCup_01:T_Nor_WoodenCup_01
 tr_misc_exp_compass:T_Rga_CompassExp_01
-
-#Statics
 tr_ash_darkfungshroom:T_Mw_FloraGM_VileMorc01
 tr_ash_fungshroom:T_Mw_FloraGM_UmbMorch01
 tr_ash_fungus_01:T_Mw_FloraGM_Fungus_01
@@ -2849,7 +2808,6 @@ tr_ash_whiteshroom01:T_Mw_FloraGM_AnemTwin01
 tr_bm_ex_iceberg:T_Glb_TerrIce_Iceberg_01
 tr_bm_ex_iceberg_collapsed:T_Glb_TerrIce_IcebergCollaps_01
 tr_collision_box_01:T_Glb_Var_CollisionBox_01
-#Adding the SHOTN barrow assets infront of their TR-counterparts
 Sky_Ex_Barrow_Arc_01:T_Nor_DngBarrow_X_Arc_01
 Sky_Ex_Barrow_Arc_02:T_Nor_DngBarrow_X_Arc_02
 tr_ex_barrow_arc_01:T_Nor_DngBarrow_X_Arc_01
@@ -3687,7 +3645,6 @@ tr_furn_com_chair_05:T_Imp_FurnR_Chair_05
 tr_furn_com_dsaw:T_Com_Var_Saw_01
 tr_furn_com_fp_stand:T_Com_Furn_FireplaceStand_01
 tr_furn_com_nails:T_Com_Nails_02
-#paintings are being updated by p:c
 pc_furn_painting10_28f:T_Imp_Furn_Painting_10a
 pc_furn_painting10_29f:T_Imp_Furn_Painting_10b
 pc_furn_painting11_30f:T_Imp_Furn_Painting_11a
@@ -3752,7 +3709,6 @@ tr_furn_com_rug_square:T_Imp_Furn_RugSquareXp_01
 tr_furn_com_shackles:T_Com_Var_Shackles_01
 tr_furn_com_tapest_lrd:T_Imp_Furn_TapestryLord_01
 tr_furn_com_tapest_map:T_Imp_Furn_TapestryTamrMap_01
-#inserting the P:C tapestries in front of the imperial tapestries in TamrielData for convenience.
 PC_Furn_Tapestry_01:T_Imp_Furn_Tapestry_01
 PC_Furn_Tapestry_02:T_Imp_Furn_Tapestry_02
 PC_Furn_Tapestry_03:T_Imp_Furn_Tapestry_03
@@ -4841,8 +4797,6 @@ tr_wood_fence03:T_Com_Set_FenceBriar_03
 T_He_DngDirenni_F_Tray_01:T_He_DirenniTray_01
 T_He_DngDirenni_F_Tray_02:T_He_DirenniTray_02
 T_He_DngDirenni_F_Laddle_01:T_He_DirenniLadle_01
-
-#weapons
 tr_aug_silver claymore:T_Imp_Silver_Claymore_AugFleet
 tr_aug_silver claymore_01:T_Imp_Silver_Claymore_AugWis
 tr_aug_silver dagger:T_Imp_Silver_Dagger_AugStalk
@@ -5038,8 +4992,6 @@ tr_w_wood_crossbow:T_Com_Wood_Crossbow_01
 tr_w_wood_crossbow_fixed:T_Com_Wood_CrossbowFix_01
 tr_w_wood_mace_01:T_Com_Wood_Mace_01
 T_We_Bone_Arrow_01:T_We_Wenbone_Arrow_01
-
-#creatures
 tr_armor_centurion_00:T_Dwe_Cre_CentArmor_01
 tr_armor_centurion_01:T_Dwe_Cre_CentArmor_02
 tr_armor_centurion_02:T_Dwe_Cre_CentArmor_03
@@ -5176,8 +5128,6 @@ tr_slaughterfish_sm_dis:T_Glb_Fau_FishSlSmDs_01
 tr_slaughterfish_dis:T_Glb_Fau_FishSlDs_01
 tr_velk:T_Mw_Fau_Velk_01
 tr_cr_vermai:T_Dae_Cre_Verm_01
-
-#Activators P:C
 pc_act_anv_fountw_01:T_Imp_Set_FountainWall_01
 pc_act_sign_anvil:T_Com_SetCyr_SignWayAnvil_01
 pc_act_sign_brinac:T_Com_SetCyr_SignWayBrinaCr_01
@@ -5256,8 +5206,6 @@ pc_in_daylightpanel:T_Glb_Var_DaylightPanel_01
 pc_in_daylightpanel_02:T_Glb_Var_DaylightPanel_02
 pc_in_statue_dibella:T_Imp_Set_StatueDibellaIn_01
 pc_sound_waterlayer:T_Glb_Sound_Water_01
-
-#P:C - beverages and potions
 pc_misc_ale:T_Imp_Drink_AleAkul_01
 pc_misc_cherry_brandy:T_Imp_Drink_CherryBrandy_01
 pc_misc_cider:T_Imp_Drink_CiderAliyew_01
@@ -5269,8 +5217,6 @@ pc_misc_wine_sutch_01:T_Rga_Drink_WineSutchTalan_01
 pc_misc_wine_sutch_02:T_Rga_Drink_WineSutchGoNogro_01
 Sky_Potion_Ungorth_01:T_Orc_Drink_LiquorUngorth_02
 pc_potion_ungorth:T_Orc_Drink_LiquorUngorth_02
-
-# P:C - armors
 pc_bronze_boots:T_Imp_NibBronze_Boots_01
 pc_bronze_bracer_left:T_Imp_NibBronze_BracerL_01
 pc_bronze_bracer_right:T_Imp_NibBronze_BracerR_01
@@ -5342,8 +5288,6 @@ pc_pge_greaves:T_Imp_ColIron2_Greaves_01
 pc_pge_helmet:T_Imp_ColIron2_Helm_01
 pc_pge_pauldron_left:T_Imp_ColIron2_PauldronL_01
 pc_pge_pauldron_right:T_Imp_ColIron2_PauldronR_01
-
-#Overriding the redguard armor with its counterpart in Skyrim-data
 sky_redguard_boots:T_Rga_CrownGuard1_Boots_01
 sky_redguard_cuirass:T_Rga_CrownGuard1_Cuirass_01
 sky_redguard_helmet:T_Rga_CrownGuard1_Helm_01
@@ -5354,7 +5298,6 @@ pc_redg_cuirass:T_Rga_CrownGuard1_Cuirass_01
 pc_redg_helm:T_Rga_CrownGuard1_Helm_01
 pc_redg_pauldron_left:T_Rga_CrownGuard1_PauldronL_01
 pc_redg_pauldron_right:T_Rga_CrownGuard1_PauldronR_01
-
 pc_steel_boots:T_Imp_ColSteel1_Boots_01
 pc_steel_bracer_left:T_Imp_ColSteel1_BracerL_01
 pc_steel_bracer_right:T_Imp_ColSteel1_BracerR_01
@@ -5412,8 +5355,6 @@ pc_tr_studded_leather_greaves:T_Imp_StuddedLeather_Greaves_01
 pc_tr_studded_leather_helm:T_Imp_StuddedLeather_Helm_01
 pc_tr_wood_shield:T_Imp_Wood_ShieldTower_01
 tr_tr_steel_helmet:T_Com_Steel_Helm_01
-
-#armor body parts P:C
 pc_a_anvil_cuirass:T_A_ImpGuardtown1CuirAnv01_C
 pc_a_anvil_cuirass_female:T_A_ImpGuardtown1CuirAnv01_CF
 pc_a_anvil_guard_helm:T_A_ImpGuardtown1HelmAnv01_Hr
@@ -5481,8 +5422,6 @@ pc_a_pge_helm:T_A_ImpColIron2Helm01_Hd
 pc_a_pge_pauldron:T_A_ImpColIron2Pauldr01_UA
 pc_a_pge_pauldron_c:T_A_ImpColIron2Pauldr01_Cl
 pc_a_pge_skirt:T_C_ImpSkirtArmor01_G
-
-#overriding the redguard armor with its counterpart in skyrim-data
 sky_a_redguard_boot_a:T_A_RgaCrownGuard1Boots01_A
 sky_a_redguard_boot_f:T_A_RgaCrownGuard1Boots01_F
 sky_a_redguard_cuirass_c:T_A_RgaCrownGuard1Cuir01_C
@@ -5494,7 +5433,6 @@ pc_a_redg_boot_02:T_A_RgaCrownGuard1Boots01_F
 pc_a_redg_cuirass:T_A_RgaCrownGuard1Cuir01_C
 pc_a_redg_helm:T_A_RgaCrownGuard1Helm01_Hd
 pc_a_redg_pauldron:T_A_RgaCrownGuard1Pauldr01_UA
-
 pc_a_steel_boots_a:T_A_ImpColSteel1Boots01_A
 pc_a_steel_boots_f:T_A_ImpColSteel1Boots01_F
 pc_a_steel_bracers:T_A_ImpColSteel1Bracer01_W
@@ -5572,8 +5510,6 @@ pc_a_tr_stud_leath_helm:T_A_ImpStuddedLeatherHelm01_Hr
 pc_a_tr_stud_leath_ua:T_A_ImpStuddedLeatherPauld01_UA
 pc_a_tr_stud_leath_ul:T_A_ImpStuddedLeatherGreav01_UL
 pc_a_tr_wood_shield_bp:T_A_ImpWoodShieldTower01_S
-
-# hair and faces P:C
 pc_b_col_f_hair_00:T_B_Imp_HairFemPC_01
 pc_b_col_f_hair_01:T_B_Imp_HairFemPC_02
 pc_b_col_f_hair_02:T_B_Imp_HairFemPC_03
@@ -5611,8 +5547,6 @@ pc_b_imp_m_head_08:T_B_Imp_HeadColNorthMalePC_01
 pc_b_imp_m_head_09:T_B_Imp_HeadColNorthMalePC_02
 pc_b_imp_m_head_10:T_B_Imp_HeadColNorthMalePC_03
 pc_b_imp_m_head_11:T_B_Imp_HeadColNorthMalePC_04
-
-#clothing body parts P:C
 pc_col_c_hat_w1_01_h:T_C_ImpCmHatColWest01_Hr
 pc_col_c_pants_n1_01_a:T_C_ImpCmPantsColNorth01_A
 pc_col_c_pants_n1_01_g:T_C_ImpCmPantsColNorth01_G
@@ -5844,8 +5778,6 @@ pc_fcot_rg_robe02_c:T_C_RgaEtRobe01_C
 pc_fcot_rg_robe02_c.1st:T_C_RgaEtRobe01_C.1st
 pc_fcot_rg_robe02_cf:T_C_RgaEtRobe01_CF
 pc_fcot_rg_robe02_cf.1st:T_C_RgaEtRobe01_CF.1st
-
-#books and scrolls P:C
 pc_aysc_blessed_01:T_EnSc_Ayl_Blessed
 pc_aysc_caverns_truth_01:T_EnSc_Ayl_CavernsOfTruth
 pc_aysc_daedric_herald_01:T_EnSc_Ayl_DaedricHerald1
@@ -6075,8 +6007,6 @@ pc_bookskill_speechcraft6:T_Bk_ManualRedSwordPC
 pc_bookskill_unarmored1:T_Bk_EpicOfTheGreyFalconPC
 pc_sc_dreamsvisionkallistis:T_Sc_VisionsOfKallistisPC
 pc_sc_septimssong:T_Sc_SeptimsSongPC
-
-#clothes P:C
 pc_col_c_pants_n1_01:T_Imp_Cm_PantsColNorth_01
 pc_col_c_pants_n1_02:T_Imp_Cm_PantsColNorth_02
 pc_col_c_pants_n1_03:T_Imp_Cm_PantsColNorth_03
@@ -6132,9 +6062,6 @@ pc_fcot_c_skirt_08:T_Imp_Cm_SkirtColWest_09
 pc_fcot_rg_robe_01:T_Rga_Ep_Robe_01
 pc_fcot_rg_robe_02:T_Rga_Et_Robe_01
 pc_skirt_pge:T_Imp_Ep_SkirtArmor_01
-
-
-#containers p:c
 pc_barrel_01:T_CyrCom_Var_Bl1Empty
 pc_barrel_01_arrows:T_CyrCom_Var_Bl1Arrow
 pc_barrel_01_ayleid:T_CyrCom_Var_Bl1Ayl
@@ -6893,8 +6820,6 @@ pc_flora_trinity_01:T_Cyr_Flora_TrinityPl01
 pc_flora_vbugloss:T_Cyr_Flora_ViperBugl01
 pc_flora_wispstalk:T_Cyr_Flora_Wispstalk01
 pc_flora_wormwood:T_Sky_Flora_Wormwood01
-
-#p:c creatures
 pc_ayl_guard_01:T_Ayl_Cre_WelkSpr_01
 pc_bear:T_Cyr_Fau_BearCol_01
 pc_bullfrog:T_Cyr_Fau_FrogBul_01
@@ -6935,8 +6860,6 @@ pc_whitewolf_diseased:T_Cyr_Fau_WolfColDs_02
 pc_wolf_diseased:T_Cyr_Fau_WolfColDs_01
 pc_whitewolf:T_Cyr_Fau_WolfCol_02
 pc_wolf:T_Cyr_Fau_WolfCol_01
-
-#doors p:c
 pc_door_cavern_doors:T_Cyr_CaveGC_DoorIn_01
 pc_ex_anv_loaddoor:T_Imp_SetAnv_Door_01
 pc_ex_anv_propertywall_door:T_Imp_Set_DoorGrateGarden_01
@@ -6974,8 +6897,6 @@ pc_in_impruin_gate_02:T_Imp_DngRuin_GateIn_02
 pc_in_str_door_a:T_Imp_SetGC_DoorLightHIn_01
 pc_in_str_door_r:T_Imp_SetStr_DoorIn_01
 pc_in_str_door_s:T_Imp_SetStr_DoorIn_02
-
-# p:c enchantments
 pc_en_aysc_blessed_01:T_Once_AylBlessed
 pc_en_aysc_caverns_truth_01:T_Once_AylCavernsTruth
 pc_en_aysc_daedric_herald_01:T_Once_AylDaedricHerald1
@@ -6991,8 +6912,6 @@ pc_en_aysc_lore_armor_01:T_Once_AylLoreArmor1
 pc_en_aysc_lore_armor_02:T_Once_AylLoreArmor2
 pc_en_aysc_terrible_wisdom_01:T_Once_AylTerribleWisdom1
 pc_en_aysc_terrible_wisdom_02:T_Once_AylTerribleWisdom2
-
-# p:c ingredients
 pc_ingred_alkanet:T_IngFlor_Alkanet_01
 pc_ingred_aloe:T_IngFlor_AloeVeraPulp_01
 pc_ingred_apple:T_IngFood_Apple_01
@@ -7106,8 +7025,6 @@ pc_ingred_wheat_01:T_IngFood_Wheat_01
 pc_ingred_wolf_pelt:T_IngCrea_WolfPeltCyr_01
 pc_ingred_wool_01:T_IngCrea_Wool_01
 pc_ingred_wormwood:T_IngFlor_Wormwood_01
-
-#levelled creatures p:c
 pc_ex_abecean_sea_allfish:T_Cyr_RStat_AbeceanAllFish
 pc_ex_abecean_sea_dreugh:T_Cyr_RStat_AbeceanDreugh
 pc_ex_abecean_sea_hostile:T_Cyr_RLvl_AbeceanHostile
@@ -7125,8 +7042,6 @@ pc_seagulls_01:T_Cyr_Stat_Seagulls1
 pc_seagulls_02:T_Cyr_Stat_Seagulls2
 pc_seagulls_03:T_Cyr_Stat_Seagulls3
 pc_seagulls_04:T_Cyr_Stat_Seagulls4
-
-#Levelled items p:c
 pc_empty:T_Glb_Empty
 pc_l_bandit_goods_gc:T_Cyr_Lvl_BanditGoodsGC
 pc_l_magic_amulets:T_Cyr_Lvl_MagicAmulets
@@ -7352,8 +7267,6 @@ pc_random_wizard:T_Cyr_Random_Wizard
 pc_random_wolf_pelt:T_Cyr_Random_FaunWolfpelt
 pc_random_wool:T_Cyr_Random_Wool
 pc_random_wormwood:T_Cyr_Random_FlorWormwood
-
-#lights p:c
 pc_candle_blck01:T_Com_Var_CandleBlack01_128
 pc_candle_blck02:T_Com_Var_CandleBlack02_128
 pc_candle_blck03:T_Com_Var_CandleBlack03_128
@@ -7437,12 +7350,9 @@ pc_light_window_128:T_Glb_Light_Window_128
 pc_light_window_64:T_Glb_Light_Window_64
 pc_light_wispstalk:T_Glb_Light_Wispstalk_64
 pc_misc_ayl_welkyd_01:T_Ayl_DngRuin_Welkynd01_64
-
-#misc items p:c
 pc_misc_ayl_coin_big:T_Ayl_CoinBig_01
 pc_misc_ayl_coin_gold:T_Ayl_CoinGold_01
 pc_misc_ayl_coin_square:T_Ayl_CoinSquare_01
-#getting replaced with the statics from tr_data.
 pc_misc_bottle_broken_1_1:T_Com_Var_BottleBroken_01
 pc_misc_bottle_broken_1_2:T_Com_Var_BottleBroken_02
 pc_misc_bottle_broken_1_3:T_Com_Var_BottleBroken_03
@@ -7518,8 +7428,6 @@ pc_misc_silk_bolt_03:T_Imp_Silkbolt_03
 pc_misc_silk_bolt_04:T_Imp_Silkbolt_04
 pc_misc_silk_bolt_05:T_Imp_Silkbolt_05
 pc_misc_silk_laced_01:T_Imp_SilkLaced_01
-
-#spells p:c
 pc_ayl_guard_heal:T_Cr_Res_WelkyndSpHeal
 pc_ayl_guard_lightning:T_Cr_Des_WelkyndSpLightn1
 pc_ayl_guard_lightning2:T_Cr_Des_WelkyndSpLightn2
@@ -7527,8 +7435,6 @@ pc_ayl_guard_reflect:T_Cr_Mys_WelkyndSpReflect
 pc_ghost_curse:T_Cr_Des_Ghostcurse
 pc_sload_attackspell:T_Cr_Res_SloadAttackspell
 pc_sload_summon_skeletons:T_Cr_Cnj_SloadSummonSkeleton
-
-#statics p:c
 pc_ex_anv_adon1st1:T_Imp_SetAnv_X_Addon_01
 pc_ex_anv_adon1st2:T_Imp_SetAnv_X_Addon_02
 pc_ex_anv_adon2st1:T_Imp_SetAnv_X_Addon_03
@@ -9029,8 +8935,6 @@ pc_water_sqflow_512:T_Glb_TerrWater_SqrFlw512_01
 pc_water_sqstat_1024:T_Glb_TerrWater_SqrStill1024_01
 pc_water_sqstat_256:T_Glb_TerrWater_SqrStill256_01
 pc_water_sqstat_512:T_Glb_TerrWater_SqrStill512_01
-
-#weapons p:c
 pc_w_farm_hoe:T_Com_Farm_Hoe_01
 pc_w_farm_pitchfork:T_Com_Farm_Pitchfork_01
 pc_w_farm_scythe:T_Com_Farm_Scythe_01
@@ -9115,8 +9019,6 @@ pc_w_tr_steel_dae_lsword:T_Com_DaedSteel_Longsword_01
 pc_w_tr_steel_dae_ssword:T_Com_DaedSteel_Shortsword_01
 pc_w_tr_steel_scimitar:T_Com_Steel_Scimitar_01
 pc_w_tr_wood_crossbow:T_Com_Wood_Crossbow_01
-
-#skyrim activators
 sky_act_ex_banner_amberguard_01:T_Nor_Set_BannerTownKarthgad_01
 sky_act_ex_banner_karthwasten:T_Nor_Set_BannerTownKarthw_01
 sky_act_ex_banner_markarth_01:T_Nor_Set_BannerTownMarkth_01
@@ -9233,8 +9135,6 @@ sky_in_reachmen_window_02:T_Rea_Set_WindowIn_02
 sky_in_redguard_tile_hiddendoor:T_Rga_SetReach_DoorHiddenIn_01
 sky_in_redguard_windmill_01:T_Rga_SetReach_WindmillIn_01
 sky_sound_vorndgad_birds:T_Glb_Sound_Birdsinging_01
-
-#Drink and Potions SHOTN
 sky_poor_c_burden:T_Nor_Potion_Burden_C
 sky_poor_c_chameleon:T_Nor_Potion_Chameleon_C
 sky_poor_c_feather:T_Nor_Potion_Feather_C
@@ -9337,12 +9237,8 @@ sky_potion_beer_01:T_Nor_Drink_Beer_01
 sky_potion_gyrgg_01:T_Rea_Drink_TeaGyrrg_01
 sky_potion_lightbeer_01:T_Nor_Drink_BeerLight_01
 sky_potion_re_vintage_wine_01:T_Nor_Drink_WineReach_01
-
-#Apparati SHOTN
 sky_apparatus_dirennialembic_01:T_He_DirenniAlembic_01
 sky_apparatus_dirennimortar_01:T_He_DirenniMortar_01
-
-#Armors SHOTN
 sky_a_bronze_helm_01:T_Imp_ColBronzeOld_Helm_01
 sky_a_fur_helm_01:T_Bre_BjoulsaeFur_Helm_01
 sky_companion_boots:T_Nor_Companion_Boots_01
@@ -9430,8 +9326,6 @@ sky_wormmouth_left_bracer:T_Rea_Wormmouth_BracerL_01
 sky_wormmouth_left_pauldron:T_Rea_Wormmouth_PauldronL_01
 sky_wormmouth_right_bracer:T_Rea_Wormmouth_BracerR_01
 sky_wormmouth_right_pauldron:T_Rea_Wormmouth_PauldronR_01
-
-#body parts armor SHOTN
 sky_a_bronze_helm:T_A_ImpColBronzeOldHelm01_Hr
 sky_a_companion_boot_f:T_A_NorCompanionBoots01_F
 sky_a_companion_cuirass_c:T_A_NorCompanionCuir01_C
@@ -9545,8 +9439,6 @@ sky_a_wormmourth_helmet:T_A_ReaWormmouthHelm01_Hr
 sky_a_wormmourth_pauldron_cl:T_A_ReaWormmouthPauldron01_Cl
 sky_a_wormmourth_pauldron_fa:T_A_ReaWormmouthPauldron01_Fa
 sky_a_wormmourth_pauldron_ua:T_A_ReaWormmouthPauldron01_UA
-
-#race body parts SHOTN
 sky_b_n_nord_f_hair_01:T_B_Nor_HairFemSHOTN_01
 sky_b_n_nord_f_hair_02:T_B_Nor_HairFemSHOTN_02
 sky_b_n_nord_f_hair_03:T_B_Nor_HairFemSHOTN_03
@@ -9638,8 +9530,6 @@ sky_b_n_reachmen_m_head_07:T_B_Rea_HeadMaleSHOTN_07
 sky_b_n_reachmen_m_head_08:T_B_Rea_HeadMaleSHOTN_08
 sky_b_n_reachmen_m_head_09:T_B_Rea_HeadMaleSHOTN_09
 sky_b_n_reachmen_m_head_10:T_B_Rea_HeadMaleSHOTN_10
-
-#clothing bodyparts SHOTN
 sky_c_f_dress_01:T_C_NorCmDress01_CF
 sky_c_f_dress_02:T_C_NorEtDress01_CF
 sky_c_f_dress_03:T_C_NorEtDress02_CF
@@ -9771,8 +9661,6 @@ sky_c_m_shirt_10_chest:T_C_NorCmShirt04_C
 sky_c_m_shirt_10_uparm:T_C_NorCmShirt04_UA
 sky_c_m_skirt_01:T_C_NorCmSkirt01_G
 sky_c_m_skirt_02:T_C_NorCmSkirt02_G
-
-#books and scrolls SHOTN
 _sky_warnung_01:-delete-
 _tdf_sc_blankscroll:T_Sc_Blank
 sky_ag_yeti_smuggler_note:T_Note_SmugglerKarthgadSHOTN
@@ -9960,8 +9848,6 @@ sky_sc_tergansblaze:T_EnSc_Nor_TergansBlaze
 sky_sc_thirdbarrier:T_EnSc_Nor_ThirdBarrier
 sky_sc_trollishhealth:T_EnSc_Nor_TrollishHealth
 sky_sc_ysmirsbreath:T_EnSc_Nor_YsmirsBreath
-
-#clothing and embellishments SHOTN
 sky_amulet_common_01:T_Nor_Cm_Amulet_01
 sky_amulet_common_02:T_Nor_Cm_Amulet_02
 sky_amulet_common_03:T_Nor_Cm_Amulet_03
@@ -10020,8 +9906,6 @@ sky_reachmen_shirt_03:T_Rea_Cm_Shirt_03
 sky_reachmen_shirt_04:T_Rea_Cm_Shirt_04
 sky_ring_nord_01:T_Nor_Cm_Ring_01
 sky_ring_nord_02:T_Nor_Cm_Ring_02
-
-#containers SHOTN
 sky_altmer_chest_01:T_SkyHe_DngDir_Ch1Empty
 sky_altmer_chest_01_apparatus:T_SkyHe_DngDir_Ch1App
 sky_altmer_chest_01_loot_01:T_SkyHe_DngDir_Ch1Loot1
@@ -10852,8 +10736,6 @@ sky_sack_05_gold100:T_SkyCom_Var_Sk5G050
 sky_sack_05_misc_01:T_SkyCom_Var_Sk5Msc1
 sky_sack_05_misc_02:T_SkyCom_Var_Sk5Msc2
 sky_sack_05_pos_01:T_SkyCom_Var_Sk5Pos
-
-#skyrim creatures
 sky_bear_black_01:T_Ham_Fau_BearBk_01
 sky_bear_grey_01:T_Sky_Fau_BearGr_01
 sky_chickadee_01:T_Glb_Fau_BirdCkde_01
@@ -10909,8 +10791,6 @@ sky_sparrow_02:T_Glb_Fau_BirdSpr_02
 sky_spikeworm_01:T_Ham_Fau_Spkworm_01
 sky_wearboar_01:T_Glb_Cre_Wereboar_01
 sky_wormmouth_01:T_Ham_Fau_Wormmth_01
-
-#doors SHOTN
 sky_ex_altmer_door_01:T_He_DngDirenni_DoorEx_01
 sky_ex_altmer_door_02:T_He_DngDirenni_DoorEx_02
 sky_ex_altmer_trapdoor_01:T_He_DngDirenni_DoorTrapEx_01
@@ -10975,8 +10855,6 @@ sky_in_orc_door_01:T_Orc_SetNomad_Door_01
 sky_in_wagon_03_door_01:T_Bre_SetWagon_DoorIn_01
 sky_in_wagon_03_door_02:T_Bre_SetWagon_DoorCabinet_01
 sky_in_wagon_03_door_03:T_Bre_SetWagon_DoorCabinet_02
-
-#enchantments SHOTN
 sky_armor_winterybreastplate_en:T_Use_WinteryBreastplate
 sky_clothing_fruitfullends_en:T_Use_FruitfulLends
 sky_clothing_horsehair_en:T_Use_Horsehair
@@ -11014,8 +10892,6 @@ sky_weapon_heartstinger_en:T_Strike_Heartstinger
 sky_weapon_redhilted_en:T_Strike_Redhilted
 sky_weapon_voidknife_en:T_Strike_Voidknife
 sky_weapon_witchwarrior_en:T_Strike_Witchwarrior
-
-#ingredients SHOTN
 sky_ingred_amber_01:T_IngMine_Amber_02
 sky_ingred_aquamarine_01:T_IngMine_Aquamarine_02
 sky_ingred_aspyr_tea_01:T_IngFlor_AspyrTea_01
@@ -11082,8 +10958,6 @@ sky_ingred_trollroot:T_IngFlor_Trollroot_01
 sky_ingred_vicar_herb_01:T_IngFlor_VicarHerb_01
 sky_ingred_widow_kiss_powder:T_IngFlor_WidowkissPowder_01
 sky_ingred_wormmouth_01:T_IngCrea_WormmouthHide_01
-
-#levelled creatures SHOTN
 sky_ex_bear:T_Sky_Cr_Bearblack
 sky_ex_bear_plague:T_Sky_Cr_BearBrown
 sky_ex_bristleback:T_Sky_Cr_Bristleback
@@ -11112,8 +10986,6 @@ sky_in_goblin_02:T_Sky_Cr_Goblin02
 sky_in_goblin_03:T_Sky_Cr_Goblin03
 sky_in_goblin_lev:T_Sky_Lvl_Goblins
 sky_in_spikeworm:T_Sky_Cr_Spikeworm
-
-#levelled items SHOTN
 sky_l_ammunition_01:T_Sky_Lvl_Missiles
 sky_l_armor_01:T_Sky_Lvl_Armor
 sky_l_armor_heavy_01:T_Sky_Lvl_ArmorHeavy
@@ -11264,8 +11136,6 @@ sky_random_widowkiss:T_Sky_Random_FlorWidowkiss
 sky_random_wormmouth_01:T_Ham_Random_FaunWormmouth
 sky_random_wrothgarian_grape_01:T_Hr_Random_FlorWrothgarGrape
 sky_weapon_missle_arrow_01:T_Sky_Lvl_MissilesArrow
-
-#lights SHOTN
 sky_altmer_lantern_candle_01:T_He_DngDirenni_LanternCandl_01
 sky_altmer_lantern_candle_02:T_He_DngDirenni_LanternCandl_02
 sky_blue_256:T_Glb_Light_Blue_256
@@ -11312,8 +11182,6 @@ sky_redguard_lantern_02_512:T_Rga_Furn_LanternBrass01_512
 sky_redguard_lantern_02_off:T_Rga_Furn_LanternBrass01_Off
 sky_windowlight_128:T_Glb_Light_Window_128
 sky_misc_direnni_welkynd_01:T_He_DngDirenni_Welkynd01_50
-
-#misc items SHOTN
 sky_misc_barrow_embalm_scissor:T_Com_EmbalmingScissor_01
 sky_misc_basket_01:misc_com_basket_01
 sky_misc_basket_02:misc_com_basket_02
@@ -11491,8 +11359,6 @@ sky_misc_wooden_spoon_03_01:T_Nor_WoodenSpoon_03a
 sky_misc_wooden_spoon_03_02:T_Nor_WoodenSpoon_03b
 sky_misc_wooden_spoon_04_01:T_Nor_WoodenSpoon_04a
 sky_misc_wooden_spoon_04_02:T_Nor_WoodenSpoon_04b
-
-#spells SHOTN
 sky_spell_daedra_bloodlust:T_Com_Mys_DaedraBloodlust
 sky_spell_daedra_bloodstorm:T_Com_Mys_DaedraBloodstorm
 sky_spell_daedra_fireeye:T_Com_Alt_DaedraFireEye
@@ -11524,8 +11390,6 @@ sky_spell_reachm_shadowrust:T_Rea_Des_ShadowRust
 sky_spell_reachm_soultheft:T_Rea_Mys_Soultheft
 sky_spell_reachm_soulwither:T_Rea_Mys_SoulWither
 sky_spell_reachm_steeleater:T_Rea_Des_SteelEater
-
-#statics SHOTN
 sky_ex_altmer_balcony_01:T_He_DngDirenni_X_Balcony_01
 sky_ex_altmer_balcony_02:T_He_DngDirenni_X_Balcony_02
 sky_ex_altmer_bridge_01:T_He_DngDirenni_X_Bridge_01
@@ -14978,7 +14842,6 @@ Sky_Terrain_Rock_Snow_01_04_62:T_Sky_TerrRockRES_RockSnw_62
 Sky_Terrain_Rock_Snow_01_04_63:T_Sky_TerrRockRES_RockSnw_63
 Sky_Terrain_Rock_Snow_01_04_64:T_Sky_TerrRockRES_RockSnw_64
 Sky_Terrain_Rock_Snow_01_04_65:T_Sky_TerrRockRES_RockSnw_65
-#these rocks get deleted, obviously
 Sky_Terrain_Rock_Snow_01_01_01:-delete-
 Sky_Terrain_Rock_Snow_01_01_02:-delete-
 Sky_Terrain_Rock_Snow_01_01_03:-delete-
@@ -15197,8 +15060,6 @@ Sky_Terrain_Snow_Rock_04_73:T_Sky_TerrRockRES_Rock_24
 Sky_Terrain_Snow_Rock_04_74:T_Sky_TerrRockRES_Rock_25
 sky_terrain_snow_rocks_04_01:T_Sky_TerrRockRES_RockGrp_01
 sky_terrain_snow_rocks_04_02:T_Sky_TerrRockRES_RockGrp_02
-
-#weapons SHOTN
 sky_barrow_embalm_hook:T_Com_Embalming_Hook_01
 sky_barrow_embalm_knife:T_Com_Embalming_Knife_01
 sky_direnni_battleaxe:T_He_Direnni_BattleAxe_01
@@ -15258,8 +15119,6 @@ sky_tr_orcish_spear_01:T_Orc_Regular_Spear_01
 sky_tr_orcish_spear_02:T_Orc_Regular_Spear_02
 sky_tr_silver_mace:T_Imp_Silver_Mace_01
 sky_tr_silver_saber:T_Imp_Silver_Saber_01
-
-#a few recently added statics
 pc_ex_docks_128_2:T_Imp_SetGC_X_Platf128_01
 pc_ex_docks_3way_2:T_Imp_SetGC_X_Platf3Way_01
 pc_ex_docks_3wayb_2:T_Imp_SetGC_X_Platf3WayB_01
@@ -15284,8 +15143,6 @@ pc_ex_docks_ends_2:T_Imp_SetGC_X_PlatfEndS_01
 pc_ex_dockscornersb012:T_Imp_SetGC_X_PlatfCornSB_01
 pc_ex_dockscornersb022:T_Imp_SetGC_X_PlatfCornSB_02
 pc_ex_dockscornersb032:T_Imp_SetGC_X_PlatfCornSB_03
-
-#new objects added by the recent data updates at PT
 sky_act_sign_alchemist_03:T_Nor_Set_SignShopAlchemist_03
 sky_act_sign_arms_06:T_Nor_Set_SignShopArms_06
 sky_act_sign_arms_07:T_Nor_Set_SignShopArms_07
@@ -15658,8 +15515,6 @@ sky_in_markarth_house_wall_02c:T_Nor_SetMarkarth_I_Wall_02c
 sky_in_markarth_house_wall_02d:T_Nor_SetMarkarth_I_Wall_02d
 sky_in_markarth_tavern_01:T_Nor_SetMarkarth_I_Tavern_01
 sky_in_markarth_tavern_02:T_Nor_SetMarkarth_I_Tavern_02
-
-#Factions P:C & SHOTN
 pc_blades:T_Cyr_Blades
 pc_census and excise:T_Cyr_CensusAndExcise
 pc_colovian independence:T_Cyr_ColovianIndependence
@@ -15680,8 +15535,6 @@ sky_imperial legion:T_Sky_ImperialLegion
 sky_mages guild:T_Sky_MagesGuild
 sky_reachmen:T_Sky_Reachmen
 sky_thieves guild:T_Sky_ThievesGuild
-
-#Groundtextures P:C & SHOTN
 pc_ayleid_floor:T_Ayl_DngRuin_TxFloor_01
 pc_imp_floor_01.dds:T_Imp_LegionCyr_TxFloor_01
 pc_imp_floor_02.dds:T_Imp_LegionCyr_TxFloor_02
@@ -15760,8 +15613,6 @@ tx_skyrim_rocky_dirt_04:T_Sky_TerrDirtRE_01
 tx_skyrim_rocky_dirt_07:T_Sky_TerrDirtRE_03
 tx_skyrim_rocky_dirt_snow_04:T_Sky_TerrDirtSnwRE_01
 tx_skyrim_snow_rock_04:T_Sky_TerrRockSnwRE_04
-
-#scripts P:C & SHOTN
 sky_alt_door_open:T_ScObj_DirenniDoorOpen
 sky_alt_door:T_ScObj_DirenniDoor
 sky_daylight_interior:T_ScObj_DaylightPanel
@@ -15834,8 +15685,6 @@ pc_nonequippable:T_ScObj_NonEquippable
 pc_seagullscript:T_ScCrea_Seagull
 pc_shrineimperial:T_ScObj_ShrineImperialPC
 pc_sound_water:T_ScSound_Water
-
-#Sounds P:C & SHOTN
 ab01bird08sound:T_SndCrea_SeagullScream1
 ab01birdflapsound:T_SndCrea_SeagullFlap
 cait_seagull01snd:T_SndCrea_SeagullScream2
@@ -15866,14 +15715,9 @@ sky_sabrecat_moan:T_SndCrea_SabreCatMoan
 sky_sabrecat_roar:T_SndCrea_SabreCatRoar
 sky_vorndgad_birds2:T_SndEnv_Birds2
 sky_vorndgad_birds:T_SndEnv_Birds1
-
-
-#Classes TR
 tr_baker:T_Mw_Baker
 tr_oreminer:T_Mw_OreMiner
 tr_riverstrider_service:T_Mw_RiverstriderService
-
-#Factions TR
 tr_dres:T_Mw_HouseDres
 tr_eec:East Empire Company
 T_Mw_EastEmpireCompany:East Empire Company
@@ -15898,8 +15742,6 @@ tr_temple:Temple
 T_Mw_Temple:Temple
 tr_thievesguild:Thieves Guild
 T_Mw_ThievesGuild:Thieves Guild
-
-#Groundtextures TR
 tr_aj_rock_01:T_Mw_TerrRockAJ_01
 tr_aj_rock_02:T_Mw_TerrRockAJ_02
 tr_alm_street_01:T_De_SetInd_TxCobbleStone_01
@@ -15913,8 +15755,6 @@ tr_nec_ground:T_De_SetNecrom_TxFloor_02
 tr_nec_white_road:T_De_SetNecrom_TxCobbleStone_01
 tr_rock_brown:T_Mw_TerrRockBrown_01
 tr_water:T_Glb_TerrWater_01
-
-#Scripts TR
 tr_act_tiki_torch_128:T_ScObj_TikiTorchUnlit128
 tr_act_tiki_torch_256:T_ScObj_TikiTorchUnlit256
 tr_act_tiki_torch_512:T_ScObj_TikiTorchUnlit512
@@ -16049,8 +15889,6 @@ tr_testtopicsscript3:T_ScTest_TopicsTR4
 tr_testtopicsscript:T_ScTest_TopicsTR1
 tr_testwimpscript:T_ScTest_SwimTR
 traddanimalproductstopicscript:T_ScGlobal_AddAnimalProdTopsTR
-
-#Sounds TR
 riverstrider1:T_SndCrea_Riverstrider1
 riverstrider2:T_SndCrea_Riverstrider2
 riverstrider3:T_SndCrea_Riverstrider3
@@ -16103,9 +15941,6 @@ tr_velk scream:T_SndCrea_VelkScream
 tr_vermai moan:T_SndCrea_VermaiMoan
 tr_vermai roar:T_SndCrea_VermaiRoar
 tr_vermai scream:T_SndCrea_VermaiScream
-
-
-#classes p:c & shotn -- at the very last to avoid pc_guard messing up scripts
 pc_acrobat:T_Cyr_Acrobat
 pc_agent:T_Cyr_Agent
 pc_alchemist:T_Cyr_Alchemist
@@ -16247,9 +16082,6 @@ sky_warlock:T_Sky_Warlock
 sky_warrior:T_Sky_Warrior
 sky_witch:T_Sky_Witch
 sky_witchhunter:T_Sky_Witchhunter
-
-
-#recent additions to PC_Data
 pc_guard_stirk_pauldron_l:T_Imp_GuardTown1_PauldrStrL_01
 pc_guard_stirk_pauldron_r:T_Imp_GuardTown1_PauldrStrR_01
 pc_a_stirk_pauld_cl:T_A_ImpGuardTown1PauldStr01_Cl
@@ -16336,13 +16168,11 @@ pc_w_col_barr_axe_01:T_Imp_Barrow_Axe_01
 pc_w_col_barr_spear_01:T_Imp_Barrow_Spear_01
 pc_w_col_barr_sword_01:T_Imp_Barrow_Sword_01
 pc_scribe:T_Cyr_Scribe
-
 PC_ImpGuard Random Helmet:T_Cyr_Random_Guard1Helm
 PC_ImpGuard Random LPauldron:T_Cyr_Random_Guard1PauldL
 PC_ImpGuard Random RPauldron:T_Cyr_Random_Guard1PauldR
 PC_ImpGuard Random Shield:T_Cyr_Random_Guard1Shield
 PC_ImpGuard Random Weapon:T_Cyr_Random_Guard1Weapon
-
 Armun Ashlands:Armun Ashlands Region
 Askkaedh Coast:Ascadian Bluffs Region
 Boethian Mountains Region:Boethiah's Spine Region
@@ -16361,8 +16191,6 @@ Sea of Ghosts Region:Sea of Ghosts Region
 Sea of Ghosts Region -Map2:Sea of Ghosts Region
 Thirr River Valley Region:Aanthirin Region
 Velothi Mountains:Velothi Mountains Region
-
-#Deprecated Signposts
 TR_m2_active_sign_adurinouaka:T_Com_SetMw_SignWayAdurinOua_01
 TR_active_sign_Dragon_Glade:T_Com_SetMw_SignAkamora_01
 TR_m2_active_sign_akamora_9:T_Com_SetMw_SignAkamora_01
@@ -16508,8 +16336,6 @@ TR_M3_A8_sign_TQuarry2:T_Com_SetMw_SignWayQuarryP_01
 TR_m2_KL_Dragon_nest:T_Com_SetMw_SignWayTheInnBet_01
 TR_m2_KL_Tomaril:T_Com_SetMw_SignWayTomarilMa_01
 TR_m4_active_sign_VerarchenHall:T_Com_SetMw_SignWayVerarchen_01
-
-#Deprecated Books
 T_Bk_BecameMonsterTR_V1:T_Bk_InsideAlmasTongsTR
 T_Bk_BecameMonsterTR_V2:T_Bk_OrdolanesBestiaryTR_V09
 T_Bk_BecameMonsterTR_V3:T_Bk_OrdolanesBestiaryTR_V11
@@ -16550,17 +16376,11 @@ T_Bk_VarietiesOfHeresyTR:T_Bk_DunmeriLawprimerTR
 T_Bk_WebspinnersWillTR:T_Bk_VarietiesOfThoughtTR_V3
 T_Bk_WordsMatronTR:T_Bk_SongOfPelinalTR_V7
 T_Bk_WwSSTR:T_Bk_VisionsOfKallistTR_V73-74
-
-#Deprecated Potions
 T_Orc_Drink_LiquorUngorth_01:T_De_Drink_LiquorLlotham_01
-
-#TR Signposts
 TR_m2_KL_akamora_02:T_Com_SetMw_SignAkamoraM_01
 TR_m1_sign_Ranyon-Ruhn_S:T_Com_SetMW_SignWayMarketStr_01
 TR_m1_sign_Aegondo_Point:T_Com_SetMW_SignWayAegondoPo_01
 TR_m1_Sign_Boe_Lighthouse:T_Com_SetMW_SignWayBoeLightH_01
-
-# Lanterns
 T_De_FloatLanternBlue_01:T_De_Var_SwimLantBlue01Fl_177
 T_De_FloatLanternBlue_02:T_De_Var_SwimLantBlue01_177
 T_De_FloatLanternCyan_01:T_De_Var_SwimLantCyan01Fl_177
@@ -16597,8 +16417,6 @@ T_De_LanternYellow_02:T_De_Var_LanternYellow02_256
 T_De_LanternYellow_03:T_De_Var_LanternYellow03_256
 T_De_LanternYellow_04:T_De_Var_LanternYellow04_256
 T_De_PaperLantYellow_01:T_De_Var_LanternYellow05_256
-
-# Various
 T_IngFood_BreadColovianMw_01:T_IngFood_BreadColovian_01
 T_IngFood_BreadColovianMW_02:T_IngFood_BreadColovian_02
 T_IngFood_MeatRatRoast_01:T_IngFood_MeatRat_01
@@ -16607,12 +16425,8 @@ T_Com_Hammer_02:T_Com_Farm_Sledgehammer_01
 T_Com_Hammer_03:hammer_repair
 T_Com_Wood_CrossbowFix_01:T_Com_Wood_Crossbow_01
 T_Com_Steel_SaberPirate_01:steel saber
-
-# Lampposts
 T_Imp_Furn_Lamppost_01:T_Imp_Set_Lamppost_01
 T_Imp_Furn_Lamppost_02:T_Imp_Set_Lamppost_01
-
-# Chandeliers
 T_Com_FurnRM_Chandelier1_128:T_Com_FurnM_Chandelier3_128
 T_Com_FurnRM_Chandelier1_256:T_Com_FurnM_Chandelier3_256
 T_Com_FurnRM_Chandelier1L_128:T_Com_FurnM_Chandelier1L_128
@@ -16625,8 +16439,6 @@ T_Com_FurnRM_Chandelier3_128:T_Com_FurnM_Chandelier3_128
 T_Com_FurnRM_Chandelier3_256:T_Com_FurnM_Chandelier3_256
 T_Com_FurnRM_Chandelier3L_128:T_Com_FurnM_Chandelier1L_128
 T_Com_FurnRM_Chandelier3L_256:T_Com_FurnM_Chandelier1L_256
-
-# some TR - objects
 T_Glb_TerrSandTile_01:T_Glb_TerrSand_Tile_01
 T_Glb_TerrSandTile_02:T_Glb_TerrSand_Tile_02
 T_Glb_Flora_WtLily_Pink:T_Glb_Flora_WtLilyPnk01
@@ -16753,8 +16565,6 @@ T_Glb_TerrWater_SqrFlw512_01:T_Glb_TerrWater_SqrFlw_0512_01
 T_Glb_TerrWater_SqrStill1024_01:T_Glb_TerrWater_SqrStil_1024_01
 T_Glb_TerrWater_SqrStill256_01:T_Glb_TerrWater_SqrStil_0256_01
 T_Glb_TerrWater_SqrStill512_01:T_Glb_TerrWater_SqrStil_0512_01
-
-# old VM to BM
 T_Mw_TerrRockVM_Bridge_01:T_Mw_TerrRockBM_Bridge_01
 T_Mw_TerrRockVM_CaveEntr_01:T_Mw_TerrRockBM_CaveEntr_01
 T_Mw_TerrRockVM_Cliff_01b:T_Mw_TerrRockBM_Cliff_01b
@@ -16856,8 +16666,6 @@ T_Mw_TerrRockVM_Stalags_04:T_Mw_TerrRockBM_Stalags_04
 T_Mw_TerrRockVM_Stalags_05:T_Mw_TerrRockBM_Stalags_05
 T_Mw_TerrRockVM_Stalags_06:T_Mw_TerrRockBM_Stalags_06
 T_De_BonemoldKragen_Helm_01:T_De_BonemoldKrage_Helm_01
-
-#PI statics
 T_Cnq_Cave_I_Boulder_01:T_Pi_CaveCQ_I_Boulder_01
 T_Cnq_Cave_I_Boulder_02:T_Pi_CaveCQ_I_Boulder_02
 T_Cnq_Cave_I_Boulder_03:T_Pi_CaveCQ_I_Boulder_03
@@ -17008,20 +16816,17 @@ T_Pi_TerrRockCnq_RockGrp_04:T_Pi_TerrRockCQ_RockGrp_04
 T_Pi_TerrRockCnq_RockGrp_05:T_Pi_TerrRockCQ_RockGrp_05
 T_Pi_TerrRockCnq_RockGrp_06:T_Pi_TerrRockCQ_RockGrp_06
 T_Pi_TerrRockCnq_RockGrp_07:T_Pi_TerrRockCQ_RockGrp_07
-
 T_Cnq_Flora_DriftPuf_01:T_Pi_FloraCQ_DftPuff_01
 T_Cnq_Flora_DriftPuf_02:T_Pi_FloraCQ_DftPuff_02
 T_Cnq_Flora_DriftPuf_03:T_Pi_FloraCQ_DftPuff_03
 T_Cnq_Flora_DriftPuf_04:T_Pi_FloraCQ_DftPuff_04
 T_Cnq_Flora_DriftPuf_05:T_Pi_FloraCQ_DftPuff_05
 T_Cnq_Random_FlorDriftPuff:T_Pi_Random_FlorDriftPuff
-
 T_IngFlor_PadomaicSage_01:T_IngFlor_Sage_01
 T_Imp_SetChapel_X_WinPlain_01:T_Imp_SetChapelMw_X_WinPlain_02
 T_Imp_SetChapel_X_WinAkatosh_01:T_Imp_SetChapelMw_X_WinAka_01
 T_Imp_SetChapel_I_WinAkatosh_01:T_Imp_SetChapelMw_I_WinAka_01
 T_Imp_SetChapel_I_WinPlain_01:T_Imp_SetChapelMw_I_WinPlain_02
-
 T_Mw_Flora_RedCoral01:T_Glb_Mine_RedCoral01
 T_Mw_Flora_RedCoral02:T_Glb_Mine_RedCoral02
 T_Mw_Flora_RedCoral03:T_Glb_Mine_RedCoral03
