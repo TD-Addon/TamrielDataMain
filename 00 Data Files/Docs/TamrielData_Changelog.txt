@@ -1,3 +1,12 @@
+April 17th 2026 Update
+
+- Added Redguard Shop Bars                              (spexd)
+- Added Riverfolk Baskets                               (Pole_Pote, revenorror)
+- Added Covered misc basket for PC quest                (Eldael)
+- Added Northern Black Marsh Ltex                       (revenorror)
+- Added Velothi Silt Strider Platforms                  (LittleLionheadRabbit)
+- Added Khajiit Skeleton Statics                        (CarlZee)
+
 April 9th 2026 Update
 
 - Added Carved Wood Tableware                           (juner_lunar)
