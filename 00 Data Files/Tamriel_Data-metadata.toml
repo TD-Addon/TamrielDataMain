@@ -1540,5 +1540,6 @@ deprecated = [
 	"T_De_HvChit_Pauldron_R",
 	"T_Com_UNI_Sharplens",
 	"T_Rga_FurnR_Divider_01",
-	"T_Rga_FurnR_Divider_02"
+	"T_Rga_FurnR_Divider_02",
+	"T_Mw_CaveMold_Rock_01"
 ]

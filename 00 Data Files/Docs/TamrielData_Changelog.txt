@@ -1,3 +1,14 @@
+April 25th 2026 Update
+
+- Added Sutch Palace Interior Floor Tiles               (Hemaris)
+- Added Indoril chapel tall diagonal 3x3 window         (Stele)
+- Added Reman Fort container expansion                  (Cerebulon)
+- Added Ostern Rural Greathall Split Pieces             (LilianaUnfolded)
+- Added Bjoulsae Riverfolk Faces & Hairstyles           (UXO, Feighten, Kynesifnar)
+- Added Armun Wastes Road Texture                       (Lus)
+- Added Indoril Onion Buildings Interiors (1st Shell)   (Gr8 A2n)
+- Added Dreugh Regalia (Sea Tyrant's Visage)            (be-a-stranger, VenuSprout, Alexander_7070, GrumblingVomit)
+
 April 17th 2026 Update
 
 - Added Redguard Shop Bars                              (spexd)
