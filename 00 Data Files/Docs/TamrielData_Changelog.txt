@@ -1,11 +1,16 @@
+May 2nd 2026 Update
+
+- Added Indoril Big Round Buildings Interior            (trav)    
+- Updated Indoril Exterior ruined chapel shells         (trav)    
+
 April 27th 2026 Update
 
-- Added Morc chests 					(LittleLionheadRabbit)
-- Added Indoril Onion Int 3 				(Gr8 A2n)
+- Added Morc chests 					                (LittleLionheadRabbit)
+- Added Indoril Onion Int 3 			            	(Gr8 A2n)
 
 April 27th 2026 Update
 
- - Added Signs for Heldorn				(Lus)
+ - Added Signs for Heldorn				                (Lus)
 
 April 25th 2026 Update
 
