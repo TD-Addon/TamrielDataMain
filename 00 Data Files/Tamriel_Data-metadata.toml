@@ -1541,5 +1541,14 @@ deprecated = [
 	"T_Com_UNI_Sharplens",
 	"T_Rga_FurnR_Divider_01",
 	"T_Rga_FurnR_Divider_02",
-	"T_Mw_CaveMold_Rock_01"
+	"T_Mw_CaveMold_Rock_01",
+	"T_IngCrea_ShellParastylus_01",
+	"T_IngFood_MeatParastylus_01",
+	"T_Mw_Random_FaunParastylusMeat",
+	"T_Mw_Random_FaunParastylusShll",
+	"T_Mw_Fau_ParaVn_01",
+	"T_Mw_Fau_ParaVnDs_01",
+	"T_Mw_Cr_ParastylusVenomous",
+	"T_Mw_Cr_ParastylusVenomousDs",
+	"T_Cr_Des_ParastylusVenom"
 ]
