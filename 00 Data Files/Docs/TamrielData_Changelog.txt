@@ -1,22 +1,4 @@
-May 16th 2026 Update
-
-- Added Helkori Wastes Region Assets                    (joanasc)
-- Added Skyrim Generic Candleholders                    (Ewoklord)
-- Added 2w Animations to Tsaesci                        (Kynesifnar)
-- Added Dwarven Colossus                                (Stele)
-- Added Hermeaus Mora Voice Lines                       (HUG DEALER)
-- Added Reach Interior Dirt Rocks                       (Tim Stonks)
-- Added Quest Object Editor Marker                      (CarlZee)
-- Added Skyrim Hawk Screech                             (Ricketybob)
-- Updated Dreugh Vipercleaver                           (Warped)
-- Added Redguard Crypt Int Pieces                       (joanasc)
-- Added Indoril Clothing                                (Stele)
-- Added Noctural Daedra                                 (CarlZee)
-- Updated Guide to Almas Thirr Maps                     (trav)
-- Updated Mournhold style objects in Indoril chapels    (trav)
-- Updated Varieties of Thought                          (minifly)
-
-May 4th 2026 Update
+May 4nd 2026 Update
 
 - Updated Parastylus model								(VenuSprout)
 - Added Redoran Pycave transition						(LittleLionheadRabbit)
