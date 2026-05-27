@@ -1,3 +1,21 @@
+May 26th 2026 Update
+
+- Added Reachmen Furn bed bedroll cushions              (worsas)
+- Added Kemel-Ze assets                                 (Cicero)
+- Added Armun Ashlands Rock and Ground Textures         (Ajer)    
+- Added Armun Wastes Rocks                              (Ajer)
+- Added Armun Wastes Textures/Rocks                     (LittleLionheadRabbit)
+- Added Sir Sienne's "Travels"                          (Gnomey)
+- Added RHC Headquarters Interior Windows               (Meadhainnigh)
+- Added The Means of Dreaming                           (pralec)
+- Added Vilebark, The Ideal Poison                      (ThomasRuz)
+- Added Cursed Gems for Hammerfell                      (dacoda)
+- Added Kvatch Rural Set Interiors                      (spineinside, worsas, Stele)
+- Added Hogweed                                         (revenorror, Edith Lambertine)
+- Updated OE Bellman rewrites for PS release            (Cerebulon)
+- Updated Three Deaths of House Mora                    (Exovian)
+- Updated An Alchemist's Guide to Skooma                (jackimoff wackimoff)
+
 May 16th 2026 Update
 
 - Added Helkori Wastes Region Assets                    (joanasc)
