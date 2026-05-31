@@ -1,24 +1,42 @@
 name: Deploy nightly
 on:
   schedule:
-    - cron: '0 0 * * *' # run at midnight UTC
+    - cron: '0 0 * * *'
+      timezone: "America/New_York"
   workflow_dispatch:
+env:
+  LOGFILE_NAME: full_output.log
+  ARCHIVE_SUBPROCESS_LOG: 7z_output.log  
 jobs:
   nightly:
     name: Deploy nightly
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
+      # https://github.com/actions/checkout
       - name: Checkout repository
         uses: actions/checkout@v6
         with:
-          sparse-checkout: .github
-
+          fetch-depth: 0
       - name: Install dependencies
-        run: pip install PyGithub
-
+        run: pip install PyGithub GitPython
       - name: Deploy nightly
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DRY_RUN: False # Disables release lookup + release updating.
+          SINCE_RELEASE: True # Use latest release as reference.
+          ADJUSTED_DATE_SINCE: 2025-05-01 # Only used when SINCE_RELEASE is FALSE
+          COMPRESSION_TIMEOUT: 120 # Seconds until 7z subprocess is killed
         run: python ".github/workflows/deploy-nightly.py"
+      # https://github.com/actions/upload-artifact
+      - name: Store log as artifact
+        uses: actions/upload-artifact@v7
+        if: always()
+        with: 
+          name: logs-from-job-run-${{ github.run_number }}
+          retention-days: 7
+          path: |
+            ${{ env.LOGFILE_NAME }}
+            ${{ env.ARCHIVE_SUBPROCESS_LOG }}
