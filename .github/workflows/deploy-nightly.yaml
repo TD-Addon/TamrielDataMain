@@ -22,7 +22,7 @@ jobs:
           fetch-depth: 0
       - name: Install dependencies
         run: pip install PyGithub GitPython
-      - name: Deploy manually
+      - name: Deploy nightly
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           DRY_RUN: False # Disables release lookup + release updating.
