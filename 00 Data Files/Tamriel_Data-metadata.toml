@@ -1550,5 +1550,19 @@ deprecated = [
 	"T_Mw_Fau_ParaVnDs_01",
 	"T_Mw_Cr_ParastylusVenomous",
 	"T_Mw_Cr_ParastylusVenomousDs",
-	"T_Cr_Des_ParastylusVenom"
+	"T_Cr_Des_ParastylusVenom",
+    "T_Bk_DaedraWorshipAyleidsPC",
+    "T_Bk_DestructionODistractionPC",
+    "T_Bk_DetachmentOfTheSheathPC",
+    "T_Bk_DistributedSoulPC",
+    "T_Bk_ExclusionaryMandatesPC",
+    "T_Bk_ExegesisOfMeridNundaPC",
+    "T_Bk_IllusionOfDeathPC",
+    "T_Bk_MasterwordInducerPC",
+    "T_Bk_NedesOfTheDeathlandsPC",
+    "T_Bk_OnImmortalityPC",
+    "T_Bk_OnNecromanyPC",
+    "T_Bk_PersistenceDaedricVeneraPC",
+    "T_Bk_VindicationDragonbreakPC",
+    "T_Bk_LoathsomeCvilisationPC"
 ]

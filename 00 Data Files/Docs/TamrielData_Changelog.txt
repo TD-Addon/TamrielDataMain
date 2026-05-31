@@ -1,3 +1,14 @@
+May 30th 2026 Update
+
+- Added Clavicus Vile Voice Acting                      (Cicero, Zachary "Ziggy" Tomares, Ja'Keel Hall)
+- Added Sutch Palace Well Split                         (Hemaris)
+- Added Altmer Glass Tower Shield                       (Alexander_7070, Feivelyn)
+- Added Last Voyage of the Deep-Sea Mariner             (Frun1987)
+- Added Armun Wastes Gravel                             (LittleLionheadRabbit)
+- Added GC freeform stair for Thimistrel Manor          (pronam)
+- Added Breton Palisades                                (LilianaUnfolded)
+- Updated Karth Guard Armor                             (Alexander_7070, ThomasRuz, Hase.Oster.)
+
 May 26th 2026 Update
 
 - Added Reachmen Furn bed bedroll cushions              (worsas)
