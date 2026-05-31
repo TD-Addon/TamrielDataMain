@@ -2,7 +2,7 @@ name: Deploy nightly
 on:
   schedule:
     - cron: '0 0 * * *'
-      timezone: "UTC"
+      timezone: "America/New_York"
   workflow_dispatch:
 env:
   LOGFILE_NAME: full_output.log
