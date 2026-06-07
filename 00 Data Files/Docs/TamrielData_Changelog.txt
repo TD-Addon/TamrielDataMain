@@ -1,3 +1,10 @@
+June 6th 2026 Update
+
+- Added RGA Poor Hanging Light                          (worsas)
+- Added Juniper Shrubs                                  (Fremennik, Meadhainnigh)
+- Added AW Cave Entrances                               (Ajer)
+- Added Indoril Guards Weapons Leveled Lists & Spells   (kari.nu)
+
 June 4th 2026 Update
 
 - Added Large Redguard Planters                         (Tim Stonks)

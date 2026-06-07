@@ -1565,5 +1565,7 @@ deprecated = [
     "T_Bk_PersistenceDaedricVeneraPC",
     "T_Bk_VindicationDragonbreakPC",
     "T_Bk_LoathsomeCvilisationPC",
-    "T_Bk_AlchemistsGuideToSkoomaTR"
+    "T_Bk_AlchemistsGuideToSkoomaTR",
+    "T_Bk_StudyOnDreughsTR",
+    "T_Bk_LifecycleDreughPC"
 ]
