@@ -1,3 +1,19 @@
+June 7th 2026 Update
+
+- Added New Hair for Bosmer Women                       (Feighten)
+- Added A Guar and Her Calf Painting                    (be-a-stranger, Feighten)
+- Added SetKva ladder static                            (Exovian)
+- Added Bjoulsae Riverfolk Shrines                      (revenorror, Meadhainnigh)
+- Added Redoran local Council Hall building             (Vigawatt)
+- Added WI Bed Retex                                    (revenorror)
+- Added Kothringi Coins                                 (revenorror)
+- Added Gilded-Shield Estate baked shell                (mmgery)
+- Added Indoril Clothing - Expensive Robe 2             (Stele)
+- Added Mercury Mirror                                  (revenorror)
+- Added Batch 05 of Mournhold Exterior Atlas + Edits    (trav)
+- Added Theesk                                          (revenorror)
+- Added Redguard Crypt Plaque                           (dacoda)
+
 June 6th 2026 Update
 
 - Added RGA Poor Hanging Light                          (worsas)

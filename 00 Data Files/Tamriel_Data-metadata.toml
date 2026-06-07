@@ -1567,5 +1567,8 @@ deprecated = [
     "T_Bk_LoathsomeCvilisationPC",
     "T_Bk_AlchemistsGuideToSkoomaTR",
     "T_Bk_StudyOnDreughsTR",
-    "T_Bk_LifecycleDreughPC"
+    "T_Bk_LifecycleDreughPC",
+    "T_De_SetMH_X_SmallWall_02",
+    "T_De_SetMH_X_SmallWall_04",
+    "T_De_SetMH_X_SmallWall_05"
 ]
