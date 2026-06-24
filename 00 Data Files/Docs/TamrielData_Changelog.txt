@@ -1,3 +1,18 @@
+June 23rd 2026 Update
+
+- Added Musings on Numerology book                      (MammaHyena)
+- Added Bramblebane book                                (ashtom)
+- Added Dagoth Bonemold Shield                          (AquilaXIV)
+- Added Potash ingredient                               (revenorror)
+- Added PC generic black skirt                          (revenorror)
+- Added BM common green skirt                           (revenorror)
+- Added Ostern exq amulet 01                            (revenorror)
+- Added manufactured candlesticks                       (revenorror)
+- Added Indoril Mora-Varul armor                        (Feighten, AquilaXIV)
+- Added Tree of Many Faces                              (Meadhainnigh, ThomasRuz)
+- Added Sessile Oaks                                    (revenorror, Meadhainnigh)
+- Updated HR_Pietop texture                             (revenorror)
+
 June 20th 2026 Update
 
 - Added Ostern Pines Logs and Stumps                    (Meadhainnigh)
