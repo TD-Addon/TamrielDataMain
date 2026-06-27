@@ -1,3 +1,10 @@
+June 26th 2026 Update
+
+- Added Breton Boots and Shoes                          (Feivelyn, Alexander_7070, Meadhainnigh)
+- Added The Bjoulsae Compass model and framework        (trav, RakettiKettu, UXO)    
+- Added Heartpiercer artifact                           (AnrohaNexus)
+- Updated Breton and Nordic Enchanted Items             (SpottheCat)
+
 June 23rd 2026 Update
 
 - Added Musings on Numerology book                      (MammaHyena)
