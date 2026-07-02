@@ -1,3 +1,19 @@
+July 1st 2026 Update
+
+- Added ColFort Full Stairs                             (revenorror)
+- Added Nordic Silver Armor                             (Alexander_7070, GrumblingVomit)
+- Added Cascabel Apple Cider                            (Feighten)
+- Added The Adamantine Empire book                      (ogmios)
+- Added PC Book Placeholders                            (revenorror)
+- Added Yet More Paintings                              (RobynTheGemini, Leyawynn, Feighten, MammaHyena, Lucevar, Autochtone Fol)
+- Added Ostern Castle Set Expansion, Pack 1             (Meadhainnigh)
+- Added Wood Stove                                      (revenorror)
+- Added Nirthfly leveled list spawners                  (Warped)
+- Added Morag Tong Armor leveled list + containers      (Terrifying Daedric Foe)
+- Added smaller com sewer grates/manholes               (Hemaris)
+- Added Skyrim Dark Brotherhood Armor Set               (papitopaez)
+- Updated White Book of 3E 426                          (pralec)
+
 June 26th 2026 Update
 
 - Added Breton Boots and Shoes                          (Feivelyn, Alexander_7070, Meadhainnigh)
@@ -1100,7 +1116,7 @@ April 15th 2025 Update
 - Added Feivelyn's Ostheldir Landscape painting			(trav, Feivelyn)
 - Added Hlaalu Theater's Poster							(trav, be-a-stranger)
 - Added Hlaalu Theatre Backdrop							(Feivelyn, trav)
-- Added Beacon Company Sign								(Mammahyena)
+- Added Beacon Company Sign								(MammaHyena)
 - Added Perthan											(Cameron2023, Alexander_7070, Cicero, Stele, Kynesifnar)
 
 - Updated Guide to Narsis and Narsis District			(trav)
