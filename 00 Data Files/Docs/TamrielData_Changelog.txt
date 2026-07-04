@@ -2,6 +2,11 @@ July 4th 2026 Update
 
 - Added Expensive & Extravagant Breton Shirts & Pants   (Feivelyn, Alexander_7070, Meadhainnigh)
 - Added New Indoril Tent                                (trav, MammaHyena)
+- Added Redguard Steel Armor (Forebear)                 (Kotshur)
+- Added Arvud Bazaar Overhangs                          (Ajer)
+- Added New Dark Elf and Wood Elf Hairstyles for Women  (Feighten)
+- Added Indoril Sandil Head and Hair (Generic)          (Feighten)
+- Added Nirthfly Alchemy Ingredient                     (AquilaXIV, Feighten)
 
 July 2nd 2026 Update
 
