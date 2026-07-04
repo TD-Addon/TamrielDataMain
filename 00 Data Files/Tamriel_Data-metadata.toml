@@ -1606,5 +1606,6 @@ deprecated = [
     "T_Imp_Furn_Painting_10b",
     "T_Imp_Furn_Painting_11a",
     "T_Imp_Furn_Painting_11b",
-    "T_Imp_Furn_Painting_Nafaalil_01"
+    "T_Imp_Furn_Painting_Nafaalil_01",
+    "T_De_SetInd_X_Tent_01"
 ]
