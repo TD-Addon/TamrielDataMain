@@ -1613,5 +1613,7 @@ deprecated = [
     "T_Imp_Painting_Pier",
     "T_Imp_Painting_Tree",
     "T_Hr_Set_BannerShopRHC_01",
-    "T_Hr_Set_BannerShopRHC_01in"
+    "T_Hr_Set_BannerShopRHC_01in",
+    "T_IngCrea_HirvHide_01",
+    "T_Mw_Random_FaunHirvHide"
 ]

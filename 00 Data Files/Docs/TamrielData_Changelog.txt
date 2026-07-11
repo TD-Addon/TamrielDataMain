@@ -1,3 +1,9 @@
+July 10th 2026 Update
+
+- Added Ruddy Man Armour                                (Tyddy Ner, AquilaXIV)
+- Added Rga_SetReach 2x2 Interior Temple Dome           (Meadhainnigh)
+- Updated doors for Redguard ships                      (Cerebulon)
+
 July 9th 2026 Update
 
 - Added Indoril Middle Class Robe                       (AquilaXIV, Feighten)
