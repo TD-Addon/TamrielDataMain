@@ -1629,5 +1629,9 @@ deprecated = [
     "T_De_SetMH_X_Pier_01",
     "T_De_SetMH_X_Pier_03",
     "T_De_SetMH_X_PavillionWall_02",
-    "T_De_SetMH_X_PavillionGate_01"
+    "T_De_SetMH_X_PavillionGate_01",
+    "T_CyrImp_DngRuin_BlCoin",
+    "T_CyrImp_DngRuin_BlEmp",
+    "T_CyrImp_DngRuin_BlJunk",
+    "T_CyrImp_DngRuin_BlPotn"
 ]
