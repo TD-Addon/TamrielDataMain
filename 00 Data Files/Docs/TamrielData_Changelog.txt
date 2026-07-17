@@ -1,3 +1,24 @@
+July 15th 2026 Update
+
+- Added House Indoril expulsion global                  (FlinSunset)
+- Added Batch 06 of Mournhold Exterior Atlas + Edits    (trav)
+- Added Batch 07 of Mournhold Exterior Atlas + Edits    (trav)
+- Added Batch 08 of Mournhold Exterior Atlas + Edits    (trav)
+- Added Batch 09 of Mournhold Exterior Atlas + Edits    (trav)
+- Added Redoran wax seal                                (Yoae)
+- Added TD Orethan Leveled list update                  (Warped)
+- Added Expensive Indoril Shoes                         (Feighten)
+- Added Additional Female Ogre Hairs                    (GrumblingVomit)
+- Added Flame Monarch                                   (Vigawatt)
+- Added Indoril symbol new guarskin banner              (VenuSprout)
+- Added Velothi Tomb / Large Hall / Half Wall           (Tenosit)
+- Added Verarchen Hall                                  (Vigawatt)
+- Added Daedroth Monarch                                (CarlZee, Cicero)
+- Added Rourken Clutter (Part 1)                        (Tim Stonks)
+- Added T_Dwe_DngRuin_Fan_02 animation                  (Vigawatt)
+- Added Additional HR427 Landscape Textures             (Meadhainnigh)
+- Updated "Ebonheart: A History" book                   (OuranOS, Taniquetil)
+
 July 10th 2026 Update
 
 - Added Ruddy Man Armour                                (Tyddy Ner, AquilaXIV)
@@ -727,7 +748,7 @@ September 8th 2025 Update
 September 4th 2025 Update
  
 - Added Breton Canned food                              (revenorror)
-- Added TD House Indoril faction dialogue               (Flinsunset, Knobelknight)		
+- Added TD House Indoril faction dialogue               (FlinSunset, Knobelknight)		
 
 September 3rd 2025 Update
 
