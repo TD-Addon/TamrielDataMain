@@ -1615,7 +1615,7 @@ deprecated = [
     "T_Hr_Set_BannerShopRHC_01",
     "T_Hr_Set_BannerShopRHC_01in",
     "T_IngCrea_HirvHide_01",
-    "T_Mw_Random_FaunHirvHide"
+    "T_Mw_Random_FaunHirvHide",
     "T_De_SetMH_X_Building_02",
     "T_De_SetMH_X_Building_03",
     "T_De_SetMH_X_Building_05",
