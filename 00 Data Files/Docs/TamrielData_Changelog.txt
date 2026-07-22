@@ -1,3 +1,13 @@
+July 21st 2026 Update
+
+- Added New Indoril Symbol Tapestries                   (trav)
+- Added Rga DngCrypt Broken Table Halves                (dacoda)
+- Added Electric Slaughterfish                          (LittleLionheadRabbit, AquilaXIV)
+- Added Dunmer Shack Trapdoor for wooden floors         (Ajer)
+- Added Ostern Castle Set Expansion, Pack 3             (Meadhainnigh)
+- Added Indoril Palanquin                               (AquilaXIV)
+- Updated OstC Door                                     (Meadhainnigh)
+
 July 17th 2026 Update
 
 - Added Indoril Exquisite Robe 02                       (AquilaXIV, Feighten)
