@@ -1,3 +1,9 @@
+July 24th 2026 Update
+
+- Added Nirthfly creature                               (LittleLionheadRabbit, Synd)
+- Added Nerevar Cuirass artifact                        (DuX, AquilaXIV, Cicero)
+- Updated stats of ebone and deadric weapons            (Hase. Oster.)
+
 July 21st 2026 Update
 
 - Added New Indoril Symbol Tapestries                   (trav)
