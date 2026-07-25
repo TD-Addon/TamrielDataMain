@@ -1675,6 +1675,7 @@ deprecated = [
 	"T_Imp_Furn_Portrait_35",
 	"T_Imp_Furn_Portrait_36",
 	"T_Mw_Random_ArmorHeavyChitin",
-	"T_Mw_Com_Var_Cr1HvChitin",
-	"T_Mw_Com_Var_Cr2HvChitin"
+	"T_MwCom_Var_Cr1HvChitin",
+	"T_MwCom_Var_Cr2HvChitin",
+	"T_Mw_Random_FaunDaedricBatEye"
 ]
