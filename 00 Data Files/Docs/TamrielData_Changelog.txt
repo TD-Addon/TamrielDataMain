@@ -1,3 +1,7 @@
+July 26th 2026 Update
+
+-Added Onsi's puller artefact                           (tammilisäke)
+
 July 24th 2026 Update
 
 - Added Nirthfly creature                               (LittleLionheadRabbit, Synd)
