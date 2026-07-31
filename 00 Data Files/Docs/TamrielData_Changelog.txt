@@ -1,12 +1,30 @@
+July 31th 2026 Update 
+
+- Added Wormmouth SFX					(Synd)
+- Added Floater SFX					(Synd)
+- Added Ashfowl Meat					(Aight, WellTemperedClavier)
+- Added Direnni Ruins interior transition piece 	(Meadhainnigh)
+- Added Duadri Head and Hair Pack			(tammilisäke)
+- Added Radiant Auroran Prismatic Light Ability		(Kynesifnar)
+- Added Leki Statue 					(Cabinfever, spexd, UXO, dacoda)
+- Added Sawmill 					(Eldael)
+- Added Argonian Shell Bowls 				(revenorror)
+- Added Imp_DngCrypt2 Interior Set Fixes + Additions	(revenorror)
+- Added Uriel V Statue 					(DuX, LittleLionheadRabbit, AquilaXIV)
+- Added Alessian Weapons 				(Alexander_7070, Kotshur)
+- Updated HR Levelled Lists - Pt 5			(Fremennik)
+- Updated Reman Fort Cistae texture			(Cerebulon)
+- Updated Ash and Blood 				(Taniquetil)
+
 July 26th 2026 Update
 
--Added Onsi's puller artefact                           (tammilisäke)
+- Added Onsi's puller artefact				(tammilisäke)
 
 July 24th 2026 Update
 
 - Added Nirthfly creature                               (LittleLionheadRabbit, Synd)
 - Added Nerevar Cuirass artifact                        (DuX, AquilaXIV, Cicero)
-- Updated stats of ebone and deadric weapons            (Hase. Oster.)
+- Updated stats of ebony and daedric weapons            (Hase. Oster.)
 
 July 21st 2026 Update
 
@@ -30,7 +48,7 @@ July 15th 2026 Update
 - Added Batch 07 of Mournhold Exterior Atlas + Edits    (trav)
 - Added Batch 08 of Mournhold Exterior Atlas + Edits    (trav)
 - Added Batch 09 of Mournhold Exterior Atlas + Edits    (trav)
-- Added Redoran wax seal                                (Yoae)
+- Added Redoran wax seal                                (revenorror)
 - Added TD Orethan Leveled list update                  (Warped)
 - Added Expensive Indoril Shoes                         (Feighten)
 - Added Additional Female Ogre Hairs                    (GrumblingVomit)
