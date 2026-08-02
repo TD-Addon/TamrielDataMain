@@ -1,24 +1,43 @@
+August 2nd 2026 Update
+
+- Added Raki sfx                                        (Synd)
+- Added Snow Ray sfx                                    (Synd)
+- Added Dae Braziers 256 Radius Variant                 (Kynesifnar)
+- Added Indoril chapel (Roa Dyr) cistern model          (trav)
+- Added Dwemer Hall Shaft Split Pieces                  (Feighten)
+- Added LadyN Paintings                                 (LadyN, Feighten)
+- Added Province Landscape Paintings                    (Feighten)
+- Added Tammilisake's Paintings                         (tammilisäke, Feighten)
+- Added Generic Flight Sounds                           (Synd)
+- Added Colovian Kingdom Seals                          (UXO)
+- Added Broken Malacath Statue                          (CarlZee)
+- Added Metal Grill                                     (revenorror)
+- Added Atmoran Tenderizer (Slaalv)                     (tammilisäke)
+- Updated Skyrim flatbread                              (revenorror)
+- Updated T_Cr_Ilu_NirthflySting                        (KnobelKnight)
+- Updated T_Cyr_Random_DrinkDunmer                      (Toma400)
+
 July 31th 2026 Update 
 
-- Added Wormmouth SFX					(Synd)
-- Added Floater SFX					(Synd)
-- Added Ashfowl Meat					(Aight, WellTemperedClavier)
-- Added Direnni Ruins interior transition piece 	(Meadhainnigh)
-- Added Duadri Head and Hair Pack			(tammilisäke)
-- Added Radiant Auroran Prismatic Light Ability		(Kynesifnar)
-- Added Leki Statue 					(Cabinfever, spexd, UXO, dacoda)
-- Added Sawmill 					(Eldael)
-- Added Argonian Shell Bowls 				(revenorror)
+- Added Wormmouth SFX					                (Synd)
+- Added Floater SFX				                    	(Synd)
+- Added Ashfowl Meat				                	(Aight, WellTemperedClavier)
+- Added Direnni Ruins interior transition piece     	(Meadhainnigh)
+- Added Duadri Head and Hair Pack		            	(tammilisäke)
+- Added Radiant Auroran Prismatic Light Ability	    	(Kynesifnar)
+- Added Leki Statue 					                (Cabinfever, spexd, UXO, dacoda)
+- Added Sawmill 					                    (Eldael)
+- Added Argonian Shell Bowls 				            (revenorror)
 - Added Imp_DngCrypt2 Interior Set Fixes + Additions	(revenorror)
-- Added Uriel V Statue 					(DuX, LittleLionheadRabbit, AquilaXIV)
-- Added Alessian Weapons 				(Alexander_7070, Kotshur)
-- Updated HR Levelled Lists - Pt 5			(Fremennik)
-- Updated Reman Fort Cistae texture			(Cerebulon)
-- Updated Ash and Blood 				(Taniquetil)
+- Added Uriel V Statue                                  (DuX, LittleLionheadRabbit, AquilaXIV)
+- Added Alessian Weapons 				                (Alexander_7070, Kotshur)
+- Updated HR Levelled Lists - Pt 5			            (Fremennik)
+- Updated Reman Fort Cistae texture			            (Cerebulon)
+- Updated Ash and Blood 				                (Taniquetil)
 
 July 26th 2026 Update
 
-- Added Onsi's puller artefact				(tammilisäke)
+- Added Onsi's puller artefact				            (tammilisäke)
 
 July 24th 2026 Update
 
