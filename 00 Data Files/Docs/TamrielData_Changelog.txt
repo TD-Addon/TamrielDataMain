@@ -16,6 +16,8 @@ August 2nd 2026 Update
 - Updated Skyrim flatbread                              (revenorror)
 - Updated T_Cr_Ilu_NirthflySting                        (KnobelKnight)
 - Updated T_Cyr_Random_DrinkDunmer                      (Toma400)
+- Updated Creagh Coast Region                           (Toma400)
+- Updated Ostheldir Palette                             (Meadhainnigh)
 
 July 31th 2026 Update 
 
