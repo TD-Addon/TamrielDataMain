@@ -1,3 +1,15 @@
+August 4th 2026 Update
+
+- Added Tsaesci Movement Sounds                         (Synd)
+- Added Lever/button for Nord Barrows                   (Cerebulon)
+- Added Ostern Castle Set Expansion, Pack 4             (Meadhainnigh)
+- Added Argonian eye-bug lanterns                       (revenorror)
+- Added Nav Andaram Terrain                             (Stele)
+- Added Indoril Kamal Tetsubo Artifact                  (Tyddy Ner)
+- Added Step sounds for Perthan and Spider Daedra       (Synd)
+- Added Inner De_FurnR Bar                              (Feighten)
+- Updated TR unique and restricted heads                (FlinSunset)
+
 August 2nd 2026 Update
 
 - Added Raki sfx                                        (Synd)
