@@ -1,3 +1,17 @@
+August 5th 2026 Update
+
+- Added Alchemical Serpent helmet                       (tammilisäke)
+- Added Indoril Ghost skirt artifact                    (AquilaXIV)
+- Added Wall without a beam for Direnni ruins           (Meadhainnigh)
+- Added Additional stair models for Direnni dungeon set (Meadhainnigh)
+- Added Tojay Khajiit NPC Race                          (Kynesifnar, UXO)
+- Added OE Mages Guild Khalaan endcap Oblivion rift     (trav)
+- Added ImpR Dining Table                               (Kynesifnar)
+- Added Velothi Museum Displays                         (Reach)
+- Added Velothi canton dock end pieces                  (Eldael)
+- Updated Guide to Old Ebonheart map                    (trav)
+- Updated epos_b_ks_m_head_022.nif to _02.nif           (Maars)
+
 August 4th 2026 Update
 
 - Added Tsaesci Movement Sounds                         (Synd)
