@@ -1713,5 +1713,7 @@ deprecated = [
 	"T_B_De_HeadFemTR_42",
 	"T_B_De_HeadMaleTR_53",
 	"T_B_De_HeadMaleTR_55",
-	"T_B_De_HeadMaleTR_56"
+	"T_B_De_HeadMaleTR_56",
+	"T_B_De_UNI_HairArchmatronTR",
+	"T_B_De_UNI_HairOEGovernorSonTR"
 ]
