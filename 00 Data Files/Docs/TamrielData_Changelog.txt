@@ -1,3 +1,16 @@
+August 8th 2026 Update
+
+- Added Astounding Artifacts Pack 1                     (revenorror)
+- Added Jubilant Jewelry Pack                           (revenorror)
+- Added Indoril Robe of the Inner Fire                  (AquilaXIV)
+- Added Indoril Exquisite Shirt                         (AquilaXIV, Feighten)
+- Added Indoril Common Shirt 01                         (AquilaXIV)
+- Added Gourd Bowls                                     (revenorror)
+- Added Argonian Bread                                  (revenorror)
+- Added Hammerfell Leveled Lists Part 4                 (Toma400)
+- Updated T_De_Cm_ShirtInd_02                           (AquilaXIV)
+- Updated Court Wizard Bellman Articles                 (KnobelKnight)
+
 August 6th 2026 Update
 
 - Updated TR unique hairs                               (FlinSunset)
@@ -842,7 +855,7 @@ September 8th 2025 Update
 September 4th 2025 Update
  
 - Added Breton Canned food                              (revenorror)
-- Added TD House Indoril faction dialogue               (FlinSunset, Knobelknight)		
+- Added TD House Indoril faction dialogue               (FlinSunset, KnobelKnight)		
 
 September 3rd 2025 Update
 
