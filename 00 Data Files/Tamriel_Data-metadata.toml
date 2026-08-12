@@ -1609,6 +1609,7 @@ deprecated = [
 	"T_De_SetInd_X_Tent_01",
 	"T_Imp_Painting_Fort",
 	"T_Imp_Painting_Fount",
+	"T_Imp_Painting_Keptu",
 	"T_Imp_Painting_Pier",
 	"T_Imp_Painting_Tree",
 	"T_Hr_Set_BannerShopRHC_01",
