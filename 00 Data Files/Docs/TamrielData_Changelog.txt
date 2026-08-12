@@ -1,3 +1,10 @@
+August 11th 2026
+
+- Added The Diamond-Egg-Girl book                       (revenorror)
+- Added Goldenrod House Custom Shell                    (trav)
+- Added VFX and Sounds for Unique MWSE Magic Effects    (Synd)    
+- Added Spider Daedra Sounds                            (Synd) 
+
 August 10th 2026
 
 - Added Altmer Hairs Pack                               (revenorror)

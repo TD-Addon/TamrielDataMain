@@ -1717,5 +1717,17 @@ deprecated = [
 	"T_B_De_UNI_HairArchmatronTR",
 	"T_B_De_UNI_HairOEGovernorSonTR",
 	"T_Imp_DngRuin_I_Keep2Wind_01",
-	"T_Imp_DngRuin_I_Keep2Wind_02"
+	"T_Imp_DngRuin_I_Keep2Wind_02",
+	"T_De_Painting_Tel_01",
+	"T_De_Painting_Tel_02",
+	"T_De_Painting_Tel_03",
+	"T_De_Painting_Tel_04",
+	"T_De_Painting_Tel_05",
+	"T_De_Painting_Tel_06",
+	"T_De_Painting_Tel_07",
+	"T_De_Painting_Tel_08",
+	"T_De_Painting_Tel_09",
+	"T_De_Painting_Tel_10",
+	"T_Mw_CaveMud_Pool_01",
+	"T_Imp_UNI_PrinceJuliekSeal"
 ]
