@@ -22,7 +22,7 @@ authors = [
 ]
 
 [dependencies.mwse]
-buildnumber = 4443
+buildnumber = 5326
 
 [dependencies.mcp.features]
 scriptablePotionUse = true
