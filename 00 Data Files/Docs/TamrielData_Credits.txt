@@ -540,6 +540,11 @@ author: RubberMan
 Added June 2022, via OAAB_data
 IDs:	T_Imp_FurnM_WeaponRack_01-02
 
+author: JustinBW
+---------------------------------
+Added August 2026, from: squirrel_short.wav by JustinBW -- https://freesound.org/s/78653/ -- License: Attribution 4.0
+IDs:	T_SndCrea_SquirrelMoan, T_SndCrea_SquirrelRoar, T_SndCrea_SquirrelScream
+
 
 --PT_Data.bsa--
 Ald-Ma' Cyrod

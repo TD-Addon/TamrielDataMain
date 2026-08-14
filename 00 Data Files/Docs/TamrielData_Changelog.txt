@@ -2,6 +2,7 @@ August 13th 2026
 
 - Added Ordinator Faction Book                          (Mortimer)
 - Added Reman ruin interior standalone stairs           (Cerebulon)
+- Added Squirrel SFX                                    (Synd)
 - Updated FX and Sounds for Unique MWSE Magic Effects   (Kynesifnar, Synd)
 - Updated Lepidopteran textures                         (revenorror)
 
