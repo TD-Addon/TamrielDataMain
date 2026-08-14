@@ -1,3 +1,10 @@
+August 13th 2026
+
+- Added Ordinator Faction Book                          (Mortimer)
+- Added Reman ruin interior standalone stairs           (Cerebulon)
+- Updated FX and Sounds for Unique MWSE Magic Effects   (Kynesifnar, Synd)
+- Updated Lepidopteran textures                         (revenorror)
+
 August 12th 2026
 
 - Added Ardent Order Akatosh Statue                     (revenorror, UXO)
@@ -7,8 +14,8 @@ August 11th 2026
 
 - Added The Diamond-Egg-Girl book                       (revenorror)
 - Added Goldenrod House Custom Shell                    (trav)
-- Added VFX and Sounds for Unique MWSE Magic Effects    (Synd)    
-- Added Spider Daedra Sounds                            (Synd) 
+- Added VFX and Sounds for Unique MWSE Magic Effects    (Synd)
+- Added Spider Daedra Sounds                            (Synd)
 
 August 10th 2026
 
