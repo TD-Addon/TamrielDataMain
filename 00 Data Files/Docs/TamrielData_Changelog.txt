@@ -1,3 +1,13 @@
+August 14th 2026
+
+- Added Alchemical Engine Sounds                        (Synd)
+- Added Whale Sounds                                    (Synd)
+- Added Indoril Common Shirt 02 and 03                  (AquilaXIV)
+- Updated Auroran Weapons Textures                      (Cerebulon)
+- Updated Auroran Weapon Icons                          (Kynesifnar)
+- Updated More Textures                                 (Fremennik)
+- Updated Comaris signway                               (Maars)
+
 August 13th 2026
 
 - Added Ordinator Faction Book                          (Mortimer)

@@ -545,6 +545,14 @@ author: JustinBW
 Added August 2026, from: squirrel_short.wav by JustinBW -- https://freesound.org/s/78653/ -- License: Attribution 4.0
 IDs:	T_SndCrea_SquirrelMoan, T_SndCrea_SquirrelRoar, T_SndCrea_SquirrelScream
 
+author: paultherocker3000
+---------------------------------
+Added August 2026, from: Through Slime.wav - https://freesound.org/people/paultherocker3000/sounds/366493/ - CC-By-NC 3.0
+
+author: thanvannispen
+---------------------------------
+Added August 2026, from: industrial_tom10.aif - https://freesound.org/people/thanvannispen/sounds/9574/ - CC-By 4.0
+
 
 --PT_Data.bsa--
 Ald-Ma' Cyrod
