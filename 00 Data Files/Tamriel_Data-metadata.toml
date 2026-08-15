@@ -1730,5 +1730,6 @@ deprecated = [
 	"T_De_Painting_Tel_09",
 	"T_De_Painting_Tel_10",
 	"T_Mw_CaveMud_Pool_01",
-	"T_Imp_UNI_PrinceJuliekSeal"
+	"T_Imp_UNI_PrinceJuliekSeal",
+	"T_Aka_UNI_Kamal_Tetsubo"
 ]
