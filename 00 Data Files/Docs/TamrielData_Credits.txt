@@ -553,6 +553,14 @@ author: thanvannispen
 ---------------------------------
 Added August 2026, from: industrial_tom10.aif - https://freesound.org/people/thanvannispen/sounds/9574/ - CC-By 4.0
 
+author: naturenotesuk
+---------------------------------
+Added August 2026, from Common Pipistrelle Bat Social, Echolocation and Feeding Buzz by naturenotesuk --https://freesound.org/s/818526/ - License: Attribution 4.0
+
+author: designerschoice
+---------------------------------
+Added August 2026, from WINGMisc-CU_Bat Wings, Flapping_Nicholas Judy_TDC by designerschoice - https://freesound.org/s/811528// - License: Attribution 4.0
+
 
 --PT_Data.bsa--
 Ald-Ma' Cyrod
