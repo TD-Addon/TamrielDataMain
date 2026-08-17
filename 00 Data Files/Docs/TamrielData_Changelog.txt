@@ -12,6 +12,7 @@ August 16th 2026
 - Added More Hagiographa                                (Taniquetil)
 - Added Additional Saint Shrines (Part 3)               (Taniquetil)
 - Updated Stock Exchange Framework (Post-GF)            (trav)
+- Removed AI genned Voicelines for Post-PS replacement	(Jackimoff Wackimoff)
 
 August 14th 2026
 
