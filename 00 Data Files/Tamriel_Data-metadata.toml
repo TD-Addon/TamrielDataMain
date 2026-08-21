@@ -1848,5 +1848,22 @@ deprecated = [
 	"T_Cyr_Random_ClothingSkirtsXvGC",
 	"T_Cyr_Random_ClothingXpGC",
 	"T_Cyr_Random_ClothingXvGC",
-	"T_Cyr_Random_PosGC"
+	"T_Cyr_Random_PosGC",
+	"T_B_Kor_HairFemale_08",
+	"T_B_Kor_HairFemale_09",
+	"T_B_Kor_HairFemale_10",
+	"T_B_Kor_HairFemale_11",
+	"T_B_Kor_HairFemale_12",
+	"T_B_Kor_HairFemale_13",
+	"T_B_Kor_HairFemale_14",
+	"T_B_Kor_HairFemale_15",
+	"T_B_Kor_HairFemale_16",
+	"T_B_Kor_HairFemale_17",
+	"T_B_Kor_HairFemale_18",
+	"T_B_Kor_HairFemale_19",
+	"T_B_Kor_HairFemale_20",
+	"T_B_Kor_HairFemale_21",
+	"T_B_Kor_HairFemale_22",
+	"T_B_Kor_HairFemale_23",
+	"T_B_Kor_HairFemale_24"
 ]

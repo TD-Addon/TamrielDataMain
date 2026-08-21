@@ -1,3 +1,10 @@
+August 20th 2026
+
+- Added Imp R Wallscreen Blue Variant                   (Taniquetil)
+- Added Riverfolk F hair 10                             (Feighten, revenorror)
+- Added Weaponstand for T_Com/T_Imp                     (revenorror)
+- Updated Ohmes-Raht Race                               (revenorror)
+
 August 16th 2026
 
 - Added Summon Nocturnal Spell                          (Kynesifnar)
