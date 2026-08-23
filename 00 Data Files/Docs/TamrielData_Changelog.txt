@@ -100,7 +100,6 @@ August 4th 2026 Update
 - Added Ostern Castle Set Expansion, Pack 4             (Meadhainnigh)
 - Added Argonian eye-bug lanterns                       (revenorror)
 - Added Nav Andaram Terrain                             (Stele)
-- Added Indoril Kamal Tetsubo Artifact                  (Tyddy Ner)
 - Added Step sounds for Perthan and Spider Daedra       (Synd)
 - Added Inner De_FurnR Bar                              (Feighten)
 - Updated TR unique and restricted heads                (FlinSunset)
@@ -192,7 +191,6 @@ July 15th 2026 Update
 
 July 10th 2026 Update
 
-- Added Ruddy Man Armour                                (Tyddy Ner, AquilaXIV)
 - Added Rga_SetReach 2x2 Interior Temple Dome           (Meadhainnigh)
 - Updated doors for Redguard ships                      (Cerebulon)
 
