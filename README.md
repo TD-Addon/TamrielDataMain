@@ -1,5 +1,5 @@
 # TamrielDataMain
-This repository serves as a single location for progressively aggregating new assets as an extension of the 'Tamriel_Data' database (current version v25.05). Using this repository, Tamriel_Data curators can directly commit new assets and plugins directly, compling new data and assets in preparation for the next public Tamriel_Data version. This repository can also be instantly compiled as a BAIN-aware mod-package for developers use in conjuction with Tamriel Data in order to access new addon-only components.
+This repository serves as a single location for progressively aggregating new assets as an extension of the 'Tamriel_Data' database (current version v26.08). Using this repository, Tamriel_Data curators can directly commit new assets and plugins directly, compling new data and assets in preparation for the next public Tamriel_Data version. This repository can also be instantly compiled as a BAIN-aware mod-package for developers use in conjuction with Tamriel Data in order to access new addon-only components.
 
 Tamriel Data is available on the Nexus-> https://www.nexusmods.com/morrowind/mods/44537
 
