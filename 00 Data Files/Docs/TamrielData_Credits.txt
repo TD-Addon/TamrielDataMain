@@ -561,6 +561,9 @@ author: designerschoice
 ---------------------------------
 Added August 2026, from WINGMisc-CU_Bat Wings, Flapping_Nicholas Judy_TDC by designerschoice - https://freesound.org/s/811528// - License: Attribution 4.0
 
+author: Aoibhin Quinn
+---------------------------------
+Added August 2026, Spider Daedra Sounds
 
 --PT_Data.bsa--
 Ald-Ma' Cyrod
