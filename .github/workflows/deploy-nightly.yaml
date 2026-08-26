@@ -25,8 +25,8 @@ jobs:
       - name: Deploy nightly
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          DRY_RUN: False # Disables release lookup + release updating.
-          SINCE_RELEASE: True # Use latest release as reference.
+          DRY_RUN: "FALSE" # Disables release lookup + release updating.
+          SINCE_RELEASE: "TRUE" # Use latest release as reference.
           ADJUSTED_DATE_SINCE: 2025-05-01 # Only used when SINCE_RELEASE is FALSE
           COMPRESSION_TIMEOUT: 120 # Seconds until 7z subprocess is killed
         run: python ".github/workflows/deploy-nightly.py"

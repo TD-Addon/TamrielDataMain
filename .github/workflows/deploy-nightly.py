@@ -12,11 +12,12 @@ from github.GitRelease import GitRelease
 compression_timeout = int(os.environ.get("COMPRESSION_TIMEOUT", 120))
 logfile_name: str = os.environ.get("LOGFILE_NAME", "full_output.log")
 logfile_7z_name: str = os.environ.get("ARCHIVE_SUBPROCESS_LOG", "f7z_output.log ")
-since_release: bool = os.environ.get("SINCE_RELEASE", "False") == "True"
+since_release: bool = os.environ.get("SINCE_RELEASE", "FALSE") == "TRUE"
 adjusted_date_since: datetime = datetime.fromisoformat(os.environ.get("ADJUSTED_DATE_SINCE", "2025-05-01"))
 github_repository = os.environ.get("GITHUB_REPOSITORY", "TD-Addon/TamrielDataMain")
 dry_run: bool = os.environ.get("DRY_RUN", "TRUE") == "TRUE"
-
+action_branch: str = os.environ.get("GITHUB_REF_NAME", "main")
+release_dir = "new_release"
 logger = logging.getLogger("tamriel_data_patch_archiver")
 
 def configure_logging() -> None:    
@@ -34,10 +35,10 @@ def configure_logging() -> None:
     logger.addHandler(console_log)
 
 
-def get_changed_files(since_date: str) -> list[str]:
+def get_changed_files(since_date: datetime, branch_name: str) -> list[str]:
     current_repo = git.Repo("")
     logger.info(f"Current ref is: {current_repo.head.ref}")
-    commitsline = list(current_repo.iter_commits("main", since=since_date))
+    commitsline = list(current_repo.iter_commits(branch_name, since=since_date))
     changed_files = set()
     commitsline.reverse()
     for specific_commit in commitsline:
@@ -56,10 +57,10 @@ def get_changed_files(since_date: str) -> list[str]:
             changed_files.add(filename)
     return changed_files
 
-def create_archive(release_dir: str) -> str:
+def create_archive(release_directory: str) -> str:
     logger.info("Compressing...")
     timestamp = datetime.now().strftime("%Y-%m-%d")
-    data_dir = f"{release_dir}/00 Data Files/"
+    data_dir = f"{release_directory}/00 Data Files/"
     zip_path = os.path.abspath(f"Tamriel-Data-Addon-{timestamp}.7z")
     try:
         with open(logfile_7z_name, "w") as log_file:
@@ -70,12 +71,12 @@ def create_archive(release_dir: str) -> str:
     logger.info(f"Archive Created: {zip_path}")
     return zip_path
 
-def move_files(changed_files) -> None:
+def move_files(release_directory: str, changed_files) -> None:
     logger.info("Moving files")
     for file in changed_files:        
         file_src = os.path.abspath(f"./{file}")
-        file_dst = os.path.abspath(f"./{release_dir}/{file}")
-        os.makedirs(os.path.dirname(f"{release_dir}/{file}"), exist_ok=True)
+        file_dst = os.path.abspath(f"./{release_directory}/{file}")
+        os.makedirs(os.path.dirname(f"{release_directory}/{file}"), exist_ok=True)
         shutil.copyfile(src=file_src, dst=file_dst)
 
         # Update modified time for the ESM
@@ -84,33 +85,34 @@ def move_files(changed_files) -> None:
             os.utime(file_dst, (os.stat(file_dst).st_atime, 1325376000))  
 
 def fetch_release() -> GitRelease:
-    if(dry_run):
+    if dry_run:
         logger.info("Skipping retrieving release info")
         return None
     logger.info("Authenticating...")
     token = github.Auth.Token(os.environ["GITHUB_TOKEN"])
     gh = github.Github(auth=token)
+
     repo = gh.get_repo(github_repository)
 
     # # Get the latest release
     logger.info("Retrieving latest release...")
-    release = repo.get_latest_release()
-    release_tag = repo.get_git_ref(f"tags/{release.tag_name}")
+    git_release = repo.get_latest_release()
+    release_tag = repo.get_git_ref(f"tags/{git_release.tag_name}")
     release_sha = release_tag.object.sha
     logger.info(f"Latest release SHA: {release_sha}")
-    return release
+    return git_release
 
-def update_release(release: GitRelease) -> None:
-    if(dry_run):
+def update_release(git_release: GitRelease) -> None:
+    if dry_run:
         logger.info("Skipping updating release to github")
         return
     logger.info("Updating Release")
-    for asset in release.get_assets():
+    for asset in git_release.get_assets():
         if "Tamriel-Data-Addon" in asset.name:
             logger.info(f"Deleting old nightly asset from release: {asset.name}")
             asset.delete_asset()
     logger.info("Uploading...")
-    release.upload_asset(
+    git_release.upload_asset(
         path=zip_path,
         name=os.path.basename(zip_path),
         content_type="application/x-7z-compressed",
@@ -122,21 +124,21 @@ if __name__ == "__main__":
     release = fetch_release()
 
     # Swap to different date from yaml if False
-    since_date = release.created_at if since_release else adjusted_date_since
+    chosen_since_date = release.created_at if since_release else adjusted_date_since
 
     # Find the changed files
-    logger.info(f"Retrieving changed files since {since_date}...")
-    changed_files = get_changed_files(since_date)
-    release_dir = "new_release"
-    if num_changes := len(changed_files):
+    logger.info(f"Retrieving changed files since {chosen_since_date}...")
+    retrieved_changed_files = get_changed_files(chosen_since_date, action_branch)
+
+    if num_changes := len(retrieved_changed_files):
         logger.info(f"Found {num_changes} changed files.")
         os.makedirs(release_dir, exist_ok=True)
     else:
         logger.warning("No changes found.")
         exit(0)
     
-    # Move files into seperate directory for the archive
-    move_files(changed_files)   
+    # Move files into separate directory for the archive
+    move_files(release_dir, retrieved_changed_files)
 
     # Compress the "00 Data Files" directory
     zip_path = create_archive(release_dir)
