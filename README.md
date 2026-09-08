@@ -40,7 +40,7 @@ Devs using Tamriel Data as a master are able to use this repository to quickly c
 ## Mods using Tamriel Data:
 - Tamriel Rebuilt -> https://www.nexusmods.com/morrowind/mods/42145
 - Skyrim Home of the Nords -> https://www.nexusmods.com/morrowind/mods/44921
-- Province: Cyrodiil -> https://www.nexusmods.com/morrowind/mods/44922
+- Project: Cyrodiil -> https://www.nexusmods.com/morrowind/mods/44922
 - Solstheim: Tomb of the Snow Prince -> https://www.nexusmods.com/morrowind/mods/46810
 - Hundreds of mods on the Nexus
 
