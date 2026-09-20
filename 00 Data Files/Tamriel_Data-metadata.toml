@@ -1866,5 +1866,6 @@ deprecated = [
 	"T_B_Kor_HairFemale_23",
 	"T_B_Kor_HairFemale_24",
 	"T_Sky_Cave_DoorNat_01",
-	"T_Sky_Cave_DoorNatIn_01"
+	"T_Sky_Cave_DoorNatIn_01",
+	"T_A_DeDreughPauldr01_UA"
 ]
