@@ -1,3 +1,24 @@
+September 27th 2026
+
+- Added Dragonstar ruined walls                         (mmgery)
+- Added larger variants of T_Nor_DngBarrowFort_X_Floors (Edith Lambertine)
+- Added Dwemer rocket silo interior                     (FloorBelow)
+- Added Redguard SetReach fireplace                     (Meadhainnigh)
+- Added Proto-Nedic interior assets                     (Cerebulon)
+- Added Nordic bookends                                 (juner_lunar)
+- Added BM burrow - VM cave transition                  (dudeski)
+- Added Thunder Heather herb                            (revenorror, mmgery)
+- Added imperial gold chandelier                        (Feivelyn, Kaiel)
+- Added 10K-Reachmen currency                           (GreatRunas)
+- Added Jolly Dragon shield                             (revenorror, RakettiKettu)
+- Added Reachman straw hat                              (Feighten)
+- Added wind sounds                                     (Synd)
+- Added warped crystal SFX                              (Synd)
+- Added nordic amulet                                   (Kynesifnar)
+- Added text of the Armistice                           (Taniquetil)
+- Updated Ogre textures                                 (revenorror)
+- Updated hill giant hands                              (Kynesifnar)
+
 September 10th 2026
 
 - Added DE F head 56                                    (Feighten)
