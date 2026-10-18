@@ -1,3 +1,24 @@
+Ostober 18th 2026
+
+- Added Kirali weapons                                  (Edith Lambertine)
+- Added pack of new premade spells, some with new vfx   (revenorror)
+- Added breton head 20 and hair 19                      (Feighten)
+- Added Reach boulders with dirt on top                 (WORMS)
+- Added Redguard baths and ladder                       (Nopia)
+- Added Alarke Iron Co. sign                            (Meadhainnigh)
+- Added Rourken corridor stairs                         (Nopia)
+- Added Reman ruins interior decorations                (Cerebulon)
+- Added book "Three Tales of the Kind Kreathman"        (pralec)
+- Added book "Imgan Myth, Otaagras"                     (The Violet Euphemism)
+- Added book "Cheese of Hearts"                         (Synd)
+- Added book "Orsimer Theology I: Fundamental Truth"    (ThomasRuz)
+- Added book "Orsimer Theology II: A Story of Betrayal" (ThomasRuz)
+- Added fake Reach cave wall                            (Meadhainnigh)
+- Added Temple courtyard with longer base               (LittleLionheadRabbit)
+- Added chest with redware                              (Derse)
+- Updated Cathnoquey rock textures                      (Vern)
+- Updated sky_in_bldr_r_04_x models                     (WORMS)
+
 October 4th 2026
 
 - Added TD Durzogs with stats of Mort's rebalance       (BigBolognaBallz)

@@ -1867,5 +1867,16 @@ deprecated = [
 	"T_B_Kor_HairFemale_24",
 	"T_Sky_Cave_DoorNat_01",
 	"T_Sky_Cave_DoorNatIn_01",
-	"T_A_DeDreughPauldr01_UA"
+	"T_A_DeDreughPauldr01_UA",
+	"T_VFX_BlackfireBolt",
+	"T_VFX_BloodNeedlesBolt",
+	"T_VFX_IceKnifeBolt",
+	"T_VFX_KaleidoscopeBolt",
+	"T_VFX_RedskullBolt",
+	"T_VFX_CastAltmerIllusion",
+	"T_VFX_CastAltmerMysticism",
+	"T_VFX_CastBosmerRestoration",
+	"T_VFX_CastCalandratso",
+	"T_VFX_HitBlackfire",
+	"T_VFX_HitBosmerRestoration"
 ]
