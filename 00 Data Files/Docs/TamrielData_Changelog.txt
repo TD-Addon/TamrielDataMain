@@ -1,4 +1,19 @@
-Ostober 18th 2026
+October 25th 2026
+
+- Added Nord market tents                               (ZackG, joanasc, revenorror)
+- Added Nord market tents interiors                     (revenorror)
+- Added tent door sounds                                (Synd)
+- Added tall Rihad windows                              (Ajer)
+- Added Riverfolk instruments                           (Urgen)
+- Added more Nord poor beds                             (Fremennik)
+- Added Rourken short corridor segments                 (WellTemperedClavier)
+- Added more Velothi entrence pieces                    (WellTemperedClavier)
+- Added Nord minecart, fort gate, furnace, sign         (mmgery, Meadhainnigh)
+- Added blast furnace SFX                               (Synd)
+- Added Fury Deadra                                     (CarlZee)
+- Updated Reman ruins exterior pieces                   (Eldael)
+
+October 18th 2026
 
 - Added Kirali weapons                                  (Edith Lambertine)
 - Added pack of new premade spells, some with new vfx   (revenorror)
