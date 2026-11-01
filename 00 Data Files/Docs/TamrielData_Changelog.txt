@@ -1,3 +1,9 @@
+November 1st 2026
+
+- Added "Why the Ynesai Always Win" book                (WellTemperedClavier)
+- Added baked Reach buildings                           (mmgery)
+- Updated Orcish Leather armor                          (revenorror)
+
 October 25th 2026
 
 - Added Nord market tents                               (ZackG, joanasc, revenorror)
