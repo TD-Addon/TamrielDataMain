@@ -1,3 +1,15 @@
+November 8th 2026
+
+- Added underground portal sfv                          (Synd)
+- Added whale bone items                                (Feivelyn, Alexander_7070, Meadhainnigh)
+- Added CaveIC-CavePy transition piece                  (LittleLionheadRabbit)
+- Added Legion lighthouse interior pieces               (Hemaris)
+- Added Indoril Chapel backless stairs                  (Feighten)
+- Added Rihad door stairs                               (Ajer)
+- Added pieces to T_Imp_DngCrypt2 set                   (trav)
+- Added Riverfolk weapons                               (tammilisäke)
+- Updated Malahk Orc hut interiros                      (LittleLionheadRabbit)
+
 November 1st 2026
 
 - Added "Why the Ynesai Always Win" book                (WellTemperedClavier)
