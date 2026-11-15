@@ -1,3 +1,10 @@
+November 16th 2026
+
+- Added tapestries from coat of arms                    (LaennecAbelard)
+- Added Orc nomad clutter                               (dacoda)
+- Added Grey Meadows vines                              (CdoubleOK)
+- Updated dice                                          (Kaiel)
+
 November 8th 2026
 
 - Added underground portal sfv                          (Synd)
