@@ -1878,5 +1878,6 @@ deprecated = [
 	"T_VFX_CastBosmerRestoration",
 	"T_VFX_CastCalandratso",
 	"T_VFX_HitBlackfire",
-	"T_VFX_HitBosmerRestoration"
+	"T_VFX_HitBosmerRestoration",
+	"T_B_De_HeadSeydaMaleTR_02"
 ]

@@ -1,3 +1,11 @@
+November 23th 2026
+
+- Added pack of shoes                                   (revenorror)
+- Added pack of Redguard clothing                       (Kotshur)
+- Added Rihad marquees, stairs, doorframes, arrowslits  (Ajer)
+- Added Chas Gada docks                                 (joanasc)
+- Updated PI map variables in npc scripts               (trav)
+
 November 16th 2026
 
 - Added tapestries from coat of arms                    (LaennecAbelard)
